@@ -886,6 +886,10 @@ def render_post_page(p, posts_by_slug: dict) -> str:
 
 {reaction_strip(p['slug'])}
 
+  <div class="list-item-text post-bottom-share">
+{share_row(canonical_path, p['title'], label="Enjoyed this? Share it")}
+  </div>
+
   <div class="list-item-text">
 {related_html}
 {sources_html}

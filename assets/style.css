@@ -1502,6 +1502,20 @@ a.quiz-retake-btn {
   margin-top: 10px;
 }
 
+/* Second share prompt at the very bottom of a post — same component as
+   the one up near the title, just centered and given its own closing CTA
+   copy ("Enjoyed this? Share it") so it reads as a deliberate second
+   chance to share once someone's actually finished reading, not a
+   leftover duplicate of the top one. */
+.post-bottom-share {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.post-bottom-share .share-row {
+  justify-content: center;
+}
+
 .reaction-prompt {
   font-weight: 700;
   font-size: 0.9rem;
