@@ -185,6 +185,18 @@ a { color: inherit; }
   color: #14141a;
 }
 
+/* "Our Take" pill — sits next to the category pill on posts flagged
+   opinion:true in the content JSON (see opinion_pill() in build_site.py).
+   Deliberately NOT gold like the category pill: the site's credibility
+   rests on being sourced/factual, so anything taking a real stance instead
+   needs to visually read as a different kind of post at a glance, not
+   blend in as just another category. */
+.pill-opinion {
+  background: var(--text);
+  color: #fff;
+  margin-left: 6px;
+}
+
 /* Flickle CTA */
 .flickle-cta {
   display: flex;
