@@ -579,7 +579,11 @@ a { color: inherit; }
   margin-right: 4px;
 }
 
-.share-row a {
+/* The Copy Link button (.share-copy-btn) is a <button>, not an <a> — these
+   selectors cover both so it picks up the exact same pill styling as every
+   other share icon without a separate ruleset. */
+.share-row a,
+.share-row button {
   width: 34px;
   height: 34px;
   border-radius: 50%;
@@ -589,17 +593,27 @@ a { color: inherit; }
   align-items: center;
   justify-content: center;
   text-decoration: none;
+  font-family: inherit;
   font-weight: 800;
   font-size: 0.95rem;
   color: var(--text);
+  cursor: pointer;
   transition: transform 0.15s ease, background 0.15s ease;
 }
 
-.share-row a:hover {
+.share-row a:hover,
+.share-row button:hover {
   background: var(--accent);
   color: #fff;
   transform: translateY(-2px);
 }
+
+/* Reddit's "r/" and WhatsApp's chat-bubble glyph both run a touch larger
+   than the single-letter Twitter/Facebook glyphs — nudged down slightly so
+   all five/six icons read as the same visual weight in the row. */
+.share-row a[data-method="reddit"] { font-size: 0.72rem; }
+.share-row a[data-method="whatsapp"],
+.share-row button[data-method="copy"] { font-size: 0.85rem; }
 
 .breadcrumb {
   font-size: 0.85rem;
@@ -1433,13 +1447,15 @@ details.reveal[open] summary::before { content: "🙈"; }
   color: #c8c8d0;
 }
 
-.quiz-result .share-row a {
+.quiz-result .share-row a,
+.quiz-result .share-row button {
   background: rgba(255, 255, 255, 0.1);
   border-color: rgba(255, 255, 255, 0.3);
   color: #fff;
 }
 
-.quiz-result .share-row a:hover {
+.quiz-result .share-row a:hover,
+.quiz-result .share-row button:hover {
   background: var(--accent);
   border-color: var(--accent);
   color: #fff;
@@ -1581,7 +1597,7 @@ a.quiz-retake-btn {
   .post-header h1 { font-size: 1.6rem; }
   .post-dek { font-size: 1.05rem; }
   .emoji-clue { font-size: 2.6rem; padding: 32px 16px; }
-  .share-row a { width: 42px; height: 42px; }
+  .share-row a, .share-row button { width: 42px; height: 42px; }
   .list-item { padding: 40px 0; }
   .list-item-number { width: 40px; height: 40px; font-size: 1.15rem; }
   .flickle-cta { padding: 20px; }

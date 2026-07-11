@@ -257,22 +257,33 @@ def post_card(p, root: str, featured: bool = False) -> str:
 
 
 def share_row(canonical_path: str, title: str, label: str = "Share this", share_text: str = None) -> str:
-    """Twitter/Facebook/email share links for a page. `share_text` lets a
-    caller (e.g. a quiz result) put custom copy in the tweet/email body
-    while still linking back to the same canonical page — falls back to
-    just `title` when not given."""
-    url = quote(f"{SITE['url']}{canonical_path}", safe="")
+    """Share links for a page, covering the platforms people actually use
+    to spread this kind of content (X, Facebook, Reddit, WhatsApp, email)
+    plus a one-click Copy Link for anywhere else — Discord, Instagram bio,
+    text messages, whatever doesn't have its own share-intent URL.
+    `share_text` lets a caller (e.g. a quiz result) put custom copy in the
+    tweet/message body while still linking back to the same canonical page
+    — falls back to just `title` when not given."""
+    url_raw = f"{SITE['url']}{canonical_path}"
+    url = quote(url_raw, safe="")
     text = quote(share_text or title)
     twitter = f"https://twitter.com/intent/tweet?text={text}&url={url}"
     facebook = f"https://www.facebook.com/sharer/sharer.php?u={url}"
+    reddit = f"https://www.reddit.com/submit?url={url}&title={text}"
+    whatsapp = f"https://api.whatsapp.com/send?text={text}%20{url}"
     email = f"mailto:?subject={quote(title)}&body={text}%20{url}"
     # data-method lets script.js fire a clean "share_click" GA event per
-    # button without having to parse aria-label text.
+    # button without having to parse aria-label text; the Copy Link button
+    # also uses data-url (the plain, non-percent-encoded address) for the
+    # actual clipboard write.
     return f"""  <div class="share-row">
     <span class="share-label">{esc(label)}</span>
     <a href="{twitter}" target="_blank" rel="noopener" aria-label="Share on X/Twitter" data-method="twitter">𝕏</a>
     <a href="{facebook}" target="_blank" rel="noopener" aria-label="Share on Facebook" data-method="facebook">f</a>
+    <a href="{reddit}" target="_blank" rel="noopener" aria-label="Share on Reddit" data-method="reddit">r/</a>
+    <a href="{whatsapp}" target="_blank" rel="noopener" aria-label="Share on WhatsApp" data-method="whatsapp">💬</a>
     <a href="{email}" aria-label="Share by email" data-method="email">✉</a>
+    <button type="button" class="share-copy-btn" data-method="copy" data-url="{esc(url_raw)}" aria-label="Copy link">🔗</button>
   </div>
 """
 
@@ -600,10 +611,20 @@ def render_trailer_page(t: dict) -> str:
     )
 
 
-def render_emoji_item(item, root: str) -> str:
-    """A guess-the-movie emoji clue with a native <details> reveal."""
+def render_emoji_item(item, root: str, slug: str, post_title: str) -> str:
+    """A guess-the-movie emoji clue with a native <details> reveal.
+
+    The share row inside the reveal only ever becomes visible once that
+    reveal is actually opened (same principle as a quiz result's share
+    row only appearing after the quiz is done) — and its copy never
+    spoils the answer, just re-poses the same emoji clue as a challenge,
+    so whoever it's shared to is enticed to click and try it rather than
+    just being told the answer secondhand. Deep-links to this specific
+    clue's own anchor on the page rather than just the post's URL."""
     trailer = youtube_embed(item.get("trailer_key", ""))
-    return f"""  <div class="list-item">
+    anchor_path = f"/posts/{slug}/#item-{item['number']}"
+    share_text = f"Can you guess this movie from just the emoji? {item['emoji']} I got it — bet you can't:"
+    return f"""  <div class="list-item" id="item-{item['number']}">
     <div class="list-item-text">
       <span class="list-item-number">{item['number']}</span>
     </div>
@@ -618,18 +639,22 @@ def render_emoji_item(item, root: str) -> str:
           <p class="reveal-quote">&ldquo;{esc(item['reveal_text'])}&rdquo;</p>
         </div>
       </div>
+{share_row(anchor_path, post_title, label="Challenge a friend", share_text=share_text)}
 {trailer}
     </details>
   </div>
 """
 
 
-def render_quote_item(item, root: str) -> str:
-    """A guess-the-movie-from-its-quote item — same reveal mechanic as the
-    emoji format, but sized/styled for sentence-length text instead of a
-    few large emoji characters."""
+def render_quote_item(item, root: str, slug: str, post_title: str) -> str:
+    """A guess-the-movie-from-its-quote item — same reveal mechanic (and
+    same post-reveal share row, see render_emoji_item) as the emoji format,
+    but sized/styled for sentence-length text instead of a few large emoji
+    characters."""
     trailer = youtube_embed(item.get("trailer_key", ""))
-    return f"""  <div class="list-item">
+    anchor_path = f"/posts/{slug}/#item-{item['number']}"
+    share_text = f'Can you guess this movie from just one quote? "{item["quote"]}" I got it — bet you can\'t:'
+    return f"""  <div class="list-item" id="item-{item['number']}">
     <div class="list-item-text">
       <span class="list-item-number">{item['number']}</span>
     </div>
@@ -643,6 +668,7 @@ def render_quote_item(item, root: str) -> str:
           <p class="reveal-title">{esc(item['reveal_title'])}</p>
         </div>
       </div>
+{share_row(anchor_path, post_title, label="Challenge a friend", share_text=share_text)}
 {trailer}
     </details>
   </div>
@@ -806,9 +832,9 @@ def render_post_page(p, posts_by_slug: dict) -> str:
     else:
         for item in p.get("items", []):
             if "emoji" in item:
-                items_html.append(render_emoji_item(item, root))
+                items_html.append(render_emoji_item(item, root, p["slug"], p["title"]))
             elif "quote" in item:
-                items_html.append(render_quote_item(item, root))
+                items_html.append(render_quote_item(item, root, p["slug"], p["title"]))
             else:
                 items_html.append(render_list_item(item, root))
 
