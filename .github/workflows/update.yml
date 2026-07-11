@@ -1,0 +1,66 @@
+name: Add posts and rebuild site
+
+# 1. Processes ideas from scripts/post_ideas.txt that don't have a
+#    content/posts/*.json file yet, and — once that queue runs dry — has
+#    Claude invent new topics itself (checking against what's already
+#    published to avoid repeats). Each run is capped at POSTS_PER_RUN new
+#    posts (see generate_post.py) to keep API spend predictable.
+#    Needs TMDB_API_KEY + ANTHROPIC_API_KEY secrets.
+# 2. Always rebuilds docs/ from content/posts/ with build_site.py — pure
+#    Python standard library, no npm/Node involved.
+# 3. Commits content/, docs/, and scripts/post_ideas.txt (self-generated
+#    ideas get appended there as an audit trail) if anything changed.
+#
+# GitHub Pages should be set to "Deploy from a branch: main / docs" (Settings
+# → Pages), so this push is what actually publishes the site — no separate
+# deploy step needed.
+#
+# Runs 3x/day; at up to 2 posts/run that's roughly 3-6 new posts/day. Adjust
+# the cron below or POSTS_PER_RUN in generate_post.py to change the volume —
+# each post costs roughly $0.15-0.20 in Claude API usage, so this schedule
+# runs somewhere around $15-30/month. Check actual usage in the Anthropic
+# Console after a few days to confirm real-world cost.
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 6,13,20 * * *"  # 06:00, 13:00, 20:00 UTC every day
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate any missing posts
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_post.py
+
+      - name: Build static HTML
+        run: python build_site.py
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "clapperboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/posts/ docs/ scripts/post_ideas.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update site: $(date -u +%Y-%m-%d)"
+            git push
+          fi
