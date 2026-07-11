@@ -10,9 +10,17 @@ name: Add posts and rebuild site
 #    trailers straight from TMDB (scripts/update_trailers.py) — no Claude
 #    involved, just overwritten fresh every run so the homepage's "Latest
 #    Trailers" shelf never goes stale. Needs TMDB_API_KEY only.
-# 3. Always rebuilds docs/ from content/posts/ with build_site.py — pure
+# 3. Pulls real engagement numbers (pageviews, reactions, shares) straight
+#    from Google Analytics via scripts/fetch_engagement.py and writes
+#    content/engagement.json — this is what powers the site's "Trending"
+#    view as a genuine ranking rather than a guess. Best-effort: if the GA4
+#    secrets below aren't set, or the API call fails for any reason, this
+#    step just leaves engagement data as-is rather than failing the run —
+#    Trending quietly falls back to matching Newest until it's configured.
+#    Needs GA4_PROPERTY_ID + GA4_SERVICE_ACCOUNT_JSON secrets.
+# 4. Always rebuilds docs/ from content/posts/ with build_site.py — pure
 #    Python standard library, no npm/Node involved.
-# 4. Commits content/, docs/, and scripts/post_ideas.txt (self-generated
+# 5. Commits content/, docs/, and scripts/post_ideas.txt (self-generated
 #    ideas get appended there as an audit trail) if anything changed.
 #
 # GitHub Pages should be set to "Deploy from a branch: main / docs" (Settings
@@ -67,6 +75,12 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python scripts/update_trailers.py
 
+      - name: Fetch engagement data from Google Analytics
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
+        run: python scripts/fetch_engagement.py
+
       - name: Build static HTML
         run: python build_site.py
 
@@ -74,7 +88,7 @@ jobs:
         run: |
           git config user.name "clapperboard-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add content/posts/ content/trailers.json docs/ scripts/post_ideas.txt
+          git add content/posts/ content/trailers.json content/engagement.json docs/ scripts/post_ideas.txt
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
