@@ -715,11 +715,12 @@ a { color: inherit; }
 .quote-clue {
   position: relative;
   overflow: hidden;
-  color: #fff;
-  background: linear-gradient(150deg, #23232e 0%, #14141a 75%);
+  color: var(--text);
+  background: var(--bg-sunken);
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   margin-bottom: 22px;
-  box-shadow: var(--shadow-lg);
+  box-shadow: var(--shadow-md);
 }
 
 .emoji-clue::before,
@@ -742,7 +743,7 @@ a { color: inherit; }
   content: "";
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at 50% 60%, rgba(255, 255, 255, 0.1), transparent 62%);
+  background: radial-gradient(circle at 50% 60%, rgba(20, 20, 26, 0.05), transparent 62%);
   pointer-events: none;
 }
 
@@ -767,7 +768,7 @@ a { color: inherit; }
   font-family: Georgia, serif;
   font-style: normal;
   font-size: 7rem;
-  color: rgba(255, 255, 255, 0.08);
+  color: rgba(20, 20, 26, 0.08);
   line-height: 1;
   pointer-events: none;
 }
