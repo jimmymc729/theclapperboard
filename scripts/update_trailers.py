@@ -77,10 +77,17 @@ def movie_trailers(movie_id: int) -> list:
 
     Filtered to YouTube Trailers/Teasers only (skips things like
     behind-the-scenes clips or TV spots, which aren't really "the
-    trailer"), newest-first by TMDB's published_at so a recently-released
-    final trailer surfaces above an old teaser, then capped at
-    MAX_VIDEOS_PER_MOVIE. Returns [] if TMDB has nothing usable on file yet
-    (common for movies that are far out from release)."""
+    trailer"). Sorting is NOT simply "newest first": once a movie's real
+    trailer is out, TMDB often accumulates a pile of smaller promotional
+    clips tagged "Teaser" (character spots, "in cinemas" bumpers, etc.)
+    that get logged even more recently than the actual flagship trailer —
+    a pure recency sort let those crowd the real trailer out past
+    MAX_VIDEOS_PER_MOVIE entirely. So this sorts on two passes instead:
+    first by published_at (newest first, as the tiebreaker), then — since
+    Python's sort is stable — by official flag and type (official "Trailer"
+    entries always float to the front, ahead of teasers/promo clips
+    regardless of which was logged more recently). Returns [] if TMDB has
+    nothing usable on file yet (common for movies far out from release)."""
     resp = requests.get(
         f"{TMDB_BASE}/movie/{movie_id}/videos",
         params={"api_key": TMDB_API_KEY},
@@ -94,6 +101,7 @@ def movie_trailers(movie_id: int) -> list:
         if v.get("site") == "YouTube" and v.get("type") in ("Trailer", "Teaser") and v.get("key")
     ]
     candidates.sort(key=lambda v: v.get("published_at") or "", reverse=True)
+    candidates.sort(key=lambda v: (0 if v.get("official") else 1, 0 if v.get("type") == "Trailer" else 1))
 
     return [
         {"key": v["key"], "name": v.get("name") or v["type"], "type": v["type"]}
