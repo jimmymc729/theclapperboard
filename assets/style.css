@@ -479,6 +479,36 @@ a { color: inherit; }
   margin: 28px 0 44px;
 }
 
+/* Newest/Trending toggle — two full versions of the same post list are
+   rendered at build time (see build_site.py's view_toggle()); this is just
+   the tab UI for showing one and hiding the other, no reload involved. */
+.view-toggle-tabs {
+  display: flex;
+  gap: 8px;
+  margin: 8px 0 4px;
+  border-bottom: 1px solid var(--border);
+}
+
+.view-toggle-btn {
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--muted, #6b6b76);
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  padding: 10px 4px;
+  margin-bottom: -1px;
+  cursor: pointer;
+}
+
+.view-toggle-btn:hover { color: var(--text); }
+
+.view-toggle-btn.active {
+  color: var(--text);
+  border-bottom-color: var(--accent);
+}
+
 .post-card {
   text-decoration: none;
   color: var(--text);
