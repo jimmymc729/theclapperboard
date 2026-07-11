@@ -920,6 +920,16 @@ details.reveal[open] summary::before { content: "🙈"; }
   scroll-snap-align: start;
   text-decoration: none;
   color: var(--text);
+  transition: transform 0.18s ease;
+}
+
+/* Same hover "pop" as .post-card/.trending-card: the whole card lifts (not
+   just the image), and the image itself zooms in slightly underneath —
+   that combination is what the rest of the site's card grids use, so this
+   shelf should feel identical to hover over even though it scrolls
+   sideways instead of wrapping into a grid. */
+.trailer-card:hover {
+  transform: translateY(-3px);
 }
 
 .trailer-card-image {
@@ -929,11 +939,10 @@ details.reveal[open] summary::before { content: "🙈"; }
   overflow: hidden;
   background: var(--bg-sunken);
   box-shadow: var(--shadow-sm);
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  transition: box-shadow 0.18s ease;
 }
 
 .trailer-card:hover .trailer-card-image {
-  transform: translateY(-3px);
   box-shadow: var(--shadow-lg);
 }
 
@@ -942,6 +951,11 @@ details.reveal[open] summary::before { content: "🙈"; }
   height: 100%;
   object-fit: cover;
   display: block;
+  transition: transform 0.4s ease;
+}
+
+.trailer-card:hover .trailer-card-image img {
+  transform: scale(1.05);
 }
 
 .trailer-card-play {
@@ -978,27 +992,21 @@ details.reveal[open] summary::before { content: "🙈"; }
   color: var(--text-muted);
 }
 
-/* Dedicated /trailers/ page — same trailers, shown full-size and already
-   playable (no reveal-to-click needed; watching trailers IS the point of
-   this page), stacked in a single readable column. Each one sits in its
-   own card (same background/border/shadow language as .post-card and the
-   quiz result card) rather than just floating loose on the page — the
-   embed sits flush against the card's top edge, then the body below gets
-   its own padding, same "edge-to-edge media, padded body" pattern
-   .post-card already uses. */
-.trailers-grid {
-  display: flex;
-  flex-direction: column;
-  gap: 28px;
-  margin: 28px 0 44px;
-}
-
+/* A single trailer's own dedicated page (docs/trailers/<slug>/) — the
+   /trailers/ index itself is just a .post-grid of .post-card links (see
+   trailer_index_card in build_site.py), so no separate grid styling is
+   needed for that part. This card is the actual playable page each of
+   those cards links to: same background/border/shadow language as
+   .post-card and the quiz result card, with the embed flush against the
+   card's top edge and the body below getting its own padding — the same
+   "edge-to-edge media, padded body" pattern .post-card already uses. */
 .trailer-page-card {
   background: var(--bg-sunken);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
   box-shadow: var(--shadow-md);
+  margin: 20px 0 8px;
 }
 
 .trailer-page-card .video-embed {
@@ -1027,9 +1035,14 @@ details.reveal[open] summary::before { content: "🙈"; }
 .trailer-page-title {
   font-family: var(--font-display);
   font-weight: 800;
-  font-size: 1.3rem;
-  line-height: 1.3;
-  margin: 0 0 8px;
+  font-size: 1.8rem;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  margin: 0 0 10px;
+}
+
+@media (max-width: 600px) {
+  .trailer-page-title { font-size: 1.4rem; }
 }
 
 .trailer-page-overview {
