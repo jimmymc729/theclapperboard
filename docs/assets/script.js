@@ -77,6 +77,32 @@ function trackEvent(name, params) {
   });
 })();
 
+// Newest/Trending toggle. build_site.py renders both orderings of a post
+// list fully into the page at build time (see view_toggle() there); this
+// just shows one and hides the other. Generic across however many toggle
+// groups end up on a page (homepage, All Posts, each category page — never
+// more than one per page today, but nothing here assumes that).
+(function () {
+  var groups = document.querySelectorAll(".view-toggle-group");
+  if (!groups.length) return;
+
+  groups.forEach(function (group) {
+    var buttons = group.querySelectorAll(".view-toggle-btn");
+    var panels = group.querySelectorAll("[data-view-panel]");
+
+    buttons.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var target = btn.getAttribute("data-view");
+        buttons.forEach(function (b) { b.classList.toggle("active", b === btn); });
+        panels.forEach(function (p) {
+          p.hidden = p.getAttribute("data-view-panel") !== target;
+        });
+        trackEvent("view_toggle", { view: target, group: group.getAttribute("data-toggle-group") });
+      });
+    });
+  });
+})();
+
 // Guess-the-movie games (emoji clue / famous quote). Fires once per reveal
 // — the <details> "toggle" event covers both click and keyboard activation,
 // and only fires on the open transition (re-closing/re-opening the same
