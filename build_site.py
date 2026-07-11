@@ -33,6 +33,7 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent
 CONTENT_DIR = ROOT / "content" / "posts"
 TRAILERS_PATH = ROOT / "content" / "trailers.json"
+ENGAGEMENT_PATH = ROOT / "content" / "engagement.json"
 ASSETS_DIR = ROOT / "assets"
 OUT_DIR = ROOT / "docs"
 
@@ -89,6 +90,52 @@ def load_trailers() -> list:
         return json.loads(TRAILERS_PATH.read_text())
     except (json.JSONDecodeError, OSError):
         return []
+
+
+def load_engagement() -> dict:
+    """Reads content/engagement.json — a plain snapshot written by
+    scripts/fetch_engagement.py from real GA4 data, not hand-authored.
+    Missing or unreadable (no GA4 credentials configured yet, or the very
+    first build before that script has ever run) is treated as "no
+    engagement data yet", not an error — every post just scores 0, so
+    "Trending" quietly behaves the same as "Newest" until real data exists."""
+    if not ENGAGEMENT_PATH.exists():
+        return {}
+    try:
+        return json.loads(ENGAGEMENT_PATH.read_text())
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def trending_order(posts: list, engagement: dict) -> list:
+    """Same posts, reordered by real engagement score instead of publish
+    date. Python's sort is stable, and `posts` arrives already newest-first
+    (see load_posts()), so anything tied on score — including every post
+    with no engagement data yet, which is most brand-new posts — keeps
+    falling back to newest-first amongst themselves rather than some
+    arbitrary or reversed order."""
+    return sorted(posts, key=lambda p: engagement.get(p["slug"], {}).get("score", 0), reverse=True)
+
+
+def view_toggle(group_id: str, newest_html: str, trending_html: str) -> str:
+    """Wraps two pre-rendered versions of the same post list — one ordered
+    by publish date, one by real GA4 engagement (see trending_order()) — in
+    a client-side Newest/Trending tab switcher. Both versions are fully
+    rendered into the page at build time; script.js just toggles which one
+    is visible, so switching tabs is instant with no reload and works even
+    with JS-blocking privacy tools (it just shows Newest, the default, and
+    the Trending tab silently does nothing rather than erroring)."""
+    return f"""  <div class="view-toggle-group" data-toggle-group="{esc(group_id)}">
+    <div class="view-toggle-tabs">
+      <button type="button" class="view-toggle-btn active" data-view="newest">Newest</button>
+      <button type="button" class="view-toggle-btn" data-view="trending">🔥 Trending</button>
+    </div>
+    <div data-view-panel="newest">
+{newest_html}    </div>
+    <div data-view-panel="trending" hidden>
+{trending_html}    </div>
+  </div>
+"""
 
 
 def pretty_date(iso: str) -> str:
@@ -345,15 +392,26 @@ def trending_small_card(p, root: str, number: int) -> str:
 """
 
 
-def render_home(posts, trailers: list) -> str:
+def render_home(posts, trailers: list, engagement: dict) -> str:
     root = ""
+    # The top hero+small-card treatment always stays newest-first — it's a
+    # fixed, prominent "what just happened" slot, not something a visitor
+    # toggles. The plain grid below it (everything else) is what the
+    # Newest/Trending tabs actually switch between; both tabs pull from the
+    # same "rest" set so nothing appears twice or disappears when switching.
     trending, rest = posts[:4], posts[4:]
     small_cards = "".join(trending_small_card(p, root, i + 2) for i, p in enumerate(trending[1:]))
     trending_html = (
         trending_hero_card(trending[0], root, 1)
         + f'    <div class="trending-items">\n{small_cards}    </div>\n'
     )
-    grid = "\n".join(post_card(p, root) for p in rest)
+    newest_grid = "\n".join(post_card(p, root) for p in rest)
+    trending_grid = "\n".join(post_card(p, root) for p in trending_order(rest, engagement))
+    toggle_html = view_toggle(
+        "home",
+        f'    <div class="post-grid">\n{newest_grid}\n    </div>\n',
+        f'    <div class="post-grid">\n{trending_grid}\n    </div>\n',
+    )
     today = datetime.now().strftime("%m.%d.%y")
 
     trailers_html = ""
@@ -386,10 +444,7 @@ def render_home(posts, trailers: list) -> str:
 
 {trailers_html}
 {flickle_cta()}
-  <div class="post-grid">
-{grid}
-  </div>
-"""
+{toggle_html}"""
     return base_page(
         f"{SITE['name']} — {SITE['tagline']}",
         SITE["description"],
@@ -399,20 +454,24 @@ def render_home(posts, trailers: list) -> str:
     )
 
 
-def render_posts_index(posts, category: str = None) -> str:
+def render_posts_index(posts, engagement: dict, category: str = None) -> str:
     root = "../" if category is None else "../../"
     title = f"{CATEGORY_EMOJI.get(category, '')} {category}".strip() if category else "All Posts"
     canonical = f"/posts/{CATEGORY_SLUGS[category]}/" if category else "/posts/"
-    grid = "\n".join(post_card(p, root) for p in posts)
+    group_id = f"posts-{CATEGORY_SLUGS[category]}" if category else "posts-all"
+    newest_grid = "\n".join(post_card(p, root) for p in posts)
+    trending_grid = "\n".join(post_card(p, root) for p in trending_order(posts, engagement))
+    toggle_html = view_toggle(
+        group_id,
+        f'    <div class="post-grid">\n{newest_grid}\n    </div>\n',
+        f'    <div class="post-grid">\n{trending_grid}\n    </div>\n',
+    )
     body = f"""  <section class="hero">
     <h1>{esc(title)}</h1>
     <p>{len(posts)} post{"s" if len(posts) != 1 else ""}{f" in {esc(category)}" if category else ""}.</p>
   </section>
 
-  <div class="post-grid">
-{grid}
-  </div>
-"""
+{toggle_html}"""
     return base_page(
         f"{esc(title)} | {SITE['name']}",
         f"Every {category.lower() if category else 'post'} post on The Clapperboard.",
@@ -929,6 +988,7 @@ def main():
 
     trailers = load_trailers()
     HAS_TRAILERS = bool(trailers)
+    engagement = load_engagement()
 
     if OUT_DIR.exists():
         shutil.rmtree(OUT_DIR)
@@ -943,7 +1003,7 @@ def main():
     domain = SITE["url"].replace("https://", "").replace("http://", "")
     (OUT_DIR / "CNAME").write_text(domain + "\n")
 
-    (OUT_DIR / "index.html").write_text(render_home(posts, trailers))
+    (OUT_DIR / "index.html").write_text(render_home(posts, trailers, engagement))
 
     if trailers:
         trailers_dir = OUT_DIR / "trailers"
@@ -956,7 +1016,7 @@ def main():
 
     posts_dir = OUT_DIR / "posts"
     posts_dir.mkdir()
-    (posts_dir / "index.html").write_text(render_posts_index(posts))
+    (posts_dir / "index.html").write_text(render_posts_index(posts, engagement))
 
     for category, slug in CATEGORY_SLUGS.items():
         cat_posts = [p for p in posts if p.get("category") == category]
@@ -964,7 +1024,7 @@ def main():
             continue
         cat_dir = posts_dir / slug
         cat_dir.mkdir(exist_ok=True)
-        (cat_dir / "index.html").write_text(render_posts_index(cat_posts, category=category))
+        (cat_dir / "index.html").write_text(render_posts_index(cat_posts, engagement, category=category))
 
     posts_by_slug = {p["slug"]: p for p in posts}
     for p in posts:
