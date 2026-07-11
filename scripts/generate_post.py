@@ -248,12 +248,19 @@ say so explicitly and note what real disagreement/sources it should be grounded 
 def generate_new_topic_ideas(existing_titles: list, count: int) -> list:
     """Ask Claude to invent `count` brand-new listicle topics, checking
     against what's already published so the self-directed pipeline doesn't
-    just repeat itself once post_ideas.txt runs dry."""
+    just repeat itself once post_ideas.txt runs dry.
+
+    max_tokens is deliberately generous (see the matching note on
+    claude_generate()) — each idea includes a full instructions paragraph,
+    and a response cut off mid-array produces the same kind of confusing
+    "No JSON array found" / JSONDecodeError as a truncated post draft does,
+    which used to look like a one-off formatting fluke rather than what it
+    actually was."""
     client = anthropic.Anthropic()
     titles_blob = "\n".join(f"- {t}" for t in existing_titles) or "(nothing published yet)"
     resp = client.messages.create(
         model=MODEL,
-        max_tokens=2048,
+        max_tokens=4096,
         system=TOPIC_BRAINSTORM_PROMPT.format(
             count=count,
             trending_subjects=", ".join(get_trending_subjects()) or "(none set)",
@@ -263,6 +270,11 @@ def generate_new_topic_ideas(existing_titles: list, count: int) -> list:
             "content": f"Already published:\n{titles_blob}\n\nInvent {count} new topic ideas now.",
         }],
     )
+    if resp.stop_reason == "max_tokens":
+        raise ValueError(
+            "topic brainstorm response was cut off by the max_tokens limit "
+            "before finishing — the JSON array is incomplete, not just malformed"
+        )
     text = "".join(b.text for b in resp.content if getattr(b, "type", None) == "text").strip()
     text = re.sub(r"^```(json)?", "", text).strip()
     text = re.sub(r"```$", "", text).strip()
