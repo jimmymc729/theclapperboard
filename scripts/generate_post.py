@@ -719,10 +719,19 @@ Rules:
 
 
 def claude_generate(category: str, instructions: str) -> dict:
+    """Note on max_tokens: quiz posts in particular need a lot of room — 8
+    results x 9-10 questions x 8 full-text answers each is a genuinely large
+    JSON payload (see the quiz section of SYSTEM_PROMPT) — and a response
+    that gets cut off mid-string or mid-object produces exactly the kind of
+    confusing JSON parse errors (unterminated string, missing closing brace)
+    that used to show up as generic "FAILED" lines with no obvious cause.
+    Checking resp.stop_reason lets a truncated response fail with a message
+    that actually says so, instead of a downstream JSONDecodeError that
+    looks like a one-off formatting fluke."""
     client = anthropic.Anthropic()
     resp = client.messages.create(
         model=MODEL,
-        max_tokens=4096,
+        max_tokens=8192,
         system=SYSTEM_PROMPT,
         messages=[{
             "role": "user",
@@ -730,6 +739,11 @@ def claude_generate(category: str, instructions: str) -> dict:
         }],
         tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 15}],
     )
+    if resp.stop_reason == "max_tokens":
+        raise ValueError(
+            "response was cut off by the max_tokens limit before finishing — "
+            "the JSON is incomplete, not just malformed"
+        )
     text = "".join(b.text for b in resp.content if getattr(b, "type", None) == "text")
     text = text.strip()
     text = re.sub(r"^```(json)?", "", text).strip()
