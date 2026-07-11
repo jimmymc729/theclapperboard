@@ -75,7 +75,16 @@ def load_posts():
         data = json.loads(f.read_text())
         data.setdefault("slug", f.stem)
         posts.append(data)
-    posts.sort(key=lambda p: p.get("date", ""), reverse=True)
+    # Sort by generated_at (a real timestamp) when a post has one, falling
+    # back to the plain "date" field for older posts written before that
+    # field existed. Without this, two posts published the same calendar
+    # day — routine, since several get published per run — would only ever
+    # tiebreak alphabetically by slug (the order sorted(CONTENT_DIR.glob())
+    # happened to collect them in above), not by which was actually written
+    # first. ISO timestamp strings and plain "YYYY-MM-DD" strings compare
+    # correctly against each other lexicographically, so old and new posts
+    # sort sensibly together with no migration needed.
+    posts.sort(key=lambda p: p.get("generated_at") or p.get("date", ""), reverse=True)
     return posts
 
 

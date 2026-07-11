@@ -901,6 +901,12 @@ def main():
                     "category": "Games",
                     "cover_image": resolved_results[0]["image"],
                     "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    # Same calendar day as another post is common (several
+                    # posts get published per run), and "date" alone has no
+                    # time-of-day — without this, build_site.py's stable sort
+                    # would fall back to alphabetical-by-slug for same-day
+                    # posts instead of true publish order. See load_posts().
+                    "generated_at": datetime.now(timezone.utc).isoformat(),
                     "quiz": {
                         "intro": quiz.get("intro", ""),
                         "questions": rotated_questions,
@@ -987,6 +993,10 @@ def main():
                 "category": idea["category"],
                 "cover_image": cover_image,
                 "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                # See the matching comment on the quiz branch above — this is
+                # what lets same-day posts sort by true publish order instead
+                # of falling back to alphabetical-by-slug.
+                "generated_at": datetime.now(timezone.utc).isoformat(),
                 "items": resolved_items,
                 "sources": draft.get("sources", []),
                 "related": [],
