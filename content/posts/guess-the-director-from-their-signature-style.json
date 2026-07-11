@@ -1,0 +1,58 @@
+{
+  "slug": "guess-the-director-from-their-signature-style",
+  "title": "Can You Guess The Director From Their Signature Style Alone?",
+  "dek": "No name, no title — just the trademarks that make their movies instantly recognizable.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w500/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "quote": "Every one of my shots is composed with near-mathematical symmetry — my crew has measured frames to keep the camera dead center. I lean on pastel color palettes and actors who deliver even the strangest lines completely deadpan.",
+      "reveal_title": "Wes Anderson",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg"
+    },
+    {
+      "number": 2,
+      "quote": "I appeared in a brief cameo in nearly every one of the more than 50 films I directed — often carrying a prop like a musical instrument, or just walking through the background. Spotting me became a game for audiences.",
+      "reveal_title": "Alfred Hitchcock",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    },
+    {
+      "number": 3,
+      "quote": "I almost never tell a story in chronological order. I've got a signature low camera angle shot from inside a car trunk looking up, and I have a well-documented habit of lingering on close-ups of bare feet.",
+      "reveal_title": "Quentin Tarantino",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+    },
+    {
+      "number": 4,
+      "quote": "My films tend to look gothic and slightly crooked, like the buildings themselves are in mourning. I've cast the same actor in eight of my movies, and almost every score I've ever used comes from the same longtime composer.",
+      "reveal_title": "Tim Burton",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg"
+    },
+    {
+      "number": 5,
+      "quote": "I'd rather blow up a real building than render one on a computer — my films use a fraction of the visual-effects shots of a typical blockbuster. I also have a reputation for telling stories out of chronological order, sometimes even in reverse.",
+      "reveal_title": "Christopher Nolan",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+    },
+    {
+      "number": 6,
+      "quote": "Almost every movie I've directed ends with a twist nobody sees coming — and I've written myself a small on-screen role into nearly all of them, too.",
+      "reveal_title": "M. Night Shyamalan",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
+    }
+  ],
+  "sources": [
+    { "title": "17 Trademarks of Wes Anderson's Idiosyncratic Visual Style — No Film School", "url": "https://nofilmschool.com/2018/03/17-trademarks-wes-andersons-idiosyncratic-filmmaking" },
+    { "title": "List of cameo appearances by Alfred Hitchcock — Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_cameo_appearances_by_Alfred_Hitchcock" },
+    { "title": "The cinematic trademarks of Quentin Tarantino: The trunk shot — Far Out Magazine", "url": "https://faroutmagazine.co.uk/quentin-tarantino-trademarks-the-boot-shot/" },
+    { "title": "Why Christopher Nolan Avoids Using CGI So Much — ScreenRant", "url": "https://screenrant.com/christopher-nolan-movies-no-cgi-practical-effects-reason/" },
+    { "title": "M. Night Shyamalan's Cameos in His Own Films, Ranked — Collider", "url": "https://collider.com/m-night-shyamalan-cameos-ranked/" }
+  ],
+  "related": [
+    { "title": "Can You Guess The Actor From Their Breakout Role Alone?", "slug": "guess-the-actor-from-their-breakout-role" },
+    { "title": "5 Huge Movies That Were Secretly Filmed Under Completely Different Titles", "slug": "movies-filmed-under-fake-decoy-titles" },
+    { "title": "4 Iconic Movie Scenes That Almost Got Cut From The Final Film", "slug": "iconic-scenes-almost-cut" }
+  ]
+}

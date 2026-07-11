@@ -1,0 +1,176 @@
+{
+  "slug": "which-iconic-movie-character-are-you",
+  "title": "Which Iconic Movie Character Are You?",
+  "dek": "Answer 10 quick questions and we'll match you to the classic character you actually are — not the one you wish you were.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg",
+  "date": "2026-07-10",
+  "quiz": {
+    "intro": "No wrong answers — just go with your gut on all 10.",
+    "questions": [
+      {
+        "question": "It's Friday night with zero plans. What are you actually doing?",
+        "answers": [
+          { "text": "Rereading a book I already know by heart, just to catch what I missed.", "result": "hermione" },
+          { "text": "Building something in the garage that definitely shouldn't be legal yet.", "result": "tony" },
+          { "text": "Getting ready for three hours to go somewhere for twenty minutes.", "result": "elle" },
+          { "text": "Disappearing into the woods where no one can find me.", "result": "katniss" }
+        ]
+      },
+      {
+        "question": "Pick a snack to get you through the day.",
+        "answers": [
+          { "text": "Whatever gets ordered for me while I'm mid-thought on something else.", "result": "tony" },
+          { "text": "A pink cupcake that matches my outfit.", "result": "elle" },
+          { "text": "Whatever I can hunt, forage, or trade for.", "result": "katniss" },
+          { "text": "A box of chocolates — you never know what you're gonna get.", "result": "forrest" }
+        ]
+      },
+      {
+        "question": "Someone challenges you to a duel of wits. Your move?",
+        "answers": [
+          { "text": "Underestimate me. I dare you.", "result": "elle" },
+          { "text": "I don't duel with wits. I duel with an arrow.", "result": "katniss" },
+          { "text": "I probably don't understand the question, but I'll still win.", "result": "forrest" },
+          { "text": "Man, that's just, like, your opinion.", "result": "dude" }
+        ]
+      },
+      {
+        "question": "What's your idea of a superpower?",
+        "answers": [
+          { "text": "Never, ever missing.", "result": "katniss" },
+          { "text": "Somehow always being exactly where history needs me.", "result": "forrest" },
+          { "text": "Making every problem somebody else's problem.", "result": "dude" },
+          { "text": "Making a whole room go quiet just by walking into it.", "result": "mia" }
+        ]
+      },
+      {
+        "question": "Pick a catchphrase you'd actually live by.",
+        "answers": [
+          { "text": "\"Life is like a box of chocolates.\"", "result": "forrest" },
+          { "text": "\"The Dude abides.\"", "result": "dude" },
+          { "text": "\"Don't be a square.\"", "result": "mia" },
+          { "text": "\"Life moves pretty fast.\"", "result": "ferris" }
+        ]
+      },
+      {
+        "question": "How do you handle a full-blown crisis?",
+        "answers": [
+          { "text": "This aggression will not stand, man.", "result": "dude" },
+          { "text": "Stay dangerously, suspiciously calm.", "result": "mia" },
+          { "text": "Improvise something so bold nobody questions it.", "result": "ferris" },
+          { "text": "Make a plan. Then a backup plan. Then read ahead just in case.", "result": "hermione" }
+        ]
+      },
+      {
+        "question": "Choose your ride.",
+        "answers": [
+          { "text": "The nearest dance floor counts as a vehicle, right?", "result": "mia" },
+          { "text": "A borrowed Ferrari I definitely didn't ask permission for.", "result": "ferris" },
+          { "text": "Anything enchanted to be bigger on the inside.", "result": "hermione" },
+          { "text": "Something I built myself that can also fly.", "result": "tony" }
+        ]
+      },
+      {
+        "question": "What do people say about you behind your back?",
+        "answers": [
+          { "text": "\"He shouldn't get away with it. He always gets away with it.\"", "result": "ferris" },
+          { "text": "\"She's exhausting, but she's always right.\"", "result": "hermione" },
+          { "text": "\"He's insufferable, but he did save the world.\"", "result": "tony" },
+          { "text": "\"Everyone wrote her off, and everyone was wrong.\"", "result": "elle" }
+        ]
+      },
+      {
+        "question": "Pick a study or work style.",
+        "answers": [
+          { "text": "Color-coded notes, three weeks ahead of the syllabus.", "result": "hermione" },
+          { "text": "An all-nighter fueled by caffeine and one brilliant idea at 3am.", "result": "tony" },
+          { "text": "Turns out I was underestimated the whole time — my grades prove it.", "result": "elle" },
+          { "text": "I don't study. I just do what it takes to survive the day.", "result": "katniss" }
+        ]
+      },
+      {
+        "question": "Pick your love language.",
+        "answers": [
+          { "text": "Showing up, over and over, no matter how long it takes.", "result": "forrest" },
+          { "text": "Whatever's easiest, man — I'm not gonna stress about it.", "result": "dude" },
+          { "text": "Mystery. If you figure me out, I've done something wrong.", "result": "mia" },
+          { "text": "Grand gestures. Go big or don't bother.", "result": "ferris" }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "hermione",
+        "name": "Hermione Granger",
+        "subtitle": "Harry Potter (Emma Watson)",
+        "image": "https://image.tmdb.org/t/p/w500/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg",
+        "description": "You've read the room, the rulebook, and everyone else's backup plan before they even walked in. People come to you when they're panicking because you already have three solutions ready to go. You're not bossy — you're just usually right, and deep down, everyone knows it."
+      },
+      {
+        "key": "tony",
+        "name": "Tony Stark",
+        "subtitle": "Iron Man (Robert Downey Jr.)",
+        "image": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
+        "description": "You talk a big game because you can usually back it up. Under the sarcasm and the ego is someone who genuinely can't stop building, fixing, and showing up when it actually matters — you'd just never admit how much you care. You'd rather prove it."
+      },
+      {
+        "key": "elle",
+        "name": "Elle Woods",
+        "subtitle": "Legally Blonde (Reese Witherspoon)",
+        "image": "https://image.tmdb.org/t/p/w500/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg",
+        "description": "People take one look at you and assume they've got you figured out. They haven't. You're relentlessly kind, weirdly strategic, and you've never once let being underestimated slow you down — if anything, it's your favorite advantage."
+      },
+      {
+        "key": "katniss",
+        "name": "Katniss Everdeen",
+        "subtitle": "The Hunger Games (Jennifer Lawrence)",
+        "image": "https://image.tmdb.org/t/p/w500/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg",
+        "description": "You never wanted to be the one everyone looks to, but you also weren't about to let the people you love get hurt while you stood there. You're guarded, you're sharp, and you will absolutely go down swinging for your people."
+      },
+      {
+        "key": "forrest",
+        "name": "Forrest Gump",
+        "subtitle": "Forrest Gump (Tom Hanks)",
+        "image": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
+        "description": "You're not trying to be anywhere important, and yet somehow you always end up right in the middle of it. People underestimate how much you actually understand — you just don't feel the need to prove it to anyone."
+      },
+      {
+        "key": "dude",
+        "name": "The Dude",
+        "subtitle": "The Big Lebowski (Jeff Bridges)",
+        "image": "https://image.tmdb.org/t/p/w500/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg",
+        "description": "Everyone around you is stressed, scheming, or spiraling, and you are somehow completely fine. You've got a gift for staying unbothered while chaos happens near you — not to you. Honestly, that might be the most powerful energy in any room."
+      },
+      {
+        "key": "mia",
+        "name": "Mia Wallace",
+        "subtitle": "Pulp Fiction (Uma Thurman)",
+        "image": "https://image.tmdb.org/t/p/w500/hlYG0MC6im0MHNq1xixxVilfwyR.jpg",
+        "description": "You're impossible to read and everyone's a little obsessed with that. You could be bored, or you could be planning something — nobody can really tell, and you like it that way. Cool isn't something you try for. It just happens around you."
+      },
+      {
+        "key": "ferris",
+        "name": "Ferris Bueller",
+        "subtitle": "Ferris Bueller's Day Off (Matthew Broderick)",
+        "image": "https://image.tmdb.org/t/p/w500/papqFgpyroZJEqd7WvuNGN8ti2k.jpg",
+        "description": "Rules feel more like suggestions when you're around, and somehow you make everyone else feel like they're in on it instead of getting caught. You'd rather make one perfect day happen than play it safe for a hundred boring ones."
+      }
+    ]
+  },
+  "sources": [
+    { "title": "Harry Potter and the Deathly Hallows: Part 2 — TMDB", "url": "https://www.themoviedb.org/movie/12445" },
+    { "title": "Iron Man — TMDB", "url": "https://www.themoviedb.org/movie/1726" },
+    { "title": "Legally Blonde — TMDB", "url": "https://www.themoviedb.org/movie/8835" },
+    { "title": "The Hunger Games — TMDB", "url": "https://www.themoviedb.org/movie/70160" },
+    { "title": "Forrest Gump — TMDB", "url": "https://www.themoviedb.org/movie/13" },
+    { "title": "The Big Lebowski — TMDB", "url": "https://www.themoviedb.org/movie/115" },
+    { "title": "Pulp Fiction — TMDB", "url": "https://www.themoviedb.org/movie/680" },
+    { "title": "Ferris Bueller's Day Off — TMDB", "url": "https://www.themoviedb.org/movie/9377" }
+  ],
+  "related": [
+    { "title": "Can You Guess The Movie From Just 3 Emoji? (Round 3)", "slug": "guess-the-movie-from-one-emoji-3" },
+    { "title": "Can You Guess The Actor From Their Breakout Role Alone? (Round 2)", "slug": "guess-the-actor-from-their-breakout-role-2" },
+    { "title": "Can You Guess The Movie From Just Its Poster Tagline? (Round 2)", "slug": "guess-the-movie-from-its-poster-tagline-2" }
+  ]
+}

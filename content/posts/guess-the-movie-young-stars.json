@@ -1,0 +1,80 @@
+{
+  "slug": "guess-the-movie-young-stars",
+  "title": "Can You Guess These Movies Starring Hollywood's Hottest Young Stars?",
+  "dek": "Eight real movies from young Hollywood's biggest names, three emoji each. No naming them until you tap.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "emoji": "✈️🕶️🏐",
+      "reveal_title": "Top Gun: Maverick (2022)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "reveal_text": "Talk to me, Goose.",
+      "trailer_key": "qSqVVswa420"
+    },
+    {
+      "number": 2,
+      "emoji": "💍☀️🏖️",
+      "reveal_title": "Anyone But You (2023)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+      "reveal_text": "I don't think that word means what you think it means.",
+      "trailer_key": "UtjH6Sk7Gxs"
+    },
+    {
+      "number": 3,
+      "emoji": "🌪️🚜🎥",
+      "reveal_title": "Twisters (2024)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+      "reveal_text": "You don't face your fears; you ride 'em.",
+      "trailer_key": "wdok0rZdmx4"
+    },
+    {
+      "number": 4,
+      "emoji": "🏰🦋🥀",
+      "reveal_title": "Saltburn (2023)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "reveal_text": "I loved him. I loved him. I loved him, but was I in love with him?",
+      "trailer_key": "lALMdJf6UUE"
+    },
+    {
+      "number": 5,
+      "emoji": "🎸💍🇺🇸",
+      "reveal_title": "Priscilla (2023)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+      "reveal_text": "We have to control our desires, otherwise they'll control us.",
+      "trailer_key": "DBWk6BohVXk"
+    },
+    {
+      "number": 6,
+      "emoji": "💣👨‍👧🕵️",
+      "reveal_title": "One Battle After Another (2025)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "reveal_text": "From here on in, it's one battle after another.",
+      "trailer_key": "hg8AGTyYMBA"
+    },
+    {
+      "number": 7,
+      "emoji": "💋📝🏫",
+      "reveal_title": "The Kissing Booth (2018)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+      "reveal_text": "Rule Number Nine: Relatives of your best friend are off-limits.",
+      "trailer_key": "7bfS6seiLhk"
+    },
+    {
+      "number": 8,
+      "emoji": "🕵️🔫🥧",
+      "reveal_title": "Hit Man (2023)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+      "reveal_text": "All pie is good pie.",
+      "trailer_key": "9a7C7Bxsm90"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "8 Young Stars Hollywood Can't Stop Talking About Right Now", "slug": "young-stars-everyone-is-obsessed-with" },
+    { "title": "Can You Guess The Movie From Just 3 Emoji? (Round 3)", "slug": "guess-the-movie-from-one-emoji-3" },
+    { "title": "Can You Guess The Actor From Their Breakout Role Alone? (Round 2)", "slug": "guess-the-actor-from-their-breakout-role-2" }
+  ]
+}

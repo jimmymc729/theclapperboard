@@ -1,0 +1,79 @@
+{
+  "slug": "guess-the-movie-from-one-emoji-3",
+  "title": "Can You Guess The Movie From Just 3 Emoji? (Round 3)",
+  "dek": "Eight more movies, three emoji each. No skipping ahead.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "emoji": "🚗💃🕺",
+      "reveal_title": "Grease (1978)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+      "reveal_text": "Tell me about it, stud.",
+      "trailer_key": "THd96gHV7Tg"
+    },
+    {
+      "number": 2,
+      "emoji": "🚿🔪🏨",
+      "reveal_title": "Psycho (1960)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "reveal_text": "A boy's best friend is his mother.",
+      "trailer_key": "D90QhegiVvo"
+    },
+    {
+      "number": 3,
+      "emoji": "🦍🏙️✈️",
+      "reveal_title": "King Kong (1933)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+      "reveal_text": "It was beauty killed the beast.",
+      "trailer_key": "I8P7RzqOU_M"
+    },
+    {
+      "number": 4,
+      "emoji": "👻🧒💬",
+      "reveal_title": "The Sixth Sense (1999)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+      "reveal_text": "I see dead people."
+    },
+    {
+      "number": 5,
+      "emoji": "🥊🏃🇺🇸",
+      "reveal_title": "Rocky (1976)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg",
+      "reveal_text": "Yo, Adrian!",
+      "trailer_key": "-Hk-LYcavrw"
+    },
+    {
+      "number": 6,
+      "emoji": "🍫🎫👦",
+      "reveal_title": "Willy Wonka & the Chocolate Factory (1971)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+      "reveal_text": "Come with me, and you'll be in a world of pure imagination.",
+      "trailer_key": "2WKPKnggJqk"
+    },
+    {
+      "number": 7,
+      "emoji": "👻🪲🏚️",
+      "reveal_title": "Beetlejuice (1988)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "reveal_text": "It's showtime!",
+      "trailer_key": "po1HJbmow0g"
+    },
+    {
+      "number": 8,
+      "emoji": "🎄💚😠",
+      "reveal_title": "How the Grinch Stole Christmas (2000)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "reveal_text": "You're a mean one, Mr. Grinch.",
+      "trailer_key": "UnyPPS1Z-Vs"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "Can You Guess The Movie From Just 3 Emoji?", "slug": "guess-the-movie-from-one-emoji" },
+    { "title": "Can You Guess The Movie From Just 3 More Emoji?", "slug": "guess-the-movie-from-one-emoji-2" },
+    { "title": "Can You Guess The Director From Their Signature Style Alone?", "slug": "guess-the-director-from-their-signature-style" }
+  ]
+}

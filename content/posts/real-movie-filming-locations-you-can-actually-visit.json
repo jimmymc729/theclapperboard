@@ -1,0 +1,62 @@
+{
+  "slug": "real-movie-filming-locations-you-can-actually-visit",
+  "title": "5 Real Movie Filming Locations You Can Actually Visit",
+  "dek": "One of them you can book a hotel room in tonight. Another gives guided dinosaur-chase tours.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/mWDdRXTivGE7aaY2vo1Ie0PfCX5.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "Hobbiton, New Zealand — the actual Shire, still standing",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/mWDdRXTivGE7aaY2vo1Ie0PfCX5.jpg", "caption": "The Lord of the Rings: The Fellowship of the Ring (2001)" }
+      ],
+      "text": "Built on a working sheep farm near Matamata, New Zealand, the Hobbiton set from the Lord of the Rings and Hobbit trilogies was never torn down. Guided tours run daily, walking visitors past Bagshot Row, Bilbo's Bag End, and the Green Dragon Inn, which still pours a complimentary drink at the end of the tour."
+    },
+    {
+      "number": 2,
+      "heading": "Timberline Lodge, Oregon — the real Overlook Hotel, and you can spend the night",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg", "caption": "The Shining (1980)" }
+      ],
+      "text": "The exterior shots of the Overlook Hotel in The Shining were filmed at the real, still-operating Timberline Lodge on Mount Hood — the interiors were built on soundstages in London. Rooms start around $240 a night, and hotel staff famously asked Kubrick to rename the film's haunted room from 217 to the fictional 237, worried real guests would refuse to stay in it."
+    },
+    {
+      "number": 3,
+      "heading": "Kualoa Ranch, Oahu — the valley where Jurassic Park's dinosaurs ran wild",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/o7LzVmlOSYc3EspyVMC9bsTTARc.jpg", "caption": "Jurassic Park (1993)" }
+      ],
+      "text": "A working cattle ranch on Oahu's windward coast, Kualoa Ranch is where the T-Rex chase and stampede sequences of Jurassic Park were filmed. It now runs several official movie-site tours through the valley, including stops at the actual fallen log the kids hid behind on screen."
+    },
+    {
+      "number": 4,
+      "heading": "The blue door from Notting Hill — still standing, still getting photographed",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/enTZhfxAdgOCdFdbj52MR3F10yC.jpg", "caption": "Notting Hill (1999)" }
+      ],
+      "text": "The real front door used in Notting Hill sits on Westbourne Park Road in London and is privately owned — the current residents have repainted it blue more than once after tourists kept scratching messages into it or getting confused when it was temporarily changed to black."
+    },
+    {
+      "number": 5,
+      "heading": "The Home Alone house is a real family home in Winnetka, Illinois",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg", "caption": "Home Alone (1990)" }
+      ],
+      "text": "Kevin McCallister's house is a real private residence at 671 Lincoln Avenue in Winnetka, a Chicago suburb. It isn't open for tours and isn't for sale, but the exterior is visible from the street year-round — unsurprisingly, it draws the most visitors every holiday season."
+    }
+  ],
+  "sources": [
+    { "title": "Hobbiton Movie Set Tours — Official Site", "url": "https://www.hobbitontours.com/" },
+    { "title": "Timberline Lodge — The Real Overlook Hotel from \"The Shining\" — Unusual Places", "url": "https://unusualplaces.org/timberline-lodge-the-shinings-overlook-hotel/" },
+    { "title": "Jurassic Adventure Tour — Kualoa Ranch", "url": "https://www.kualoa.com/tours-and-activities/jurassic-adventure-tour" },
+    { "title": "Notting Hill: Is Hugh Grant's house with the blue front door real and can I visit? — LondonWorld", "url": "https://www.londonworld.com/news/notting-hill-hugh-grant-house-blue-door-4991906" },
+    { "title": "Where is the 'Home Alone' House? — NBC Chicago", "url": "https://www.nbcchicago.com/news/local/where-is-the-home-alone-house-what-to-know-about-the-iconic-movie-home-in-the-chicago-area/3306925/" }
+  ],
+  "related": [
+    { "title": "5 Insane Behind-The-Scenes Facts About Iconic Movies", "slug": "insane-behind-the-scenes-facts-iconic-movies" },
+    { "title": "5 Huge Movies That Were Secretly Filmed Under Completely Different Titles", "slug": "movies-filmed-under-fake-decoy-titles" },
+    { "title": "6 Practical Effects So Good They Still Don't Look Fake", "slug": "practical-effects-that-still-hold-up" }
+  ]
+}

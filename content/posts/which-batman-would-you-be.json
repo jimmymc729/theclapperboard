@@ -1,0 +1,176 @@
+{
+  "slug": "which-batman-would-you-be",
+  "title": "Which Batman Would You Be?",
+  "dek": "Seven decades, seven very different Dark Knights. Answer 10 questions and we'll tell you which one you actually are.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg",
+  "date": "2026-07-10",
+  "quiz": {
+    "intro": "No wrong answers — just go with your gut on all 10.",
+    "questions": [
+      {
+        "question": "Pick a Batsuit accessory.",
+        "answers": [
+          { "text": "The Bat-Shark Repellent — you can never be too prepared.", "result": "west" },
+          { "text": "Something quietly terrifying that I'd never explain.", "result": "keaton" },
+          { "text": "Whatever looks best under neon lighting.", "result": "kilmer" },
+          { "text": "A credit card. Batman carries cash for emergencies, obviously.", "result": "clooney" }
+        ]
+      },
+      {
+        "question": "How do you make an entrance?",
+        "answers": [
+          { "text": "Silently. You won't notice me until it's too late.", "result": "keaton" },
+          { "text": "Dramatically, and probably in slow motion.", "result": "kilmer" },
+          { "text": "With a joke ready, just in case things get tense.", "result": "clooney" },
+          { "text": "Growling something about justice before anyone can react.", "result": "bale" }
+        ]
+      },
+      {
+        "question": "What's your relationship with Robin?",
+        "answers": [
+          { "text": "It's complicated, but we get through it together.", "result": "kilmer" },
+          { "text": "We're basically a buddy comedy at this point.", "result": "clooney" },
+          { "text": "I work alone. Mostly.", "result": "bale" },
+          { "text": "I've buried enough partners. Let's not talk about it.", "result": "affleck" }
+        ]
+      },
+      {
+        "question": "Someone asks who you really are underneath the mask.",
+        "answers": [
+          { "text": "Bruce Wayne, billionaire, occasional punchline.", "result": "clooney" },
+          { "text": "It's not who I am underneath — it's what I do that defines me.", "result": "bale" },
+          { "text": "Just an old, tired man who's seen too much.", "result": "affleck" },
+          { "text": "Someone who stopped answering that question years ago.", "result": "pattinson" }
+        ]
+      },
+      {
+        "question": "Pick a training regimen.",
+        "answers": [
+          { "text": "Years abroad learning to disappear into fear itself.", "result": "bale" },
+          { "text": "Whatever keeps these old bones swinging off buildings.", "result": "affleck" },
+          { "text": "Three years alone in the dark, taking notes.", "result": "pattinson" },
+          { "text": "Discipline. Precision. No wasted movement.", "result": "conroy" }
+        ]
+      },
+      {
+        "question": "How do you handle a losing fight?",
+        "answers": [
+          { "text": "Brutally. I fight dirty when I have to.", "result": "affleck" },
+          { "text": "I keep going even when it stops making sense.", "result": "pattinson" },
+          { "text": "Calmly reassess and adapt — panic helps no one.", "result": "conroy" },
+          { "text": "With a well-timed gadget and a triumphant grin.", "result": "west" }
+        ]
+      },
+      {
+        "question": "Pick a Gotham night out.",
+        "answers": [
+          { "text": "Alone, in the rain, writing in a journal no one will read.", "result": "pattinson" },
+          { "text": "Patrolling quietly, handling things before they escalate.", "result": "conroy" },
+          { "text": "A gala, then straight to the Batpoles the second trouble starts.", "result": "west" },
+          { "text": "Somewhere weird. I don't explain myself.", "result": "keaton" }
+        ]
+      },
+      {
+        "question": "What do people say about your Batman voice?",
+        "answers": [
+          { "text": "Calm, commanding — you just listen when I talk.", "result": "conroy" },
+          { "text": "Upbeat, a little theatrical, never actually scary.", "result": "west" },
+          { "text": "Low, strange, and somehow more unsettling for it.", "result": "keaton" },
+          { "text": "Smooth enough for the poster, forgettable everywhere else.", "result": "kilmer" }
+        ]
+      },
+      {
+        "question": "Pick your Batmobile style.",
+        "answers": [
+          { "text": "Bright, finned, and built for a parade as much as a chase.", "result": "west" },
+          { "text": "Sleek, dark, a little unsettling to look at.", "result": "keaton" },
+          { "text": "Neon-lit and built for a music video.", "result": "kilmer" },
+          { "text": "Fast, flashy, and it definitely has a great sound system.", "result": "clooney" }
+        ]
+      },
+      {
+        "question": "Pick your definition of justice.",
+        "answers": [
+          { "text": "Not vengeance. Something bigger than me.", "result": "bale" },
+          { "text": "Whatever it takes. I stopped drawing lines a while ago.", "result": "affleck" },
+          { "text": "Fear, aimed carefully at the people who deserve it.", "result": "pattinson" },
+          { "text": "Consistent. Unshakeable. The same, every single time.", "result": "conroy" }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "west",
+        "name": "Adam West's Batman",
+        "subtitle": "Batman (1966)",
+        "image": "https://image.tmdb.org/t/p/w500/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg",
+        "description": "You're the original — campy, sincere, and having the time of your life while saving the day. You'd rather crack a pun mid-crisis than brood about it, and honestly, everyone's having more fun around you because of it."
+      },
+      {
+        "key": "keaton",
+        "name": "Michael Keaton's Batman",
+        "subtitle": "Batman (1989)",
+        "image": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg",
+        "description": "You're intense in a way people can't quite explain, and a little unpredictable even to yourself. You don't perform confidence — you just quietly become the scariest person in the room."
+      },
+      {
+        "key": "kilmer",
+        "name": "Val Kilmer's Batman",
+        "subtitle": "Batman Forever (1995)",
+        "image": "https://image.tmdb.org/t/p/w500/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg",
+        "description": "You look the part and you're trying your best, even when everything around you is turned up to eleven. You're stylish, a little overshadowed, and weirdly endearing for it."
+      },
+      {
+        "key": "clooney",
+        "name": "George Clooney's Batman",
+        "subtitle": "Batman & Robin (1997)",
+        "image": "https://image.tmdb.org/t/p/w500/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg",
+        "description": "You refuse to take any of this too seriously, and honestly, that's kind of the point. You'd rather crack a joke and keep things moving than sit in the darkness everyone else insists on."
+      },
+      {
+        "key": "bale",
+        "name": "Christian Bale's Batman",
+        "subtitle": "The Dark Knight Trilogy (2005-2012)",
+        "image": "https://image.tmdb.org/t/p/w500/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg",
+        "description": "You've turned obsession into a lifestyle. Every plan has three backup plans, every mission comes with a monologue about duty, and you will growl about justice whether anyone asked you to or not."
+      },
+      {
+        "key": "affleck",
+        "name": "Ben Affleck's Batman",
+        "subtitle": "Batman v Superman / Justice League",
+        "image": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+        "description": "You're tired. You've done this too many times, buried too many people, and you fight like someone who stopped caring about doing it clean. But you still show up, every single time."
+      },
+      {
+        "key": "pattinson",
+        "name": "Robert Pattinson's Batman",
+        "subtitle": "The Batman (2022)",
+        "image": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+        "description": "You process the world by writing it down at 3am and trusting no one with the details. People find you a little intense, a lot mysterious, and secretly love that about you."
+      },
+      {
+        "key": "conroy",
+        "name": "Kevin Conroy's Batman",
+        "subtitle": "Batman: The Animated Series & DC Animated Films",
+        "image": "https://image.tmdb.org/t/p/w500/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg",
+        "description": "You're the steady one — the voice everyone trusts precisely because you never raise it. Calm under pressure isn't an act for you. It's just who you are."
+      }
+    ]
+  },
+  "sources": [
+    { "title": "Batman (1966) — TMDB", "url": "https://www.themoviedb.org/movie/2661" },
+    { "title": "Batman (1989) — TMDB", "url": "https://www.themoviedb.org/movie/268" },
+    { "title": "Batman Forever — TMDB", "url": "https://www.themoviedb.org/movie/414" },
+    { "title": "Batman & Robin — Wikipedia", "url": "https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)" },
+    { "title": "Batman Begins — TMDB", "url": "https://www.themoviedb.org/movie/272" },
+    { "title": "Batman v Superman: Dawn of Justice — TMDB", "url": "https://www.themoviedb.org/movie/209112" },
+    { "title": "The Batman (2022) — TMDB", "url": "https://www.themoviedb.org/movie/414906" },
+    { "title": "Batman: Mask of the Phantasm — TMDB", "url": "https://www.themoviedb.org/movie/14919" }
+  ],
+  "related": [
+    { "title": "Which Iconic Movie Character Are You?", "slug": "which-iconic-movie-character-are-you" },
+    { "title": "Can You Guess The Movie From Just 3 Emoji? (Round 3)", "slug": "guess-the-movie-from-one-emoji-3" },
+    { "title": "Can You Guess The Actor From Their Breakout Role Alone? (Round 2)", "slug": "guess-the-actor-from-their-breakout-role-2" }
+  ]
+}

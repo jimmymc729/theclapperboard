@@ -1,0 +1,59 @@
+{
+  "slug": "movies-that-flopped-then-became-cult-classics",
+  "title": "5 Movies That Flopped In Theaters — Then Became Cult Classics",
+  "dek": "One of these is regularly voted the greatest movie ever made. It barely broke even.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "The Shawshank Redemption barely made its money back in theaters",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg", "caption": "A still from The Shawshank Redemption" }
+      ],
+      "text": "Now a fixture at the top of best-movies-ever-made lists, Shawshank was a genuine box office disappointment on release in 1994 — its dour title and prison setting were widely blamed for keeping audiences away. It found its real audience later, through home video and cable reruns."
+    },
+    {
+      "number": 2,
+      "heading": "Blade Runner barely broke even against its budget",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg", "caption": "A still from Blade Runner" }
+      ],
+      "text": "Ridley Scott's now-foundational sci-fi noir made only around $27.6 million domestically against a roughly $28 million budget in 1982 — a modest showing that's a big reason a sequel didn't arrive for 35 years. Its reputation has only grown since, largely thanks to later director's cuts."
+    },
+    {
+      "number": 3,
+      "heading": "The Big Lebowski made just $18 million domestically on a $15 million budget",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/hXsy4XCCHrUk81XoRhcooyWejao.jpg", "caption": "A still from The Big Lebowski" }
+      ],
+      "text": "The Coen brothers' shaggy-dog noir comedy underwhelmed on release in 1998, overshadowed by the acclaim for their previous film, Fargo. It's since become one of the most quoted and re-watched comedies of its era, complete with fan festivals devoted entirely to it."
+    },
+    {
+      "number": 4,
+      "heading": "Fight Club was a disappointment in the U.S. before finding its audience on DVD",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/c6OLXfKAk5BKeR6broC8pYiCquX.jpg", "caption": "A still from Fight Club" }
+      ],
+      "text": "David Fincher's Fight Club earned only around $37 million domestically against a $63 million budget in 1999, a genuine underperformance in its home market. International grosses helped it turn a modest profit overall, but its real cultural life began once it hit home video."
+    },
+    {
+      "number": 5,
+      "heading": "It's a Wonderful Life actually lost RKO money in 1946",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg", "caption": "A still from It's a Wonderful Life" }
+      ],
+      "text": "Frank Capra's now-beloved Christmas classic needed to double its budget just to break even, and it fell short, recording a loss of roughly $525,000 for RKO on its original release. It became a holiday staple decades later largely because its copyright briefly lapsed, letting TV stations air it for free every December."
+    }
+  ],
+  "sources": [
+    { "title": "10 Box Office Flops That Eventually Became Cult Classics — ScreenRant", "url": "https://screenrant.com/movies-flopped-box-office-cult-classics/" },
+    { "title": "How It's a Wonderful Life Went From Box Office Dud to Christmas Classic — ScreenRant", "url": "https://screenrant.com/its-a-wonderful-life-box-office-flop/" }
+  ],
+  "related": [
+    { "title": "The 10 Highest-Grossing Movies Of All Time", "slug": "highest-grossing-movies-of-all-time" },
+    { "title": "5 Movies Whose Budgets Completely Spiraled Out Of Control", "slug": "movie-budgets-that-spiraled-out-of-control" },
+    { "title": "5 'Based On A True Story' Movies vs. What Actually Happened", "slug": "movies-based-on-a-true-story-vs-reality" }
+  ]
+}

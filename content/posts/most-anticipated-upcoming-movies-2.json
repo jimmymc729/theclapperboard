@@ -1,0 +1,67 @@
+{
+  "slug": "most-anticipated-upcoming-movies-2",
+  "title": "5 More Massive Movies Everyone's About To Be Talking About",
+  "dek": "One just hit theaters, one arrives in three weeks, and the rest are all coming before the year is out.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "Spider-Man: Brand New Day (July 29, 2026) — Tom Holland's Peter Parker starts over, alone",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg", "caption": "Spider-Man: Brand New Day (2026)" }
+      ],
+      "trailer_key": "62bIsvRcPv0",
+      "text": "Four years after No Way Home, Peter Parker is living entirely alone, having voluntarily erased himself from the memories of everyone he loves — including Zendaya's MJ. Directed by Destin Daniel Cretton, the film also brings back Jon Bernthal as the Punisher and Mark Ruffalo as Bruce Banner, alongside Sadie Sink, Jacob Batalon, and Tramell Tillman."
+    },
+    {
+      "number": 2,
+      "heading": "Supergirl (released June 26, 2026) — Milly Alcock's DCU debut is already a hit",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg", "caption": "Supergirl (2026)" }
+      ],
+      "trailer_key": "s1-pfiVMKAs",
+      "text": "Milly Alcock stars as Kara Zor-El in the second film of the rebooted DC Universe, following Kara on an interstellar revenge mission after her dog Krypto is harmed. David Corenswet appears as Superman, and Jason Momoa plays the bounty hunter Lobo — a wild swing that's paid off with audiences since its late-June release."
+    },
+    {
+      "number": 3,
+      "heading": "The Hunger Games: Sunrise on the Reaping (November 20, 2026) — a young Haymitch's Games",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/sjuywIJAUN9KxdDaBU778lMf1rJ.jpg", "caption": "The Hunger Games: Sunrise on the Reaping (2026)" }
+      ],
+      "trailer_key": "fS35YSjopjE",
+      "text": "Set 24 years before the original trilogy, the film follows a teenage Haymitch Abernathy (Joseph Zada) through the 50th Hunger Games — the brutal Second Quarter Quell. The ensemble includes Ralph Fiennes as a younger President Snow, Elle Fanning as a young Effie Trinket, Glenn Close, Jesse Plemons, and McKenna Grace."
+    },
+    {
+      "number": 4,
+      "heading": "Avatar Aang: The Last Airbender (July 25, 2026) — the animated continuation, rushed out after a leak",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg", "caption": "Avatar Aang: The Last Airbender (2026)" }
+      ],
+      "trailer_key": "7b20GRFZBFE",
+      "text": "This animated feature picks up after the original Nickelodeon series, sending Aang, Katara, Sokka, Toph, and Zuko after a powerful lost artifact before a mysterious new group can claim it. It was originally slated for an October theatrical release, but Paramount moved it up to late July after the full film leaked online."
+    },
+    {
+      "number": 5,
+      "heading": "Heart of the Beast (September 23, 2026) — Brad Pitt against the Alaskan wilderness",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg", "caption": "Heart of the Beast (2026)" }
+      ],
+      "trailer_key": "JFQcDFhNh4o",
+      "text": "Directed by David Ayer, Brad Pitt plays a retired Special Forces soldier fighting to survive in the Alaskan wilderness with his combat dog after a plane crash. The cast also includes J.K. Simmons and Anna Lambe."
+    }
+  ],
+  "sources": [
+    { "title": "Spider-Man: Brand New Day — Wikipedia", "url": "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day" },
+    { "title": "Supergirl (2026 film) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Supergirl_(2026_film)" },
+    { "title": "The Hunger Games: Sunrise on the Reaping — Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping" },
+    { "title": "Avatar Aang: The Last Airbender Gets New Trailer And Early July Release Date — Forbes", "url": "https://www.forbes.com/sites/erikkain/2026/07/07/avatar-aang-the-last-airbender-new-trailer-july-25-release-date/" },
+    { "title": "The Most Anticipated Movies of 2026 — Rotten Tomatoes", "url": "https://editorial.rottentomatoes.com/article/the-most-anticipated-movies-of-2026/" }
+  ],
+  "related": [
+    { "title": "5 Massive Movies Everyone's About To Be Talking About", "slug": "most-anticipated-upcoming-movies" },
+    { "title": "Everything We Know About The Odyssey, Starring Tom Holland And Zendaya", "slug": "the-odyssey-everything-we-know" },
+    { "title": "Tom Holland & Zendaya: The Real Timeline Of Their Relationship", "slug": "tom-holland-zendaya-relationship-timeline" }
+  ]
+}

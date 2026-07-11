@@ -1,0 +1,58 @@
+{
+  "slug": "guess-the-movie-from-its-poster-tagline-2",
+  "title": "Can You Guess The Movie From Just Its Poster Tagline? (Round 2)",
+  "dek": "Six more real taglines. No naming the movie until you tap.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "quote": "Be afraid. Be very afraid.",
+      "reveal_title": "The Fly (1986)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/g1FzhbtWYKk9WMJYi1X26kf2Q4Q.jpg",
+      "trailer_key": "YPhM5T1DViw"
+    },
+    {
+      "number": 2,
+      "quote": "You'll believe a man can fly.",
+      "reveal_title": "Superman (1978)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/p2zBTOd4JdmNhkRWHmjKg7hk3s1.jpg",
+      "trailer_key": "cvrRJ5RzmaI"
+    },
+    {
+      "number": 3,
+      "quote": "They're young... they're in love... and they kill people.",
+      "reveal_title": "Bonnie and Clyde (1967)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+      "trailer_key": "dJsnF6Of2G4"
+    },
+    {
+      "number": 4,
+      "quote": "Somewhere between science and superstition, there is another world. The world of darkness.",
+      "reveal_title": "The Exorcist (1973)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "trailer_key": "jyW5YXDcIGs"
+    },
+    {
+      "number": 5,
+      "quote": "We've always believed we weren't alone. On July 4th, we'll wish we were.",
+      "reveal_title": "Independence Day (1996)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+      "trailer_key": "B1E7h3SeMDk"
+    },
+    {
+      "number": 6,
+      "quote": "Seven deadly sins. Seven ways to die.",
+      "reveal_title": "Se7en (1995)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+      "trailer_key": "KPOuJGkpblk"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "Can You Guess The Movie From Just Its Poster Tagline?", "slug": "guess-the-movie-from-its-poster-tagline" },
+    { "title": "Can You Guess The Movie From Just Its Most Famous Quote? (Round 2)", "slug": "guess-the-movie-from-famous-quote-2" },
+    { "title": "Can You Guess The Movie From Just 3 Emoji? (Round 3)", "slug": "guess-the-movie-from-one-emoji-3" }
+  ]
+}

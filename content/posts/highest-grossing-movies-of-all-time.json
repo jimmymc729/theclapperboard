@@ -1,0 +1,99 @@
+{
+  "slug": "highest-grossing-movies-of-all-time",
+  "title": "The 10 Highest-Grossing Movies Of All Time",
+  "dek": "Only seven movies in history have ever crossed $2 billion worldwide. Here's the full top 10, ranked by lifetime box office.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "Avatar (2009) — $2.92 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg", "caption": "Avatar (2009)" }
+      ],
+      "text": "James Cameron's Avatar has held the #1 spot for most of the time since its 2009 release, aside from a brief stretch when Avengers: Endgame overtook it. A 2021 rerelease in China pushed its lifetime total past $2.92 billion, cementing its lead."
+    },
+    {
+      "number": 2,
+      "heading": "Avengers: Endgame (2019) — $2.8 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg", "caption": "Avengers: Endgame (2019)" }
+      ],
+      "text": "The culmination of eleven years of MCU storytelling briefly took the all-time #1 spot from Avatar in 2019, before Cameron's rerelease reclaimed the title. It remains the highest-grossing movie ever made that wasn't directed by James Cameron."
+    },
+    {
+      "number": 3,
+      "heading": "Avatar: The Way of Water (2022) — $2.33 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg", "caption": "Avatar: The Way of Water (2022)" }
+      ],
+      "text": "The long-awaited Avatar sequel overtook Star Wars: The Force Awakens and eventually Titanic on the all-time chart, making James Cameron the director of three of cinema's four biggest movies ever."
+    },
+    {
+      "number": 4,
+      "heading": "Titanic (1997) — $2.26 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg", "caption": "Titanic (1997)" }
+      ],
+      "text": "Titanic was the first film in history to gross $1 billion worldwide, and held the all-time record for over a decade before Cameron's own Avatar took the crown in 2010. It's still, nearly three decades later, in the top five."
+    },
+    {
+      "number": 5,
+      "heading": "Ne Zha 2 (2025) — $2.26 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg", "caption": "Ne Zha 2 (2025)" }
+      ],
+      "text": "A sequel to a 2019 Chinese animated hit, Ne Zha 2 became the first non-English-language, non-American film ever to break into the all-time top 10 — driven almost entirely by its record-breaking domestic run in China after its January 2025 release."
+    },
+    {
+      "number": 6,
+      "heading": "Star Wars: The Force Awakens (2015) — $2.07 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg", "caption": "Star Wars: The Force Awakens (2015)" }
+      ],
+      "text": "Disney's revival of the Star Wars saga, introducing Rey, Finn, and Kylo Ren, set a new record for the biggest domestic opening weekend at the time and remains the highest-grossing film in the entire Star Wars franchise."
+    },
+    {
+      "number": 7,
+      "heading": "Avengers: Infinity War (2018) — $2.05 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg", "caption": "Avengers: Infinity War (2018)" }
+      ],
+      "text": "The first half of the Thanos finale became just the fourth film ever to cross $2 billion worldwide, setting up a direct sequel — Endgame — that would go on to outgross it by more than $700 million."
+    },
+    {
+      "number": 8,
+      "heading": "Spider-Man: No Way Home (2021) — $1.92 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg", "caption": "Spider-Man: No Way Home (2021)" }
+      ],
+      "text": "The multiverse-spanning threequel became the highest-grossing film released during the COVID-19 pandemic era and remains the top-grossing Spider-Man movie by a wide margin, just shy of the $2 billion mark."
+    },
+    {
+      "number": 9,
+      "heading": "Zootopia 2 (2025) — $1.87 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg", "caption": "Zootopia 2 (2025)" }
+      ],
+      "text": "Judy Hopps and Nick Wilde's return, nearly a decade after the original, became one of Disney Animation's biggest hits ever, riding both nostalgia and a new mystery plot to a spot in the all-time top 10."
+    },
+    {
+      "number": 10,
+      "heading": "Inside Out 2 (2024) — $1.7 billion",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg", "caption": "Inside Out 2 (2024)" }
+      ],
+      "text": "The introduction of Anxiety, Envy, Embarrassment, and Ennui to Riley's teenage mind helped Inside Out 2 become the highest-grossing animated film of all time worldwide, and Pixar's biggest release ever."
+    }
+  ],
+  "sources": [
+    { "title": "Ranked: The Highest-Grossing Films in History — Visual Capitalist", "url": "https://www.visualcapitalist.com/ranked-the-highest-grossing-films-in-history/" },
+    { "title": "List of highest-grossing films — Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films" }
+  ],
+  "related": [
+    { "title": "5 Movies Whose Budgets Completely Spiraled Out Of Control", "slug": "movie-budgets-that-spiraled-out-of-control" },
+    { "title": "5 Massive Movies Everyone's About To Be Talking About", "slug": "most-anticipated-upcoming-movies" },
+    { "title": "5 More Massive Movies Everyone's About To Be Talking About", "slug": "most-anticipated-upcoming-movies-2" }
+  ]
+}

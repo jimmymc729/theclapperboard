@@ -1,0 +1,62 @@
+{
+  "slug": "movie-props-auction-prices-2",
+  "title": "5 More Movie Props That Sold For Jaw-Dropping Amounts At Auction",
+  "dek": "A car. A blaster. Two dresses. One door. Here's what they all actually sold for.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/f1Is9VLQZSRpeLMU7mIcj5aXclt.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "James Bond's Aston Martin DB5 sold for $6.4 million",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/f1Is9VLQZSRpeLMU7mIcj5aXclt.jpg", "caption": "Goldfinger (1964)" }
+      ],
+      "text": "One of the original gadget-equipped Aston Martin DB5s built for the James Bond films — complete with revolving license plates, machine guns, and an ejector seat — sold at RM Sotheby's 2019 Monterey auction for $6,385,000. It's widely considered the most valuable movie car ever sold at auction."
+    },
+    {
+      "number": 2,
+      "heading": "Han Solo's blaster from Star Wars sold for $1,057,500",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg", "caption": "Star Wars (1977)" }
+      ],
+      "text": "The only surviving screen-used BlasTech DL-44 blaster from Star Wars: A New Hope — Harrison Ford's Han Solo prop — sold at Rock Island Auction Company in 2022, setting the Guinness World Record for the most expensive prop gun ever sold at auction."
+    },
+    {
+      "number": 3,
+      "heading": "Marilyn Monroe's 'subway' dress from The Seven Year Itch sold for $5.66 million",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/yjlg8Gq3TAWlFSUxh7Icey8uM4P.jpg", "caption": "The Seven Year Itch (1955)" }
+      ],
+      "text": "The white halter dress Marilyn Monroe wore over a subway grate in The Seven Year Itch sold for $4.6 million at hammer — $5,658,000 with buyer's premium — at a 2011 Profiles in History auction of Debbie Reynolds' Hollywood costume collection, more than double its $2 million estimate."
+    },
+    {
+      "number": 4,
+      "heading": "Audrey Hepburn's little black dress from Breakfast at Tiffany's sold for $923,187",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg", "caption": "Breakfast at Tiffany's (1961)" }
+      ],
+      "text": "The black Givenchy gown Audrey Hepburn wore in the opening shot of Breakfast at Tiffany's sold at a 2006 Christie's auction in London for £467,200 ($923,187) — more than six times its £70,000 estimate. Proceeds went to a children's education charity in Kolkata."
+    },
+    {
+      "number": 5,
+      "heading": "The 'door' from Titanic sold for $718,750",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg", "caption": "Titanic (1997)" }
+      ],
+      "text": "The wooden panel Rose floats on at the end of Titanic — technically part of a first-class lounge door frame, not a door — sold for $718,750 at a 2024 Heritage Auctions sale, after opening bids of $40,000 spiraled into a bidding war within minutes."
+    }
+  ],
+  "sources": [
+    { "title": "James Bond's Aston Martin DB5 sells for $6.4 million at Pebble Beach — CNBC", "url": "https://www.cnbc.com/2019/08/16/james-bonds-aston-martin-db5-sells-for-6point4-million-at-pebble-beach.html" },
+    { "title": "Han Solo's Blaster sells for over $1 Million — Rock Island Auction", "url": "https://www.rockislandauction.com/news/han-solos-blaster-from-star-wars-a-new-hope-sells-for-1-05-million" },
+    { "title": "Marilyn Monroe's iconic dress sells for $5.6 million at auction — CNN", "url": "https://www.cnn.com/2011/SHOWBIZ/celebrity.news.gossip/06/19/hollywood.auction/index.html" },
+    { "title": "Audrey Hepburn's little black dress sells for a fortune — Hello! Magazine", "url": "https://www.hellomagazine.com/celebrities/20061206870065/audrey-hepburn-dress/" },
+    { "title": "A controversial 'Titanic' prop sells for more than $700,000 at movie memorabilia auction — CNN", "url": "https://www.cnn.com/2024/03/27/style/titanic-door-prop-auction-planet-hollywood/index.html" }
+  ],
+  "related": [
+    { "title": "6 Movie Props That Sold For Jaw-Dropping Amounts At Auction", "slug": "movie-props-auction-prices" },
+    { "title": "5 Movies Whose Budgets Completely Spiraled Out Of Control", "slug": "movie-budgets-that-spiraled-out-of-control" },
+    { "title": "5 Insane Behind-The-Scenes Facts About Iconic Movies", "slug": "insane-behind-the-scenes-facts-iconic-movies" }
+  ]
+}

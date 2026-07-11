@@ -1,0 +1,51 @@
+{
+  "slug": "guess-the-actor-from-their-breakout-role",
+  "title": "Can You Guess The Actor From Their Breakout Role Alone?",
+  "dek": "No name, no photo until you reveal it — just the part that made them a star.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w500/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "quote": "I played a teenage archer forced to fight to the death on live television — and it made me a global star.",
+      "reveal_title": "Jennifer Lawrence",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+    },
+    {
+      "number": 2,
+      "quote": "I fell for a stranger while feeling lost and jet-lagged in Tokyo, and critics couldn't stop talking about it.",
+      "reveal_title": "Scarlett Johansson",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "number": 3,
+      "quote": "I fell in love with a girl in a rowboat one summer, and spent the rest of my career being compared to it.",
+      "reveal_title": "Ryan Gosling",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "number": 4,
+      "quote": "I traded a dead-end job for a jetpack and a talking raccoon, and suddenly I was a leading man.",
+      "reveal_title": "Chris Pratt",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+    },
+    {
+      "number": 5,
+      "quote": "I transformed into a real killer to play one on screen, and it won me an Oscar.",
+      "reveal_title": "Charlize Theron",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+    },
+    {
+      "number": 6,
+      "quote": "I turned a Beverly Hills shop assistant's worst day into the role that made me a movie star overnight.",
+      "reveal_title": "Julia Roberts",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "Can You Guess The Movie From Its Most Famous Quote?", "slug": "guess-the-movie-from-famous-quote" },
+    { "title": "6 Actors Who Turned Down Legendary Movie Roles", "slug": "actors-who-almost-played-iconic-roles" }
+  ]
+}

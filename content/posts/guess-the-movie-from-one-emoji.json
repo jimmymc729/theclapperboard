@@ -1,0 +1,80 @@
+{
+  "slug": "guess-the-movie-from-one-emoji",
+  "title": "Can You Guess The Movie From Just 3 Emoji?",
+  "dek": "No hints, no cheating. Tap to reveal once you've got your answer locked in.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "emoji": "🦈🏖️🩱",
+      "reveal_title": "Jaws (1975)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "reveal_text": "You're gonna need a bigger boat.",
+      "trailer_key": "N9hzLQUGr34"
+    },
+    {
+      "number": 2,
+      "emoji": "💊🐇🕶️",
+      "reveal_title": "The Matrix (1999)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "reveal_text": "There is no spoon.",
+      "trailer_key": "nUEQNVV3Gfs"
+    },
+    {
+      "number": 3,
+      "emoji": "🏠🌧️🪜",
+      "reveal_title": "Parasite (2019)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "reveal_text": "It's so metaphorical.",
+      "trailer_key": "isOGD_7hNIY"
+    },
+    {
+      "number": 4,
+      "emoji": "🦖🏝️🧬",
+      "reveal_title": "Jurassic Park (1993)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "reveal_text": "Welcome... to Jurassic Park.",
+      "trailer_key": "Rz_FvTXa_qY"
+    },
+    {
+      "number": 5,
+      "emoji": "🚢🧊❄️",
+      "reveal_title": "Titanic (1997)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "reveal_text": "I'm the king of the world!",
+      "trailer_key": "oHY7D7K58BM"
+    },
+    {
+      "number": 6,
+      "emoji": "🤖⚔️🚀",
+      "reveal_title": "Star Wars (1977)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "reveal_text": "May the Force be with you.",
+      "trailer_key": "vZ734NWnAHA"
+    },
+    {
+      "number": 7,
+      "emoji": "🚲🌕👽",
+      "reveal_title": "E.T. the Extra-Terrestrial (1982)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "reveal_text": "E.T. phone home.",
+      "trailer_key": "NsvdZ_z56c0"
+    },
+    {
+      "number": 8,
+      "emoji": "🍊🐴🔫",
+      "reveal_title": "The Godfather (1972)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "reveal_text": "I'm gonna make him an offer he can't refuse.",
+      "trailer_key": "8V2k2YQEQJ4"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "5 Massive Movies Everyone's About To Be Talking About", "slug": "most-anticipated-upcoming-movies" },
+    { "title": "Can You Guess The Movie From Its Most Famous Quote?", "slug": "guess-the-movie-from-famous-quote" },
+    { "title": "6 Actors Who Turned Down Legendary Movie Roles", "slug": "actors-who-almost-played-iconic-roles" }
+  ]
+}

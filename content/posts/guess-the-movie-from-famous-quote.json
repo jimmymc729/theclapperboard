@@ -1,0 +1,72 @@
+{
+  "slug": "guess-the-movie-from-famous-quote",
+  "title": "Can You Guess The Movie From Just Its Most Famous Quote?",
+  "dek": "No title, no poster — just the line everyone knows. See how many you actually get.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "quote": "Here's looking at you, kid.",
+      "reveal_title": "Casablanca (1942)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+      "trailer_key": "MF7JH_54d8c"
+    },
+    {
+      "number": 2,
+      "quote": "Life is like a box of chocolates. You never know what you're gonna get.",
+      "reveal_title": "Forrest Gump (1994)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+      "trailer_key": "Mj9IA9tTfio"
+    },
+    {
+      "number": 3,
+      "quote": "Get busy living, or get busy dying.",
+      "reveal_title": "The Shawshank Redemption (1994)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "trailer_key": "PLl99DlL6b4"
+    },
+    {
+      "number": 4,
+      "quote": "The first rule of Fight Club is: you do not talk about Fight Club.",
+      "reveal_title": "Fight Club (1999)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "trailer_key": "dfeUzm6KF4g"
+    },
+    {
+      "number": 5,
+      "quote": "Are you not entertained?!",
+      "reveal_title": "Gladiator (2000)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+      "trailer_key": "P5ieIbInFpg"
+    },
+    {
+      "number": 6,
+      "quote": "Show me the money!",
+      "reveal_title": "Jerry Maguire (1996)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/a66PKC32YVZISoqZtRQyz8c9Vx6.jpg",
+      "trailer_key": "x1V_WduwrE8"
+    },
+    {
+      "number": 7,
+      "quote": "Hasta la vista, baby.",
+      "reveal_title": "Terminator 2: Judgment Day (1991)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "trailer_key": "BuBD2s2NmEM"
+    },
+    {
+      "number": 8,
+      "quote": "Toto, I've a feeling we're not in Kansas anymore.",
+      "reveal_title": "The Wizard of Oz (1939)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
+      "trailer_key": "b_A2twyZevo"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "Can You Guess The Movie From Its Poster Tagline?", "slug": "guess-the-movie-from-its-poster-tagline" },
+    { "title": "Can You Guess The Movie From Just 3 Emoji?", "slug": "guess-the-movie-from-one-emoji" },
+    { "title": "6 Movie Props That Sold For Jaw-Dropping Amounts At Auction", "slug": "movie-props-auction-prices" }
+  ]
+}

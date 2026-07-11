@@ -1,0 +1,176 @@
+{
+  "slug": "which-tom-holland-character-are-you",
+  "title": "Which Tom Holland Character Are You?",
+  "dek": "From Spider-Man to a grieving elf brother to an actual war criminal — Tom Holland's range is wild. Answer 10 questions to find out which role is secretly you.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+  "date": "2026-07-10",
+  "quiz": {
+    "intro": "No wrong answers — just go with your gut on all 10.",
+    "questions": [
+      {
+        "question": "Something goes catastrophically wrong. Your first instinct?",
+        "answers": [
+          { "text": "Panic for a second, then immediately try to save everyone anyway.", "result": "peter" },
+          { "text": "Improvise a plan that's way too risky and somehow make it work.", "result": "drake" },
+          { "text": "Stay calm and get the people I love to safety first.", "result": "billy" },
+          { "text": "Do something reckless because it feels like the only option left.", "result": "sam" }
+        ]
+      },
+      {
+        "question": "Pick a treasure worth risking everything for.",
+        "answers": [
+          { "text": "An actual lost treasure. Obviously.", "result": "drake" },
+          { "text": "My family, safe and back together.", "result": "billy" },
+          { "text": "One more chance to make it right with the person I love.", "result": "sam" },
+          { "text": "The truth — even if everyone's been lying to me about it.", "result": "todd" }
+        ]
+      },
+      {
+        "question": "How do you grow up faster than you should have?",
+        "answers": [
+          { "text": "Living through something no kid should have to survive.", "result": "billy" },
+          { "text": "Watching the people around me fall apart and trying to hold it together anyway.", "result": "sam" },
+          { "text": "Realizing everyone can hear exactly what I'm thinking.", "result": "todd" },
+          { "text": "Trying to become the man of the house before I'm ready.", "result": "ivo" }
+        ]
+      },
+      {
+        "question": "Pick a quest you'd actually finish.",
+        "answers": [
+          { "text": "Getting clean, for good, no matter how many times I fail first.", "result": "sam" },
+          { "text": "Getting the truth out, no matter who it upsets.", "result": "todd" },
+          { "text": "One more day with someone I never really got to know.", "result": "ivo" },
+          { "text": "Telling the story everyone else is too afraid to tell.", "result": "tommy" }
+        ]
+      },
+      {
+        "question": "What's your biggest tell when you're lying?",
+        "answers": [
+          { "text": "I can't. Everyone can already hear what I'm thinking.", "result": "todd" },
+          { "text": "I get weirdly nervous and over-explain everything.", "result": "ivo" },
+          { "text": "I go quiet and let someone else fill the silence.", "result": "tommy" },
+          { "text": "You'll never know. That's the whole point.", "result": "insull" }
+        ]
+      },
+      {
+        "question": "Pick a mentor you never got enough time with.",
+        "answers": [
+          { "text": "My dad. I'd give anything for one more day.", "result": "ivo" },
+          { "text": "The captain who taught me everything before it all went wrong.", "result": "tommy" },
+          { "text": "The genius inventor I learned to outmaneuver.", "result": "insull" },
+          { "text": "The uncle whose one piece of advice I can't stop hearing.", "result": "peter" }
+        ]
+      },
+      {
+        "question": "Pick your survival skill.",
+        "answers": [
+          { "text": "I remember everything, even the parts I wish I didn't.", "result": "tommy" },
+          { "text": "I always see the angle nobody else is looking for.", "result": "insull" },
+          { "text": "I can talk my way through just about anything, mid-crisis.", "result": "peter" },
+          { "text": "I get myself into trouble, then charm my way back out.", "result": "drake" }
+        ]
+      },
+      {
+        "question": "What drives you, underneath everything?",
+        "answers": [
+          { "text": "Proving I deserve to be taken seriously.", "result": "insull" },
+          { "text": "The fear that I could've done more and didn't.", "result": "peter" },
+          { "text": "The thrill. I won't admit that's the real reason, but it is.", "result": "drake" },
+          { "text": "Getting back to the people I love, whatever it takes.", "result": "billy" }
+        ]
+      },
+      {
+        "question": "Pick a coping mechanism.",
+        "answers": [
+          { "text": "Cracking jokes right up until the moment it stops being funny.", "result": "peter" },
+          { "text": "Finding the nearest exit and a reason to laugh about it later.", "result": "drake" },
+          { "text": "Staying busy. If I stop moving, I start thinking too much.", "result": "billy" },
+          { "text": "Numbing it, then hating myself for numbing it.", "result": "sam" }
+        ]
+      },
+      {
+        "question": "Pick your idea of home.",
+        "answers": [
+          { "text": "Wherever the noise finally goes quiet.", "result": "todd" },
+          { "text": "Anywhere my family's actually together, even for one day.", "result": "ivo" },
+          { "text": "The place I keep returning to in the stories I tell.", "result": "tommy" },
+          { "text": "Wherever puts me one step ahead of everyone else.", "result": "insull" }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "peter",
+        "name": "Peter Parker",
+        "subtitle": "Spider-Man: No Way Home (2021)",
+        "image": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "description": "You carry way more weight than you let on, and you'd still crack a joke mid-crisis if it meant making someone else feel better. You mess up constantly and keep showing up anyway — that's kind of your whole thing."
+      },
+      {
+        "key": "drake",
+        "name": "Nathan Drake",
+        "subtitle": "Uncharted (2022)",
+        "image": "https://image.tmdb.org/t/p/w500/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+        "description": "You talk your way into (and out of) more trouble than anyone should survive, and somehow it always works out. Underneath the charm is someone who's genuinely loyal once you've earned it."
+      },
+      {
+        "key": "billy",
+        "name": "Lucas Bennett",
+        "subtitle": "The Impossible (2012)",
+        "image": "https://image.tmdb.org/t/p/w500/k0DLCiDbnYywOHiISALbl2EH2NE.jpg",
+        "description": "You grew up faster than you should have, and it left you fiercely protective of the people you love. You don't talk about what you went through — you just make sure it never happens to anyone else."
+      },
+      {
+        "key": "sam",
+        "name": "Cherry",
+        "subtitle": "Cherry (2021)",
+        "image": "https://image.tmdb.org/t/p/w500/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+        "description": "You love harder than you can handle, and it's cost you plenty. You keep trying to get it right anyway, even when the odds say you shouldn't."
+      },
+      {
+        "key": "todd",
+        "name": "Todd Hewitt",
+        "subtitle": "Chaos Walking (2021)",
+        "image": "https://image.tmdb.org/t/p/w500/xAYGdGBGptNkisXRpmhZSry6SPF.jpg",
+        "description": "You physically cannot hide what you're thinking, which makes you either the most trustworthy or most exhausting person in the room. Either way, people always know exactly where they stand with you."
+      },
+      {
+        "key": "ivo",
+        "name": "Ian Lightfoot",
+        "subtitle": "Onward (2020)",
+        "image": "https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+        "description": "You're a little awkward, a lot sentimental, and you'd do something wildly brave if it meant connecting with someone you love. People underestimate you right up until you prove them wrong."
+      },
+      {
+        "key": "tommy",
+        "name": "Thomas Nickerson",
+        "subtitle": "In the Heart of the Sea (2015)",
+        "image": "https://image.tmdb.org/t/p/w500/weVvNPfk6FM9vBg3BXtRtNAmiYM.jpg",
+        "description": "You notice everything and say very little about it — until it's time to tell the story, and then you're the only one who can. You carry more than people realize."
+      },
+      {
+        "key": "insull",
+        "name": "Samuel Insull",
+        "subtitle": "The Current War (2018)",
+        "image": "https://image.tmdb.org/t/p/w500/eqTjO8yTaPRSKWj7i6Qnr7R5cls.jpg",
+        "description": "You're always three moves ahead and quietly ruthless about getting there. Nobody sees you coming until you've already won."
+      }
+    ]
+  },
+  "sources": [
+    { "title": "Spider-Man: No Way Home — TMDB", "url": "https://www.themoviedb.org/movie/634649" },
+    { "title": "Uncharted — TMDB", "url": "https://www.themoviedb.org/movie/335787" },
+    { "title": "The Impossible — TMDB", "url": "https://www.themoviedb.org/movie/80278" },
+    { "title": "Cherry — TMDB", "url": "https://www.themoviedb.org/movie/544401" },
+    { "title": "Chaos Walking — TMDB", "url": "https://www.themoviedb.org/movie/412656" },
+    { "title": "Onward — TMDB", "url": "https://www.themoviedb.org/movie/508439" },
+    { "title": "In the Heart of the Sea — TMDB", "url": "https://www.themoviedb.org/movie/205775" },
+    { "title": "The Current War — TMDB", "url": "https://www.themoviedb.org/movie/418879" }
+  ],
+  "related": [
+    { "title": "Which Batman Would You Be?", "slug": "which-batman-would-you-be" },
+    { "title": "Which Iconic Movie Character Are You?", "slug": "which-iconic-movie-character-are-you" },
+    { "title": "8 Facts About Zendaya's Rise To Hollywood's Most In-Demand Star", "slug": "zendaya-real-facts" }
+  ]
+}

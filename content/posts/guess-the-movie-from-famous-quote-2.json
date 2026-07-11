@@ -1,0 +1,71 @@
+{
+  "slug": "guess-the-movie-from-famous-quote-2",
+  "title": "Can You Guess The Movie From Just Its Most Famous Quote? (Round 2)",
+  "dek": "Eight more instantly-recognizable lines. No naming the movie until you tap.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "quote": "Why so serious?",
+      "reveal_title": "The Dark Knight (2008)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "trailer_key": "kmJLuwP3MbY"
+    },
+    {
+      "number": 2,
+      "quote": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
+      "reveal_title": "The Princess Bride (1987)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "trailer_key": "KmXptjknRa8"
+    },
+    {
+      "number": 3,
+      "quote": "You can't handle the truth!",
+      "reveal_title": "A Few Good Men (1992)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "trailer_key": "2T2pyqrr8UM"
+    },
+    {
+      "number": 4,
+      "quote": "Nobody puts Baby in a corner.",
+      "reveal_title": "Dirty Dancing (1987)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "trailer_key": "0rzsa_KEoKs"
+    },
+    {
+      "number": 5,
+      "quote": "Houston, we have a problem.",
+      "reveal_title": "Apollo 13 (1995)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "trailer_key": "B1KJ9XeZuxA"
+    },
+    {
+      "number": 6,
+      "quote": "If you build it, he will come.",
+      "reveal_title": "Field of Dreams (1989)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg"
+    },
+    {
+      "number": 7,
+      "quote": "You talkin' to me?",
+      "reveal_title": "Taxi Driver (1976)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "trailer_key": "S7ORyD-e7-0"
+    },
+    {
+      "number": 8,
+      "quote": "Say hello to my little friend!",
+      "reveal_title": "Scarface (1983)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "trailer_key": "lZMIrD36MG8"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "Can You Guess The Movie From Just Its Most Famous Quote?", "slug": "guess-the-movie-from-famous-quote" },
+    { "title": "Can You Guess The Movie From Just 3 Emoji?", "slug": "guess-the-movie-from-one-emoji" },
+    { "title": "Can You Guess The Actor From Their Breakout Role Alone?", "slug": "guess-the-actor-from-their-breakout-role" }
+  ]
+}

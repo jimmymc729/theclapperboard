@@ -1,0 +1,61 @@
+{
+  "slug": "movies-based-on-a-true-story-vs-reality",
+  "title": "5 'Based On A True Story' Movies vs. What Actually Happened",
+  "dek": "Real events, real people — and some very convenient rewrites for the sake of a better third act.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "Argo made the CIA's rescue plan look like a solo mission — Canada did most of the real work",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg", "caption": "A still from Argo" }
+      ],
+      "text": "Argo centers on CIA officer Tony Mendez's fake-movie cover story to extract six Americans from Iran in 1979. In reality, the Canadian ambassador Ken Taylor and Canadian intelligence sheltered and helped plan the escape for months beforehand — a role the film compresses into a much smaller part, prompting public pushback from Canadian officials after its release."
+    },
+    {
+      "number": 2,
+      "heading": "Captain Phillips shows a selfless hero — his own crew sued him for recklessness",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg", "caption": "A still from Captain Phillips" }
+      ],
+      "text": "The film's most heroic beat — Phillips offering himself to the pirates in place of his crew — never happened, according to the crew themselves. Eleven of the twenty crew members later sued Phillips and Maersk, alleging he ignored safety warnings and sailed far closer to the Somali coast than advised, putting the entire ship at unnecessary risk."
+    },
+    {
+      "number": 3,
+      "heading": "The Blind Side's feel-good ending is now the subject of an unresolved lawsuit",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/5P6hWD4zxAMntRuRnB4MmPLijNw.jpg", "caption": "A still from The Blind Side" }
+      ],
+      "text": "The film frames Michael Oher's relationship with the Tuohy family as an adoption. In 2023, Oher filed a petition alleging he'd actually signed a conservatorship at 18 — not adoption papers — that gave the Tuohys legal control over his business affairs without him ever being paid a share of profits from the film or book. A Tennessee judge ended the conservatorship that September; the Tuohys have denied wrongdoing."
+    },
+    {
+      "number": 4,
+      "heading": "Braveheart put William Wallace in a kilt that wouldn't exist for centuries",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg", "caption": "A still from Braveheart" }
+      ],
+      "text": "The tartan kilts worn throughout Braveheart didn't appear in Scotland until roughly 300 years after William Wallace's death. The film also invents a romance between Wallace and Isabella of France — but historically the two never met, and Isabella was a child living in France at the time the film depicts them falling in love."
+    },
+    {
+      "number": 5,
+      "heading": "The Imitation Game gave Alan Turing's codebreaking machine a name it never actually had",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/usuRn9DUKQQr4nBWnrQzlOuZ1Q4.jpg", "caption": "A still from The Imitation Game" }
+      ],
+      "text": "In the film, Turing names his codebreaking machine \"Christopher\" after a childhood love. The real device built at Bletchley Park was called the Bombe, with no connection to that name — one of several dramatic liberties the film takes with Turing's personal life and his relationships with colleagues, who have said he was better liked at Bletchley Park than the isolated figure shown on screen."
+    }
+  ],
+  "sources": [
+    { "title": "Hero or Reckless? Why the Real Captain Phillips Was Sued After the Hit Movie Released — MovieWeb", "url": "https://movieweb.com/captain-phillips-sued-why/" },
+    { "title": "Judge Ends Michael Oher's Conservatorship with Tuohy Family in 'Blind Side' Dispute — Sports Illustrated", "url": "https://www.si.com/nfl/2023/09/29/michael-oher-conservatorship-tuohy-family-ending-tennessee-judge" },
+    { "title": "We Can't Get Over These Historical Inaccuracies in 'Braveheart' — War History Online", "url": "https://www.warhistoryonline.com/hollywood/braveheart-historical-inaccuracies.html" },
+    { "title": "10 Most Inaccurate 'True Story' Movies That Completely Stretched The Truth — ScreenRant", "url": "https://screenrant.com/true-story-movies-that-never-happened/" }
+  ],
+  "related": [
+    { "title": "5 Insane Behind-The-Scenes Facts About Iconic Movies", "slug": "insane-behind-the-scenes-facts-iconic-movies" },
+    { "title": "6 Practical Effects So Good They Still Don't Look Fake", "slug": "practical-effects-that-still-hold-up" },
+    { "title": "The 10 Highest-Grossing Movies Of All Time", "slug": "highest-grossing-movies-of-all-time" }
+  ]
+}

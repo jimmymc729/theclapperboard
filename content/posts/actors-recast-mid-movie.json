@@ -1,0 +1,65 @@
+{
+  "slug": "actors-recast-mid-movie",
+  "title": "5 Times Hollywood Recast a Major Movie Role (And Why)",
+  "dek": "One actor walked away or got the call. Here's who stepped in — and how it changed film history.",
+  "category": "Actors",
+  "cover_image": "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "Eric Stoltz was Marty McFly for five weeks — then Michael J. Fox took over",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w500/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg", "caption": "Eric Stoltz — the original Marty McFly" },
+        { "url": "https://image.tmdb.org/t/p/w500/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg", "caption": "Michael J. Fox — the Marty everyone remembers" }
+      ],
+      "text": "Eric Stoltz had already been filming Back to the Future for about five weeks when director Robert Zemeckis and producer Bob Gale decided he didn't have the comedic energy the role needed. Production paused, most of his scenes were reshot from scratch, and Michael J. Fox — who was busy filming Family Ties at the time and shot both projects simultaneously — stepped in. It's now considered one of the most successful recasts in film history."
+    },
+    {
+      "number": 2,
+      "heading": "Winona Ryder dropped out of The Godfather Part III right as filming began",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w500/8RVrlgtua8b53wmK7oZAAkm0N5O.jpg", "caption": "Winona Ryder" },
+        { "url": "https://image.tmdb.org/t/p/w500/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg", "caption": "Sofia Coppola" }
+      ],
+      "text": "Ryder was cast as Mary Corleone but withdrew days before shooting, citing exhaustion. With no time to spare, director Francis Ford Coppola cast his own daughter, Sofia, in the role instead. The performance was widely panned at the time — but Sofia Coppola went on to become an acclaimed director in her own right."
+    },
+    {
+      "number": 3,
+      "heading": "Christopher Plummer reshot all of Kevin Spacey's scenes in about 9 days",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w500/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg", "caption": "Kevin Spacey" },
+        { "url": "https://image.tmdb.org/t/p/w500/u0YBwss0ebEUp8sjRtQKnK2wZdR.jpg", "caption": "Christopher Plummer" }
+      ],
+      "text": "After sexual misconduct allegations against Kevin Spacey surfaced weeks before All the Money in the World's release, director Ridley Scott made the unprecedented call to cut Spacey from the finished film entirely. Christopher Plummer reshot every one of Spacey's scenes in roughly nine days, and the film still hit its original release date."
+    },
+    {
+      "number": 4,
+      "heading": "Terrence Howard didn't return for Iron Man 2 — Don Cheadle suited up instead",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w500/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg", "caption": "Terrence Howard" },
+        { "url": "https://image.tmdb.org/t/p/w500/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg", "caption": "Don Cheadle" }
+      ],
+      "text": "Howard played James \"Rhodey\" Rhodes in the first Iron Man, but a reported pay dispute with Marvel meant he didn't come back for the sequel. Don Cheadle took over the role — including the War Machine armor — for every MCU appearance since."
+    },
+    {
+      "number": 5,
+      "heading": "Edward Norton played Bruce Banner once — then Marvel moved on to Mark Ruffalo",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg", "caption": "Edward Norton" },
+        { "url": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg", "caption": "Mark Ruffalo" }
+      ],
+      "text": "Norton starred as Bruce Banner in 2008's The Incredible Hulk, but Marvel Studios opted not to bring him back for The Avengers, citing a desire for an actor more suited to ensemble filmmaking. Mark Ruffalo took over the role and has played Banner/Hulk in every Marvel film since."
+    }
+  ],
+  "sources": [
+    { "title": "13 Surprising Recasts That Happened While Cameras Were Rolling — No Film School", "url": "https://nofilmschool.com/mid-shoot-actor-recasts" },
+    { "title": "25 actors who quit or were fired from hit film franchises early on — Stacker", "url": "https://stacker.com/stories/movies/25-actors-who-quit-or-were-fired-hit-film-franchises-early" },
+    { "title": "Hollywood Actors Who Were Fired From Movies — ComicBasics", "url": "https://www.comicbasics.com/hollywood-actors-who-were-fired-from-movies/" }
+  ],
+  "related": [
+    { "title": "2 Young Actors Who Were Recast Right Before A Movie Came Out", "slug": "young-actors-recast-before-release" },
+    { "title": "5 Famous Movies That Almost Had A Completely Different Director", "slug": "directors-who-almost-directed-different-movies" },
+    { "title": "6 Actors Who Turned Down Legendary Movie Roles", "slug": "actors-who-almost-played-iconic-roles" }
+  ]
+}

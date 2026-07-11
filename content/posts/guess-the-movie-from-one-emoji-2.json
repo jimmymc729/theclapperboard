@@ -1,0 +1,80 @@
+{
+  "slug": "guess-the-movie-from-one-emoji-2",
+  "title": "Can You Guess The Movie From Just 3 More Emoji?",
+  "dek": "Eight more movies, three emoji each. No skipping ahead.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "emoji": "🏠👦🎄",
+      "reveal_title": "Home Alone (1990)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "reveal_text": "Keep the change, ya filthy animal.",
+      "trailer_key": "dzdpqRGA1qc"
+    },
+    {
+      "number": 2,
+      "emoji": "🦁👑🌅",
+      "reveal_title": "The Lion King (1994)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "reveal_text": "Hakuna Matata — it means no worries, for the rest of your days.",
+      "trailer_key": "lFzVJEksoDY"
+    },
+    {
+      "number": 3,
+      "emoji": "❄️👸⛄",
+      "reveal_title": "Frozen (2013)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "reveal_text": "Let it go, let it go!",
+      "trailer_key": "TbQm5doF_Uc"
+    },
+    {
+      "number": 4,
+      "emoji": "🐠🌊🔍",
+      "reveal_title": "Finding Nemo (2003)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+      "reveal_text": "Just keep swimming.",
+      "trailer_key": "SPHfeNgogVs"
+    },
+    {
+      "number": 5,
+      "emoji": "🚗⚡🕰️",
+      "reveal_title": "Back to the Future (1985)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "reveal_text": "Great Scott!",
+      "trailer_key": "WRrCVyT09ow"
+    },
+    {
+      "number": 6,
+      "emoji": "🦋🔪🧠",
+      "reveal_title": "The Silence of the Lambs (1991)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "reveal_text": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+      "trailer_key": "6iB21hsprAQ"
+    },
+    {
+      "number": 7,
+      "emoji": "👻🚫📞",
+      "reveal_title": "Ghostbusters (1984)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "reveal_text": "Who ya gonna call?",
+      "trailer_key": "wQAljlSmjC8"
+    },
+    {
+      "number": 8,
+      "emoji": "🤠🚀🧸",
+      "reveal_title": "Toy Story (1995)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "reveal_text": "To infinity... and beyond!",
+      "trailer_key": "CxwTLktovTU"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "Can You Guess The Movie From Just 3 Emoji?", "slug": "guess-the-movie-from-one-emoji" },
+    { "title": "Can You Guess The Movie From Just Its Most Famous Quote?", "slug": "guess-the-movie-from-famous-quote" },
+    { "title": "Can You Guess The Movie From Just Its Poster Tagline?", "slug": "guess-the-movie-from-its-poster-tagline" }
+  ]
+}

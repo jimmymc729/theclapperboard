@@ -1,0 +1,66 @@
+{
+  "slug": "most-anticipated-upcoming-movies",
+  "title": "5 Massive Movies Everyone's About To Be Talking About",
+  "dek": "One drops literally this week. The other four are why Warner Bros. and Marvel are about to fight it out on the same December weekend.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "The Odyssey (July 17, 2026) — Christopher Nolan's version of the Trojan War's aftermath",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg", "caption": "The Odyssey (2026)" }
+      ],
+      "trailer_key": "AyIZ9tiiN8I",
+      "text": "Nolan's take on Homer's epic stars Matt Damon as Odysseus, with Anne Hathaway as Penelope, Tom Holland as their son Telemachus, and a cast that also includes Zendaya, Charlize Theron, Robert Pattinson, and Lupita Nyong'o. It's the first feature ever shot entirely on IMAX film cameras, and it just had its world premiere in London ahead of release this week."
+    },
+    {
+      "number": 2,
+      "heading": "Digger (October 2, 2026) — Tom Cruise, transformed, for Alejandro G. Iñárritu",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/hG1tXuommFDedfdrzaEHfMY1Q3W.jpg", "caption": "Digger (2026)" }
+      ],
+      "trailer_key": "Pd4Olzi0HEc",
+      "text": "Cruise plays Digger Rockwell — grey hair, heavy prosthetic makeup, a Southern accent — in a satirical dark comedy from Birdman and The Revenant director Alejandro G. Iñárritu. The ensemble includes Jesse Plemons, Sandra Hüller, Riz Ahmed, and John Goodman. It's a hard swerve from Cruise's usual action-hero register, which is exactly why it's generating buzz."
+    },
+    {
+      "number": 3,
+      "heading": "Dune: Part Three (December 18, 2026) — Denis Villeneuve closes out the saga",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg", "caption": "Dune: Part Three (2026)" }
+      ],
+      "trailer_key": "NdvqHc56lE0",
+      "text": "Adapting Dune: Messiah, the film follows Emperor Paul Atreides confronting the consequences of the holy war he set in motion. Timothée Chalamet, Zendaya, Florence Pugh, Rebecca Ferguson, and Javier Bardem all return, joined by Robert Pattinson and Anya Taylor-Joy."
+    },
+    {
+      "number": 4,
+      "heading": "Avengers: Doomsday (December 18, 2026) — the exact same day as Dune: Part Three",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/4OZznMYFmQPP4orKgbLaWRyYmBb.jpg", "caption": "Avengers: Doomsday (2026)" }
+      ],
+      "trailer_key": "399Ez7WHK5s",
+      "text": "Robert Downey Jr. returns to the MCU as Doctor Doom, in a crossover event pulling together the Russo Brothers' returning Avengers, the Fantastic Four, and the X-Men — including Patrick Stewart's Professor X and Ian McKellen's Magneto. It lands on the same December 18 weekend as Dune: Part Three, setting up one of the biggest single-day box office showdowns in years."
+    },
+    {
+      "number": 5,
+      "heading": "Man of Tomorrow (July 9, 2027) — the Superman sequel is already generating buzz",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/lX2TpAZxdIus6cnMCDBOrs96NBY.jpg", "caption": "Man of Tomorrow (2027)" }
+      ],
+      "text": "The follow-up to 2025's Superman reunites Kal-El with Lex Luthor, this time forced into an uneasy alliance against the superintelligent android Brainiac. Plot details are still being kept close to the chest, but expectations are already high after the first film's reception. No trailer yet — but expect that to change fast once filming wraps."
+    }
+  ],
+  "sources": [
+    { "title": "The Most Anticipated Movies of 2026 — Rotten Tomatoes", "url": "https://editorial.rottentomatoes.com/article/the-most-anticipated-movies-of-2026/" },
+    { "title": "Everything We Know About Christopher Nolan's The Odyssey — Deadline", "url": "https://deadline.com/feature/christopher-nolan-the-odyssey-news-1236284537/" },
+    { "title": "Dune: Part Three: Release Date, Cast, Trailers & More — Rotten Tomatoes", "url": "https://editorial.rottentomatoes.com/article/everything-we-know-about-dune-part-three/" },
+    { "title": "Avengers: Doomsday: Release Date, Trailer, Cast & More — Rotten Tomatoes", "url": "https://editorial.rottentomatoes.com/article/everything-we-know-about-avengers-doomsday/" },
+    { "title": "Tom Cruise's Digger release date set for October 2026 — Variety", "url": "https://variety.com/2025/film/global/tom-cruise-digger-release-date-october-2026-1236611862/" },
+    { "title": "Superman Sequel Man of Tomorrow Opens July 2027 — Variety", "url": "https://variety.com/2025/film/news/superman-sequel-release-date-man-of-tomorrow-july-2027-1236506322/" }
+  ],
+  "related": [
+    { "title": "Can You Guess The Movie From Just 3 Emoji?", "slug": "guess-the-movie-from-one-emoji" },
+    { "title": "5 Insane Behind-The-Scenes Facts About Iconic Movies", "slug": "insane-behind-the-scenes-facts-iconic-movies" }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "guess-the-actor-from-their-breakout-role-2",
+  "title": "Can You Guess The Actor From Their Breakout Role Alone? (Round 2)",
+  "dek": "No name, no photo until you reveal it — just the part that made them a star.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "quote": "I played a gold-digging wife opposite Leonardo DiCaprio in a three-hour fever dream about Wall Street excess — and it turned me from an unknown Australian soap actress into a movie star almost overnight.",
+      "reveal_title": "Margot Robbie",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/au6Hq8nQXJD67mDtl34ZOm8DXrh.jpg"
+    },
+    {
+      "number": 2,
+      "quote": "I played a 17-year-old falling for an older graduate student over one Italian summer, in a film best remembered for a monologue about peaches — it earned me an Oscar nomination at age 22.",
+      "reveal_title": "Timothée Chalamet",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+    },
+    {
+      "number": 3,
+      "quote": "I spent an entire film crying, screaming, and eventually smiling while flower-crowned strangers decided my fate at a Swedish midsummer festival that goes very, very wrong.",
+      "reveal_title": "Florence Pugh",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+    },
+    {
+      "number": 4,
+      "quote": "I played a real young man from Oakland on the last day of his life, based on a true story that sparked national outrage over how he died.",
+      "reveal_title": "Michael B. Jordan",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+    },
+    {
+      "number": 5,
+      "quote": "In my first-ever leading role, I lived alone with my Puritan family on the edge of the New England wilderness in 1630, slowly becoming everyone's prime suspect for witchcraft.",
+      "reveal_title": "Anya Taylor-Joy",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+      "number": 6,
+      "quote": "I spent well over a year training my voice and body to play one of the most famous musicians who ever lived — and it took me months afterward to fully sound like myself again.",
+      "reveal_title": "Austin Butler",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+    }
+  ],
+  "sources": [],
+  "related": [
+    { "title": "Can You Guess The Actor From Their Breakout Role Alone?", "slug": "guess-the-actor-from-their-breakout-role" },
+    { "title": "6 Child Actors Who Grew Up To Become A-List Stars", "slug": "child-actors-who-became-a-list-stars" },
+    { "title": "Can You Guess The Movie From Just Its Most Famous Quote? (Round 2)", "slug": "guess-the-movie-from-famous-quote-2" }
+  ]
+}

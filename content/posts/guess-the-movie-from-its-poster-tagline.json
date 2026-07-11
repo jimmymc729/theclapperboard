@@ -1,0 +1,62 @@
+{
+  "slug": "guess-the-movie-from-its-poster-tagline",
+  "title": "Can You Guess The Movie From Just Its Poster Tagline?",
+  "dek": "No image, no title — just the line that sold millions of tickets.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "quote": "In space, no one can hear you scream.",
+      "reveal_title": "Alien (1979)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "trailer_key": "sVwH0hIvV5k"
+    },
+    {
+      "number": 2,
+      "quote": "Just when you thought it was safe to go back in the water…",
+      "reveal_title": "Jaws 2 (1978)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/q46nyik6GeDkUV6wQGiZQ97UuP6.jpg",
+      "trailer_key": "2-KIByGsyaI"
+    },
+    {
+      "number": 3,
+      "quote": "An adventure 65 million years in the making.",
+      "reveal_title": "Jurassic Park (1993)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/o7LzVmlOSYc3EspyVMC9bsTTARc.jpg",
+      "trailer_key": "Rz_FvTXa_qY"
+    },
+    {
+      "number": 4,
+      "quote": "He is afraid. He is totally alone. He is 3 million light years from home.",
+      "reveal_title": "E.T. the Extra-Terrestrial (1982)",
+      "reveal_image": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "trailer_key": "NsvdZ_z56c0"
+    },
+    {
+      "number": 5,
+      "quote": "They're here.",
+      "reveal_title": "Poltergeist (1982)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+      "trailer_key": "RtKn4rHAMAg"
+    },
+    {
+      "number": 6,
+      "quote": "Pray for Rosemary's Baby.",
+      "reveal_title": "Rosemary's Baby (1968)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+      "trailer_key": "pwLKIcB0zDw"
+    }
+  ],
+  "sources": [
+    { "title": "30 of the Best Movie Taglines of All Time — Paste Magazine", "url": "https://www.pastemagazine.com/movies/movie-marketing/best-movie-taglines-of-all-time-memorable-iconic-posters-quotes" },
+    { "title": "The Jaws Franchise Gave Us One of the Greatest Movie Taglines of All Time — ComicBook.com", "url": "https://comicbook.com/movies/news/jaws-jaws-2-steven-spielberg-jaws-50th-anniversary/" },
+    { "title": "Poltergeist (1982) — Taglines — IMDb", "url": "https://www.imdb.com/title/tt0084516/taglines/" },
+    { "title": "Rosemary's Baby (1968) — Taglines — IMDb", "url": "https://www.imdb.com/title/tt0063522/taglines/" }
+  ],
+  "related": [
+    { "title": "Can You Guess The Movie From Just 3 Emoji?", "slug": "guess-the-movie-from-one-emoji" },
+    { "title": "Can You Guess The Movie From Its Most Famous Quote?", "slug": "guess-the-movie-from-famous-quote" }
+  ]
+}

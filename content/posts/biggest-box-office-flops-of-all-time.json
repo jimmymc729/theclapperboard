@@ -1,0 +1,62 @@
+{
+  "slug": "biggest-box-office-flops-of-all-time",
+  "title": "5 Of The Biggest Box Office Flops In Movie History",
+  "dek": "One of these once held the Guinness World Record for the biggest loss ever — until an even bigger disaster came along two decades later.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/689yJyzzy6yGj359HrsT9KWyeWA.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "John Carter cost Disney around $200 million and got its studio chief fired",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/689yJyzzy6yGj359HrsT9KWyeWA.jpg", "caption": "A still from John Carter" }
+      ],
+      "text": "With a production and marketing budget around $350 million, John Carter needed roughly $600 million worldwide just to break even. It grossed $284 million. Disney took a $200 million write-down, and the studio's then-chairman resigned soon after."
+    },
+    {
+      "number": 2,
+      "heading": "Heaven's Gate lost United Artists an estimated $128 million (adjusted) — and nearly sank the studio",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/v0DsJiF7LAeJtqFObQfq3eU6rag.jpg", "caption": "A still from Heaven's Gate" }
+      ],
+      "text": "Michael Cimino's 1980 western ran wildly over budget during a 10-month shoot, ultimately costing around $44 million (roughly $171 million today) and earning back just $3.5 million domestically. The disaster is widely credited with ending United Artists as an independent studio."
+    },
+    {
+      "number": 3,
+      "heading": "Cutthroat Island held the Guinness World Record for biggest box office loss — for 17 years",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/hHoIQVAmTg4RM7PPNhNvMlJk3mg.jpg", "caption": "A still from Cutthroat Island" }
+      ],
+      "text": "The 1995 pirate epic grossed only $16 million worldwide against a budget that pushed its total loss past $100 million, bankrupting its production company, Carolco Pictures, in the process. It held the Guinness World Record for the largest box office loss of all time until 2012, when John Carter took the title."
+    },
+    {
+      "number": 4,
+      "heading": "The Lone Ranger cost Disney up to $190 million",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/vHd8RTXTGFwexUC2Mj1HOgSy9J3.jpg", "caption": "A still from The Lone Ranger" }
+      ],
+      "text": "With a production budget that reportedly reached $250 million and marketing costs pushing the total investment near $400 million, 2013's The Lone Ranger made back only $260.5 million worldwide. Disney announced a write-down of up to $190 million."
+    },
+    {
+      "number": 5,
+      "heading": "47 Ronin lost Universal an estimated $150 million after ballooning reshoots",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/nyt0jlofZyjhRqiQkEp0cdoKaS3.jpg", "caption": "A still from 47 Ronin" }
+      ],
+      "text": "Keanu Reeves' samurai epic saw its budget climb toward $175–225 million after costly reshoots and a late decision to convert it to 3D. It earned back $151.8 million worldwide — enough to cover barely half its total cost once marketing was factored in."
+    }
+  ],
+  "sources": [
+    { "title": "List of biggest box-office bombs — Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_biggest_box-office_bombs" },
+    { "title": "Famous Flops: 'John Carter' Became Shorthand For 'Box Office Bomb' — Forbes", "url": "https://www.forbes.com/sites/scottmendelson/2015/03/09/famous-flops-john-carter-became-shorthand-for-box-office-bomb/" },
+    { "title": "The 1995 Box Office Bomb That Once Held A Guinness World Record — CinemaBlend", "url": "https://www.cinemablend.com/streaming-news/the-1995-box-office-bomb-that-once-held-a-guinness-world-record-for-biggest-loss-is-streaming-for-free-cutthroat-island" },
+    { "title": "Disney Analysts Peg 'Lone Ranger' Loss at up to $190 Million — The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/news/general-news/disney-analysts-peg-lone-ranger-581961/" },
+    { "title": "Keanu Reeves' Biggest Box Office Bomb Was A $175 Million Disaster — ScreenRant", "url": "https://screenrant.com/keanu-reeves-47-ronin-movie-box-office-bomb/" }
+  ],
+  "related": [
+    { "title": "The 10 Highest-Grossing Movies Of All Time", "slug": "highest-grossing-movies-of-all-time" },
+    { "title": "5 Movies That Flopped In Theaters — Then Became Cult Classics", "slug": "movies-that-flopped-then-became-cult-classics" },
+    { "title": "5 Movies Whose Budgets Completely Spiraled Out Of Control", "slug": "movie-budgets-that-spiraled-out-of-control" }
+  ]
+}

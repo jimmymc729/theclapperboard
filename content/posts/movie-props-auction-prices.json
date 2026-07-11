@@ -1,0 +1,68 @@
+{
+  "slug": "movie-props-auction-prices",
+  "title": "6 Movie Props That Sold For Jaw-Dropping Amounts At Auction",
+  "dek": "One pair of shoes just sold for $28 million. Here's what else movie memorabilia is actually worth.",
+  "category": "Movies",
+  "cover_image": "https://image.tmdb.org/t/p/w780/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
+  "date": "2026-07-10",
+  "items": [
+    {
+      "number": 1,
+      "heading": "Dorothy's ruby slippers sold for $28 million — the most expensive movie prop ever",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg", "caption": "The Wizard of Oz (1939)" }
+      ],
+      "text": "One of the surviving pairs of ruby slippers Judy Garland wore in The Wizard of Oz sold for $28 million in December 2024, making it the most expensive piece of film memorabilia ever auctioned. Several pairs were made for the production; one was stolen from a Minnesota museum in 2005 and recovered by the FBI over a decade later."
+    },
+    {
+      "number": 2,
+      "heading": "The Rosebud sled from Citizen Kane went for $14.75 million",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg", "caption": "Citizen Kane (1941)" }
+      ],
+      "text": "Multiple sleds were built for Citizen Kane's famous final shot, and at least one surviving example sold at auction for $14.75 million. As one of cinema's most direct visual metaphors — an entire film built around explaining one object — it remains one of the most valuable props in Hollywood history."
+    },
+    {
+      "number": 3,
+      "heading": "The Maltese Falcon statuette sold for $4.1 million",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/53oYEMJjbpMy4WTNycrlK4WF0yt.jpg", "caption": "The Maltese Falcon (1941)" }
+      ],
+      "text": "One of the lead-cast falcon statuettes used in the 1941 film sold for $4.1 million at a New York auction in 2013. Like the Rosebud sled, its value comes from being the literal object the entire plot revolves around."
+    },
+    {
+      "number": 4,
+      "heading": "The original 1960s Batmobile sold for $4.6 million",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/nOWOU0bdX76iF9XA1YPlInLbI4Y.jpg", "caption": "Batman (1966)" }
+      ],
+      "text": "Built from a 1955 Lincoln Futura concept car for the 1960s Batman TV series and film, the original Batmobile sold at a Scottsdale auction for $4.6 million in 2013 — a record for a piece of automotive movie memorabilia at the time."
+    },
+    {
+      "number": 5,
+      "heading": "The piano from Casablanca's 'As Time Goes By' scene sold for $3.4 million",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg", "caption": "Casablanca (1942)" }
+      ],
+      "text": "The upright piano played by Dooley Wilson's character Sam in Casablanca's most famous scene sold for $3.4 million in 2014, reflecting just how much value collectors place on props tied to a film's single most iconic moment."
+    },
+    {
+      "number": 6,
+      "heading": "An R2-D2 droid from the original Star Wars sold for $2.75 million",
+      "images": [
+        { "url": "https://image.tmdb.org/t/p/w780/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg", "caption": "Star Wars (1977)" }
+      ],
+      "text": "Several R2-D2 units were built across the original Star Wars trilogy for different functions (remote-controlled, motorized, actor-operated). One of the surviving droids sold for $2.75 million in 2017, part of a broader boom in sci-fi and franchise memorabilia at auction."
+    }
+  ],
+  "sources": [
+    { "title": "Box Office Gold: Why Film Memorabilia Is Now Commanding Millions — Artnet News", "url": "https://news.artnet.com/art-world/film-memorabilia-entertainment-market-2713463" },
+    { "title": "List of film memorabilia — Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_film_memorabilia" },
+    { "title": "14 Movie Props That Sold For Crazy Money at Auctions — The Scroller", "url": "https://www.thescroller.net/14204/indiana-jones-fedora-and-14-other-movie-props-that-sold-for-crazy-money-at-auctions/" }
+  ],
+  "related": [
+    { "title": "5 Movies Whose Budgets Completely Spiraled Out Of Control", "slug": "movie-budgets-that-spiraled-out-of-control" },
+    { "title": "5 Insane Behind-The-Scenes Facts About Iconic Movies", "slug": "insane-behind-the-scenes-facts-iconic-movies" },
+    { "title": "Guess The Movie From Its Most Famous Quote", "slug": "guess-the-movie-from-famous-quote" }
+  ]
+}
