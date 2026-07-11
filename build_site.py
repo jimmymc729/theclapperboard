@@ -479,7 +479,7 @@ def render_trailers_page(trailers: list) -> str:
     cards = "".join(trailer_page_card(t, root) for t in trailers)
     body = f"""  <section class="hero">
     <h1>🎥 Latest Movie Trailers</h1>
-    <p>The newest trailers for the most-anticipated upcoming releases, pulled straight from TMDB and updated automatically.</p>
+    <p>The newest trailers for the movies everyone's about to be talking about — check back often, this shelf keeps growing.</p>
   </section>
 
 {flickle_cta()}
@@ -490,7 +490,7 @@ def render_trailers_page(trailers: list) -> str:
 """
     return base_page(
         f"Latest Movie Trailers | {SITE['name']}",
-        "The newest trailers for the most-anticipated upcoming movie releases, updated automatically.",
+        "The newest trailers for the most-anticipated upcoming movies, all in one place.",
         "/trailers/",
         body,
         root,
