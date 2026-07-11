@@ -57,6 +57,7 @@ import time
 import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
 
@@ -296,13 +297,22 @@ def custom_photos_for(name: str) -> list:
     more current than TMDB has on file, or just a better shot. Purely
     additive: these become extra candidates alongside whatever TMDB
     returns in tmdb_person_image(), never a forced replacement, and an
-    empty/missing folder is simply zero extra candidates."""
+    empty/missing folder is simply zero extra candidates.
+
+    Filenames don't need to be descriptive or tidy — a raw Twitter media ID
+    works exactly as well as a hand-typed name — but they DO need to be
+    valid inside a URL, so each path segment is percent-encoded (a literal
+    space or "#" in a filename would otherwise produce a broken/unreliable
+    URL once embedded in the page)."""
     folder = CUSTOM_PHOTOS_DIR / slugify(name)
     if not folder.is_dir():
         return []
     exts = {".jpg", ".jpeg", ".png", ".webp"}
     files = sorted(f for f in folder.iterdir() if f.is_file() and f.suffix.lower() in exts)
-    return [f"{SITE_URL}/assets/custom-photos/{folder.name}/{f.name}" for f in files]
+    return [
+        f"{SITE_URL}/assets/custom-photos/{quote(folder.name)}/{quote(f.name)}"
+        for f in files
+    ]
 
 
 def tmdb_person_image(name: str, used_images: set = None, max_candidates: int = 6) -> str:
