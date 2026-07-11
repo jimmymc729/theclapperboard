@@ -1,0 +1,1267 @@
+:root {
+  --bg: #ffffff;
+  --bg-sunken: #f4f4f6;
+  --text: #14141a;
+  --text-muted: #6b6b76;
+  --border: #ececef;
+  --accent: #ff3b5c;
+  --accent-dark: #d81e42;
+  --gold: #ffc145;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Poppins", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "SF Mono", "Fira Code", Consolas, Menlo, monospace;
+  --radius: 14px;
+  --shadow-sm: 0 1px 3px rgba(20, 20, 26, 0.08);
+  --shadow-md: 0 6px 20px rgba(20, 20, 26, 0.12);
+  --shadow-lg: 0 12px 32px rgba(20, 20, 26, 0.16);
+  /* Narrower reading column used inside .list-item / .post-header, so
+     images (which stay the full .wrap width) visibly bleed wider than the
+     text sitting above/below them — that width contrast plus generous
+     spacing is what keeps the page from feeling packed edge-to-edge. */
+  --text-col: 640px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+a { color: inherit; }
+
+.wrap {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Clapper stripes — the diagonal color-bar pattern printed on the wooden
+   "sticks" of a real clapperboard, used here as the site's top banner.
+   Not sticky/scrolling with the header — it's a one-time brand flourish
+   at the very top of the page. */
+.clapper-stripes {
+  height: 16px;
+  width: 100%;
+  background: repeating-linear-gradient(
+    45deg,
+    #14141a 0px, #14141a 22px,
+    #ffffff 22px, #ffffff 44px,
+    #14141a 44px, #14141a 66px,
+    #2ea84a 66px, #2ea84a 88px,
+    #14141a 88px, #14141a 110px,
+    #ffc145 110px, #ffc145 132px,
+    #14141a 132px, #14141a 154px,
+    #2469c7 154px, #2469c7 176px,
+    #14141a 176px, #14141a 198px,
+    #d81e42 198px, #d81e42 220px,
+    #14141a 220px, #14141a 242px,
+    #ffffff 242px, #ffffff 264px
+  );
+}
+
+/* Header */
+.site-header {
+  border-bottom: 3px solid var(--text);
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  z-index: 10;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--text);
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.4rem;
+  letter-spacing: -0.02em;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.header-nav a {
+  text-decoration: none;
+  color: var(--text);
+}
+
+.header-nav a.flickle-link {
+  color: #fff;
+  background: var(--accent);
+  padding: 8px 16px;
+  border-radius: 999px;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.header-nav a.flickle-link:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Category tab row — styled as adjoining slate cells, echoing the ruled
+   ROLL / SCENE / TAKE boxes printed on a real clapperboard. */
+.category-nav {
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+  padding: 0 20px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  overflow-x: auto;
+}
+
+.category-nav a {
+  text-decoration: none;
+  color: inherit;
+  white-space: nowrap;
+  padding: 7px 16px;
+  border: 2px solid var(--text);
+  border-left: none;
+  margin-bottom: 10px;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.category-nav a:first-child {
+  border-left: 2px solid var(--text);
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.category-nav a:last-child {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.category-nav a:hover {
+  color: #fff;
+  background: var(--text);
+}
+
+.page-main { padding: 40px 0 32px; }
+
+/* Narrower centered text column — see --text-col comment above */
+.list-item-text {
+  max-width: var(--text-col);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Category pill */
+.pill {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: var(--gold);
+  color: #14141a;
+}
+
+/* Flickle CTA */
+.flickle-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  background: var(--text);
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 26px 30px;
+  margin: 44px 0;
+  flex-wrap: wrap;
+  box-shadow: var(--shadow-md);
+}
+
+.flickle-cta-eyebrow {
+  margin: 0 0 4px;
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--gold);
+  font-weight: 800;
+}
+
+.flickle-cta-headline {
+  margin: 0 0 2px;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+
+.flickle-cta-sub {
+  margin: 0;
+  color: #c8c8d0;
+  font-size: 0.86rem;
+}
+
+.flickle-cta-button {
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  padding: 12px 22px;
+  border-radius: 999px;
+  font-weight: 800;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  transition: transform 0.15s ease;
+  display: inline-block;
+}
+
+.flickle-cta-button:hover { transform: translateY(-1px) scale(1.02); }
+
+/* Homepage feed — the hero itself is styled as a slate card: a ruled
+   info strip (PROD / SCENE / TAKE / DATE) sitting above the headline,
+   the same fields printed on a real clapperboard. */
+.hero {
+  padding: 18px 20px 20px;
+  margin-top: 8px;
+  border: 3px solid var(--text);
+  border-radius: 10px;
+  background: var(--bg);
+}
+
+.hero-slate-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 22px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  border-bottom: 2px solid var(--text);
+  padding-bottom: 12px;
+  margin-bottom: 14px;
+}
+
+.hero-slate-info strong {
+  color: var(--text);
+  font-weight: 700;
+  margin-left: 4px;
+}
+
+.hero h1 {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin: 0 0 8px;
+}
+
+.hero p {
+  color: var(--text-muted);
+  max-width: 60ch;
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.featured-wrap { margin: 28px 0; }
+
+/* Trending grid — BuzzFeed's "1 big + 3 small" above-the-fold pattern.
+   Hero card fills the left column; the three small cards are compact
+   thumbnail+title rows stacked in the right column, sized to match the
+   hero's height exactly so the whole thing stays above the fold. */
+.trending-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 14px;
+  margin: 10px 0 14px;
+  align-items: stretch;
+}
+
+.trending-items {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.trending-card {
+  display: block;
+  text-decoration: none;
+  color: var(--text);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--bg-sunken);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.trending-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+}
+
+.trending-number {
+  font-family: var(--font-display);
+  font-weight: 900;
+  color: #fff;
+}
+
+/* Hero card: matches the full height of the compact item stack next to
+   it, title + number overlaid on a dark gradient scrim at the bottom. */
+.trending-hero-image {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 280px;
+}
+
+.trending-hero-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.trending-hero-scrim {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+  padding: 20px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.35) 45%, rgba(0, 0, 0, 0) 75%);
+}
+
+.trending-hero-scrim .trending-number {
+  font-size: 2.6rem;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.trending-hero-title {
+  margin: 0 0 2px;
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.4rem;
+  line-height: 1.25;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+/* Small cards #2-4: a compact thumbnail + title row (not stacked), so
+   three of them together are no taller than the hero card next to them —
+   this is what keeps the whole grid inside the fold. */
+.trending-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+  padding: 8px;
+}
+
+.trending-item-image {
+  position: relative;
+  flex: 0 0 auto;
+  width: 92px;
+  aspect-ratio: 1 / 1;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.trending-item-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.trending-item-image .trending-number {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  font-size: 0.85rem;
+  background: rgba(0, 0, 0, 0.65);
+  min-width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 0 5px;
+}
+
+.trending-item-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.94rem;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.see-all-link {
+  display: inline-block;
+  margin: 0 0 30px;
+  color: var(--accent-dark);
+  font-weight: 800;
+  font-size: 0.92rem;
+  text-decoration: none;
+}
+
+.see-all-link:hover { text-decoration: underline; }
+
+@media (max-width: 700px) {
+  .trending-grid {
+    grid-template-columns: 1fr;
+  }
+  .trending-hero-image { min-height: 220px; }
+  .trending-hero-title { font-size: 1.2rem; }
+  .trending-items { flex-direction: column; }
+}
+
+.post-card-featured {
+  display: block;
+}
+
+.post-card-featured .post-card-image {
+  aspect-ratio: 16 / 9;
+}
+
+.post-card-featured .post-card-title {
+  font-size: 1.7rem;
+  line-height: 1.2;
+}
+
+@media (max-width: 700px) {
+  .post-card-featured .post-card-image { aspect-ratio: 4 / 3; }
+  .post-card-featured .post-card-title { font-size: 1.3rem; }
+}
+
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 22px;
+  margin: 28px 0 44px;
+}
+
+.post-card {
+  text-decoration: none;
+  color: var(--text);
+  display: block;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--bg-sunken);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.post-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+}
+
+.post-card-image {
+  aspect-ratio: 4 / 3;
+  background: var(--bg-sunken);
+  overflow: hidden;
+  position: relative;
+}
+
+.post-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.post-card:hover .post-card-image img { transform: scale(1.05); }
+
+.post-card-body {
+  padding: 14px 16px 18px;
+}
+
+.post-card-title {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.05rem;
+  line-height: 1.3;
+  margin: 8px 0 0;
+}
+
+/* Post page */
+.post-header {
+  padding: 6px 0 12px;
+}
+
+.post-header .pill { margin-bottom: 16px; }
+
+.post-header h1 {
+  font-family: var(--font-display);
+  font-size: 2.2rem;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin: 0 0 16px;
+}
+
+.post-dek {
+  color: var(--text-muted);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin: 0 0 18px;
+}
+
+.post-meta {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0 0 28px;
+}
+
+.post-cover {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--bg-sunken);
+  margin-bottom: 24px;
+  box-shadow: var(--shadow-md);
+}
+
+@media (max-width: 600px) {
+  .post-cover { aspect-ratio: 1 / 1; }
+}
+
+.post-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Share row */
+.share-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 8px 0 4px;
+}
+
+.share-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin-right: 4px;
+}
+
+.share-row a {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--bg-sunken);
+  border: 1px solid var(--border);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 0.95rem;
+  color: var(--text);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.share-row a:hover {
+  background: var(--accent);
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.breadcrumb {
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.breadcrumb a { text-decoration: none; color: var(--text-muted); }
+
+/* List items */
+.list-item {
+  padding: 56px 0;
+  border-top: 1px solid var(--border);
+}
+
+.list-item:first-of-type { border-top: none; padding-top: 8px; }
+
+.list-item-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.35rem;
+  margin-bottom: 18px;
+  box-shadow: var(--shadow-md);
+}
+
+.list-item h2 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+  margin: 0 0 26px;
+}
+
+.list-item-images {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 26px;
+}
+
+.list-item-images figure {
+  margin: 0;
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.img-box {
+  /* Every image sits in an identically-sized square box regardless of its
+     own aspect ratio — a tall headshot and a wide movie still get equal
+     visual weight this way instead of one dwarfing the other. A controlled,
+     centered crop here (object-fit: cover) reads much cleaner than padding
+     out the empty space, and a fixed, predictable square is exactly the
+     case where cropping doesn't risk cutting off the part that matters. */
+  aspect-ratio: 1 / 1;
+  background: var(--bg-sunken);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+
+.img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* A single image (no .img-box wrapper) just displays at its own natural
+   size — nothing to visually balance it against, so no letterbox needed. */
+.list-item-images > figure > img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: var(--radius);
+  background: var(--bg-sunken);
+  box-shadow: var(--shadow-md);
+}
+
+@media (max-width: 560px) {
+  .list-item-images { flex-direction: column; }
+  .list-item-images figure { flex: 1 1 auto; width: 100%; }
+  .img-box { aspect-ratio: 4 / 3; }
+}
+
+.list-item-images figcaption {
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--text-muted);
+  margin-top: 6px;
+  text-align: center;
+}
+
+.list-item p {
+  margin: 0;
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+
+/* Emoji guess format — a dark "slate" card (echoing the clapperboard
+   itself) with a mini clapper-stripe bar on top, so game items read as
+   a distinct, more playful format than the plain listicle items around
+   them. The stripe/border color cycles per item (see nth-of-type rules
+   below) so a run of clues doesn't look monotonous. */
+.emoji-clue,
+.quote-clue {
+  position: relative;
+  overflow: hidden;
+  color: #fff;
+  background: linear-gradient(150deg, #23232e 0%, #14141a 75%);
+  border-radius: var(--radius);
+  margin-bottom: 22px;
+  box-shadow: var(--shadow-lg);
+}
+
+.emoji-clue::before,
+.quote-clue::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 6px;
+  background: var(--accent);
+}
+
+.emoji-clue {
+  font-size: 3.8rem;
+  line-height: 1;
+  text-align: center;
+  padding: 48px 20px 44px;
+}
+
+.emoji-clue::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 60%, rgba(255, 255, 255, 0.1), transparent 62%);
+  pointer-events: none;
+}
+
+/* Guess-the-movie-from-a-quote format */
+.quote-clue {
+  display: block;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1.7rem;
+  line-height: 1.4;
+  text-align: center;
+  padding: 46px 36px 40px;
+  margin: 0 0 22px;
+}
+
+.quote-clue::after {
+  content: "\201C";
+  position: absolute;
+  top: -34px;
+  left: 14px;
+  font-family: Georgia, serif;
+  font-style: normal;
+  font-size: 7rem;
+  color: rgba(255, 255, 255, 0.08);
+  line-height: 1;
+  pointer-events: none;
+}
+
+/* Cycle the top stripe (and matching reveal accents below) through the
+   brand's three clapperboard colors so a page of several clues feels
+   varied rather than repeating the same card three-plus times in a row. */
+.list-item:nth-of-type(3n+2) .emoji-clue::before,
+.list-item:nth-of-type(3n+2) .quote-clue::before { background: var(--gold); }
+.list-item:nth-of-type(3n) .emoji-clue::before,
+.list-item:nth-of-type(3n) .quote-clue::before { background: #2469c7; }
+
+@media (max-width: 600px) {
+  .quote-clue { font-size: 1.3rem; padding: 38px 22px 32px; }
+  .quote-clue::after { font-size: 5.5rem; top: -22px; }
+}
+
+/* The reveal itself is a centered pill button until tapped, then opens
+   into a proper "answer card" below it rather than plain inline text. */
+details.reveal {
+  text-align: center;
+}
+
+details.reveal summary {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.95rem;
+  color: #fff;
+  background: var(--accent);
+  padding: 12px 24px;
+  border-radius: 999px;
+  list-style: none;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+details.reveal summary:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+details.reveal summary::-webkit-details-marker { display: none; }
+
+details.reveal summary::before { content: "🎬"; }
+details.reveal[open] summary { background: var(--text); }
+details.reveal[open] summary::before { content: "🙈"; }
+
+.reveal-body {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  text-align: left;
+  margin-top: 18px;
+  padding: 18px 20px;
+  background: var(--bg-sunken);
+  border-left: 5px solid var(--accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  flex-wrap: wrap;
+}
+
+.list-item:nth-of-type(3n+2) .reveal-body { border-left-color: var(--gold); }
+.list-item:nth-of-type(3n) .reveal-body { border-left-color: #2469c7; }
+
+.reveal-body img {
+  width: 320px;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 14px;
+  flex-shrink: 0;
+  box-shadow: var(--shadow-md);
+}
+
+.reveal-body .reveal-eyebrow {
+  font-size: 0.85rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent-dark);
+  margin: 0 0 8px;
+}
+
+.reveal-body .reveal-title {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 2rem;
+  line-height: 1.2;
+  margin: 0 0 10px;
+}
+
+.reveal-body .reveal-quote {
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+@media (max-width: 700px) {
+  .reveal-body { gap: 16px; padding: 16px; }
+  .reveal-body img { width: 100%; height: auto; aspect-ratio: 1 / 1; }
+  .reveal-body .reveal-title { font-size: 1.4rem; }
+  .reveal-body .reveal-quote { font-size: 1.05rem; }
+}
+
+.video-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin-top: 16px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: #000;
+  box-shadow: var(--shadow-md);
+}
+
+.video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Personality quiz — self-scoring, entirely client-side (see the quiz
+   block in script.js). Only one question is ever visible at a time (a
+   progress bar tracks position) so the page never turns into a wall of
+   text — picking an answer auto-advances to the next question. */
+.quiz-intro {
+  max-width: var(--text-col);
+  margin: 0 auto 30px;
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  text-align: center;
+}
+
+.quiz-progress-track {
+  height: 6px;
+  background: var(--bg-sunken);
+  border-radius: 999px;
+  overflow: hidden;
+  max-width: 360px;
+  margin: 0 auto 10px;
+}
+
+.quiz-progress-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 999px;
+  transition: width 0.35s ease;
+}
+
+.quiz-progress-label {
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin: 0 0 30px;
+}
+
+/* Only the active question renders; the rest stay display:none rather
+   than relying on the [hidden] attribute, so there's no risk of an
+   author rule elsewhere accidentally overriding visibility (see the
+   .quiz-result fix below for why that matters). */
+.quiz-question {
+  display: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.quiz-question.active {
+  display: block;
+  animation: quiz-fade-in 0.35s ease;
+}
+
+@keyframes quiz-fade-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.quiz-question legend {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.55rem;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  margin: 0 0 30px;
+  padding: 0;
+}
+
+.quiz-answers {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+.quiz-answer {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px 20px;
+  background: var(--bg-sunken);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.35;
+  transition: border-color 0.15s ease, background 0.15s ease, transform 0.15s ease;
+}
+
+.quiz-answer:hover {
+  border-color: var(--text-muted);
+  transform: translateY(-1px);
+}
+
+.quiz-answer input {
+  /* Visually hidden but still focusable/clickable — the badge + card
+     styling below is the real "radio button" the visitor sees. */
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+}
+
+.quiz-answer-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: var(--text);
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.85rem;
+  transition: background 0.15s ease;
+}
+
+.quiz-answer:has(input:checked) {
+  border-color: var(--accent);
+  background: #fff0f2;
+  font-weight: 800;
+}
+
+.quiz-answer:has(input:checked) .quiz-answer-badge {
+  background: var(--accent);
+}
+
+.quiz-answer:has(input:focus-visible) {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Result card — hidden by default; script.js un-hides the one matching
+   the winning tally (and the shared .quiz-results wrapper) once every
+   question is answered. The explicit [hidden] rule below is required:
+   .quiz-result also sets its own `display`, which — being an author
+   style — would otherwise silently win over the browser's built-in
+   "[hidden] { display: none }" rule and keep every result visible. */
+.quiz-result[hidden] {
+  display: none;
+}
+
+.quiz-result {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 26px;
+  align-items: center;
+  background: linear-gradient(150deg, #23232e 0%, #14141a 75%);
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 30px;
+  box-shadow: var(--shadow-lg);
+}
+
+.quiz-result img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 14px;
+  flex-shrink: 0;
+  box-shadow: var(--shadow-md);
+}
+
+@media (max-width: 700px) {
+  .quiz-result { padding: 22px; }
+  .quiz-result img { width: 100%; height: auto; aspect-ratio: 1 / 1; }
+}
+
+.quiz-result-eyebrow {
+  margin: 0 0 4px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gold);
+}
+
+.quiz-result-name {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.8rem;
+  line-height: 1.15;
+  margin: 0 0 4px;
+}
+
+.quiz-result-subtitle {
+  margin: 0 0 14px;
+  color: #c8c8d0;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.quiz-result-desc {
+  margin: 0 0 18px;
+  color: #dedee4;
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+
+.quiz-result-actions {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+/* The share row is shared with regular post pages (light background) —
+   these overrides just re-theme it to sit on the quiz result's dark card
+   instead of duplicating the whole component. */
+.quiz-result .share-row {
+  margin: 0;
+}
+
+.quiz-result .share-label {
+  color: #c8c8d0;
+}
+
+.quiz-result .share-row a {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.3);
+  color: #fff;
+}
+
+.quiz-result .share-row a:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.quiz-retake-btn {
+  background: transparent;
+  color: #fff;
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  border-radius: 999px;
+  padding: 10px 20px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.quiz-retake-btn:hover {
+  border-color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Reaction strip */
+.reaction-strip {
+  text-align: center;
+  padding: 30px 0;
+  border-top: 1px solid var(--border);
+  margin-top: 10px;
+}
+
+.reaction-prompt {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin: 0 0 14px;
+}
+
+.reaction-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.reaction-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--bg-sunken);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 10px 16px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  color: var(--text);
+  transition: transform 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+}
+
+.reaction-btn:hover { transform: translateY(-2px); }
+
+.reaction-btn.reacted {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.reaction-emoji { font-size: 1.15rem; }
+
+.reaction-count {
+  font-size: 0.78rem;
+  opacity: 0.75;
+}
+
+/* Section headings (Keep Reading / Sources) */
+.section-heading {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.2rem;
+  margin: 0 0 14px;
+}
+
+.section-heading-small { font-size: 1.05rem; }
+
+/* Related posts */
+/* .related-grid rides on top of .post-grid (same card styling as the
+   homepage) — just a couple of spacing tweaks for its position at the
+   bottom of a post rather than the top of the homepage. */
+.related-grid {
+  margin: 20px 0 10px;
+}
+
+/* Sources */
+.sources-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 0.9rem;
+}
+
+.sources-list li { margin-bottom: 6px; }
+.sources-list a { color: var(--accent); text-decoration: none; }
+
+/* Footer */
+.site-footer {
+  border-top: 3px solid var(--text);
+  padding: 24px 0 50px;
+  margin-top: 30px;
+}
+
+.site-footer p {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  max-width: 68ch;
+  margin: 0 0 6px;
+}
+
+.site-footer a { color: var(--accent); text-decoration: none; }
+
+@media (max-width: 600px) {
+  .hero h1 { font-size: 1.35rem; }
+  .hero p { font-size: 0.98rem; }
+  .post-header h1 { font-size: 1.6rem; }
+  .post-dek { font-size: 1.05rem; }
+  .emoji-clue { font-size: 2.6rem; padding: 32px 16px; }
+  .share-row a { width: 42px; height: 42px; }
+  .list-item { padding: 40px 0; }
+  .list-item-number { width: 40px; height: 40px; font-size: 1.15rem; }
+  .flickle-cta { padding: 20px; }
+  .flickle-cta-button { width: 100%; text-align: center; }
+}
+
+@media (max-width: 420px) {
+  .brand { font-size: 1.2rem; }
+  .trending-hero-title { font-size: 1.05rem; }
+  .trending-item-title { font-size: 0.86rem; }
+}
