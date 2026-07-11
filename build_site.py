@@ -245,7 +245,7 @@ def share_row(canonical_path: str, title: str, label: str = "Share this", share_
 """
 
 
-def reaction_strip(slug: str) -> str:
+def reaction_strip(slug: str, prompt: str = "React to this post") -> str:
     buttons = "".join(
         f'<button class="reaction-btn" data-slug="{esc(slug)}" data-reaction="{label}">'
         f'<span class="reaction-emoji">{emoji}</span><span class="reaction-label">{label}</span>'
@@ -253,7 +253,7 @@ def reaction_strip(slug: str) -> str:
         for emoji, label in REACTIONS
     )
     return f"""  <div class="reaction-strip">
-    <p class="reaction-prompt">React to this post</p>
+    <p class="reaction-prompt">{esc(prompt)}</p>
     <div class="reaction-buttons">{buttons}</div>
   </div>
 """
@@ -450,13 +450,25 @@ def trailer_card(t: dict, root: str) -> str:
 def trailer_page_card(t: dict, root: str) -> str:
     """A full card on the dedicated /trailers/ page — playable inline
     (reuses the same responsive embed as Games-post reveals) with the
-    movie's poster-adjacent details underneath."""
+    movie's poster-adjacent details underneath.
+
+    Reactions and share both reuse the exact same components/JS as regular
+    posts (see reaction_strip/share_row), just keyed to this one trailer:
+    a distinct `slug` (so reacting to one trailer's card doesn't light up
+    every other reaction strip on the page) and a share link that points at
+    this card's own anchor, so whoever clicks the shared link lands right
+    on this trailer instead of the top of the page."""
+    slug = f"trailer-{t['id']}"
+    anchor_path = f"/trailers/#t-{t['id']}"
+    share_text = f"🎬 The trailer for \"{t['title']}\" just dropped — watch it:"
     return f"""    <div class="trailer-page-card" id="t-{esc(t['id'])}">
       {youtube_embed(t.get('trailer_key', ''))}
       <div class="trailer-page-body">
         <p class="trailer-page-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
         <h2 class="trailer-page-title">{esc(t['title'])}</h2>
         <p class="trailer-page-overview">{esc(t.get('overview', ''))}</p>
+{share_row(anchor_path, t['title'], label="Share this trailer", share_text=share_text)}
+{reaction_strip(slug, prompt="React to this trailer")}
       </div>
     </div>
 """
