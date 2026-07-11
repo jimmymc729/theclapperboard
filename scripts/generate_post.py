@@ -54,6 +54,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -67,6 +68,13 @@ except ImportError:
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = REPO_ROOT / "content" / "posts"
 IDEAS_PATH = Path(__file__).resolve().parent / "post_ideas.txt"
+
+# Hand-picked photos live here, one subfolder per person (see
+# custom_photos_for below) — e.g. assets/custom-photos/tom-holland/*.jpg.
+# Entirely optional and additive: an empty or missing folder just means
+# tmdb_person_image() behaves exactly as it did before this existed.
+CUSTOM_PHOTOS_DIR = REPO_ROOT / "assets" / "custom-photos"
+SITE_URL = "https://theclapperboard.com"  # keep in sync with SITE["url"] in build_site.py
 
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
 TMDB_BASE = "https://api.themoviedb.org/3"
@@ -273,42 +281,75 @@ def generate_new_topic_ideas(existing_titles: list, count: int) -> list:
     ]
 
 
+def slugify(name: str) -> str:
+    """"Timothée Chalamet" -> "timothee-chalamet" — strips accents first
+    (via NFKD + ascii-encode) so folder names stay plain ASCII regardless
+    of how a name is written, then lowercases/hyphenates same as
+    build_site.py's own slugify()."""
+    ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
+    return re.sub(r"[^a-z0-9]+", "-", ascii_name.lower()).strip("-")
+
+
+def custom_photos_for(name: str) -> list:
+    """Absolute URLs for any hand-picked photos dropped into
+    assets/custom-photos/<slug>/ for this specific person — e.g. something
+    more current than TMDB has on file, or just a better shot. Purely
+    additive: these become extra candidates alongside whatever TMDB
+    returns in tmdb_person_image(), never a forced replacement, and an
+    empty/missing folder is simply zero extra candidates."""
+    folder = CUSTOM_PHOTOS_DIR / slugify(name)
+    if not folder.is_dir():
+        return []
+    exts = {".jpg", ".jpeg", ".png", ".webp"}
+    files = sorted(f for f in folder.iterdir() if f.is_file() and f.suffix.lower() in exts)
+    return [f"{SITE_URL}/assets/custom-photos/{folder.name}/{f.name}" for f in files]
+
+
 def tmdb_person_image(name: str, used_images: set = None, max_candidates: int = 6) -> str:
     """Return a photo of this person, preferring one that isn't already used
-    elsewhere on the site. A plain /search/person lookup only ever returns
-    that person's single "primary" profile photo, so a subject who comes up
-    across multiple posts (or multiple items in the same post — e.g. several
-    facts with no specific movie tied to them) would otherwise get the exact
-    same headshot every single time. Pulling the full /images list and
-    picking around whatever's already used avoids that repetition without
-    needing scene-specific vision matching the way movie stills do."""
+    elsewhere on the site. Hand-picked photos (see custom_photos_for) are
+    checked first and folded into the same candidate pool as TMDB's own
+    /images list — a plain /search/person lookup only ever returns that
+    person's single "primary" profile photo, so a subject who comes up
+    across multiple posts (or multiple items in the same post — e.g.
+    several facts with no specific movie tied to them) would otherwise get
+    the exact same headshot every single time. Picking around whatever's
+    already used avoids that repetition without needing scene-specific
+    vision matching the way movie stills do."""
     used_images = used_images if used_images is not None else set()
-    resp = requests.get(
-        f"{TMDB_BASE}/search/person",
-        params={"api_key": TMDB_API_KEY, "query": name},
-        timeout=20,
-    )
-    resp.raise_for_status()
-    results = resp.json().get("results", [])
-    if not results or not results[0].get("id"):
+    candidates = list(custom_photos_for(name))
+
+    try:
+        resp = requests.get(
+            f"{TMDB_BASE}/search/person",
+            params={"api_key": TMDB_API_KEY, "query": name},
+            timeout=20,
+        )
+        resp.raise_for_status()
+        results = resp.json().get("results", [])
+        if results and results[0].get("id"):
+            images_resp = requests.get(
+                f"{TMDB_BASE}/person/{results[0]['id']}/images",
+                params={"api_key": TMDB_API_KEY},
+                timeout=20,
+            )
+            images_resp.raise_for_status()
+            profiles = images_resp.json().get("profiles", [])
+            if profiles:
+                profiles.sort(key=lambda p: p.get("vote_count", 0), reverse=True)
+                candidates += [f"{TMDB_PERSON_IMG}{p['file_path']}" for p in profiles[:max_candidates]]
+            else:
+                # Dedicated images endpoint came back empty — fall back to
+                # whatever /search/person itself returned rather than
+                # dropping TMDB entirely.
+                profile_path = results[0].get("profile_path")
+                if profile_path:
+                    candidates.append(f"{TMDB_PERSON_IMG}{profile_path}")
+    except requests.RequestException:
+        pass  # TMDB hiccup — fall back to whatever custom photos we already have, if any
+
+    if not candidates:
         return ""
-
-    images_resp = requests.get(
-        f"{TMDB_BASE}/person/{results[0]['id']}/images",
-        params={"api_key": TMDB_API_KEY},
-        timeout=20,
-    )
-    images_resp.raise_for_status()
-    profiles = images_resp.json().get("profiles", [])
-    if not profiles:
-        # Dedicated images endpoint came back empty — fall back to whatever
-        # /search/person itself returned rather than dropping the image.
-        profile_path = results[0].get("profile_path")
-        return f"{TMDB_PERSON_IMG}{profile_path}" if profile_path else ""
-
-    profiles.sort(key=lambda p: p.get("vote_count", 0), reverse=True)
-    candidates = [f"{TMDB_PERSON_IMG}{p['file_path']}" for p in profiles[:max_candidates]]
-
     for url in candidates:
         if url not in used_images:
             return url
