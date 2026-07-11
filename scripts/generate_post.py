@@ -827,6 +827,34 @@ def load_used_images() -> set:
     return used
 
 
+def brainstorm_more(seen_slugs: set, count: int, label: str = "self-generated") -> list:
+    """Ask Claude to invent `count` more topic ideas, checked against
+    `seen_slugs` (everything already published or already queued this run)
+    to avoid repeats, append them to post_ideas.txt as an audit trail, and
+    return them.
+
+    Shared by the initial top-up (post_ideas.txt ran dry before the run
+    even started) and the mid-run backfill (queued ideas failed partway
+    through, so the run would otherwise fall short of POSTS_PER_RUN) —
+    `label` just changes the audit-trail comment written to post_ideas.txt
+    so the two cases are easy to tell apart later."""
+    try:
+        existing_titles = load_existing_post_titles()
+        new_ideas = generate_new_topic_ideas(existing_titles, count)
+        new_ideas = [i for i in new_ideas if i["slug"] not in seen_slugs]
+        if new_ideas:
+            with IDEAS_PATH.open("a") as f:
+                f.write(f"\n# --- {label} {datetime.now(timezone.utc).strftime('%Y-%m-%d')} ---\n")
+                for i in new_ideas:
+                    suffix = " | opinion" if i.get("opinion") else ""
+                    f.write(f"{i['slug']} | {i['category']} | {i['instructions']}{suffix}\n")
+            print(f"  added {len(new_ideas)} {label} idea(s) to post_ideas.txt")
+        return new_ideas
+    except Exception as e:
+        print(f"  topic brainstorm failed: {e}", file=sys.stderr)
+        return []
+
+
 def main():
     if not TMDB_API_KEY:
         sys.exit("TMDB_API_KEY is not set.")
@@ -847,31 +875,36 @@ def main():
     if len(pending) < POSTS_PER_RUN:
         needed = POSTS_PER_RUN - len(pending)
         print(f"post_ideas.txt has {len(pending)} pending — brainstorming {needed} new topic(s)...")
-        try:
-            existing_titles = load_existing_post_titles()
-            new_ideas = generate_new_topic_ideas(existing_titles, needed)
-            # Guard against a self-generated slug accidentally colliding with
-            # something already published or already queued this run.
-            seen_slugs = existing_slugs | {i["slug"] for i in pending}
-            new_ideas = [i for i in new_ideas if i["slug"] not in seen_slugs]
-            pending.extend(new_ideas)
-
-            if new_ideas:
-                with IDEAS_PATH.open("a") as f:
-                    f.write(f"\n# --- self-generated {datetime.now(timezone.utc).strftime('%Y-%m-%d')} ---\n")
-                    for i in new_ideas:
-                        suffix = " | opinion" if i.get("opinion") else ""
-                        f.write(f"{i['slug']} | {i['category']} | {i['instructions']}{suffix}\n")
-                print(f"  added {len(new_ideas)} self-generated idea(s) to post_ideas.txt")
-        except Exception as e:
-            print(f"  topic brainstorm failed, continuing with what's queued: {e}", file=sys.stderr)
+        # Guard against a self-generated slug accidentally colliding with
+        # something already published or already queued this run.
+        seen_slugs = existing_slugs | {i["slug"] for i in pending}
+        pending.extend(brainstorm_more(seen_slugs, needed))
 
     processed = 0
-    for idea in pending:
-        if processed >= POSTS_PER_RUN:
-            print(f"Reached POSTS_PER_RUN cap ({POSTS_PER_RUN}) — stopping for this run.")
-            break
+    attempted = 0
+    # A failed idea shouldn't cost the run a post — this backfills a
+    # replacement immediately so a run only falls short of POSTS_PER_RUN if
+    # it's genuinely run out of good options (or hits MAX_ATTEMPTS below),
+    # not just because one attempt happened to fail partway through.
+    # MAX_ATTEMPTS caps total tries so a systematic failure (e.g. every
+    # response somehow coming back malformed) can't spin this loop forever
+    # burning API calls without ever reaching POSTS_PER_RUN.
+    MAX_ATTEMPTS = POSTS_PER_RUN * 3
+    queue = list(pending)
 
+    while processed < POSTS_PER_RUN and attempted < MAX_ATTEMPTS:
+        if not queue:
+            shortfall = POSTS_PER_RUN - processed
+            print(f"Ran out of ideas after failures — brainstorming {shortfall} replacement(s)...")
+            seen_slugs = existing_slugs | {i["slug"] for i in queue}
+            new_ideas = brainstorm_more(seen_slugs, shortfall, label="self-generated (backfill)")
+            if not new_ideas:
+                print("  no replacement ideas available — stopping for this run.")
+                break
+            queue.extend(new_ideas)
+
+        idea = queue.pop(0)
+        attempted += 1
         slug = idea["slug"]
         if slug in existing_slugs:
             print(f"skip (exists): {slug}")
@@ -1032,6 +1065,8 @@ def main():
 
         time.sleep(1)
 
+    if processed < POSTS_PER_RUN:
+        print(f"Fell short of target after {attempted} attempt(s) (capped at {MAX_ATTEMPTS}).")
     print(f"Done — published {processed} new post(s) this run.")
 
 
