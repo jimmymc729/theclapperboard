@@ -470,12 +470,18 @@ def claude_generate(category: str, instructions: str) -> dict:
 
 
 def resolve_item_images(item: dict, used_images: set) -> list:
-    """Turn an item's `lookups` list into a list of {"url", "caption"} dicts,
-    silently dropping any lookup that doesn't resolve to a real image.
+    """Turn an item's `lookups` list into a list of {"url", "caption", "type"}
+    dicts, silently dropping any lookup that doesn't resolve to a real image.
     `used_images` is shared across the whole run (and seeded from every
     image already published on the site) so a subject who comes up more
     than once — within this item, this post, or a different post entirely —
-    doesn't just get the same photo repeated at every single turn."""
+    doesn't just get the same photo repeated at every single turn.
+
+    `type` (the original lookup_type, "person" or "movie") rides along so
+    `main()` can pick a landscape movie still as the post's cover image
+    instead of a portrait actor headshot — it's stripped back out before
+    the image dict is written to the post JSON, since build_site.py's
+    schema only expects "url" and "caption"."""
     # Use the item's own fact/heading/quote as the context vision uses to
     # judge which candidate still actually matches.
     context_text = (
@@ -486,7 +492,11 @@ def resolve_item_images(item: dict, used_images: set) -> list:
     for lookup in item.get("lookups", []):
         url = resolve_lookup(lookup, context_text, used_images)
         if url:
-            resolved.append({"url": url, "caption": lookup.get("caption", "")})
+            resolved.append({
+                "url": url,
+                "caption": lookup.get("caption", ""),
+                "type": lookup.get("lookup_type", ""),
+            })
             used_images.add(url)
         else:
             print(f"    no image found for lookup '{lookup.get('lookup_name')}'")
@@ -568,18 +578,18 @@ def main():
             draft = claude_generate(idea["category"], idea["instructions"])
 
             resolved_items = []
-            cover_image = ""
+            cover_candidates = []  # every resolved {"url","caption","type"} in this post, in order
             for item in draft.get("items", []):
                 images = resolve_item_images(item, used_images)
                 if not images:
                     print(f"  no images resolved for item {item.get('number')}, skipping item")
                     continue
-                if not cover_image:
-                    cover_image = images[0]["url"]
+                cover_candidates.extend(images)
+                plain_images = [{"url": i["url"], "caption": i["caption"]} for i in images]
 
                 clean = {k: v for k, v in item.items() if k != "lookups"}
                 if "emoji" in item or "quote" in item:
-                    clean["reveal_image"] = images[0]["url"]
+                    clean["reveal_image"] = plain_images[0]["url"]
                     # Games items reveal a single movie — attach its trailer
                     # as a bonus payoff after the viewer guesses correctly.
                     movie_lookup = next(
@@ -595,7 +605,7 @@ def main():
                         except requests.RequestException as e:
                             print(f"    trailer lookup failed for '{movie_lookup['lookup_name']}': {e}")
                 else:
-                    clean["images"] = images
+                    clean["images"] = plain_images
                     # Regular items can also opt into a trailer embed (e.g.
                     # a post about upcoming/anticipated movies) by flagging
                     # "include_trailer": true on the relevant movie lookup.
@@ -618,6 +628,16 @@ def main():
             if not resolved_items:
                 print(f"  FAILED ({slug}): no items resolved to real images, skipping post")
                 continue
+
+            # Prefer a movie still (landscape) as the cover — the homepage's
+            # trending hero slot is a wide box, and a portrait actor headshot
+            # forced into it crops badly and visibly distorts the layout next
+            # to it. Only fall back to a person photo if the post has no
+            # movie image anywhere in it.
+            cover_image = next(
+                (c["url"] for c in cover_candidates if c["type"] == "movie"),
+                cover_candidates[0]["url"],
+            )
 
             post = {
                 "slug": slug,
