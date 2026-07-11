@@ -1020,8 +1020,29 @@ details.reveal[open] summary::before { content: "🙈"; }
   max-width: 70ch;
 }
 
+/* Share + reactions on each trailer card sit inline with the rest of that
+   card's body rather than styled for the bottom of a whole page (which is
+   where these two components normally live, once per post) — this page
+   repeats them once per trailer, so both need to read as compact, secondary
+   actions rather than a heavy full-width footer each time. */
+.trailer-page-card .share-row {
+  margin: 18px 0 0;
+}
+
+.trailer-page-card .reaction-strip {
+  text-align: left;
+  padding: 14px 0 0;
+  border-top: none;
+  margin-top: 14px;
+}
+
+.trailer-page-card .reaction-buttons {
+  justify-content: flex-start;
+}
+
 @media (max-width: 500px) {
   .trailer-card { width: 170px; }
+  .trailer-page-card .reaction-buttons { justify-content: center; }
 }
 
 /* Personality quiz — self-scoring, entirely client-side (see the quiz
