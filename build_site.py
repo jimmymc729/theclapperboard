@@ -630,6 +630,13 @@ def main():
 
     shutil.copytree(ASSETS_DIR, OUT_DIR / "assets")
 
+    # docs/ is wiped and rebuilt from scratch on every run (including the
+    # automated one that runs 3x/day), so GitHub Pages' custom-domain CNAME
+    # file has to be re-written here every time too — otherwise the very
+    # next automated rebuild would silently delete it and break the domain.
+    domain = SITE["url"].replace("https://", "").replace("http://", "")
+    (OUT_DIR / "CNAME").write_text(domain + "\n")
+
     (OUT_DIR / "index.html").write_text(render_home(posts))
 
     posts_dir = OUT_DIR / "posts"
