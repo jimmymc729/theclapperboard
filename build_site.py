@@ -454,6 +454,35 @@ def youtube_embed(key: str) -> str:
     )
 
 
+def trailer_primary_embed(t: dict) -> str:
+    """The single newest trailer/teaser scripts/update_trailers.py found
+    for this movie — shown flush at the top of the page exactly like
+    before. Any others (see trailer_extra_videos_html) are handled
+    separately further down the page rather than stacked here, so a
+    heavily-marketed movie with several videos on file doesn't turn into a
+    wall of embeds before the title and overview even show up."""
+    videos = t.get("videos") or []
+    return youtube_embed(videos[0]["key"]) if videos else ""
+
+
+def trailer_extra_videos_html(t: dict) -> str:
+    """Big releases regularly rack up a teaser plus one or more full
+    trailers over time — rather than picking just one and losing the rest,
+    anything beyond the primary trailer at the top of the page (see
+    trailer_primary_embed) gets listed here, each labeled with TMDB's own
+    name for that video (e.g. "Official Trailer" vs "Teaser Trailer") so
+    it's clear which is which. Renders to nothing for the common
+    single-trailer case."""
+    videos = (t.get("videos") or [])[1:]
+    if not videos:
+        return ""
+    blocks = "".join(
+        f'<div class="trailer-video-block"><p class="trailer-video-label">{esc(v.get("name") or v.get("type") or "Trailer")}</p>{youtube_embed(v["key"])}</div>'
+        for v in videos
+    )
+    return f'<div class="trailer-extra-videos"><p class="trailer-extra-heading">More trailers for this movie</p>{blocks}</div>'
+
+
 def trailer_card(t: dict, root: str) -> str:
     """A compact card for the homepage's horizontal-scrolling trailer shelf.
     Links straight to that movie's own trailer page (each trailer gets one —
@@ -540,11 +569,12 @@ def render_trailer_page(t: dict) -> str:
     body = f"""  <nav class="breadcrumb"><a href="{root}trailers/index.html">← All Trailers</a></nav>
 
   <div class="trailer-page-card">
-    {youtube_embed(t.get('trailer_key', ''))}
+    {trailer_primary_embed(t)}
     <div class="trailer-page-body">
       <p class="trailer-page-date">{esc(theater_status(t.get('release_date')))}</p>
       <h1 class="trailer-page-title">{esc(t['title'])}</h1>
       <p class="trailer-page-overview">{esc(t.get('overview', ''))}</p>
+{trailer_extra_videos_html(t)}
 {share_row(canonical_path, t['title'], label="Share this trailer", share_text=share_text)}
 {reaction_strip(react_slug, prompt="React to this trailer")}
     </div>
