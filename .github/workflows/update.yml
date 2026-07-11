@@ -21,7 +21,10 @@ name: Add posts and rebuild site
 # 4. Always rebuilds docs/ from content/posts/ with build_site.py — pure
 #    Python standard library, no npm/Node involved.
 # 5. Commits content/, docs/, and scripts/post_ideas.txt (self-generated
-#    ideas get appended there as an audit trail) if anything changed.
+#    ideas get appended there as an audit trail) if anything changed, and
+#    retries the push (merging in whatever's newly on the remote and
+#    rebuilding docs/ against it) if two runs happen to overlap and one's
+#    push gets rejected — see the long comment on that step below for why.
 #
 # GitHub Pages should be set to "Deploy from a branch: main / docs" (Settings
 # → Pages), so this push is what actually publishes the site — no separate
@@ -91,7 +94,41 @@ jobs:
           git add content/posts/ content/trailers.json content/engagement.json docs/ scripts/post_ideas.txt
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "Update site: $(date -u +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+          git commit -m "Update site: $(date -u +%Y-%m-%d)"
+
+          # docs/ is fully regenerated from content/ on every run, so if a
+          # concurrent run (the schedule firing while a manual run is still
+          # going, or two manual runs close together) pushes first, a plain
+          # retry would mean text-merging generated HTML/XML that both runs
+          # rewrote in full — every post-listing page and the sitemap change
+          # whenever ANY post is added, which is exactly the kind of conflict
+          # git can't resolve on its own. So each retry instead: merges in
+          # whatever's now on the remote (the new content/posts/*.json files
+          # from the other run merge in automatically, since two runs
+          # essentially never pick the same slug; any real conflict is only
+          # possible on generated/snapshot files — docs/, trailers.json,
+          # engagement.json, or the post_ideas.txt audit log — none of which
+          # is hand-authored content worth fighting over, so -X ours resolves
+          # those silently in favor of this run's own copy), then rebuilds
+          # docs/ from scratch against the now-complete merged content set —
+          # so what actually gets pushed always reflects every post from both
+          # runs combined, never a stale or half-conflicted build.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt/5) — merging latest remote state and retrying..."
+            git fetch origin main
+            git merge origin/main --no-edit -X ours
+            python build_site.py
+            git add docs/
+            if ! git diff --cached --quiet; then
+              git commit -m "Rebuild after merge"
+            fi
+            sleep $((RANDOM % 8 + 2))
+          done
+          echo "Failed to push after 5 attempts — giving up for this run."
+          exit 1
