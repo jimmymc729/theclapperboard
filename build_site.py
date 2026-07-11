@@ -43,8 +43,8 @@ HAS_TRAILERS = False
 
 SITE = {
     "name": "The Clapperboard",
-    "tagline": "Movies. Celebrities. Facts you won't believe are true.",
-    "description": "Viral movie facts, celebrity casting stories, and guess-the-movie games — "
+    "tagline": "For movie people.",
+    "description": "Movie facts, personality quizzes, guess-the-movie games, and the latest trailers — "
                    "then test yourself for real in Flickle.",
     "url": "https://theclapperboard.com",
     "flickle_url": "https://flickle.io",
@@ -368,6 +368,7 @@ def render_home(posts, trailers: list) -> str:
       <span>DATE <strong>{today}</strong></span>
     </div>
     <h1>{esc(SITE['tagline'])}</h1>
+    <p>{esc(SITE['description'])}</p>
   </section>
 
   <div class="trending-grid">
