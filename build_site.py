@@ -120,6 +120,15 @@ def category_pill(category: str) -> str:
     return f'<span class="pill">{emoji} {esc(category)}</span>'
 
 
+def slugify(text: str) -> str:
+    """Turns a movie title into a URL-safe slug, e.g. "The Odyssey" ->
+    "the-odyssey" — trailers don't come from a JSON file with a filename to
+    borrow a slug from (like posts do), so one has to be derived from the
+    title itself at build time instead."""
+    slug = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+    return slug or "trailer"
+
+
 # --------------------------------------------------------------------------
 # Shared page chrome
 #
@@ -432,11 +441,13 @@ def youtube_embed(key: str) -> str:
 
 def trailer_card(t: dict, root: str) -> str:
     """A compact card for the homepage's horizontal-scrolling trailer shelf.
-    Links to the matching card's anchor on the full /trailers/ page (rather
-    than straight out to YouTube) so playing it still counts as an on-site
-    pageview and keeps the visitor a click away from the rest of the site."""
+    Links straight to that movie's own trailer page (each trailer gets one —
+    see render_trailer_page) rather than to YouTube directly, so playing it
+    still counts as an on-site pageview and keeps the visitor a click away
+    from the rest of the site."""
     image = t.get("backdrop") or t.get("poster", "")
-    return f"""    <a class="trailer-card" href="{root}trailers/index.html#t-{esc(t['id'])}">
+    slug = slugify(t["title"])
+    return f"""    <a class="trailer-card" href="{root}trailers/{slug}/index.html">
       <div class="trailer-card-image">
         <img src="{esc(image)}" alt="{esc(t['title'])}" loading="lazy">
         <span class="trailer-card-play">▶</span>
@@ -447,46 +458,41 @@ def trailer_card(t: dict, root: str) -> str:
 """
 
 
-def trailer_page_card(t: dict, root: str) -> str:
-    """A full card on the dedicated /trailers/ page — playable inline
-    (reuses the same responsive embed as Games-post reveals) with the
-    movie's poster-adjacent details underneath.
-
-    Reactions and share both reuse the exact same components/JS as regular
-    posts (see reaction_strip/share_row), just keyed to this one trailer:
-    a distinct `slug` (so reacting to one trailer's card doesn't light up
-    every other reaction strip on the page) and a share link that points at
-    this card's own anchor, so whoever clicks the shared link lands right
-    on this trailer instead of the top of the page."""
-    slug = f"trailer-{t['id']}"
-    anchor_path = f"/trailers/#t-{t['id']}"
-    share_text = f"🎬 The trailer for \"{t['title']}\" just dropped — watch it:"
-    return f"""    <div class="trailer-page-card" id="t-{esc(t['id'])}">
-      {youtube_embed(t.get('trailer_key', ''))}
-      <div class="trailer-page-body">
-        <p class="trailer-page-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
-        <h2 class="trailer-page-title">{esc(t['title'])}</h2>
-        <p class="trailer-page-overview">{esc(t.get('overview', ''))}</p>
-{share_row(anchor_path, t['title'], label="Share this trailer", share_text=share_text)}
-{reaction_strip(slug, prompt="React to this trailer")}
+def trailer_index_card(t: dict, root: str) -> str:
+    """A card on the /trailers/ listing page — deliberately reuses .post-card
+    (same markup, same classes) rather than inventing new styling, so it
+    gets the exact same hover "pop" (lift + shadow + image zoom) as every
+    other card-grid on the site for free, and stays visually consistent
+    with it automatically if that styling ever changes."""
+    image = t.get("backdrop") or t.get("poster", "")
+    slug = slugify(t["title"])
+    return f"""    <a class="post-card" href="{root}trailers/{slug}/index.html">
+      <div class="post-card-image"><img src="{esc(image)}" alt="{esc(t['title'])}" loading="lazy"></div>
+      <div class="post-card-body">
+        <span class="pill">🎥 {esc(pretty_date(t.get('release_date')))}</span>
+        <p class="post-card-title">{esc(t['title'])}</p>
       </div>
-    </div>
+    </a>
 """
 
 
 def render_trailers_page(trailers: list) -> str:
+    """The /trailers/ index — just a browsable grid of cards (reusing
+    .post-grid/.post-card, identical to /posts/), each linking out to that
+    movie's own dedicated page where the trailer actually plays. Watching a
+    trailer is a separate click/pageview from browsing the list, same as
+    reading a post is separate from browsing the post grid."""
     root = "../"
-    cards = "".join(trailer_page_card(t, root) for t in trailers)
+    cards = "".join(trailer_index_card(t, root) for t in trailers)
     body = f"""  <section class="hero">
     <h1>🎥 Latest Movie Trailers</h1>
     <p>The newest trailers for the movies everyone's about to be talking about — check back often, this shelf keeps growing.</p>
   </section>
 
-{flickle_cta()}
-  <div class="trailers-grid">
+  <div class="post-grid">
 {cards}  </div>
 
-{flickle_cta("Now go prove it — play today's Flickle.")}
+{flickle_cta()}
 """
     return base_page(
         f"Latest Movie Trailers | {SITE['name']}",
@@ -494,6 +500,42 @@ def render_trailers_page(trailers: list) -> str:
         "/trailers/",
         body,
         root,
+    )
+
+
+def render_trailer_page(t: dict) -> str:
+    """A trailer's own dedicated page — one per movie, same URL depth as a
+    regular post page (docs/trailers/<slug>/index.html). Reactions and
+    share both reuse the exact same components/JS as regular posts (see
+    reaction_strip/share_row), keyed to this specific trailer so reacting
+    or sharing here is independent of every other trailer's page."""
+    root = "../../"
+    slug = slugify(t["title"])
+    canonical_path = f"/trailers/{slug}/"
+    react_slug = f"trailer-{t['id']}"
+    share_text = f"🎬 The trailer for \"{t['title']}\" just dropped — watch it:"
+    body = f"""  <nav class="breadcrumb"><a href="{root}trailers/index.html">← All Trailers</a></nav>
+
+  <div class="trailer-page-card">
+    {youtube_embed(t.get('trailer_key', ''))}
+    <div class="trailer-page-body">
+      <p class="trailer-page-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
+      <h1 class="trailer-page-title">{esc(t['title'])}</h1>
+      <p class="trailer-page-overview">{esc(t.get('overview', ''))}</p>
+{share_row(canonical_path, t['title'], label="Share this trailer", share_text=share_text)}
+{reaction_strip(react_slug, prompt="React to this trailer")}
+    </div>
+  </div>
+
+{flickle_cta("Now go prove it — play today's Flickle.")}
+"""
+    return base_page(
+        f"{t['title']} Trailer | {SITE['name']}",
+        (t.get("overview") or f"Watch the trailer for {t['title']}.")[:160],
+        canonical_path,
+        body,
+        root,
+        image=t.get("backdrop") or t.get("poster", ""),
     )
 
 
@@ -760,6 +802,10 @@ def main():
         trailers_dir = OUT_DIR / "trailers"
         trailers_dir.mkdir()
         (trailers_dir / "index.html").write_text(render_trailers_page(trailers))
+        for t in trailers:
+            t_dir = trailers_dir / slugify(t["title"])
+            t_dir.mkdir(exist_ok=True)
+            (t_dir / "index.html").write_text(render_trailer_page(t))
 
     posts_dir = OUT_DIR / "posts"
     posts_dir.mkdir()
@@ -785,6 +831,7 @@ def main():
     urls = ["/", "/posts/"] + [f"/posts/{slug}/" for slug in CATEGORY_SLUGS.values()] + [f"/posts/{p['slug']}/" for p in posts]
     if trailers:
         urls.append("/trailers/")
+        urls += [f"/trailers/{slugify(t['title'])}/" for t in trailers]
     sitemap_entries = "\n".join(
         f"  <url><loc>{SITE['url']}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls
     )
