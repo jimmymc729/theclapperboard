@@ -19,10 +19,10 @@ name: Add posts and rebuild site
 # → Pages), so this push is what actually publishes the site — no separate
 # deploy step needed.
 #
-# Runs 3x/day; at up to 2 posts/run that's roughly 3-6 new posts/day. Adjust
+# Runs 4x/day; at up to 2 posts/run that's roughly 4-8 new posts/day. Adjust
 # the cron below or POSTS_PER_RUN in generate_post.py to change the volume —
 # each post costs roughly $0.15-0.20 in Claude API usage, so this schedule
-# runs somewhere around $15-30/month. Check actual usage in the Anthropic
+# runs somewhere around $20-40/month. Check actual usage in the Anthropic
 # Console after a few days to confirm real-world cost.
 
 on:
@@ -35,8 +35,10 @@ on:
     # delayed most right at :00 (sometimes by 30-60+ min) since that's when
     # every cron job on GitHub fires at once. :23 is comfortably clear of
     # that pile-up and isn't a "round" minute (:15/:30/:45) that other
-    # people commonly pick either.
-    - cron: "23 6,13,20 * * *"  # ~06:23, 13:23, 20:23 UTC every day
+    # people commonly pick either. Four evenly-spaced runs (every 6 hours)
+    # spreads new content across the whole day instead of a few bigger
+    # bursts, so the site keeps feeling freshly updated around the clock.
+    - cron: "23 0,6,12,18 * * *"  # ~00:23, 06:23, 12:23, 18:23 UTC every day
 
 permissions:
   contents: write
