@@ -489,7 +489,7 @@ def choose_backdrop_with_vision(candidates: list, movie_title: str, context_text
     return candidates[0]
 
 
-def tmdb_movie_image(title: str, year: int = None, context_text: str = None) -> str:
+def tmdb_movie_image(title: str, year: int = None, context_text: str = None, used_images: set = None) -> str:
     """Prefer a real backdrop (an actual still from the film) over poster
     art, since posters are promotional key art rather than a movie frame.
 
@@ -497,15 +497,28 @@ def tmdb_movie_image(title: str, year: int = None, context_text: str = None) -> 
     illustrate), this fetches several candidate backdrops and uses Claude's
     vision to pick whichever one actually matches — TMDB has no metadata
     tagging what a backdrop depicts, so this is the only reliable way to do
-    better than "grab the first/most-voted one and hope.\""""
+    better than "grab the first/most-voted one and hope."
+
+    `used_images` applies the same site-wide de-dup that tmdb_person_image()
+    already had — without it, two unrelated posts that both mention the same
+    movie in similar context would have the vision step land on the exact
+    same "best" still both times, since the selection is otherwise
+    deterministic for a given title+context pair."""
+    used_images = used_images if used_images is not None else set()
     poster_path, candidates = tmdb_backdrop_candidates(title, year)
     if not candidates:
         return f"{TMDB_POSTER_IMG}{poster_path}" if poster_path else ""
 
+    # Prefer a candidate not already used elsewhere on the site; only fall
+    # back to the full (possibly-repeat) candidate list if every backdrop
+    # TMDB has on file for this movie is already spoken for.
+    fresh = [c for c in candidates if f"{TMDB_BACKDROP_IMG}{c}" not in used_images]
+    pool = fresh or candidates
+
     if context_text:
-        chosen = choose_backdrop_with_vision(candidates, title, context_text)
+        chosen = choose_backdrop_with_vision(pool, title, context_text)
     else:
-        chosen = candidates[0]
+        chosen = pool[0]
     return f"{TMDB_BACKDROP_IMG}{chosen}"
 
 
@@ -575,7 +588,7 @@ def resolve_lookup(lookup: dict, context_text: str = None, used_images: set = No
     if lookup_type == "person":
         return tmdb_person_image(lookup_name, used_images)
     if lookup_type == "movie":
-        return tmdb_movie_image(lookup_name, lookup.get("lookup_year"), context_text)
+        return tmdb_movie_image(lookup_name, lookup.get("lookup_year"), context_text, used_images)
     return ""
 
 
