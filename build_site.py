@@ -46,6 +46,8 @@ SITE = {
     "flickle_tagline": "The daily movie guessing game.",
 }
 
+GA_MEASUREMENT_ID = "G-B3W2EJRMYK"  # Google Analytics 4 property for theclapperboard.com
+
 CATEGORY_EMOJI = {"Actors": "🎭", "Movies": "🎬", "Games": "🎮"}
 CATEGORY_SLUGS = {"Actors": "actors", "Movies": "movies", "Games": "games"}
 
@@ -113,6 +115,15 @@ def base_page(title: str, description: str, canonical_path: str, body: str, root
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+
+  gtag('config', '{GA_MEASUREMENT_ID}');
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{esc(title)}</title>
@@ -203,11 +214,13 @@ def share_row(canonical_path: str, title: str, label: str = "Share this", share_
     twitter = f"https://twitter.com/intent/tweet?text={text}&url={url}"
     facebook = f"https://www.facebook.com/sharer/sharer.php?u={url}"
     email = f"mailto:?subject={quote(title)}&body={text}%20{url}"
+    # data-method lets script.js fire a clean "share_click" GA event per
+    # button without having to parse aria-label text.
     return f"""  <div class="share-row">
     <span class="share-label">{esc(label)}</span>
-    <a href="{twitter}" target="_blank" rel="noopener" aria-label="Share on X/Twitter">𝕏</a>
-    <a href="{facebook}" target="_blank" rel="noopener" aria-label="Share on Facebook">f</a>
-    <a href="{email}" aria-label="Share by email">✉</a>
+    <a href="{twitter}" target="_blank" rel="noopener" aria-label="Share on X/Twitter" data-method="twitter">𝕏</a>
+    <a href="{facebook}" target="_blank" rel="noopener" aria-label="Share on Facebook" data-method="facebook">f</a>
+    <a href="{email}" aria-label="Share by email" data-method="email">✉</a>
   </div>
 """
 
@@ -393,7 +406,7 @@ def render_emoji_item(item, root: str) -> str:
       <span class="list-item-number">{item['number']}</span>
     </div>
     <div class="emoji-clue">{item['emoji']}</div>
-    <details class="reveal">
+    <details class="reveal" data-item="{item['number']}">
       <summary>Reveal the answer</summary>
       <div class="reveal-body">
         <img src="{esc(item['reveal_image'])}" alt="{esc(item['reveal_title'])}" loading="lazy">
@@ -419,7 +432,7 @@ def render_quote_item(item, root: str) -> str:
       <span class="list-item-number">{item['number']}</span>
     </div>
     <blockquote class="quote-clue">&ldquo;{esc(item['quote'])}&rdquo;</blockquote>
-    <details class="reveal">
+    <details class="reveal" data-item="{item['number']}">
       <summary>Reveal the answer</summary>
       <div class="reveal-body">
         <img src="{esc(item['reveal_image'])}" alt="{esc(item['reveal_title'])}" loading="lazy">
