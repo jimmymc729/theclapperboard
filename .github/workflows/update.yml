@@ -6,9 +6,13 @@ name: Add posts and rebuild site
 #    published to avoid repeats). Each run is capped at POSTS_PER_RUN new
 #    posts (see generate_post.py) to keep API spend predictable.
 #    Needs TMDB_API_KEY + ANTHROPIC_API_KEY secrets.
-# 2. Always rebuilds docs/ from content/posts/ with build_site.py — pure
+# 2. Refreshes content/trailers.json with the latest upcoming-movie
+#    trailers straight from TMDB (scripts/update_trailers.py) — no Claude
+#    involved, just overwritten fresh every run so the homepage's "Latest
+#    Trailers" shelf never goes stale. Needs TMDB_API_KEY only.
+# 3. Always rebuilds docs/ from content/posts/ with build_site.py — pure
 #    Python standard library, no npm/Node involved.
-# 3. Commits content/, docs/, and scripts/post_ideas.txt (self-generated
+# 4. Commits content/, docs/, and scripts/post_ideas.txt (self-generated
 #    ideas get appended there as an audit trail) if anything changed.
 #
 # GitHub Pages should be set to "Deploy from a branch: main / docs" (Settings
@@ -50,6 +54,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/generate_post.py
 
+      - name: Fetch latest movie trailers
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python scripts/update_trailers.py
+
       - name: Build static HTML
         run: python build_site.py
 
@@ -57,7 +66,7 @@ jobs:
         run: |
           git config user.name "clapperboard-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add content/posts/ docs/ scripts/post_ideas.txt
+          git add content/posts/ content/trailers.json docs/ scripts/post_ideas.txt
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
