@@ -1,0 +1,19 @@
+# One listicle idea per line, pipe-separated:
+#   slug | category | instructions for what the post should cover
+#
+# Lines starting with # are ignored. generate_post.py skips any slug that
+# already has a JSON file in content/posts/, so it's safe to re-run this
+# list as you add more ideas over time.
+#
+# category should be one of: Actors, Movies, Games
+# For Games ideas, say explicitly in the instructions whether you want the
+# "emoji clue" format or the "famous quote" format — otherwise Claude picks.
+
+actors-who-almost-played-iconic-roles-2 | Actors | 6 more well-documented, verifiable stories of famous actors who turned down or lost a now-iconic movie role, and which other actor ended up playing it instead
+insane-behind-the-scenes-facts-iconic-movies-2 | Movies | 5 more insane, well-documented behind-the-scenes facts about different iconic/classic movies (special effects, budget overruns, on-set mishaps, improvised lines, etc), one movie per item
+guess-the-movie-from-one-emoji-2 | Games | 8 more well-known, guessable movies represented as a 3-emoji clue each (emoji clue format), plus the movie's most famous quote as the reveal text
+actors-recast-mid-movie-2 | Actors | 5 more real, well-documented stories of actors who were replaced in a role — whether mid-production, in a franchise sequel, or via reshoots — and who replaced them
+guess-the-movie-from-famous-quote-2 | Games | 8 more instantly-recognizable movie quotes (famous quote format), from movies not already covered on the site, without naming the movie in the quote itself
+movie-props-auction-prices-2 | Movies | 5 more real movie props, costumes, or vehicles that sold for large sums at public auction, with the actual sale price and year
+iconic-scenes-almost-cut-2 | Movies | 4 more well-documented iconic movie scenes, songs, or endings that were almost cut or changed after test screenings or studio pressure, and why they survived
+most-anticipated-upcoming-movies-2 | Movies | 5 more big, currently-unreleased or just-released movies people are genuinely excited about right now, with real confirmed release dates, cast, and why each one is generating buzz — set include_trailer:true on each movie lookup so the official trailer embeds
