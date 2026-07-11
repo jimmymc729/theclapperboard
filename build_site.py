@@ -32,8 +32,14 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent
 CONTENT_DIR = ROOT / "content" / "posts"
+TRAILERS_PATH = ROOT / "content" / "trailers.json"
 ASSETS_DIR = ROOT / "assets"
 OUT_DIR = ROOT / "docs"
+
+# Set once in main() from load_trailers() — lets base_page() decide whether
+# to show the "Trailers" nav link without threading an extra argument through
+# every single page-builder function.
+HAS_TRAILERS = False
 
 SITE = {
     "name": "The Clapperboard",
@@ -71,6 +77,19 @@ def load_posts():
         posts.append(data)
     posts.sort(key=lambda p: p.get("date", ""), reverse=True)
     return posts
+
+
+def load_trailers() -> list:
+    """Reads content/trailers.json — a plain snapshot written by
+    scripts/update_trailers.py, not a hand-authored content file. Missing
+    entirely (e.g. the very first build before that script has ever run) is
+    treated the same as "no trailers yet", not an error."""
+    if not TRAILERS_PATH.exists():
+        return []
+    try:
+        return json.loads(TRAILERS_PATH.read_text())
+    except (json.JSONDecodeError, OSError):
+        return []
 
 
 def pretty_date(iso: str) -> str:
@@ -155,6 +174,7 @@ def base_page(title: str, description: str, canonical_path: str, body: str, root
     <div class="wrap category-nav">
       <a href="{root}posts/index.html">All Posts</a>
       {"".join(f'<a href="{root}posts/{slug}/index.html">{esc(CATEGORY_EMOJI.get(cat, ""))} {esc(cat)}</a>' for cat, slug in CATEGORY_SLUGS.items())}
+      {f'<a href="{root}trailers/index.html">🎥 Trailers</a>' if HAS_TRAILERS else ""}
     </div>
   </header>
 
@@ -273,7 +293,7 @@ def trending_small_card(p, root: str, number: int) -> str:
 """
 
 
-def render_home(posts) -> str:
+def render_home(posts, trailers: list) -> str:
     root = ""
     trending, rest = posts[:4], posts[4:]
     small_cards = "".join(trending_small_card(p, root, i + 2) for i, p in enumerate(trending[1:]))
@@ -283,6 +303,17 @@ def render_home(posts) -> str:
     )
     grid = "\n".join(post_card(p, root) for p in rest)
     today = datetime.now().strftime("%m.%d.%y")
+
+    trailers_html = ""
+    if trailers:
+        cards = "".join(trailer_card(t, root) for t in trailers)
+        trailers_html = f"""  <section class="trailer-shelf">
+    <h2 class="section-heading">🎥 Latest Trailers</h2>
+    <div class="trailer-scroll">
+{cards}    </div>
+    <a class="see-all-link" href="{root}trailers/index.html">See All Trailers →</a>
+  </section>
+"""
     # The hero doubles as a movie slate: a ruled "slate info" strip (PROD /
     # SCENE / TAKE / DATE, the same fields printed on a real clapperboard)
     # sits above the headline, with TAKE standing in for the live post count.
@@ -301,6 +332,7 @@ def render_home(posts) -> str:
   </div>
   <a class="see-all-link" href="{root}posts/index.html">See All Posts →</a>
 
+{trailers_html}
 {flickle_cta()}
   <div class="post-grid">
 {grid}
@@ -395,6 +427,61 @@ def youtube_embed(key: str) -> str:
         'title="YouTube trailer" loading="lazy" frameborder="0" '
         'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" '
         'allowfullscreen></iframe></div>'
+    )
+
+
+def trailer_card(t: dict, root: str) -> str:
+    """A compact card for the homepage's horizontal-scrolling trailer shelf.
+    Links to the matching card's anchor on the full /trailers/ page (rather
+    than straight out to YouTube) so playing it still counts as an on-site
+    pageview and keeps the visitor a click away from the rest of the site."""
+    image = t.get("backdrop") or t.get("poster", "")
+    return f"""    <a class="trailer-card" href="{root}trailers/index.html#t-{esc(t['id'])}">
+      <div class="trailer-card-image">
+        <img src="{esc(image)}" alt="{esc(t['title'])}" loading="lazy">
+        <span class="trailer-card-play">▶</span>
+      </div>
+      <p class="trailer-card-title">{esc(t['title'])}</p>
+      <p class="trailer-card-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
+    </a>
+"""
+
+
+def trailer_page_card(t: dict, root: str) -> str:
+    """A full card on the dedicated /trailers/ page — playable inline
+    (reuses the same responsive embed as Games-post reveals) with the
+    movie's poster-adjacent details underneath."""
+    return f"""    <div class="trailer-page-card" id="t-{esc(t['id'])}">
+      {youtube_embed(t.get('trailer_key', ''))}
+      <div class="trailer-page-body">
+        <p class="trailer-page-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
+        <h2 class="trailer-page-title">{esc(t['title'])}</h2>
+        <p class="trailer-page-overview">{esc(t.get('overview', ''))}</p>
+      </div>
+    </div>
+"""
+
+
+def render_trailers_page(trailers: list) -> str:
+    root = "../"
+    cards = "".join(trailer_page_card(t, root) for t in trailers)
+    body = f"""  <section class="hero">
+    <h1>🎥 Latest Movie Trailers</h1>
+    <p>The newest trailers for the most-anticipated upcoming releases, pulled straight from TMDB and updated automatically.</p>
+  </section>
+
+{flickle_cta()}
+  <div class="trailers-grid">
+{cards}  </div>
+
+{flickle_cta("Now go prove it — play today's Flickle.")}
+"""
+    return base_page(
+        f"Latest Movie Trailers | {SITE['name']}",
+        "The newest trailers for the most-anticipated upcoming movie releases, updated automatically.",
+        "/trailers/",
+        body,
+        root,
     )
 
 
@@ -632,10 +719,15 @@ def render_post_page(p, posts_by_slug: dict) -> str:
 # --------------------------------------------------------------------------
 
 def main():
+    global HAS_TRAILERS
+
     posts = load_posts()
     if not posts:
         print("No posts found in content/posts/ — nothing to build.")
         return
+
+    trailers = load_trailers()
+    HAS_TRAILERS = bool(trailers)
 
     if OUT_DIR.exists():
         shutil.rmtree(OUT_DIR)
@@ -650,7 +742,12 @@ def main():
     domain = SITE["url"].replace("https://", "").replace("http://", "")
     (OUT_DIR / "CNAME").write_text(domain + "\n")
 
-    (OUT_DIR / "index.html").write_text(render_home(posts))
+    (OUT_DIR / "index.html").write_text(render_home(posts, trailers))
+
+    if trailers:
+        trailers_dir = OUT_DIR / "trailers"
+        trailers_dir.mkdir()
+        (trailers_dir / "index.html").write_text(render_trailers_page(trailers))
 
     posts_dir = OUT_DIR / "posts"
     posts_dir.mkdir()
@@ -674,6 +771,8 @@ def main():
 
     today = datetime.now().strftime("%Y-%m-%d")
     urls = ["/", "/posts/"] + [f"/posts/{slug}/" for slug in CATEGORY_SLUGS.values()] + [f"/posts/{p['slug']}/" for p in posts]
+    if trailers:
+        urls.append("/trailers/")
     sitemap_entries = "\n".join(
         f"  <url><loc>{SITE['url']}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls
     )
