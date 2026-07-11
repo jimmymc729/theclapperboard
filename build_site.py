@@ -119,6 +119,16 @@ def category_pill(category: str) -> str:
     return f'<span class="pill">{emoji} {esc(category)}</span>'
 
 
+def opinion_pill() -> str:
+    """Sits next to the regular category pill on posts flagged
+    "opinion": true (see generate_post.py) — a grounded stance/ranking
+    piece rather than a plain facts listicle. Visually distinct on purpose:
+    the site's credibility rests on "this is sourced and factual," so
+    anything that's taking a real stance instead should be clearly
+    labeled as such rather than blending in."""
+    return '<span class="pill pill-opinion">🗣️ Our Take</span>'
+
+
 def theater_status(iso: str) -> str:
     """Trailers now cover both already-released and still-upcoming movies
     (see scripts/update_trailers.py), so a flat "In theaters {date}" label
@@ -248,7 +258,7 @@ def post_card(p, root: str, featured: bool = False) -> str:
     return f"""    <a class="{cls}" href="{root}posts/{esc(p['slug'])}/index.html">
       <div class="post-card-image"><img src="{esc(p['cover_image'])}" alt="{esc(p['title'])}" loading="lazy"></div>
       <div class="post-card-body">
-        {category_pill(p.get('category', ''))}
+        {category_pill(p.get('category', ''))}{opinion_pill() if p.get('opinion') else ''}
         <p class="post-card-title">{esc(p['title'])}</p>
       </div>
     </a>
@@ -866,7 +876,7 @@ def render_post_page(p, posts_by_slug: dict) -> str:
 
   <div class="post-header">
     <div class="list-item-text">
-      {category_pill(p.get('category', ''))}
+      {category_pill(p.get('category', ''))}{opinion_pill() if p.get('opinion') else ''}
       <h1>{esc(p['title'])}</h1>
       <p class="post-dek">{esc(p.get('dek', ''))}</p>
 {meta_line}

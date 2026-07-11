@@ -8,6 +8,12 @@
 # category should be one of: Actors, Movies, Games
 # For Games ideas, say explicitly in the instructions whether you want the
 # "emoji clue" format or the "famous quote" format — otherwise Claude picks.
+#
+# Optional 4th field, the literal word "opinion", flags a grounded opinion/
+# take piece (an Actors or Movies idea that argues a real, cited stance
+# rather than just listing neutral facts — gets an "Our Take" pill on the
+# site). Keep these rare and always require real citable disagreement in
+# the instructions themselves, not just a vague "give your opinion on X."
 
 actors-who-almost-played-iconic-roles-2 | Actors | 6 more well-documented, verifiable stories of famous actors who turned down or lost a now-iconic movie role, and which other actor ended up playing it instead
 insane-behind-the-scenes-facts-iconic-movies-2 | Movies | 5 more insane, well-documented behind-the-scenes facts about different iconic/classic movies (special effects, budget overruns, on-set mishaps, improvised lines, etc), one movie per item
@@ -20,3 +26,4 @@ most-anticipated-upcoming-movies-2 | Movies | 5 more big, currently-unreleased o
 movie-predictions-that-aged-badly | Movies | 5 real, documented predictions, reviews, or hot takes about movies or franchises that turned out to be embarrassingly wrong in hindsight (a critic or exec confidently predicting a flop that became a hit, or a sure-thing that flopped) — cite the actual quote/prediction and what really happened
 special-effects-that-aged-badly | Movies | 5 movies whose special effects were praised as groundbreaking or state-of-the-art on release but look dated or unintentionally funny today — cite real reviews/reactions from release alongside what they look like now
 casting-choices-that-aged-badly | Actors | 5 real casting decisions or public reactions to a casting announcement that seemed reasonable (or that fans hated) at the time but read very differently in hindsight, with the actual contemporary reaction versus how it's viewed today
+best-picture-winners-considered-overrated | Movies | 5 Best Picture Oscar winners that a real, documented body of critics/audiences consider overrated in hindsight — for each, cite an actual critic's quote, a specific critic-vs-audience score gap (Rotten Tomatoes/Metacritic), or a documented reassessment over time. Take a real stance per item, don't just list facts. Critique the film's creative choices, never any actor's or filmmaker's talent or worth. | opinion

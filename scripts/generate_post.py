@@ -124,17 +124,24 @@ def get_trending_subjects() -> list:
 
 
 def parse_ideas():
+    """Each line is normally `slug | category | instructions`. An optional
+    4th field, the literal word "opinion", flags a grounded opinion/take
+    piece (see TOPIC_BRAINSTORM_PROMPT and SYSTEM_PROMPT) — this is a
+    structural flag WE control (which pill build_site.py renders, whether
+    it counts against the rarity cap), not something left for Claude to
+    decide on its own mid-write."""
     ideas = []
     for line in IDEAS_PATH.read_text().splitlines():
         line = line.strip()
         if not line or line.startswith("#"):
             continue
         parts = [p.strip() for p in line.split("|")]
-        if len(parts) != 3:
+        if len(parts) not in (3, 4):
             print(f"Skipping malformed idea line: {line}", file=sys.stderr)
             continue
-        slug, category, instructions = parts
-        ideas.append({"slug": slug, "category": category, "instructions": instructions})
+        slug, category, instructions = parts[0], parts[1], parts[2]
+        opinion = len(parts) == 4 and parts[3].lower() == "opinion"
+        ideas.append({"slug": slug, "category": category, "instructions": instructions, "opinion": opinion})
     return ideas
 
 
@@ -203,6 +210,17 @@ prediction, review, casting take, or special effect that seemed reasonable/impre
 but looks wrong, dated, or funny now) roughly 1 in every 5-6 ideas. Must still be real and \
 documented — an actual quote/prediction/review plus what actually happened, not a vague vibe.
 
+Opinion/take pieces are also fair game, as an angle within an Actors or Movies idea (not its own \
+category) — a ranking, reassessment, or "hotter take" that argues a real position rather than just \
+listing facts, e.g. "5 Best Picture Winners People Still Argue Are Overrated" or "The Most \
+Overrated Performances Of The Decade." Keep this RARE — roughly 1 in every 6 ideas — and only ever \
+grounded in real, citable disagreement: an actual critic's quote, a specific critic/audience score \
+gap, a documented reassessment over time. Never a bare assertion dressed up as a take. Critique the \
+WORK or the creative choice, never a real person's talent or worth — "this ending didn't land, and \
+here's what critics said at the time" is fine, "this actor can't act" is not. When you use this \
+angle, say so explicitly in the instructions (so the writer knows to take a real stance and cite \
+sources backing it, not just list neutral facts) and set "opinion": true on that idea.
+
 Return ONLY a JSON array, no prose, no markdown fences:
 [
   {{
@@ -210,7 +228,9 @@ Return ONLY a JSON array, no prose, no markdown fences:
     "category": "Actors" or "Movies" or "Games" or "Quizzes",
     "instructions": "plain-English description of exactly what the post should cover, specific \
 enough to research — e.g. how many items, what kind of facts, which format for Games, or which \
-actor/franchise plus roughly how many results for Quizzes"
+actor/franchise plus roughly how many results for Quizzes — and if this is an opinion/take piece, \
+say so explicitly and note what real disagreement/sources it should be grounded in",
+    "opinion": true or false
   }},
   ...
 ]"""
@@ -242,7 +262,12 @@ def generate_new_topic_ideas(existing_titles: list, count: int) -> list:
         raise ValueError("No JSON array found in topic brainstorm output")
     ideas = json.loads(text[start:end + 1])
     return [
-        {"slug": i["slug"], "category": i["category"], "instructions": i["instructions"]}
+        {
+            "slug": i["slug"],
+            "category": i["category"],
+            "instructions": i["instructions"],
+            "opinion": bool(i.get("opinion", False)),
+        }
         for i in ideas
         if i.get("slug") and i.get("category") and i.get("instructions")
     ]
@@ -537,6 +562,16 @@ actor's photo alongside a still from the movie they were considered for. Do NOT 
 the exact same single subject (like a poster and a still from the same movie with no second
 subject) just to fill space; a single strong image is better than two redundant ones.
 
+If the topic's instructions mark this as a grounded opinion/take piece: same JSON shape as above
+(title/dek/items/sources), but each item should take a real stance rather than just report a
+neutral fact — and that stance MUST be backed by something citable: a specific critic's quote, a
+concrete critic-vs-audience score gap, a documented reassessment over time. Never publish a bare
+assertion with nothing behind it; if you can't find real disagreement to cite for an item, drop
+that item rather than invent a take for it. Critique the work or the creative choice, never a real
+person's talent or worth as a human being — "this ending didn't land, and here's what critics said
+at the time" is fine, "this actor can't act" is not. Sources for these MUST include the actual
+reviews/citations backing each stance, not just general background reading.
+
 If the topic is specifically about upcoming/anticipated movies (not yet released, or recently
 released), add "include_trailer": true to that item's movie lookup so its official trailer gets
 embedded below the images. Don't add this for topics where a trailer isn't the point (e.g. a
@@ -729,7 +764,8 @@ def main():
                 with IDEAS_PATH.open("a") as f:
                     f.write(f"\n# --- self-generated {datetime.now(timezone.utc).strftime('%Y-%m-%d')} ---\n")
                     for i in new_ideas:
-                        f.write(f"{i['slug']} | {i['category']} | {i['instructions']}\n")
+                        suffix = " | opinion" if i.get("opinion") else ""
+                        f.write(f"{i['slug']} | {i['category']} | {i['instructions']}{suffix}\n")
                 print(f"  added {len(new_ideas)} self-generated idea(s) to post_ideas.txt")
         except Exception as e:
             print(f"  topic brainstorm failed, continuing with what's queued: {e}", file=sys.stderr)
@@ -877,6 +913,8 @@ def main():
                 "sources": draft.get("sources", []),
                 "related": [],
             }
+            if idea.get("opinion"):
+                post["opinion"] = True
 
             out_path = CONTENT_DIR / f"{slug}.json"
             out_path.write_text(json.dumps(post, indent=2) + "\n")
