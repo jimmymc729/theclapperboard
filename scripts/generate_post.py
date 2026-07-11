@@ -281,7 +281,7 @@ def generate_new_topic_ideas(existing_titles: list, count: int) -> list:
     start, end = text.find("["), text.rfind("]")
     if start == -1 or end == -1:
         raise ValueError("No JSON array found in topic brainstorm output")
-    ideas = json.loads(text[start:end + 1])
+    ideas = json.loads(text[start:end + 1], strict=False)
     return [
         {
             "slug": i["slug"],
@@ -739,11 +739,12 @@ def claude_generate(category: str, instructions: str) -> dict:
     that used to show up as generic "FAILED" lines with no obvious cause.
     Checking resp.stop_reason lets a truncated response fail with a message
     that actually says so, instead of a downstream JSONDecodeError that
-    looks like a one-off formatting fluke."""
+    looks like a one-off formatting fluke. 8192 wasn't quite enough headroom
+    for the biggest quiz payloads in practice, hence the bump to 16000."""
     client = anthropic.Anthropic()
     resp = client.messages.create(
         model=MODEL,
-        max_tokens=8192,
+        max_tokens=16000,
         system=SYSTEM_PROMPT,
         messages=[{
             "role": "user",
@@ -763,7 +764,12 @@ def claude_generate(category: str, instructions: str) -> dict:
     start, end = text.find("{"), text.rfind("}")
     if start == -1 or end == -1:
         raise ValueError("No JSON object found in model output")
-    return json.loads(text[start:end + 1])
+    # strict=False tolerates literal control characters (most often a raw
+    # newline) inside a string value instead of raising "Invalid control
+    # character" — Claude occasionally writes an actual line break inside a
+    # long fact/quote instead of escaping it as \n, which is invalid strict
+    # JSON but perfectly recoverable; the content itself is still fine.
+    return json.loads(text[start:end + 1], strict=False)
 
 
 def resolve_item_images(item: dict, used_images: set) -> list:
