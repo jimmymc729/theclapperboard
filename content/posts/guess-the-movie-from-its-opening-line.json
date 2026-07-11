@@ -1,0 +1,109 @@
+{
+  "slug": "guess-the-movie-from-its-opening-line",
+  "title": "Can You Name These Movies From Their VERY FIRST LINE? (Most People Fail #6)",
+  "dek": "Forget the mid-movie zingers \u2014 we're testing you on the opening words that hooked audiences before the story even began.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/d6UxFCGQxpszcf8mwgGjQ3ynqGl.jpg",
+  "date": "2026-07-11",
+  "items": [
+    {
+      "number": 1,
+      "quote": "As far back as I can remember, I always wanted to be a gangster.",
+      "reveal_title": "Goodfellas (1990)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/d6UxFCGQxpszcf8mwgGjQ3ynqGl.jpg",
+      "trailer_key": "PTBRNXGQR9Q"
+    },
+    {
+      "number": 2,
+      "quote": "People are always asking me if I know Tyler Durden.",
+      "reveal_title": "Fight Club (1999)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "trailer_key": "dfeUzm6KF4g"
+    },
+    {
+      "number": 3,
+      "quote": "No, forget it, it's too risky. I'm through doin' that shit.",
+      "reveal_title": "Pulp Fiction (1994)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/9pGM43a9VmXxwIxmhJoiDkcB2hT.jpg",
+      "trailer_key": "tGpTpVyI_OQ"
+    },
+    {
+      "number": 4,
+      "quote": "I believe in America.",
+      "reveal_title": "The Godfather (1972)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+      "trailer_key": "Ew9ngL1GZvs"
+    },
+    {
+      "number": 5,
+      "quote": "My health. I came to Casablanca for the waters.",
+      "reveal_title": "Casablanca (1942)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+      "trailer_key": "MF7JH_54d8c"
+    },
+    {
+      "number": 6,
+      "quote": "Choose life. Choose a job. Choose a career. Choose a family.",
+      "reveal_title": "Trainspotting (1996)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/xbk4yCvG9k6Z5gfPqcNM5DG6x3d.jpg",
+      "trailer_key": "bKrbNruyFVE"
+    },
+    {
+      "number": 7,
+      "quote": "Saigon. Shit. I'm still only in Saigon.",
+      "reveal_title": "Apocalypse Now (1979)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+      "trailer_key": "9l-ViOOFH-s"
+    },
+    {
+      "number": 8,
+      "quote": "Way out west there was a fella... a fella by the name of Jeff Lebowski.",
+      "reveal_title": "The Big Lebowski (1998)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/wlpjRBQdRSVdu2a8icYZaIp2xmt.jpg",
+      "trailer_key": "GiwMMziJdqg"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The 20 Best Quotes from Goodfellas - Paste Magazine",
+      "url": "https://www.pastemagazine.com/movies/goodfellas/best-goodfellas-quotes-martin-scorsese-movie"
+    },
+    {
+      "title": "Fight Club (film) - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/Fight_Club_(film)"
+    },
+    {
+      "title": "Fight Club (1999) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0137523/quotes/?item=qt0479091"
+    },
+    {
+      "title": "PULP FICTION -- by Quentin Tarantino & Roger Avary",
+      "url": "https://www.dailyscript.com/scripts/pulp_fiction.html"
+    },
+    {
+      "title": "The Godfather Part I Transcript",
+      "url": "http://www.thegodfathertrilogy.com/gf1/transcript/gf1transcript.html"
+    },
+    {
+      "title": "Casablanca (1942) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0034583/quotes/"
+    },
+    {
+      "title": "Trainspotting (film) - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/Trainspotting_(film)"
+    },
+    {
+      "title": "Apocalypse Now (1979) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0078788/quotes/"
+    },
+    {
+      "title": "The Big Lebowski - The Script Lab",
+      "url": "https://thescriptlab.com/features/first-ten-pages/1333-the-big-lebowski-1998/"
+    },
+    {
+      "title": "Flickle - The Daily Movie Guessing Game & Movie Wordle",
+      "url": "https://www.flickle.co/"
+    }
+  ],
+  "related": []
+}
