@@ -367,7 +367,6 @@ def render_home(posts, trailers: list) -> str:
       <span>DATE <strong>{today}</strong></span>
     </div>
     <h1>{esc(SITE['tagline'])}</h1>
-    <p>{esc(SITE['description'])}</p>
   </section>
 
   <div class="trending-grid">
