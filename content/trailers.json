@@ -1,21 +1,473 @@
 [
   {
+    "id": 1339713,
+    "title": "Obsession",
+    "release_date": "2026-05-15",
+    "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "videos": [
+      {
+        "key": "vGagNXaSoWc",
+        "name": "Watch at Home Now",
+        "type": "Teaser"
+      },
+      {
+        "key": "aGZ_uALWvk8",
+        "name": "Watch at Home Now",
+        "type": "Teaser"
+      },
+      {
+        "key": "gMC8kkwbIQQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "yybtztMB-Ww",
+        "name": "Official Teaser Trailer 2",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1368314,
+    "title": "Passenger",
+    "release_date": "2026-05-22",
+    "poster": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+    "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+    "videos": [
+      {
+        "key": "TMw8yXK6bH8",
+        "name": "Prayer",
+        "type": "Teaser"
+      },
+      {
+        "key": "ytGYbHYGgec",
+        "name": "Situationship",
+        "type": "Teaser"
+      },
+      {
+        "key": "EcUTEEqFE0E",
+        "name": "Road Trip",
+        "type": "Teaser"
+      },
+      {
+        "key": "vmSNUDU8skI",
+        "name": "High Beams",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1228710,
+    "title": "The Mandalorian and Grogu",
+    "release_date": "2026-05-22",
+    "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "videos": [
+      {
+        "key": "GqlOAgbtmwY",
+        "name": "Good Shot",
+        "type": "Teaser"
+      },
+      {
+        "key": "4C14bOV4TCA",
+        "name": "Now Playing in Theaters",
+        "type": "Teaser"
+      },
+      {
+        "key": "DwB0x0Mbp5U",
+        "name": "Sacrifice IMAX",
+        "type": "Teaser"
+      },
+      {
+        "key": "n5WDS9ZNEj4",
+        "name": "Treachery",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1083381,
+    "title": "Backrooms",
+    "release_date": "2026-05-29",
+    "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "videos": [
+      {
+        "key": "5C-zBIuvGnU",
+        "name": "Official Promo",
+        "type": "Teaser"
+      },
+      {
+        "key": "2z6a6NUFlsU",
+        "name": "Official Promo",
+        "type": "Teaser"
+      },
+      {
+        "key": "0HjdiohVOik",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "tKGhxMi50y8",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1273221,
+    "title": "Scary Movie",
+    "release_date": "2026-06-05",
+    "poster": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "videos": [
+      {
+        "key": "Cnz2kOZHZZo",
+        "name": "Heads will roll.",
+        "type": "Teaser"
+      },
+      {
+        "key": "zcwRytLzo4o",
+        "name": "The movie that will make you say s*** son!",
+        "type": "Teaser"
+      },
+      {
+        "key": "QNK1KXeYjEY",
+        "name": "The world\u2019s #1 event is in cinemas now. Game on",
+        "type": "Teaser"
+      },
+      {
+        "key": "iXlV5k3iJFU",
+        "name": "WHAT ARE YOU WAITING FOR?",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1275779,
+    "title": "Disclosure Day",
+    "release_date": "2026-06-12",
+    "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+    "videos": [
+      {
+        "key": "FDqOa3cOy6w",
+        "name": "You",
+        "type": "Teaser"
+      },
+      {
+        "key": "tQdAJzCPQpc",
+        "name": "Unveil the truth in IMAX.",
+        "type": "Teaser"
+      },
+      {
+        "key": "NOnNDur5e9g",
+        "name": "Secrets",
+        "type": "Teaser"
+      },
+      {
+        "key": "icDuEHSxE-w",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1397385,
+    "title": "Little Brother",
+    "release_date": "2026-06-18",
+    "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+    "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+    "videos": [
+      {
+        "key": "bWtrFcerKE0",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1084244,
+    "title": "Toy Story 5",
+    "release_date": "2026-06-19",
+    "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "videos": [
+      {
+        "key": "hsWejTM9Xc8",
+        "name": "let's ride",
+        "type": "Teaser"
+      },
+      {
+        "key": "-OXNVHFKVL8",
+        "name": "We asked, you answered! Here are YOUR Toy Story 5 reviews",
+        "type": "Teaser"
+      },
+      {
+        "key": "lSr5PDyURs8",
+        "name": "The global phenomenon is now the #1 movie, two weeks in a row!",
+        "type": "Teaser"
+      },
+      {
+        "key": "KDc40GH_5W8",
+        "name": "Thank you to the fans for making Toy Story 5 the NO.1 film in the world!",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1413976,
+    "title": "Citizen Vigilante",
+    "release_date": "2026-06-19",
+    "poster": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg",
+    "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+    "videos": [
+      {
+        "key": "cKz2A-1qavo",
+        "name": "30 sec teaser v2",
+        "type": "Teaser"
+      },
+      {
+        "key": "0ww8snVKe0A",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "fVxmjwaPEFU",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "7EhFMNCckeo",
+        "name": "Dark Knight",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1279493,
+    "title": "The Get Out",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg",
+    "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+    "videos": [
+      {
+        "key": "oB6HNuKxLmo",
+        "name": "The Get Out | Official Trailer (HD) | Vertical",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1081003,
+    "title": "Supergirl",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
+    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "videos": [
+      {
+        "key": "0tnDB-qe7KY",
+        "name": "Supergirl has landed",
+        "type": "Teaser"
+      },
+      {
+        "key": "JRXx3Y8FmTw",
+        "name": "In Cinemas Now",
+        "type": "Teaser"
+      },
+      {
+        "key": "E0XUFbE1gEQ",
+        "name": "Lobo is so honeybee",
+        "type": "Teaser"
+      },
+      {
+        "key": "7tRCOynou0o",
+        "name": "In Cinemas Now",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1202033,
+    "title": "Enola Holmes 3",
+    "release_date": "2026-07-01",
+    "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+    "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+    "videos": [
+      {
+        "key": "n_pEJjq-9xQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "g1fq327snPU",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1315772,
+    "title": "Minions & Monsters",
+    "release_date": "2026-07-01",
+    "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "videos": [
+      {
+        "key": "a_G7XFjggI8",
+        "name": "Everyone is going bananas for Minions and Monsters, don't miss it in cinemas now!",
+        "type": "Teaser"
+      },
+      {
+        "key": "aSxYl3qbN8Y",
+        "name": "How do we say 'all of the above' in Minionese? Let's go England!",
+        "type": "Teaser"
+      },
+      {
+        "key": "RO5x9EecfKQ",
+        "name": "This is not a drill... Minions and Monsters is in cinemas NOW!",
+        "type": "Teaser"
+      },
+      {
+        "key": "ySjj_Y5jfHY",
+        "name": "More frightening than penalties",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1645603,
+    "title": "Night of the Living Dead",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
+    "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+    "videos": [
+      {
+        "key": "3ZfsKIKtYaA",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1155818,
+    "title": "Satluj",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/hm4ou83RwLVwNj3HsmQuqC1qkWy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
+    "videos": [
+      {
+        "key": "WtL3YbjUJN8",
+        "name": "ZEE5 Satluj",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1108427,
+    "title": "Moana",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dRqDXLVmPuvGJCegVHayK4WS6Cz.jpg",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "videos": [
+      {
+        "key": "fW92eZw_nXw",
+        "name": "Laga\u2019aia is captivating as Moana",
+        "type": "Teaser"
+      },
+      {
+        "key": "7JOtIQZQz_8",
+        "name": "Johnson and Laga\u2019aia are terrific together",
+        "type": "Teaser"
+      },
+      {
+        "key": "BGbY-2xvUPI",
+        "name": "she is Moana",
+        "type": "Teaser"
+      },
+      {
+        "key": "L0xisJqNn94",
+        "name": "time to journey beyond the reef",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1212763,
+    "title": "Evil Dead Burn",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+    "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
+    "videos": [
+      {
+        "key": "BuTwaO-KNjI",
+        "name": "\"Summer's Scariest Ride\"",
+        "type": "Teaser"
+      },
+      {
+        "key": "gIxF-wYw6nM",
+        "name": "It\u2019s all a game\u2026 until\u2026",
+        "type": "Teaser"
+      },
+      {
+        "key": "tYudxEj7MzY",
+        "name": "No more rest.",
+        "type": "Teaser"
+      },
+      {
+        "key": "aFvXFisc2yw",
+        "name": "Get ready to scream together.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1368337,
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "trailer_key": "AyIZ9tiiN8I"
-  },
-  {
-    "id": 1628071,
-    "title": "Ip Man: Kung Fu Legend",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
-    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
-    "trailer_key": "cqlZSRvH7BU"
+    "videos": [
+      {
+        "key": "AyIZ9tiiN8I",
+        "name": "Official Countdown Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "ie6k69mpHHI",
+        "name": "On July 17 embark on an epic journey",
+        "type": "Teaser"
+      },
+      {
+        "key": "f_bKjZeJBBI",
+        "name": "Official New Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "Mzw2ttJD2qQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
   },
   {
     "id": 980431,
@@ -24,7 +476,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-    "trailer_key": "7b20GRFZBFE"
+    "videos": [
+      {
+        "key": "7b20GRFZBFE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
   },
   {
     "id": 969681,
@@ -33,78 +491,27 @@
     "poster": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "trailer_key": "62bIsvRcPv0"
-  },
-  {
-    "id": 1101383,
-    "title": "The End of Oak Street",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "trailer_key": "3oB9AxspVow"
-  },
-  {
-    "id": 1058424,
-    "title": "Hope",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "trailer_key": "R5jcEBVBEbQ"
-  },
-  {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-    "trailer_key": "f7mFVeWnVLw"
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hG1tXuommFDedfdrzaEHfMY1Q3W.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "trailer_key": "Pd4Olzi0HEc"
-  },
-  {
-    "id": 1391239,
-    "title": "The Debut",
-    "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
-    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
-    "trailer_key": "clyzHmBx43E"
-  },
-  {
-    "id": 1170608,
-    "title": "Dune: Part Three",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bU206dN0ucfOFRK17OXabkdHKFC.jpg",
-    "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
-    "trailer_key": "NdvqHc56lE0"
-  },
-  {
-    "id": 1003596,
-    "title": "Avengers: Doomsday",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4OZznMYFmQPP4orKgbLaWRyYmBb.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "trailer_key": "HHOiD-EW3NM"
-  },
-  {
-    "id": 421892,
-    "title": "Shrek 5",
-    "release_date": "2027-06-30",
-    "poster": "https://image.tmdb.org/t/p/w500/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
-    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure.",
-    "trailer_key": "Swiz1XyfhcI"
+    "videos": [
+      {
+        "key": "bHYEaSZA2YQ",
+        "name": "It\u2019s the key to longevity.",
+        "type": "Teaser"
+      },
+      {
+        "key": "dqoRUH_zjXg",
+        "name": "It\u2019s not always easy being Spider-Man",
+        "type": "Teaser"
+      },
+      {
+        "key": "mzH2sS2i2WQ",
+        "name": "Something weird is happening.",
+        "type": "Teaser"
+      },
+      {
+        "key": "KideoHHBaYc",
+        "name": "In cinemas July 29",
+        "type": "Teaser"
+      }
+    ]
   }
 ]

@@ -1143,6 +1143,45 @@ details.reveal[open] summary::before { content: "🙈"; }
   max-width: 70ch;
 }
 
+/* Extra trailers/teasers beyond the primary one at the top of the page
+   (see trailer_extra_videos_html in build_site.py) — only ever appears for
+   movies with more than one video on file, so most trailer pages never
+   render any of this. */
+.trailer-extra-videos {
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.trailer-extra-heading {
+  margin: 0 0 14px;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.95rem;
+}
+
+.trailer-video-block {
+  margin-bottom: 18px;
+}
+
+.trailer-video-block:last-child {
+  margin-bottom: 0;
+}
+
+.trailer-video-label {
+  margin: 0 0 6px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+
+.trailer-video-block .video-embed {
+  margin-top: 0;
+}
+
 /* Share + reactions on each trailer card sit inline with the rest of that
    card's body rather than styled for the bottom of a whole page (which is
    where these two components normally live, once per post) — this page
