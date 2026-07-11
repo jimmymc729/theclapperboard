@@ -120,6 +120,21 @@ def category_pill(category: str) -> str:
     return f'<span class="pill">{emoji} {esc(category)}</span>'
 
 
+def theater_status(iso: str) -> str:
+    """Trailers now cover both already-released and still-upcoming movies
+    (see scripts/update_trailers.py), so a flat "In theaters {date}" label
+    would read oddly for something that opened weeks ago — this returns
+    "In theaters now" for anything on or before today, and the specific
+    date for anything still to come."""
+    try:
+        release = datetime.strptime(iso, "%Y-%m-%d").date()
+    except (ValueError, TypeError):
+        return f"In theaters {pretty_date(iso)}"
+    if release <= datetime.now().date():
+        return "In theaters now"
+    return f"In theaters {pretty_date(iso)}"
+
+
 def slugify(text: str) -> str:
     """Turns a movie title into a URL-safe slug, e.g. "The Odyssey" ->
     "the-odyssey" — trailers don't come from a JSON file with a filename to
@@ -453,7 +468,7 @@ def trailer_card(t: dict, root: str) -> str:
         <span class="trailer-card-play">▶</span>
       </div>
       <p class="trailer-card-title">{esc(t['title'])}</p>
-      <p class="trailer-card-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
+      <p class="trailer-card-date">{esc(theater_status(t.get('release_date')))}</p>
     </a>
 """
 
@@ -477,7 +492,7 @@ def trailer_index_card(t: dict, root: str) -> str:
         <span class="trailer-index-play">▶</span>
       </div>
       <div class="trailer-index-body">
-        <p class="trailer-index-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
+        <p class="trailer-index-date">{esc(theater_status(t.get('release_date')))}</p>
         <p class="trailer-index-title">{esc(t['title'])}</p>
       </div>
     </a>
@@ -527,7 +542,7 @@ def render_trailer_page(t: dict) -> str:
   <div class="trailer-page-card">
     {youtube_embed(t.get('trailer_key', ''))}
     <div class="trailer-page-body">
-      <p class="trailer-page-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
+      <p class="trailer-page-date">{esc(theater_status(t.get('release_date')))}</p>
       <h1 class="trailer-page-title">{esc(t['title'])}</h1>
       <p class="trailer-page-overview">{esc(t.get('overview', ''))}</p>
 {share_row(canonical_path, t['title'], label="Share this trailer", share_text=share_text)}
