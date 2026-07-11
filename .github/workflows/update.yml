@@ -30,7 +30,13 @@ on:
     branches: ["main"]
   workflow_dispatch: {}
   schedule:
-    - cron: "0 6,13,20 * * *"  # 06:00, 13:00, 20:00 UTC every day
+    # Offset to :23 past the hour rather than exactly on it — GitHub's own
+    # docs/community reports note scheduled workflows queue up and get
+    # delayed most right at :00 (sometimes by 30-60+ min) since that's when
+    # every cron job on GitHub fires at once. :23 is comfortably clear of
+    # that pile-up and isn't a "round" minute (:15/:30/:45) that other
+    # people commonly pick either.
+    - cron: "23 6,13,20 * * *"  # ~06:23, 13:23, 20:23 UTC every day
 
 permissions:
   contents: write
