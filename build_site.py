@@ -459,18 +459,26 @@ def trailer_card(t: dict, root: str) -> str:
 
 
 def trailer_index_card(t: dict, root: str) -> str:
-    """A card on the /trailers/ listing page — deliberately reuses .post-card
-    (same markup, same classes) rather than inventing new styling, so it
-    gets the exact same hover "pop" (lift + shadow + image zoom) as every
-    other card-grid on the site for free, and stays visually consistent
-    with it automatically if that styling ever changes."""
+    """A card on the /trailers/ listing page. Shares the same card "pop"
+    hover (lift + shadow + image zoom) as .post-card so it still feels like
+    part of the same site, but is deliberately its own look rather than a
+    reused post card: a widescreen 16:9 thumbnail (actual video framing,
+    not a 4:3 photo crop), a persistent play badge so it reads as "video"
+    at a glance even before hovering, and a mono/uppercase date styled
+    after the clapperboard-slate look used in the hero/category nav —
+    instead of the gold category pill every post card gets — so a page
+    full of trailers doesn't look like it could be mistaken for a page of
+    articles."""
     image = t.get("backdrop") or t.get("poster", "")
     slug = slugify(t["title"])
-    return f"""    <a class="post-card" href="{root}trailers/{slug}/index.html">
-      <div class="post-card-image"><img src="{esc(image)}" alt="{esc(t['title'])}" loading="lazy"></div>
-      <div class="post-card-body">
-        <span class="pill">🎥 {esc(pretty_date(t.get('release_date')))}</span>
-        <p class="post-card-title">{esc(t['title'])}</p>
+    return f"""    <a class="trailer-index-card" href="{root}trailers/{slug}/index.html">
+      <div class="trailer-index-image">
+        <img src="{esc(image)}" alt="{esc(t['title'])}" loading="lazy">
+        <span class="trailer-index-play">▶</span>
+      </div>
+      <div class="trailer-index-body">
+        <p class="trailer-index-date">In theaters {esc(pretty_date(t.get('release_date')))}</p>
+        <p class="trailer-index-title">{esc(t['title'])}</p>
       </div>
     </a>
 """
