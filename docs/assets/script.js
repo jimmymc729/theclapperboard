@@ -1,3 +1,12 @@
+// Fires a GA4 custom event if the Google tag loaded (it can fail silently
+// under ad blockers or with analytics consent declined, which is fine —
+// every call site here is best-effort engagement data, never anything the
+// site depends on functioning). GA already auto-attaches page_location to
+// every event, so callers don't need to pass which page this happened on.
+function trackEvent(name, params) {
+  if (typeof gtag === "function") gtag("event", name, params || {});
+}
+
 // Reaction buttons on post pages. This is intentionally a purely local,
 // per-visitor counter (stored in this browser's localStorage) — it does NOT
 // simulate or fake shared/global engagement numbers. Each button just
@@ -25,6 +34,44 @@
       localStorage.setItem(key, next);
       countEl.textContent = next;
       btn.classList.toggle("reacted", next > 0);
+      trackEvent("reaction_click", { reaction: reaction, active: next > 0 });
+    });
+  });
+})();
+
+// Share buttons — both the regular per-post share row and the ones baked
+// into each quiz result card. A single delegated listener covers both,
+// distinguishing them (and pulling out which quiz result was being shown,
+// if any) by walking up the DOM from whatever was clicked.
+(function () {
+  var shareLinks = document.querySelectorAll(".share-row a[data-method]");
+  if (!shareLinks.length) return;
+
+  shareLinks.forEach(function (a) {
+    a.addEventListener("click", function () {
+      var quizResult = a.closest(".quiz-result");
+      trackEvent("share_click", {
+        method: a.getAttribute("data-method"),
+        context: quizResult ? "quiz_result" : "post",
+        result: quizResult ? quizResult.getAttribute("data-result") : undefined,
+      });
+    });
+  });
+})();
+
+// Guess-the-movie games (emoji clue / famous quote). Fires once per reveal
+// — the <details> "toggle" event covers both click and keyboard activation,
+// and only fires on the open transition (re-closing/re-opening the same
+// item that's already been seen isn't counted twice in a row).
+(function () {
+  var reveals = document.querySelectorAll("details.reveal");
+  if (!reveals.length) return;
+
+  reveals.forEach(function (details) {
+    details.addEventListener("toggle", function () {
+      if (details.open) {
+        trackEvent("game_reveal", { item: details.getAttribute("data-item") || undefined });
+      }
     });
   });
 })();
@@ -72,6 +119,7 @@
     var progressFill = quiz.querySelector(".quiz-progress-fill");
     var progressCurrent = quiz.querySelector(".quiz-progress-current");
     var total = fieldsets.length;
+    var quizSlug = quiz.getAttribute("data-quiz");
 
     fieldsets.forEach(shuffleAnswers);
 
@@ -106,11 +154,15 @@
       questionsWrap.hidden = true;
       resultsWrap.hidden = false;
       quiz.scrollIntoView({ behavior: "smooth", block: "start" });
+      trackEvent("quiz_completed", { quiz: quizSlug, result: winner });
     }
 
     fieldsets.forEach(function (fs, index) {
       fs.querySelectorAll('input[type="radio"]').forEach(function (input) {
         input.addEventListener("change", function () {
+          if (index === 0) trackEvent("quiz_start", { quiz: quizSlug });
+          trackEvent("quiz_question_answered", { quiz: quizSlug, question: index + 1 });
+
           window.setTimeout(function () {
             if (index < total - 1) {
               goToQuestion(index + 1);
@@ -124,6 +176,7 @@
 
     quiz.querySelectorAll(".quiz-retake-btn").forEach(function (btn) {
       btn.addEventListener("click", function () {
+        trackEvent("quiz_retake", { quiz: quizSlug });
         fieldsets.forEach(function (fs) {
           fs.querySelectorAll("input:checked").forEach(function (input) {
             input.checked = false;
