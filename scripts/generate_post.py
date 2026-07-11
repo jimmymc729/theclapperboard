@@ -79,13 +79,48 @@ MODEL = "claude-sonnet-5"
 MAX_VISION_CANDIDATES = 6  # how many backdrop candidates to show Claude per lookup
 POSTS_PER_RUN = 2  # cap on how many new posts a single run will generate/spend API budget on
 
-# Subjects that have been observed to get higher engagement on social (e.g. Twitter/X)
-# when they're the focus of a post. The self-directed topic generator is biased toward
-# working these in — as a facts listicle, a couple/relationship angle, a guessing game,
-# or tying into one of their real upcoming projects — without ever forcing it or making
-# every post about them. Add/remove names here as performance data changes; no other
-# code needs to change.
+# Manually-pinned subjects that have been observed to get higher engagement on social
+# (e.g. Twitter/X) when they're the focus of a post. Always included (see
+# get_trending_subjects below) regardless of what's live-trending on TMDB, so you can
+# still deliberately keep someone in rotation even if their moment isn't spiking this
+# exact day/week. Add/remove names here as performance data changes; no other code
+# needs to change.
 TRENDING_SUBJECTS = ["Tom Holland", "Zendaya"]
+
+TRENDING_PEOPLE_COUNT = 6  # how many live-trending names to pull from TMDB each run
+
+
+def fetch_trending_people(max_count: int = TRENDING_PEOPLE_COUNT) -> list:
+    """Live 'who's spiking in movie/TV attention right now' signal from TMDB
+    — pulled fresh every run instead of relying solely on the hardcoded
+    TRENDING_SUBJECTS list above needing someone to remember to update it by
+    hand. Best-effort: any failure here (network issue, unexpected response
+    shape) just means get_trending_subjects() falls back to the manual list
+    on its own, exactly like before this existed — never worth failing the
+    whole run over."""
+    try:
+        resp = requests.get(
+            f"{TMDB_BASE}/trending/person/day",
+            params={"api_key": TMDB_API_KEY},
+            timeout=20,
+        )
+        resp.raise_for_status()
+        results = resp.json().get("results", [])
+    except (requests.RequestException, ValueError):
+        return []
+    return [r["name"] for r in results[:max_count] if r.get("name")]
+
+
+def get_trending_subjects() -> list:
+    """Manually-pinned names (TRENDING_SUBJECTS) always come first and are
+    always included, topped up with whatever's live-trending on TMDB right
+    now, deduped — so a deliberate pin never gets bumped by an
+    auto-fetched name, it only ever adds to the list."""
+    combined = list(TRENDING_SUBJECTS)
+    for name in fetch_trending_people():
+        if name not in combined:
+            combined.append(name)
+    return combined
 
 
 def parse_ideas():
@@ -134,12 +169,26 @@ Every idea must be the kind of real, well-documented, fact-checkable topic a res
 actually verify with web search — not vague, not unfalsifiable, not about living people's private \
 lives beyond publicly reported career/casting history.
 
-Trending subjects: {trending_subjects} have measurably driven higher social engagement for this \
-site recently. Bias roughly 1 in every 3-4 ideas toward one of them where it's a natural fit — a \
-facts listicle about them, a real/public relationship or career-timeline angle, tying into one of \
-their genuinely upcoming or recent projects, or a guessing game built from their filmography. \
-Never force it into an idea it doesn't fit, never invent private details, and don't repeat an \
-angle already covered in the existing titles below.
+Controversy and drama are genuinely fair game — don't shy away from it — but only the public, \
+professional kind: casting backlash, a movie bombing and the internet dunking on it, a franchise \
+rivalry, an on-set feud that's already been widely reported, an awards-show snub people are still \
+mad about, fans revolting over a creative decision. That's the same territory a lot of viral \
+entertainment content lives in, and it's fine here.
+
+What's OFF LIMITS is a completely different category: real personal tragedy — a death, a serious \
+health crisis, criminal allegations, or genuine personal hardship. Never build an idea (or use a \
+trending subject below) around something in that category, even lightly or as a passing detail. \
+If a name is trending right now because of something like that rather than a project/career \
+moment, skip them entirely for this rotation — don't force a lighthearted angle onto it.
+
+Trending subjects: {trending_subjects} are either manually pinned or currently spiking in movie/TV \
+attention on TMDB right now — the ones sourced live from TMDB carry no context on WHY they're \
+trending, so use your judgment (a quick mental check on what's actually in the news for them right \
+now) before treating one as a green light. Where a subject clearly IS a natural, appropriate fit, \
+bias roughly 1 in every 3-4 ideas toward them — a facts listicle, a real/public relationship or \
+career-timeline angle, tying into a genuinely upcoming or recent project, or a guessing game built \
+from their filmography. Never force it into an idea it doesn't fit, never invent private details, \
+and don't repeat an angle already covered in the existing titles below.
 
 Also mix in occasional "this did NOT age well" ideas (nostalgia-driven hindsight content — a \
 prediction, review, casting take, or special effect that seemed reasonable/impressive at the time \
@@ -169,7 +218,7 @@ def generate_new_topic_ideas(existing_titles: list, count: int) -> list:
         max_tokens=2048,
         system=TOPIC_BRAINSTORM_PROMPT.format(
             count=count,
-            trending_subjects=", ".join(TRENDING_SUBJECTS) or "(none set)",
+            trending_subjects=", ".join(get_trending_subjects()) or "(none set)",
         ),
         messages=[{
             "role": "user",
