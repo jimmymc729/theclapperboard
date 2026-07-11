@@ -185,17 +185,46 @@ def generate_new_topic_ideas(existing_titles: list, count: int) -> list:
     ]
 
 
-def tmdb_person_image(name: str) -> str:
+def tmdb_person_image(name: str, used_images: set = None, max_candidates: int = 6) -> str:
+    """Return a photo of this person, preferring one that isn't already used
+    elsewhere on the site. A plain /search/person lookup only ever returns
+    that person's single "primary" profile photo, so a subject who comes up
+    across multiple posts (or multiple items in the same post — e.g. several
+    facts with no specific movie tied to them) would otherwise get the exact
+    same headshot every single time. Pulling the full /images list and
+    picking around whatever's already used avoids that repetition without
+    needing scene-specific vision matching the way movie stills do."""
+    used_images = used_images if used_images is not None else set()
     resp = requests.get(
         f"{TMDB_BASE}/search/person",
         params={"api_key": TMDB_API_KEY, "query": name},
         timeout=20,
     )
     resp.raise_for_status()
-    for r in resp.json().get("results", []):
-        if r.get("profile_path"):
-            return f"{TMDB_PERSON_IMG}{r['profile_path']}"
-    return ""
+    results = resp.json().get("results", [])
+    if not results or not results[0].get("id"):
+        return ""
+
+    images_resp = requests.get(
+        f"{TMDB_BASE}/person/{results[0]['id']}/images",
+        params={"api_key": TMDB_API_KEY},
+        timeout=20,
+    )
+    images_resp.raise_for_status()
+    profiles = images_resp.json().get("profiles", [])
+    if not profiles:
+        # Dedicated images endpoint came back empty — fall back to whatever
+        # /search/person itself returned rather than dropping the image.
+        profile_path = results[0].get("profile_path")
+        return f"{TMDB_PERSON_IMG}{profile_path}" if profile_path else ""
+
+    profiles.sort(key=lambda p: p.get("vote_count", 0), reverse=True)
+    candidates = [f"{TMDB_PERSON_IMG}{p['file_path']}" for p in profiles[:max_candidates]]
+
+    for url in candidates:
+        if url not in used_images:
+            return url
+    return candidates[0]  # every candidate already used somewhere — best available fallback
 
 
 def tmdb_movie_trailer(title: str, year: int = None) -> str:
@@ -341,13 +370,13 @@ def tmdb_movie_image(title: str, year: int = None, context_text: str = None) -> 
     return f"{TMDB_BACKDROP_IMG}{chosen}"
 
 
-def resolve_lookup(lookup: dict, context_text: str = None) -> str:
+def resolve_lookup(lookup: dict, context_text: str = None, used_images: set = None) -> str:
     lookup_type = lookup.get("lookup_type")
     lookup_name = lookup.get("lookup_name")
     if not lookup_type or not lookup_name:
         return ""
     if lookup_type == "person":
-        return tmdb_person_image(lookup_name)
+        return tmdb_person_image(lookup_name, used_images)
     if lookup_type == "movie":
         return tmdb_movie_image(lookup_name, lookup.get("lookup_year"), context_text)
     return ""
@@ -440,9 +469,13 @@ def claude_generate(category: str, instructions: str) -> dict:
     return json.loads(text[start:end + 1])
 
 
-def resolve_item_images(item: dict) -> list:
+def resolve_item_images(item: dict, used_images: set) -> list:
     """Turn an item's `lookups` list into a list of {"url", "caption"} dicts,
-    silently dropping any lookup that doesn't resolve to a real image."""
+    silently dropping any lookup that doesn't resolve to a real image.
+    `used_images` is shared across the whole run (and seeded from every
+    image already published on the site) so a subject who comes up more
+    than once — within this item, this post, or a different post entirely —
+    doesn't just get the same photo repeated at every single turn."""
     # Use the item's own fact/heading/quote as the context vision uses to
     # judge which candidate still actually matches.
     context_text = (
@@ -451,12 +484,34 @@ def resolve_item_images(item: dict) -> list:
 
     resolved = []
     for lookup in item.get("lookups", []):
-        url = resolve_lookup(lookup, context_text)
+        url = resolve_lookup(lookup, context_text, used_images)
         if url:
             resolved.append({"url": url, "caption": lookup.get("caption", "")})
+            used_images.add(url)
         else:
             print(f"    no image found for lookup '{lookup.get('lookup_name')}'")
     return resolved
+
+
+def load_used_images() -> set:
+    """Every image URL already published anywhere on the site — cover
+    images plus every item/reveal image — so newly generated posts avoid
+    repeating a photo that's already showing up elsewhere."""
+    used = set()
+    for f in CONTENT_DIR.glob("*.json"):
+        try:
+            data = json.loads(f.read_text())
+        except (json.JSONDecodeError, OSError):
+            continue
+        if data.get("cover_image"):
+            used.add(data["cover_image"])
+        for item in data.get("items", []):
+            for img in item.get("images", []):
+                if img.get("url"):
+                    used.add(img["url"])
+            if item.get("reveal_image"):
+                used.add(item["reveal_image"])
+    return used
 
 
 def main():
@@ -465,6 +520,11 @@ def main():
 
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     existing_slugs = {p.stem for p in CONTENT_DIR.glob("*.json")}
+
+    # Seeded from every image already published, then added to as this run
+    # resolves its own new images — so repeats are caught both against the
+    # rest of the site and against earlier posts generated in this same run.
+    used_images = load_used_images()
 
     # 1. Use any ideas already queued in post_ideas.txt first.
     pending = [i for i in parse_ideas() if i["slug"] not in existing_slugs]
@@ -510,7 +570,7 @@ def main():
             resolved_items = []
             cover_image = ""
             for item in draft.get("items", []):
-                images = resolve_item_images(item)
+                images = resolve_item_images(item, used_images)
                 if not images:
                     print(f"  no images resolved for item {item.get('number')}, skipping item")
                     continue
