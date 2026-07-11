@@ -980,20 +980,39 @@ details.reveal[open] summary::before { content: "🙈"; }
 
 /* Dedicated /trailers/ page — same trailers, shown full-size and already
    playable (no reveal-to-click needed; watching trailers IS the point of
-   this page), stacked in a single readable column. */
+   this page), stacked in a single readable column. Each one sits in its
+   own card (same background/border/shadow language as .post-card and the
+   quiz result card) rather than just floating loose on the page — the
+   embed sits flush against the card's top edge, then the body below gets
+   its own padding, same "edge-to-edge media, padded body" pattern
+   .post-card already uses. */
 .trailers-grid {
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  gap: 28px;
   margin: 28px 0 44px;
 }
 
+.trailer-page-card {
+  background: var(--bg-sunken);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+
 .trailer-page-card .video-embed {
-  margin-top: 0;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 .trailer-page-body {
-  margin-top: 14px;
+  padding: 20px 24px 26px;
+}
+
+@media (max-width: 600px) {
+  .trailer-page-body { padding: 16px 18px 22px; }
 }
 
 .trailer-page-date {
