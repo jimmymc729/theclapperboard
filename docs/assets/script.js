@@ -39,22 +39,40 @@ function trackEvent(name, params) {
   });
 })();
 
-// Share buttons — both the regular per-post share row and the ones baked
-// into each quiz result card. A single delegated listener covers both,
-// distinguishing them (and pulling out which quiz result was being shown,
-// if any) by walking up the DOM from whatever was clicked.
+// Share buttons — regular per-post share rows, the ones baked into each
+// quiz result card, and the ones inside each Games reveal. A single
+// delegated listener covers all of them, distinguishing context (and
+// pulling out which quiz result was being shown, if any) by walking up the
+// DOM from whatever was clicked. The selector covers both <a> links (X,
+// Facebook, Reddit, WhatsApp, email) and the Copy Link <button>.
 (function () {
-  var shareLinks = document.querySelectorAll(".share-row a[data-method]");
-  if (!shareLinks.length) return;
+  var shareEls = document.querySelectorAll(".share-row a[data-method], .share-row button[data-method]");
+  if (!shareEls.length) return;
 
-  shareLinks.forEach(function (a) {
-    a.addEventListener("click", function () {
-      var quizResult = a.closest(".quiz-result");
+  shareEls.forEach(function (el) {
+    el.addEventListener("click", function () {
+      var quizResult = el.closest(".quiz-result");
       trackEvent("share_click", {
-        method: a.getAttribute("data-method"),
+        method: el.getAttribute("data-method"),
         context: quizResult ? "quiz_result" : "post",
         result: quizResult ? quizResult.getAttribute("data-result") : undefined,
       });
+
+      // Copy Link is the one share "method" that isn't just a plain link
+      // navigation — it needs to actually write to the clipboard and give
+      // the person some visible confirmation it worked.
+      if (el.getAttribute("data-method") === "copy") {
+        var url = el.getAttribute("data-url");
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(url).then(function () {
+            var original = el.textContent;
+            el.textContent = "✓";
+            window.setTimeout(function () {
+              el.textContent = original;
+            }, 1500);
+          });
+        }
+      }
     });
   });
 })();
