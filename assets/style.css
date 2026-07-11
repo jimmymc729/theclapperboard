@@ -1462,6 +1462,22 @@ details.reveal[open] summary::before { content: "🙈"; }
   background: rgba(255, 255, 255, 0.1);
 }
 
+/* .quiz-retake-btn is also reused as a plain link (not a <button>) on the
+   standalone quiz-result share page — same pill styling, just needs the
+   underline/inline-text defaults an <a> otherwise brings turned off. */
+a.quiz-retake-btn {
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* The standalone share-landing page for one quiz result (see
+   render_quiz_result_page in build_site.py) — same dark .quiz-result card
+   used inline on the live quiz, just given its own top/bottom margin since
+   it's not sitting inside the quiz's own results wrapper here. */
+.quiz-result-standalone {
+  margin: 20px 0 10px;
+}
+
 /* Reaction strip */
 .reaction-strip {
   text-align: center;

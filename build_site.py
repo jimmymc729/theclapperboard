@@ -154,7 +154,13 @@ def slugify(text: str) -> str:
 
 def base_page(title: str, description: str, canonical_path: str, body: str, root: str,
               image: str = "", schema: str = "") -> str:
-    og_image = f'<meta property="og:image" content="{esc(image)}">' if image else ""
+    # Both og:image AND twitter:image are emitted (rather than relying on
+    # Twitter/X falling back to og:image, which it usually does but isn't
+    # guaranteed) — this is what makes a shared link unfurl into a card with
+    # a real image instead of a bare text link, on both Facebook/iMessage
+    # (which read og:*) and X (which prefers twitter:* when present).
+    social_image = f"""<meta property="og:image" content="{esc(image)}">
+<meta name="twitter:image" content="{esc(image)}">""" if image else ""
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -181,8 +187,10 @@ def base_page(title: str, description: str, canonical_path: str, body: str, root
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="{SITE['url']}{canonical_path}">
-{og_image}
+{social_image}
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(title)}">
+<meta name="twitter:description" content="{esc(description)}">
 {schema}
 </head>
 <body>
@@ -641,7 +649,7 @@ def render_quote_item(item, root: str) -> str:
 """
 
 
-def render_quiz(quiz: dict, slug: str, root: str, canonical_path: str, quiz_title: str) -> str:
+def render_quiz(quiz: dict, slug: str, root: str, quiz_title: str) -> str:
     """A self-scoring 'which character are you' personality quiz. Entirely
     client-side (see the quiz block in assets/script.js). Only one question
     is ever in the DOM's visible flow at a time — a progress bar tracks
@@ -656,7 +664,11 @@ def render_quiz(quiz: dict, slug: str, root: str, canonical_path: str, quiz_titl
 
     Each result card gets its own share row baked in at build time (all
     possible results are known upfront, so there's no need for any
-    JS-side URL building) with share copy naming that specific result."""
+    JS-side URL building) with share copy naming that specific result.
+    Sharing links to that result's own dedicated page (see
+    render_quiz_result_page) rather than the quiz post itself, so the
+    social-media card that unfurls shows that specific character's photo
+    instead of the quiz's generic cover image."""
     total = len(quiz["questions"])
     q_blocks = []
     for qi, q in enumerate(quiz["questions"], start=1):
@@ -685,7 +697,7 @@ def render_quiz(quiz: dict, slug: str, root: str, canonical_path: str, quiz_titl
         <p class="quiz-result-subtitle">{esc(r["subtitle"])}</p>
         <p class="quiz-result-desc">{esc(r["description"])}</p>
         <div class="quiz-result-actions">
-{share_row(canonical_path, quiz_title, label="Share your result", share_text=f'I got {r["name"]} on "{quiz_title}"! Take the quiz:')}          <button type="button" class="quiz-retake-btn">↻ Retake The Quiz</button>
+{share_row(f"/posts/{slug}/result/{r['key']}/", quiz_title, label="Share your result", share_text=f'I got {r["name"]} on "{quiz_title}"! Take the quiz:')}          <button type="button" class="quiz-retake-btn">↻ Retake The Quiz</button>
         </div>
       </div>
     </div>
@@ -703,6 +715,49 @@ def render_quiz(quiz: dict, slug: str, root: str, canonical_path: str, quiz_titl
 {results_html}    </div>
   </div>
 """
+
+
+def render_quiz_result_page(slug: str, quiz_title: str, r: dict) -> str:
+    """A tiny standalone landing page for one specific quiz result — the
+    actual target of that result's "Share your result" button (see
+    render_quiz above). Its whole reason to exist is the og:image: set to
+    this exact result's own photo rather than the quiz's generic cover
+    image, so sharing "I got Peter Parker" actually unfurls into a social
+    card showing Peter Parker, not a generic quiz thumbnail — the single
+    biggest lever for making a shared quiz result actually look enticing to
+    click. Visitors who land here from a shared link see the result plus a
+    clear, one-click way to go take the quiz themselves."""
+    root = "../../../../"
+    canonical_path = f"/posts/{slug}/result/{r['key']}/"
+    share_text = f'I got {r["name"]} on "{quiz_title}"! Take the quiz:'
+    quiz_href = f"{root}posts/{slug}/index.html"
+
+    body = f"""  <nav class="breadcrumb"><a href="{quiz_href}">← Take &quot;{esc(quiz_title)}&quot;</a></nav>
+
+  <div class="quiz-result quiz-result-standalone">
+    <img src="{esc(r['image'])}" alt="{esc(r['name'])}" loading="lazy">
+    <div class="quiz-result-text">
+      <p class="quiz-result-eyebrow">They Got</p>
+      <h1 class="quiz-result-name">{esc(r['name'])}</h1>
+      <p class="quiz-result-subtitle">{esc(r['subtitle'])}</p>
+      <p class="quiz-result-desc">{esc(r['description'])}</p>
+      <div class="quiz-result-actions">
+{share_row(canonical_path, quiz_title, label="Share this result", share_text=share_text)}
+        <a class="quiz-retake-btn" href="{quiz_href}">Take the Quiz →</a>
+      </div>
+    </div>
+  </div>
+
+{flickle_cta("Now go prove it — play today's Flickle.")}
+"""
+    return base_page(
+        f"I got {r['name']}! | {quiz_title} | {SITE['name']}",
+        r.get("description") or r.get("subtitle") or f'Take "{quiz_title}" to find out which result you get.',
+        canonical_path,
+        body,
+        root,
+        image=r.get("image", ""),
+    )
 
 
 def post_schema(p) -> str:
@@ -747,7 +802,7 @@ def render_post_page(p, posts_by_slug: dict) -> str:
 
     items_html = []
     if p.get("quiz"):
-        items_html.append(render_quiz(p["quiz"], p["slug"], root, canonical_path, p["title"]))
+        items_html.append(render_quiz(p["quiz"], p["slug"], root, p["title"]))
     else:
         for item in p.get("items", []):
             if "emoji" in item:
@@ -877,6 +932,14 @@ def main():
         page_dir = posts_dir / p["slug"]
         page_dir.mkdir(exist_ok=True)
         (page_dir / "index.html").write_text(render_post_page(p, posts_by_slug))
+
+        if p.get("quiz"):
+            results_dir = page_dir / "result"
+            results_dir.mkdir(exist_ok=True)
+            for r in p["quiz"]["results"]:
+                r_dir = results_dir / r["key"]
+                r_dir.mkdir(exist_ok=True)
+                (r_dir / "index.html").write_text(render_quiz_result_page(p["slug"], p["title"], r))
 
     (OUT_DIR / ".nojekyll").write_text("")
 
