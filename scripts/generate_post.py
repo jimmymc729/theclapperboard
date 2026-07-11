@@ -141,6 +141,11 @@ their genuinely upcoming or recent projects, or a guessing game built from their
 Never force it into an idea it doesn't fit, never invent private details, and don't repeat an \
 angle already covered in the existing titles below.
 
+Also mix in occasional "this did NOT age well" ideas (nostalgia-driven hindsight content — a \
+prediction, review, casting take, or special effect that seemed reasonable/impressive at the time \
+but looks wrong, dated, or funny now) roughly 1 in every 5-6 ideas. Must still be real and \
+documented — an actual quote/prediction/review plus what actually happened, not a vague vibe.
+
 Return ONLY a JSON array, no prose, no markdown fences:
 [
   {{
@@ -403,6 +408,13 @@ prose, no markdown fences) with this exact shape:
   ],
   "sources": [ { "title": "...", "url": "..." }, ... ]
 }
+
+Voice: write titles, deks, and item headings like someone reacting in the moment, not narrating a
+neutral summary. Bake the reaction into the phrasing itself instead of just describing the fact —
+"Wait, THIS Almost Happened?", "...And Honestly, We're Still Not Over It", "This One Detail
+Somehow Ruined Everything For Us". Don't be afraid of a little exaggeration or repetition for
+comedic rhythm. This is about tone only, not substance — the fact itself still has to be 100% real
+and verifiable; you're just not allowed to report it like a neutral encyclopedia entry.
 
 Include 1-3 lookups per item, but only when each one is a genuinely distinct subject — e.g. an
 actor's photo alongside a still from the movie they were considered for. Do NOT pair two images of
