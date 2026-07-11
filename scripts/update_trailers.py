@@ -149,7 +149,11 @@ def main():
             "videos": videos,
         })
 
-    trailers.sort(key=lambda t: t["release_date"])
+    # Deliberately NOT re-sorted by release date — `trailers` is already in
+    # the order discover_movies() returned it (TMDB's own popularity.desc
+    # ranking), and that order is preserved all the way through to what
+    # build_site.py renders. Biggest/most-talked-about movies show first,
+    # regardless of whether they're already out or still upcoming.
 
     OUT_PATH.write_text(json.dumps(trailers, indent=2) + "\n")
     print(f"Wrote {len(trailers)} in-theaters/upcoming movie trailers to {OUT_PATH}")

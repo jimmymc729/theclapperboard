@@ -164,6 +164,14 @@ Rotate across these categories:
 - Actors: casting stories, actor facts, on-set anecdotes (numbered image+text listicle format)
 - Movies: behind-the-scenes facts, trivia, rankings, production stories (numbered image+text format)
 - Games: "guess the movie" — pick EITHER an emoji-clue format OR a famous-quote format per idea
+- Quizzes: a "which character are you" or "which X would you be" personality quiz — MUCH rarer \
+than the other three, aim for roughly 1 in every 6-8 ideas, and only when you can genuinely name \
+EXACTLY 8 real, well-known, sufficiently DIFFERENT results. Two shapes work: (a) one actor whose own \
+filmography spans genuinely contrasting, well-known roles (not eight variations on the same type \
+of character), or (b) an ensemble of comparably famous interpretations of one thing (different \
+actors who've all played the same iconic role across films). If you can't think of a real subject \
+with that kind of range, skip the format entirely rather than force a thin quiz — a quiz with weak, \
+repetitive results is worse than one fewer idea this run.
 
 Every idea must be the kind of real, well-documented, fact-checkable topic a researcher could \
 actually verify with web search — not vague, not unfalsifiable, not about living people's private \
@@ -199,9 +207,10 @@ Return ONLY a JSON array, no prose, no markdown fences:
 [
   {{
     "slug": "kebab-case-unique-slug",
-    "category": "Actors" or "Movies" or "Games",
+    "category": "Actors" or "Movies" or "Games" or "Quizzes",
     "instructions": "plain-English description of exactly what the post should cover, specific \
-enough to research — e.g. how many items, what kind of facts, which format for Games"
+enough to research — e.g. how many items, what kind of facts, which format for Games, or which \
+actor/franchise plus roughly how many results for Quizzes"
   }},
   ...
 ]"""
@@ -424,6 +433,64 @@ def tmdb_movie_image(title: str, year: int = None, context_text: str = None) -> 
     return f"{TMDB_BACKDROP_IMG}{chosen}"
 
 
+QUIZ_RESULT_COUNT = 8  # matches every hand-built quiz already on the site
+QUIZ_ANSWERS_PER_QUESTION = 4  # how many of the 8 results actually show up per question
+
+
+def validate_quiz(quiz: dict) -> None:
+    """Raises ValueError with a specific message if the quiz's underlying
+    data doesn't actually support fair scoring. Claude is asked to supply
+    FULL coverage — every question answered for every one of the 8 results
+    (see SYSTEM_PROMPT) — which rotate_quiz_answers() then narrows down to
+    the 4-per-question a visitor actually sees. That full-coverage
+    requirement is what's validated here; if a question is missing an
+    answer for some result, or has a duplicate, there'd be no way to
+    rotate it into a fair subset later. Cheap to check, and much better
+    than publishing a quiz that's subtly unfair or broken."""
+    results = quiz.get("results", [])
+    questions = quiz.get("questions", [])
+    if len(results) != QUIZ_RESULT_COUNT:
+        raise ValueError(f"expected exactly {QUIZ_RESULT_COUNT} results, got {len(results)}")
+
+    result_keys = [r.get("key") for r in results]
+    if len(set(result_keys)) != len(result_keys):
+        raise ValueError("duplicate result keys")
+    if not all(result_keys):
+        raise ValueError("a result is missing its key")
+
+    expected = set(result_keys)
+    for qi, q in enumerate(questions, start=1):
+        answer_keys = [a.get("result") for a in q.get("answers", [])]
+        if len(answer_keys) != len(expected) or set(answer_keys) != expected:
+            raise ValueError(
+                f"question {qi} answers don't cover every result exactly once "
+                f"(got {answer_keys}, expected exactly {sorted(expected)})"
+            )
+
+
+def rotate_quiz_answers(questions: list, result_keys: list) -> list:
+    """Narrows each question's full 8-answer coverage (see validate_quiz)
+    down to a rotating QUIZ_ANSWERS_PER_QUESTION-sized subset — the same
+    pattern every hand-built quiz on this site already uses: showing all 8
+    choices on every single question would be overwhelming, but picking a
+    DIFFERENT 4 each time (shifted by one result per question, wrapping
+    cyclically) means every result still appears roughly the same number
+    of times across the whole quiz, so no result has a structural
+    tallying advantage just from showing up more often. This is done here
+    in code rather than trusted to the model, since getting an even
+    rotation exactly right is fiddly and easy to get subtly wrong."""
+    r = len(result_keys)
+    rotated = []
+    for i, q in enumerate(questions):
+        window = [result_keys[(i + j) % r] for j in range(QUIZ_ANSWERS_PER_QUESTION)]
+        by_result = {a["result"]: a for a in q["answers"]}
+        rotated.append({
+            "question": q["question"],
+            "answers": [by_result[key] for key in window],
+        })
+    return rotated
+
+
 def resolve_lookup(lookup: dict, context_text: str = None, used_images: set = None) -> str:
     lookup_type = lookup.get("lookup_type")
     lookup_name = lookup.get("lookup_name")
@@ -498,6 +565,50 @@ clue here IS the movie's famous quote, so don't also repeat it in reveal_text:
     { "lookup_type": "movie", "lookup_name": "exact movie title", "lookup_year": 1999 }
   ]
 }
+
+If the topic is a personality quiz ("which character are you" / "which X would you be"), return
+this shape INSTEAD of the "items" shape above — same top-level "title"/"dek"/"sources", but a
+"quiz" object instead of "items":
+
+{
+  "title": "...",
+  "dek": "...",
+  "quiz": {
+    "intro": "one short sentence setting up the quiz, e.g. 'No wrong answers — just go with your gut.'",
+    "questions": [
+      {
+        "question": "a scenario/preference question, not a trivia question",
+        "answers": [
+          { "text": "an answer written as something a person would say/choose", "result": "result_key" },
+          ...
+        ]
+      },
+      ...
+    ],
+    "results": [
+      {
+        "key": "short-lowercase-key",
+        "name": "Character or actor name",
+        "subtitle": "Movie Title (Year)",
+        "description": "2-3 sentences, written in second person ('You...'), describing this result",
+        "lookup": { "lookup_type": "person" or "movie", "lookup_name": "exact name/title", "lookup_year": 1999 }
+      },
+      ...
+    ]
+  }
+}
+
+Critical structural rule for quizzes: pick EXACTLY 8 results, then write 9-10 questions. EVERY
+SINGLE QUESTION's "answers" array must contain EXACTLY 8 answers — one per result, the same 8
+result keys every single time (order doesn't matter). No question may repeat a result twice or
+omit one. (The site's build step automatically narrows each question down to a rotating subset of
+4 of these 8 answers when it publishes the quiz — showing all 8 choices on every question would be
+overwhelming — but it can only do that fairly if you've supplied a real, natural-sounding answer
+for every result on every single question, not just a favorite 4.) Reuse the exact same short
+lowercase "key" strings (e.g. "peter", "drake") consistently between every question's answers and
+the results list. Each result's "lookup" should be whichever of person/movie actually represents
+that specific result — usually a movie lookup naming that character's specific film, so each result
+gets a visually distinct image rather than eight photos of the same actor's face.
 
 Rules:
 - Only include real, verifiable facts and quotes. If you can't verify something, leave it out
@@ -637,6 +748,61 @@ def main():
         print(f"processing: {slug}")
         try:
             draft = claude_generate(idea["category"], idea["instructions"])
+
+            if draft.get("quiz"):
+                quiz = draft["quiz"]
+                try:
+                    validate_quiz(quiz)
+                except ValueError as e:
+                    print(f"  FAILED ({slug}): invalid quiz structure — {e}")
+                    continue
+
+                resolved_results = []
+                for r in quiz.get("results", []):
+                    url = resolve_lookup(r.get("lookup", {}), r.get("description", ""), used_images)
+                    if not url:
+                        print(f"  no image found for quiz result '{r.get('name')}', aborting quiz")
+                        resolved_results = []
+                        break
+                    used_images.add(url)
+                    resolved_results.append({
+                        "key": r["key"],
+                        "name": r.get("name", ""),
+                        "subtitle": r.get("subtitle", ""),
+                        "description": r.get("description", ""),
+                        "image": url,
+                    })
+
+                if not resolved_results:
+                    print(f"  FAILED ({slug}): could not resolve every quiz result's image, skipping post")
+                    continue
+
+                result_keys = [r["key"] for r in resolved_results]
+                rotated_questions = rotate_quiz_answers(quiz.get("questions", []), result_keys)
+
+                post = {
+                    "slug": slug,
+                    "title": draft["title"],
+                    "dek": draft.get("dek", ""),
+                    "category": "Games",
+                    "cover_image": resolved_results[0]["image"],
+                    "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    "quiz": {
+                        "intro": quiz.get("intro", ""),
+                        "questions": rotated_questions,
+                        "results": resolved_results,
+                    },
+                    "sources": draft.get("sources", []),
+                    "related": [],
+                }
+
+                out_path = CONTENT_DIR / f"{slug}.json"
+                out_path.write_text(json.dumps(post, indent=2) + "\n")
+                print(f"  wrote {out_path.relative_to(REPO_ROOT)} (quiz, {len(resolved_results)} results)")
+                existing_slugs.add(slug)
+                processed += 1
+                time.sleep(1)
+                continue
 
             resolved_items = []
             cover_candidates = []  # every resolved {"url","caption","type"} in this post, in order
