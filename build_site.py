@@ -185,6 +185,23 @@ def opinion_pill() -> str:
     return '<span class="pill pill-opinion">🗣️ Our Take</span>'
 
 
+def game_type_pill(p) -> str:
+    """A second pill, alongside the category pill, specifically for Games
+    posts — "Games" alone doesn't distinguish two genuinely different
+    interactions: a multi-question personality quiz versus a single
+    reveal-based guess-the-movie trivia card (emoji or quote clue). Empty
+    string for every other category, or for a Games post that's neither
+    shape (shouldn't happen, but this degrades gracefully rather than
+    guessing)."""
+    if p.get("quiz"):
+        return '<span class="pill pill-quiz">🧩 Quiz</span>'
+    if p.get("category") == "Games" and p.get("items"):
+        first_item = p["items"][0]
+        if "emoji" in first_item or "quote" in first_item:
+            return '<span class="pill pill-trivia">🎯 Trivia</span>'
+    return ""
+
+
 def theater_status(iso: str) -> str:
     """Trailers now cover both already-released and still-upcoming movies
     (see scripts/update_trailers.py), so a flat "In theaters {date}" label
@@ -314,7 +331,7 @@ def post_card(p, root: str, featured: bool = False) -> str:
     return f"""    <a class="{cls}" href="{root}posts/{esc(p['slug'])}/index.html">
       <div class="post-card-image"><img src="{esc(p['cover_image'])}" alt="{esc(p['title'])}" loading="lazy"></div>
       <div class="post-card-body">
-        {category_pill(p.get('category', ''))}{opinion_pill() if p.get('opinion') else ''}
+        {category_pill(p.get('category', ''))}{game_type_pill(p)}{opinion_pill() if p.get('opinion') else ''}
         <p class="post-card-title">{esc(p['title'])}</p>
       </div>
     </a>
@@ -944,7 +961,7 @@ def render_post_page(p, posts_by_slug: dict) -> str:
 
   <div class="post-header">
     <div class="list-item-text">
-      {category_pill(p.get('category', ''))}{opinion_pill() if p.get('opinion') else ''}
+      {category_pill(p.get('category', ''))}{game_type_pill(p)}{opinion_pill() if p.get('opinion') else ''}
       <h1>{esc(p['title'])}</h1>
       <p class="post-dek">{esc(p.get('dek', ''))}</p>
 {meta_line}
