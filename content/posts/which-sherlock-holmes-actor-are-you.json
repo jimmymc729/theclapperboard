@@ -1,0 +1,296 @@
+{
+  "slug": "which-sherlock-holmes-actor-are-you",
+  "title": "Which Sherlock Holmes Actor Are You, Actually?",
+  "dek": "Eight actors have played the world's greatest detective completely differently \u2014 deduce which one matches your brain.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w500/1fvIyTqFsV4OrMjDwHalhswHqik.jpg",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T01:01:26.988808+00:00",
+  "quiz": {
+    "intro": "No wrong answers here \u2014 just answer like the case is already afoot.",
+    "questions": [
+      {
+        "question": "A client walks into your office sobbing. What's your first move?",
+        "answers": [
+          {
+            "text": "Study their shoes, hands, and posture before they even sit down.",
+            "result": "brett"
+          },
+          {
+            "text": "Offer them a drink, then quietly needle out the real story with a smirk.",
+            "result": "rathbone"
+          },
+          {
+            "text": "Deduce everything out loud in one breathless run-on sentence.",
+            "result": "cumberbatch"
+          },
+          {
+            "text": "Crack a joke to cut the tension, then somehow still solve it.",
+            "result": "downey"
+          }
+        ]
+      },
+      {
+        "question": "How do you handle Dr. Watson (or whoever's along for the ride)?",
+        "answers": [
+          {
+            "text": "He's the exasperated straight man to all my theatrical nonsense.",
+            "result": "rathbone"
+          },
+          {
+            "text": "I need him constantly, even if I'd never openly admit it.",
+            "result": "cumberbatch"
+          },
+          {
+            "text": "We bicker like an old married couple and throw punches together.",
+            "result": "downey"
+          },
+          {
+            "text": "I quietly regret not appreciating him more while I still could.",
+            "result": "mckellen"
+          }
+        ]
+      },
+      {
+        "question": "Pick your weapon of choice for a confrontation.",
+        "answers": [
+          {
+            "text": "A rapid mental 'palace' that maps the fight before it starts.",
+            "result": "cumberbatch"
+          },
+          {
+            "text": "Bare-knuckle boxing, planned out in slow-motion in my head first.",
+            "result": "downey"
+          },
+          {
+            "text": "A beehive and forty years of hard-earned patience.",
+            "result": "mckellen"
+          },
+          {
+            "text": "Whatever's within arm's reach, used badly and loudly.",
+            "result": "ferrell"
+          }
+        ]
+      },
+      {
+        "question": "What's your emotional range like on a normal day?",
+        "answers": [
+          {
+            "text": "Chaotic, quippy, borderline unhinged but somehow it works.",
+            "result": "downey"
+          },
+          {
+            "text": "Reflective, melancholy, finally learning to value people over pure logic.",
+            "result": "mckellen"
+          },
+          {
+            "text": "Loud, dim, weirdly lovable anyway.",
+            "result": "ferrell"
+          },
+          {
+            "text": "Guarded and a little gentle underneath all that muscle.",
+            "result": "cavill"
+          }
+        ]
+      },
+      {
+        "question": "Your case just fell apart. How do you react?",
+        "answers": [
+          {
+            "text": "I sit with it, because at my age, not every mystery gets solved.",
+            "result": "mckellen"
+          },
+          {
+            "text": "I panic loudly and blame my partner.",
+            "result": "ferrell"
+          },
+          {
+            "text": "I get physically stubborn about it and push through by force.",
+            "result": "cavill"
+          },
+          {
+            "text": "I retreat somewhere atmospheric and brood until the fog clears.",
+            "result": "cushing"
+          }
+        ]
+      },
+      {
+        "question": "Pick the setting you feel most at home solving a mystery in.",
+        "answers": [
+          {
+            "text": "Buckingham Palace, chaos included, decorum optional.",
+            "result": "ferrell"
+          },
+          {
+            "text": "Wherever my little sister's latest reckless plan has dragged me.",
+            "result": "cavill"
+          },
+          {
+            "text": "A gothic moor with a family curse and a monstrous hound.",
+            "result": "cushing"
+          },
+          {
+            "text": "A meticulously recreated Victorian Baker Street, exactly as written.",
+            "result": "brett"
+          }
+        ]
+      },
+      {
+        "question": "How would your friends describe your sense of humor?",
+        "answers": [
+          {
+            "text": "Understated \u2014 I let my sister get the punchlines.",
+            "result": "cavill"
+          },
+          {
+            "text": "Impish and a bit theatrical, honestly.",
+            "result": "cushing"
+          },
+          {
+            "text": "Rare, but devastatingly sharp when it shows up.",
+            "result": "brett"
+          },
+          {
+            "text": "Dry, clipped, delivered with a raised chin.",
+            "result": "rathbone"
+          }
+        ]
+      },
+      {
+        "question": "What's your biggest flaw as a detective?",
+        "answers": [
+          {
+            "text": "I can be a little too pleased with my own performance.",
+            "result": "cushing"
+          },
+          {
+            "text": "I burn myself out completely chasing every last detail.",
+            "result": "brett"
+          },
+          {
+            "text": "I can come off a little too stiff and formal for some tastes.",
+            "result": "rathbone"
+          },
+          {
+            "text": "I'm a genius who's genuinely terrible at people.",
+            "result": "cumberbatch"
+          }
+        ]
+      },
+      {
+        "question": "Last one: what do you want people to remember about your Holmes?",
+        "answers": [
+          {
+            "text": "That I was as close to Conan Doyle's original as anyone's ever gotten.",
+            "result": "brett"
+          },
+          {
+            "text": "That I set the template everyone since has been copying.",
+            "result": "rathbone"
+          },
+          {
+            "text": "That I made deduction look like a superpower for a whole new generation.",
+            "result": "cumberbatch"
+          },
+          {
+            "text": "That I proved Holmes could throw a punch and still be brilliant.",
+            "result": "downey"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "brett",
+        "name": "Jeremy Brett",
+        "subtitle": "Sherlock Holmes (1984\u20131994, Granada TV)",
+        "description": "You're the purist's purist. For many, Brett's Granada performance remains the definitive interpretation of Doyle's detective, obsessively faithful to the source material down to the last detail. You'd rather burn out chasing precision than fake your way through a case.",
+        "image": "https://image.tmdb.org/t/p/w500/1fvIyTqFsV4OrMjDwHalhswHqik.jpg"
+      },
+      {
+        "key": "rathbone",
+        "name": "Basil Rathbone",
+        "subtitle": "The Hound of the Baskervilles (1939) and beyond",
+        "description": "You're classic, composed, and just a little theatrical \u2014 the original screen Holmes whose clipped delivery and deerstalker silhouette became the character's default image for decades. You solve mysteries with dry wit instead of raised fists.",
+        "image": "https://image.tmdb.org/t/p/w500/wocobQGe4LGsclFd02a0HyeFy5G.jpg"
+      },
+      {
+        "key": "cumberbatch",
+        "name": "Benedict Cumberbatch",
+        "subtitle": "Sherlock (2010\u20132017, BBC)",
+        "description": "You're a modern deduction machine wrapped in social ineptitude. Cumberbatch's version dragged Holmes into the smartphone era, turning his mind palace into a genuine visual spectacle \u2014 brilliant, cold, and a little too aware of it.",
+        "image": "https://image.tmdb.org/t/p/w500/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+      },
+      {
+        "key": "downey",
+        "name": "Robert Downey Jr.",
+        "subtitle": "Sherlock Holmes (2009)",
+        "description": "You solve problems with your fists as much as your brain. Downey Jr. brought quick-wit, cunning, and a scruffy toughness to a role long seen as stuffy, turning deduction itself into a slow-motion action sequence you can practically feel.",
+        "image": "https://image.tmdb.org/t/p/w500/5A7vGrVJcOLdfow1i9GoXN85Q16.jpg"
+      },
+      {
+        "key": "mckellen",
+        "name": "Ian McKellen",
+        "subtitle": "Mr. Holmes (2015)",
+        "description": "You're the reflective one \u2014 the detective who's finally realized logic alone was never enough. McKellen's 93-year-old Holmes grapples with a failing memory while confronting his last, unsolved case, trading brilliance for hard-won humility.",
+        "image": "https://image.tmdb.org/t/p/w500/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+      },
+      {
+        "key": "ferrell",
+        "name": "Will Ferrell",
+        "subtitle": "Holmes & Watson (2018)",
+        "description": "You're chaos in a deerstalker. Ferrell's broad, slapstick take turned the world's greatest detective into an overconfident goofball blustering his way through a case \u2014 critics hated it, but you're here for the bit anyway.",
+        "image": "https://image.tmdb.org/t/p/w500/sXT9uCw7ceIxTdmL9XqtuYdNmgM.jpg"
+      },
+      {
+        "key": "cavill",
+        "name": "Henry Cavill",
+        "subtitle": "Enola Holmes (2020)",
+        "description": "You're all muscle with a surprisingly soft heart. Cavill's Sherlock swapped the classic slight, razor-faced detective for a hulking, physical presence, while still finding real gentleness as a supporting big brother rather than the star of his own show.",
+        "image": "https://image.tmdb.org/t/p/w500/iWdKjMry5Pt7vmxU7bmOQsIUyHa.jpg"
+      },
+      {
+        "key": "cushing",
+        "name": "Peter Cushing",
+        "subtitle": "The Hound of the Baskervilles (1959, Hammer Films)",
+        "description": "You bring gothic flair to every case. Cushing's Hammer Films Holmes received praise at the time as \"a forceful and eager Sherlock Holmes,\" thriving amid fog, curses, and a monstrous hound rather than tidy drawing-room deductions.",
+        "image": "https://image.tmdb.org/t/p/w500/rxfWFGJm35qJb2jy0jlauhYeNgV.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sherlock Holmes (1984 TV series) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_(1984_TV_series)"
+    },
+    {
+      "title": "Mr. Holmes - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mr._Holmes"
+    },
+    {
+      "title": "Sherlock Holmes (2009 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_(2009_film)"
+    },
+    {
+      "title": "The Hound of the Baskervilles (1959 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles_(1959_film)"
+    },
+    {
+      "title": "'Holmes & Watson' Review: Sherlock Satire Doesn't Have a Clue - Variety",
+      "url": "https://variety.com/2018/film/reviews/holmes-and-watson-review-will-ferrell-1203095643/"
+    },
+    {
+      "title": "Why Henry Cavill Was Ultimately Cast as Sherlock in Netflix's Enola Holmes - MovieWeb",
+      "url": "https://movieweb.com/enola-holmes-why-henry-cavill-sherlock/"
+    },
+    {
+      "title": "Enola Holmes (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enola_Holmes_(film)"
+    },
+    {
+      "title": "Ian McKellen on Playing the Iconic 'Mr. Holmes' - Variety",
+      "url": "https://variety.com/2015/film/awards/ian-mckellen-on-playing-aging-detective-in-mr-holmes-1201628253/"
+    }
+  ],
+  "related": []
+}

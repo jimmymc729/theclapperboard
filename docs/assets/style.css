@@ -1068,11 +1068,33 @@ details.reveal[open] summary::before { content: "🙈"; }
 
 .trailer-card-date {
   margin: 0;
+}
+
+/* Release-status pill — solid "In Theaters Now" vs. lighter/outlined
+   "Coming {date}" (see theater_status_pill() in build_site.py), shared
+   across the homepage shelf, the /trailers/ index, and each trailer's own
+   page. Deliberately two visually distinct treatments rather than just two
+   different date strings in the same styling, so which state a trailer is
+   in reads at a glance. */
+.status-pill {
+  display: inline-block;
   font-family: var(--font-mono);
-  font-size: 0.7rem;
-  font-weight: 700;
+  font-size: 0.68rem;
+  font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.03em;
+  padding: 3px 9px;
+  border-radius: 999px;
+}
+
+.status-pill-now {
+  background: var(--accent);
+  color: #fff;
+}
+
+.status-pill-upcoming {
+  background: transparent;
+  border: 1.5px solid var(--accent-dark);
   color: var(--accent-dark);
 }
 
@@ -1142,12 +1164,6 @@ details.reveal[open] summary::before { content: "🙈"; }
 
 .trailer-index-date {
   margin: 0 0 6px;
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--accent-dark);
 }
 
 .trailer-index-title {
@@ -1188,12 +1204,7 @@ details.reveal[open] summary::before { content: "🙈"; }
 }
 
 .trailer-page-date {
-  margin: 0 0 4px;
-  font-size: 0.8rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--accent-dark);
+  margin: 0 0 8px;
 }
 
 .trailer-page-title {
