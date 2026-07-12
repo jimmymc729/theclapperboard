@@ -1,0 +1,110 @@
+{
+  "slug": "guess-tarantino-movie-from-emoji",
+  "title": "Guess The Tarantino Movie From Just 3 Emoji",
+  "dek": "No character names, no dialogue, no cheating \u2014 just three tiny symbols standing between you and total movie-nerd bragging rights.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/w7RDIgQM6bLT7JXtH4iUQd3Iwxm.jpg",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T01:36:52.757470+00:00",
+  "items": [
+    {
+      "number": 1,
+      "emoji": "\ud83d\udcbc\ud83c\udf54\ud83d\udc83",
+      "reveal_title": "Pulp Fiction (1994)",
+      "reveal_text": "They call it a Royale with cheese.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/w7RDIgQM6bLT7JXtH4iUQd3Iwxm.jpg",
+      "trailer_key": "tGpTpVyI_OQ"
+    },
+    {
+      "number": 2,
+      "emoji": "\ud83d\udc70\u2694\ufe0f\ud83d\udc0d",
+      "reveal_title": "Kill Bill: Vol. 1 (2003)",
+      "reveal_text": "Revenge is never a straight line. It's a forest.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/pcXvjjMOacxXJDqAaZQH26UKn1C.jpg",
+      "trailer_key": "sXwXk3jcrfU"
+    },
+    {
+      "number": 3,
+      "emoji": "\ud83c\udfac\ud83d\udd25\ud83d\udde1\ufe0f",
+      "reveal_title": "Inglourious Basterds (2009)",
+      "reveal_text": "That's a bingo!",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/1Jpkm9qZcsT0mSyVXgs4VlGjPNI.jpg",
+      "trailer_key": "uSEDz-my7XQ"
+    },
+    {
+      "number": 4,
+      "emoji": "\u26d3\ufe0f\ud83e\udd20\ud83d\udca5",
+      "reveal_title": "Django Unchained (2012)",
+      "reveal_text": "Kill white people and get paid for it? What's not to like?",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/w6Fs4bIje1naeILo9KwAc1Y6bvP.jpg",
+      "trailer_key": "_iH0UBYDI4g"
+    },
+    {
+      "number": 5,
+      "emoji": "\ud83d\udd76\ufe0f\ud83c\udfa9\ud83d\udc8e",
+      "reveal_title": "Reservoir Dogs (1992)",
+      "reveal_text": "Are you gonna bark all day, little doggy, or are you gonna bite?",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/wGsI7y80pVFeG04ecWUgEwCxpwn.jpg",
+      "trailer_key": "2KLZ4fSXtgI"
+    },
+    {
+      "number": 6,
+      "emoji": "\ud83d\udcfa\ud83d\udd25\ud83d\udc15",
+      "reveal_title": "Once Upon a Time in Hollywood (2019)",
+      "reveal_text": "You're Rick f***ing Dalton. Don't you forget it.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/hAPQeeuF4TaxtfUSLnwjofSbARx.jpg",
+      "trailer_key": "vKgITiP1UMg"
+    },
+    {
+      "number": 7,
+      "emoji": "\u2708\ufe0f\ud83d\udcb0\ud83d\udd2b",
+      "reveal_title": "Jackie Brown (1997)",
+      "reveal_text": "AK-47. When you absolutely, positively got to kill every motherf***er in the room, accept no substitutes.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/im3FsRW5BWnVfJG3UcduMl7IAet.jpg",
+      "trailer_key": "pH4HX76YHi0"
+    },
+    {
+      "number": 8,
+      "emoji": "\u2744\ufe0f\ud83d\udeaa\u2615",
+      "reveal_title": "The Hateful Eight (2015)",
+      "reveal_text": "When you get to hell, John, tell them Daisy sent you.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/dqQIgYgP65tAOcgzXzjbqOQ2BV9.jpg",
+      "trailer_key": "GRG7fAPksbg"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pulp Fiction (1994) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0110912/quotes/"
+    },
+    {
+      "title": "Kill Bill: Vol. 1 (2003) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0266697/quotes/"
+    },
+    {
+      "title": "Inglourious Basterds - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/Inglourious_Basterds"
+    },
+    {
+      "title": "Django Unchained Quotes - Quotes.net",
+      "url": "https://www.quotes.net/mquote/995830"
+    },
+    {
+      "title": "Reservoir Dogs (1992) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0105236/quotes/"
+    },
+    {
+      "title": "Once Upon a Time in Hollywood - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/Once_Upon_a_Time_in_Hollywood"
+    },
+    {
+      "title": "Jackie Brown - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/Jackie_Brown"
+    },
+    {
+      "title": "The Hateful Eight - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/The_Hateful_Eight"
+    }
+  ],
+  "related": []
+}
