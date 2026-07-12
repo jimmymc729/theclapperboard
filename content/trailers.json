@@ -410,6 +410,36 @@
     ]
   },
   {
+    "id": 1228710,
+    "title": "The Mandalorian and Grogu",
+    "release_date": "2026-05-22",
+    "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "videos": [
+      {
+        "key": "uwild1rw7Aw",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "IHWlvwu8t1w",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "_pa1KLXuW0Y",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "GqlOAgbtmwY",
+        "name": "Good Shot",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 969681,
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
@@ -435,6 +465,111 @@
       {
         "key": "bHYEaSZA2YQ",
         "name": "It\u2019s the key to longevity.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1081003,
+    "title": "Supergirl",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
+    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "videos": [
+      {
+        "key": "tzlY8XD1CGg",
+        "name": "Tickets on Sale Now",
+        "type": "Trailer"
+      },
+      {
+        "key": "s1-pfiVMKAs",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "YqdAEdkHrwo",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "0tnDB-qe7KY",
+        "name": "Supergirl has landed",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1397385,
+    "title": "Little Brother",
+    "release_date": "2026-06-18",
+    "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+    "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+    "videos": [
+      {
+        "key": "bWtrFcerKE0",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1321008,
+    "title": "Black Box",
+    "release_date": "2026-07-07",
+    "poster": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
+    "overview": "A routine domestic flight turns into the flight from hell through a series of inexplicable phenomena and raw terror. Surreal encounters blur the boundaries between reality and nightmare. Passengers fight against all the odds in an attempt to survive while combating bizarre technological malfunctions, accelerating supernatural events and alien influences.",
+    "videos": [
+      {
+        "key": "y-nf8hUFd98",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 614945,
+    "title": "Voicemails for Isabelle",
+    "release_date": "2026-06-20",
+    "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+    "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+    "videos": [
+      {
+        "key": "9mi3YVYm3ZU",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1122573,
+    "title": "In the Grey",
+    "release_date": "2026-05-15",
+    "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+    "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back\u2014an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "videos": [
+      {
+        "key": "nufP15iN4GE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "ok-n6RpUIg8",
+        "name": "Beat The Heat",
+        "type": "Teaser"
+      },
+      {
+        "key": "Ic119f0au0s",
+        "name": "Make Them Pay",
+        "type": "Teaser"
+      },
+      {
+        "key": "OgZr3dgNHWk",
+        "name": "3 Reasons",
         "type": "Teaser"
       }
     ]
@@ -610,6 +745,116 @@
       {
         "key": "cqlZSRvH7BU",
         "name": "Trailer [Subtitled]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hG1tXuommFDedfdrzaEHfMY1Q3W.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "videos": [
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "Rd21PhsDHww",
+        "name": "Title Announcement",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 421892,
+    "title": "Shrek 5",
+    "release_date": "2027-06-30",
+    "poster": "https://image.tmdb.org/t/p/w500/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
+    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure.",
+    "videos": [
+      {
+        "key": "Swiz1XyfhcI",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "KbiwL74KyJQ",
+        "name": "Cast Announcement",
+        "type": "Teaser"
+      },
+      {
+        "key": "BhCSpmVOGow",
+        "name": "Not too Far, Far Away\u2026",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1391239,
+    "title": "The Debut",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
+    "videos": [
+      {
+        "key": "clyzHmBx43E",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+    "overview": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
+    "videos": [
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "vjq7I-lNBSU",
+        "name": "In Cinemas and IMAX 17 September",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1538497,
+    "title": "Hexed",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "videos": [
+      {
+        "key": "mtC4sjABZNw",
+        "name": "Teaser Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1101412,
+    "title": "Fall 2: Deadpoint",
+    "release_date": "2026-09-02",
+    "poster": "https://image.tmdb.org/t/p/w500/ckKAdEz49bJ10jCLbCYIzVHJGEu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "videos": [
+      {
+        "key": "Rsztt5qDj_A",
+        "name": "Official Trailer",
         "type": "Trailer"
       }
     ]
