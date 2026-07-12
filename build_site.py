@@ -305,10 +305,12 @@ def base_page(title: str, description: str, canonical_path: str, body: str, root
         <a class="flickle-link" href="{SITE['flickle_url']}" target="_blank" rel="noopener">Play {esc(SITE['flickle_name'])} →</a>
       </nav>
     </div>
-    <div class="wrap category-nav">
-      <a href="{root}posts/index.html">All Posts</a>
-      {"".join(f'<a href="{root}posts/{slug}/index.html">{esc(CATEGORY_EMOJI.get(cat, ""))} {esc(cat)}</a>' for cat, slug in CATEGORY_SLUGS.items())}
-      {f'<a href="{root}trailers/index.html">🎥 Trailers</a>' if HAS_TRAILERS else ""}
+    <div class="category-nav-wrap">
+      <div class="wrap category-nav">
+        <a href="{root}posts/index.html">All Posts</a>
+        {"".join(f'<a href="{root}posts/{slug}/index.html">{esc(CATEGORY_EMOJI.get(cat, ""))} {esc(cat)}</a>' for cat, slug in CATEGORY_SLUGS.items())}
+        {f'<a href="{root}trailers/index.html">🎥 Trailers</a>' if HAS_TRAILERS else ""}
+      </div>
     </div>
   </header>
 
