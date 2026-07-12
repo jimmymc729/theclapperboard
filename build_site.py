@@ -202,19 +202,21 @@ def game_type_pill(p) -> str:
     return ""
 
 
-def theater_status(iso: str) -> str:
+def theater_status_pill(iso: str) -> str:
     """Trailers now cover both already-released and still-upcoming movies
     (see scripts/update_trailers.py), so a flat "In theaters {date}" label
-    would read oddly for something that opened weeks ago — this returns
-    "In theaters now" for anything on or before today, and the specific
-    date for anything still to come."""
+    would read oddly for something that opened weeks ago. Renders the
+    distinction as a small pill rather than plain caption text — solid for
+    anything already out, lighter/outlined for anything still upcoming —
+    so the two states read as genuinely different information at a glance,
+    not just two different date strings in the same font."""
     try:
         release = datetime.strptime(iso, "%Y-%m-%d").date()
     except (ValueError, TypeError):
-        return f"In theaters {pretty_date(iso)}"
-    if release <= datetime.now().date():
-        return "In theaters now"
-    return f"In theaters {pretty_date(iso)}"
+        release = None
+    if release is not None and release <= datetime.now().date():
+        return '<span class="status-pill status-pill-now">🎬 In Theaters Now</span>'
+    return f'<span class="status-pill status-pill-upcoming">🍿 Coming {esc(pretty_date(iso))}</span>'
 
 
 def slugify(text: str) -> str:
@@ -610,7 +612,7 @@ def trailer_card(t: dict, root: str) -> str:
         <span class="trailer-card-play">▶</span>
       </div>
       <p class="trailer-card-title">{esc(t['title'])}</p>
-      <p class="trailer-card-date">{esc(theater_status(t.get('release_date')))}</p>
+      <div class="trailer-card-date">{theater_status_pill(t.get('release_date'))}</div>
     </a>
 """
 
@@ -634,7 +636,7 @@ def trailer_index_card(t: dict, root: str) -> str:
         <span class="trailer-index-play">▶</span>
       </div>
       <div class="trailer-index-body">
-        <p class="trailer-index-date">{esc(theater_status(t.get('release_date')))}</p>
+        <div class="trailer-index-date">{theater_status_pill(t.get('release_date'))}</div>
         <p class="trailer-index-title">{esc(t['title'])}</p>
       </div>
     </a>
@@ -684,7 +686,7 @@ def render_trailer_page(t: dict) -> str:
   <div class="trailer-page-card">
     {trailer_primary_embed(t)}
     <div class="trailer-page-body">
-      <p class="trailer-page-date">{esc(theater_status(t.get('release_date')))}</p>
+      <div class="trailer-page-date">{theater_status_pill(t.get('release_date'))}</div>
       <h1 class="trailer-page-title">{esc(t['title'])}</h1>
       <p class="trailer-page-overview">{esc(t.get('overview', ''))}</p>
 {trailer_extra_videos_html(t)}
