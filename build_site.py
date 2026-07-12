@@ -342,16 +342,21 @@ def post_card(p, root: str, featured: bool = False) -> str:
 
 def share_row(canonical_path: str, title: str, label: str = "Share this", share_text: str = None) -> str:
     """Share links for a page, covering the platforms people actually use
-    to spread this kind of content (X, Facebook, Reddit, WhatsApp, email)
-    plus a one-click Copy Link for anywhere else — Discord, Instagram bio,
-    text messages, whatever doesn't have its own share-intent URL.
-    `share_text` lets a caller (e.g. a quiz result) put custom copy in the
-    tweet/message body while still linking back to the same canonical page
-    — falls back to just `title` when not given."""
+    to spread this kind of content (X, Bluesky, Facebook, Reddit, WhatsApp,
+    email) plus a one-click Copy Link for anywhere else — Discord,
+    Instagram bio, text messages, whatever doesn't have its own
+    share-intent URL. `share_text` lets a caller (e.g. a quiz result) put
+    custom copy in the tweet/message body while still linking back to the
+    same canonical page — falls back to just `title` when not given."""
     url_raw = f"{SITE['url']}{canonical_path}"
     url = quote(url_raw, safe="")
     text = quote(share_text or title)
     twitter = f"https://twitter.com/intent/tweet?text={text}&url={url}"
+    # Bluesky's compose intent only takes a single "text" param — no
+    # separate url field like Twitter's — so the link has to be folded
+    # into the same string and the WHOLE thing quoted together, rather
+    # than reusing the already-encoded `text`/`url` pieces above.
+    bluesky = f"https://bsky.app/intent/compose?text={quote(f'{share_text or title} {url_raw}')}"
     facebook = f"https://www.facebook.com/sharer/sharer.php?u={url}"
     reddit = f"https://www.reddit.com/submit?url={url}&title={text}"
     whatsapp = f"https://api.whatsapp.com/send?text={text}%20{url}"
@@ -363,6 +368,7 @@ def share_row(canonical_path: str, title: str, label: str = "Share this", share_
     return f"""  <div class="share-row">
     <span class="share-label">{esc(label)}</span>
     <a href="{twitter}" target="_blank" rel="noopener" aria-label="Share on X/Twitter" data-method="twitter">𝕏</a>
+    <a href="{bluesky}" target="_blank" rel="noopener" aria-label="Share on Bluesky" data-method="bluesky">🦋</a>
     <a href="{facebook}" target="_blank" rel="noopener" aria-label="Share on Facebook" data-method="facebook">f</a>
     <a href="{reddit}" target="_blank" rel="noopener" aria-label="Share on Reddit" data-method="reddit">r/</a>
     <a href="{whatsapp}" target="_blank" rel="noopener" aria-label="Share on WhatsApp" data-method="whatsapp">💬</a>
