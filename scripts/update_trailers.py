@@ -37,12 +37,17 @@ TMDB_BASE = "https://api.themoviedb.org/3"
 TMDB_POSTER_IMG = "https://image.tmdb.org/t/p/w500"
 TMDB_BACKDROP_IMG = "https://image.tmdb.org/t/p/w780"
 
-TARGET_COUNT = 20  # how many movies to keep on hand
-PAGES_TO_SCAN = 5  # discover/movie pages to pull candidates from (20/page)
+TARGET_COUNT = 24  # how many movies to keep on hand
+PAGES_TO_SCAN = 8  # discover/movie pages to pull candidates from (20/page) — wider
+                   # than TARGET_COUNT alone would need, since MIN_UPCOMING below
+                   # specifically needs a deep enough candidate pool to find that
+                   # many upcoming movies, which rank lower in raw popularity than
+                   # already-released ones (see MIN_UPCOMING comment) and so need
+                   # more of the ranked list scanned to turn up at all.
 RECENT_WINDOW_DAYS = 60  # also include movies that opened up to this many days ago
 MAX_VIDEOS_PER_MOVIE = 4  # a heavily-marketed movie can have a dozen+ clips on file;
                            # cap it so one movie's page doesn't turn into an endless list
-MIN_UPCOMING = 6  # guaranteed minimum still-unreleased movies out of TARGET_COUNT.
+MIN_UPCOMING = 10  # guaranteed minimum still-unreleased movies out of TARGET_COUNT.
                    # A pure popularity.desc pass systematically starves "Coming Soon"
                    # — attention/searches spike once a movie is actually out, so an
                    # upcoming movie rarely out-popularity-ranks something currently
