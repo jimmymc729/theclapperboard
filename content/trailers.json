@@ -228,13 +228,13 @@
         "type": "Trailer"
       },
       {
-        "key": "pBe-5cXYwcE",
-        "name": "\ud83d\udc99\ud83c\udf0a",
+        "key": "o8JZW9hFqtI",
+        "name": "#1 In The World",
         "type": "Teaser"
       },
       {
-        "key": "o0IktGl2kZs",
-        "name": "Close your eyes and travel to Montunui",
+        "key": "pBe-5cXYwcE",
+        "name": "\ud83d\udc99\ud83c\udf0a",
         "type": "Teaser"
       }
     ]
@@ -410,36 +410,6 @@
     ]
   },
   {
-    "id": 1228710,
-    "title": "The Mandalorian and Grogu",
-    "release_date": "2026-05-22",
-    "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-    "videos": [
-      {
-        "key": "uwild1rw7Aw",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "IHWlvwu8t1w",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "_pa1KLXuW0Y",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "GqlOAgbtmwY",
-        "name": "Good Shot",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 969681,
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
@@ -470,47 +440,82 @@
     ]
   },
   {
-    "id": 1081003,
-    "title": "Supergirl",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
-    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "id": 1170608,
+    "title": "Dune: Part Three",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bU206dN0ucfOFRK17OXabkdHKFC.jpg",
+    "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
     "videos": [
       {
-        "key": "tzlY8XD1CGg",
-        "name": "Tickets on Sale Now",
-        "type": "Trailer"
-      },
-      {
-        "key": "s1-pfiVMKAs",
+        "key": "NdvqHc56lE0",
         "name": "Official Trailer",
         "type": "Trailer"
       },
       {
-        "key": "YqdAEdkHrwo",
+        "key": "3_9vCamtuPY",
         "name": "Official Teaser Trailer",
         "type": "Trailer"
       },
       {
-        "key": "0tnDB-qe7KY",
-        "name": "Supergirl has landed",
+        "key": "-hWl_vx6mpo",
+        "name": "For all he\u2019s done.",
+        "type": "Teaser"
+      },
+      {
+        "key": "bqwKY5DZay4",
+        "name": "What can be forgiven?",
         "type": "Teaser"
       }
     ]
   },
   {
-    "id": 1397385,
-    "title": "Little Brother",
-    "release_date": "2026-06-18",
-    "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
-    "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+    "id": 1375646,
+    "title": "Colony",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+    "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
     "videos": [
       {
-        "key": "bWtrFcerKE0",
-        "name": "Official Trailer",
+        "key": "LW6dpj1uCK8",
+        "name": "COLONY - International Trailer | Directed by Yeon Sang-ho | In Theaters August 28th",
         "type": "Trailer"
+      },
+      {
+        "key": "D6eKZ6arMI8",
+        "name": "Official Teaser [Subtitled]",
+        "type": "Teaser"
+      },
+      {
+        "key": "XeurGlQMJxw",
+        "name": "Colony Exclusive Trailer (2026)",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1058424,
+    "title": "Hope",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "videos": [
+      {
+        "key": "R5jcEBVBEbQ",
+        "name": "Official US Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "ODnHr2Emnf0",
+        "name": "International Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "Vt7860xZFXk",
+        "name": "HOPE - Official Teaser - In Theaters Fall 2026",
+        "type": "Teaser"
       }
     ]
   }
