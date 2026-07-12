@@ -285,6 +285,36 @@
     ]
   },
   {
+    "id": 1212763,
+    "title": "Evil Dead Burn",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+    "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
+    "videos": [
+      {
+        "key": "RddZObTlmA8",
+        "name": "Tickets on Sale",
+        "type": "Trailer"
+      },
+      {
+        "key": "TnHby2cxJzs",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "nMzhf6qYJ4I",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "BuTwaO-KNjI",
+        "name": "\"Summer's Scariest Ride\"",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1202033,
     "title": "Enola Holmes 3",
     "release_date": "2026-07-01",
@@ -301,21 +331,6 @@
         "key": "g1fq327snPU",
         "name": "Official Teaser",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1645603,
-    "title": "Night of the Living Dead",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
-    "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
-    "videos": [
-      {
-        "key": "3ZfsKIKtYaA",
-        "name": "Official Trailer",
-        "type": "Trailer"
       }
     ]
   },
@@ -350,6 +365,21 @@
     ]
   },
   {
+    "id": 1645603,
+    "title": "Night of the Living Dead",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
+    "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+    "videos": [
+      {
+        "key": "3ZfsKIKtYaA",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 980431,
     "title": "Avatar Aang: The Last Airbender",
     "release_date": "2026-07-25",
@@ -361,36 +391,6 @@
         "key": "7b20GRFZBFE",
         "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1212763,
-    "title": "Evil Dead Burn",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-    "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
-    "videos": [
-      {
-        "key": "RddZObTlmA8",
-        "name": "Tickets on Sale",
-        "type": "Trailer"
-      },
-      {
-        "key": "TnHby2cxJzs",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "nMzhf6qYJ4I",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "BuTwaO-KNjI",
-        "name": "\"Summer's Scariest Ride\"",
-        "type": "Teaser"
       }
     ]
   },
@@ -458,13 +458,13 @@
         "type": "Trailer"
       },
       {
-        "key": "bHYEaSZA2YQ",
-        "name": "It\u2019s the key to longevity.",
+        "key": "cH4w04AGftI",
+        "name": "Hey stranger.",
         "type": "Teaser"
       },
       {
-        "key": "dqoRUH_zjXg",
-        "name": "It\u2019s not always easy being Spider-Man",
+        "key": "bHYEaSZA2YQ",
+        "name": "It\u2019s the key to longevity.",
         "type": "Teaser"
       }
     ]

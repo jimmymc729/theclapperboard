@@ -1,0 +1,312 @@
+{
+  "slug": "which-denzel-washington-character-are-you",
+  "title": "Which Denzel Washington Character Are You? Let's Settle This Once And For All",
+  "dek": "Eight iconic roles, eight totally different moral compasses \u2014 answer honestly and find out which Denzel legend you actually are.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/lVk1hdbmKxtft7iY4II2tYEWker.jpg",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T08:36:52.601899+00:00",
+  "quiz": {
+    "intro": "No wrong answers here \u2014 just go with your gut and let the chips fall where they may.",
+    "questions": [
+      {
+        "question": "How do you handle conflict?",
+        "answers": [
+          {
+            "text": "I control the room until everyone plays by my rules.",
+            "result": "alonzo"
+          },
+          {
+            "text": "I speak hard truths, even when people don't want to hear them.",
+            "result": "malcolm"
+          },
+          {
+            "text": "I stay calm and quiet \u2014 my work speaks for itself.",
+            "result": "frank"
+          },
+          {
+            "text": "I quietly assess the situation, then act with precision.",
+            "result": "mccall"
+          }
+        ]
+      },
+      {
+        "question": "What's your personal moral code?",
+        "answers": [
+          {
+            "text": "Stand up for your people, by any means necessary.",
+            "result": "malcolm"
+          },
+          {
+            "text": "Loyalty and family come before literally anything else.",
+            "result": "frank"
+          },
+          {
+            "text": "Protect the powerless, even when the law won't.",
+            "result": "mccall"
+          },
+          {
+            "text": "An eye for an eye. No exceptions.",
+            "result": "creasy"
+          }
+        ]
+      },
+      {
+        "question": "Someone challenges your authority. What's your move?",
+        "answers": [
+          {
+            "text": "Handle it privately. No need for a public scene.",
+            "result": "frank"
+          },
+          {
+            "text": "Let them underestimate me. That's on them.",
+            "result": "mccall"
+          },
+          {
+            "text": "Give them one warning. Only one.",
+            "result": "creasy"
+          },
+          {
+            "text": "Charm my way out of it.",
+            "result": "whip"
+          }
+        ]
+      },
+      {
+        "question": "What's your biggest flaw, if we're being honest?",
+        "answers": [
+          {
+            "text": "I can't walk away from someone who needs help.",
+            "result": "mccall"
+          },
+          {
+            "text": "I let my guilt nearly destroy me.",
+            "result": "creasy"
+          },
+          {
+            "text": "I can't admit when I actually have a problem.",
+            "result": "whip"
+          },
+          {
+            "text": "I push people harder than they think they can go.",
+            "result": "boone"
+          }
+        ]
+      },
+      {
+        "question": "Describe your idea of a perfect day.",
+        "answers": [
+          {
+            "text": "One where nobody I love is in any danger.",
+            "result": "creasy"
+          },
+          {
+            "text": "One where I don't need anything to get through it.",
+            "result": "whip"
+          },
+          {
+            "text": "A brutal practice that ends in real team unity.",
+            "result": "boone"
+          },
+          {
+            "text": "Porch, a drink, and a story only I can tell right.",
+            "result": "troy"
+          }
+        ]
+      },
+      {
+        "question": "How would people who know you best describe you?",
+        "answers": [
+          {
+            "text": "Talented, charming, a little unpredictable.",
+            "result": "whip"
+          },
+          {
+            "text": "Tough, demanding, but fair to the bone.",
+            "result": "boone"
+          },
+          {
+            "text": "Larger than life, stubborn, hard to fully forgive.",
+            "result": "troy"
+          },
+          {
+            "text": "Charismatic, terrifying, impossible to say no to.",
+            "result": "alonzo"
+          }
+        ]
+      },
+      {
+        "question": "What would actually make you snap?",
+        "answers": [
+          {
+            "text": "A team that refuses to actually come together.",
+            "result": "boone"
+          },
+          {
+            "text": "Someone telling me I failed as a provider.",
+            "result": "troy"
+          },
+          {
+            "text": "Someone threatening everything I built.",
+            "result": "alonzo"
+          },
+          {
+            "text": "Watching injustice go unanswered one more time.",
+            "result": "malcolm"
+          }
+        ]
+      },
+      {
+        "question": "Pick the motto that fits how you actually live.",
+        "answers": [
+          {
+            "text": "You provide. Feelings are extra.",
+            "result": "troy"
+          },
+          {
+            "text": "Stay two moves ahead of everyone else.",
+            "result": "alonzo"
+          },
+          {
+            "text": "Change comes by whatever means necessary.",
+            "result": "malcolm"
+          },
+          {
+            "text": "Family first, business second, no exceptions.",
+            "result": "frank"
+          }
+        ]
+      },
+      {
+        "question": "What's your natural role in a crisis?",
+        "answers": [
+          {
+            "text": "I take control before anyone else even can.",
+            "result": "alonzo"
+          },
+          {
+            "text": "I rally people around the cause.",
+            "result": "malcolm"
+          },
+          {
+            "text": "I stay two steps ahead of everyone in the room.",
+            "result": "frank"
+          },
+          {
+            "text": "I quietly become the person everyone ends up needing.",
+            "result": "mccall"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "alonzo",
+        "name": "Alonzo Harris",
+        "subtitle": "Training Day (2001)",
+        "description": "You're magnetic, calculating, and you've convinced yourself the rules were made for everyone else. People follow you not because they trust you, but because your confidence is impossible to argue with \u2014 right up until it isn't. You believe control is the only real currency, and you've never once apologized for wanting more of it.",
+        "image": "https://image.tmdb.org/t/p/w780/lVk1hdbmKxtft7iY4II2tYEWker.jpg"
+      },
+      {
+        "key": "malcolm",
+        "name": "Malcolm X",
+        "subtitle": "Malcolm X (1992)",
+        "description": "You don't do quiet compromise \u2014 you speak plainly, think deeply, and you're willing to be transformed by your own convictions in public. You lead with unshakable clarity even when it costs you relationships or comfort, because for you, the cause has always mattered more than being liked.",
+        "image": "https://image.tmdb.org/t/p/w780/2yZdgLUHmhL1UG57OYc2yksrmPl.jpg"
+      },
+      {
+        "key": "frank",
+        "name": "Frank Lucas",
+        "subtitle": "American Gangster (2007)",
+        "description": "Calm, composed, and quietly ruthless, you run everything like a business \u2014 even your relationships. Family is sacred to you, appearances matter, and you'd rather move in silence and let your results announce themselves than ever raise your voice.",
+        "image": "https://image.tmdb.org/t/p/w780/uiaJDAgrBu0QJXyzBK1ycg9dEZ2.jpg"
+      },
+      {
+        "key": "mccall",
+        "name": "Robert McCall",
+        "subtitle": "The Equalizer (2014)",
+        "description": "You crave a quiet, orderly life \u2014 but you physically cannot look away when someone weaker is being hurt. Methodical, precise, and dangerously capable when pushed, you're the person who seems unremarkable until the exact moment someone needs you not to be.",
+        "image": "https://image.tmdb.org/t/p/w780/2WKP9CTppxBn6tMVQlVWcvio5cn.jpg"
+      },
+      {
+        "key": "creasy",
+        "name": "John Creasy",
+        "subtitle": "Man on Fire (2004)",
+        "description": "You love hard and protect harder, and when someone you care about is threatened, negotiation stops being an option. You carry old guilt like armor, and it's channeled into a devotion so intense it borders on obsession \u2014 but it's never anything less than sincere.",
+        "image": "https://image.tmdb.org/t/p/w780/izNFUyLwlrHZqfbb3vb5PqRZo9J.jpg"
+      },
+      {
+        "key": "whip",
+        "name": "Whip Whitaker",
+        "subtitle": "Flight (2012)",
+        "description": "You're talented enough to make your flaws look like confidence, and charming enough that people forgive you before you even ask. You hold it together in front of everyone else and quietly fall apart alone, and deep down you know the truth catches up eventually.",
+        "image": "https://image.tmdb.org/t/p/w780/lKaBnmdtFlyec6SGBLbdwXSrrRi.jpg"
+      },
+      {
+        "key": "boone",
+        "name": "Coach Herman Boone",
+        "subtitle": "Remember the Titans (2000)",
+        "description": "You lead with discipline first and warmth second, because you genuinely believe hard structure is what actually builds people up. You push everyone around you harder than they'd push themselves, and more often than not, it works \u2014 and they thank you for it later.",
+        "image": "https://image.tmdb.org/t/p/w780/ciFg8g1Gj17dU1c6EsjrTjscYWD.jpg"
+      },
+      {
+        "key": "troy",
+        "name": "Troy Maxson",
+        "subtitle": "Fences (2016)",
+        "description": "You're loud, larger than life, and full of hard-won opinions about what you owe the people around you. Underneath the bravado is real pain about the life you didn't get to have, and it makes you fiercely protective of your family \u2014 even when your pride gets in your own way.",
+        "image": "https://image.tmdb.org/t/p/w780/j2kgVOyp4dxlqohU5QJTrDHfbRD.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Training Day - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Training_Day"
+    },
+    {
+      "title": "Alonzo Harris | Villains Wiki | Fandom",
+      "url": "https://villains.fandom.com/wiki/Alonzo_Harris"
+    },
+    {
+      "title": "American Gangster (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Gangster_(film)"
+    },
+    {
+      "title": "The Code of the Kingpin: 10 Admirable Traits of Frank Lucas in American Gangster",
+      "url": "https://thebigbasictheory.wordpress.com/2025/05/17/the-code-of-the-kingpin-10-admirable-traits-of-frank-lucas-in-american-gangster/"
+    },
+    {
+      "title": "The Equalizer (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Equalizer_(film)"
+    },
+    {
+      "title": "The Equalizer - Denzel Washington's Quiet Storm of Justice",
+      "url": "https://weveseenthat.com/the-equalizer-denzel-washingtons-quiet-storm-of-justice/"
+    },
+    {
+      "title": "Flight (2012 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flight_(2012_film)"
+    },
+    {
+      "title": "My name is Whip, and I'm an alcoholic - RogerEbert.com",
+      "url": "https://www.rogerebert.com/reviews/flight-2012"
+    },
+    {
+      "title": "Remember the Titans - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Remember_the_Titans"
+    },
+    {
+      "title": "Herman Boone - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Herman_Boone"
+    },
+    {
+      "title": "Review: Denzel Washington Almost Too Much as 'Fences' Patriarch - Newsweek",
+      "url": "https://www.newsweek.com/denzel-washington-too-much-fences-patriarch-552333"
+    },
+    {
+      "title": "Denzel Washington on screen and stage - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Denzel_Washington_on_screen_and_stage"
+    }
+  ],
+  "related": []
+}
