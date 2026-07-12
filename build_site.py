@@ -126,24 +126,31 @@ def trending_order(posts: list, engagement: dict) -> list:
     return sorted(posts, key=lambda p: engagement.get(p["slug"], {}).get("score", 0), reverse=True)
 
 
-def view_toggle(group_id: str, newest_html: str, trending_html: str) -> str:
-    """Wraps two pre-rendered versions of the same post list — one ordered
-    by publish date, one by real GA4 engagement (see trending_order()) — in
-    a client-side Newest/Trending tab switcher. Both versions are fully
+def view_toggle(group_id: str, tabs: list) -> str:
+    """Wraps 2+ pre-rendered versions of the same content in a client-side
+    tab switcher — e.g. Newest/Trending post ordering, or an All / In
+    Theaters Now / Coming Soon trailer filter. Every version is fully
     rendered into the page at build time; script.js just toggles which one
-    is visible, so switching tabs is instant with no reload and works even
-    with JS-blocking privacy tools (it just shows Newest, the default, and
-    the Trending tab silently does nothing rather than erroring)."""
+    is visible (see the .view-toggle-group handler in script.js), so
+    switching tabs is instant with no reload and works even with
+    JS-blocking privacy tools (it just shows whichever tab is first in
+    `tabs`, and the others silently do nothing rather than erroring).
+
+    `tabs` is a list of (key, label, html) tuples — the FIRST tab in the
+    list is the one shown by default."""
+    buttons = "\n".join(
+        f'      <button type="button" class="view-toggle-btn{" active" if i == 0 else ""}" data-view="{esc(key)}">{label}</button>'
+        for i, (key, label, _) in enumerate(tabs)
+    )
+    panels = "".join(
+        f'    <div data-view-panel="{esc(key)}"{"" if i == 0 else " hidden"}>\n{html}    </div>\n'
+        for i, (key, label, html) in enumerate(tabs)
+    )
     return f"""  <div class="view-toggle-group" data-toggle-group="{esc(group_id)}">
     <div class="view-toggle-tabs">
-      <button type="button" class="view-toggle-btn active" data-view="newest">Newest</button>
-      <button type="button" class="view-toggle-btn" data-view="trending">🔥 Trending</button>
+{buttons}
     </div>
-    <div data-view-panel="newest">
-{newest_html}    </div>
-    <div data-view-panel="trending" hidden>
-{trending_html}    </div>
-  </div>
+{panels}  </div>
 """
 
 
@@ -217,6 +224,17 @@ def theater_status_pill(iso: str) -> str:
     if release is not None and release <= datetime.now().date():
         return '<span class="status-pill status-pill-now">🎬 In Theaters Now</span>'
     return f'<span class="status-pill status-pill-upcoming">🍿 Coming {esc(pretty_date(iso))}</span>'
+
+
+def is_upcoming(iso: str) -> bool:
+    """Same released-vs-upcoming split as theater_status_pill(), returned
+    as a plain bool instead of a rendered pill — used to build the All / In
+    Theaters Now / Coming Soon filter tabs on the trailers index."""
+    try:
+        release = datetime.strptime(iso, "%Y-%m-%d").date()
+    except (ValueError, TypeError):
+        return False
+    return release > datetime.now().date()
 
 
 def slugify(text: str) -> str:
@@ -441,11 +459,10 @@ def render_home(posts, trailers: list, engagement: dict) -> str:
     )
     newest_grid = "\n".join(post_card(p, root) for p in rest)
     trending_grid = "\n".join(post_card(p, root) for p in trending_order(rest, engagement))
-    toggle_html = view_toggle(
-        "home",
-        f'    <div class="post-grid">\n{newest_grid}\n    </div>\n',
-        f'    <div class="post-grid">\n{trending_grid}\n    </div>\n',
-    )
+    toggle_html = view_toggle("home", [
+        ("newest", "Newest", f'    <div class="post-grid">\n{newest_grid}\n    </div>\n'),
+        ("trending", "🔥 Trending", f'    <div class="post-grid">\n{trending_grid}\n    </div>\n'),
+    ])
     today = datetime.now().strftime("%m.%d.%y")
 
     trailers_html = ""
@@ -495,11 +512,10 @@ def render_posts_index(posts, engagement: dict, category: str = None) -> str:
     group_id = f"posts-{CATEGORY_SLUGS[category]}" if category else "posts-all"
     newest_grid = "\n".join(post_card(p, root) for p in posts)
     trending_grid = "\n".join(post_card(p, root) for p in trending_order(posts, engagement))
-    toggle_html = view_toggle(
-        group_id,
-        f'    <div class="post-grid">\n{newest_grid}\n    </div>\n',
-        f'    <div class="post-grid">\n{trending_grid}\n    </div>\n',
-    )
+    toggle_html = view_toggle(group_id, [
+        ("newest", "Newest", f'    <div class="post-grid">\n{newest_grid}\n    </div>\n'),
+        ("trending", "🔥 Trending", f'    <div class="post-grid">\n{trending_grid}\n    </div>\n'),
+    ])
     body = f"""  <section class="hero">
     <h1>{esc(title)}</h1>
     <p>{len(posts)} post{"s" if len(posts) != 1 else ""}{f" in {esc(category)}" if category else ""}.</p>
@@ -650,21 +666,41 @@ def trailer_index_card(t: dict, root: str) -> str:
 
 
 def render_trailers_page(trailers: list) -> str:
-    """The /trailers/ index — just a browsable grid of cards (reusing
+    """The /trailers/ index — a browsable grid of cards (reusing
     .post-grid/.post-card, identical to /posts/), each linking out to that
     movie's own dedicated page where the trailer actually plays. Watching a
     trailer is a separate click/pageview from browsing the list, same as
-    reading a post is separate from browsing the post grid."""
+    reading a post is separate from browsing the post grid.
+
+    "In Theaters Now" and "Coming Soon" represent genuinely different
+    visitor intent (what can I watch tonight vs. what should I be excited
+    about later) rather than just two orderings of the same list, so this
+    is a real filter — not a resort like Newest/Trending — with "All"
+    (today's full popularity-ranked mix, unchanged) as the default so
+    nobody's existing experience of this page changes unless they
+    deliberately pick a narrower tab."""
     root = "../"
-    cards = "".join(trailer_index_card(t, root) for t in trailers)
+    released = [t for t in trailers if not is_upcoming(t.get("release_date", ""))]
+    upcoming = [t for t in trailers if is_upcoming(t.get("release_date", ""))]
+
+    def grid(items, empty_message):
+        if not items:
+            return f'    <p class="trailer-empty">{esc(empty_message)}</p>\n'
+        cards = "".join(trailer_index_card(t, root) for t in items)
+        return f'    <div class="post-grid">\n{cards}    </div>\n'
+
+    toggle_html = view_toggle("trailers", [
+        ("all", "All", grid(trailers, "No trailers on file right now — check back soon.")),
+        ("now", "🎬 In Theaters Now", grid(released, "Nothing currently in theaters on file right now.")),
+        ("soon", "🍿 Coming Soon", grid(upcoming, "Nothing upcoming on file right now — check back soon.")),
+    ])
+
     body = f"""  <section class="hero">
     <h1>🎥 Latest Movie Trailers</h1>
     <p>The newest trailers for the movies everyone's about to be talking about — check back often, this shelf keeps growing.</p>
   </section>
 
-  <div class="post-grid">
-{cards}  </div>
-
+{toggle_html}
 {flickle_cta()}
 """
     return base_page(
