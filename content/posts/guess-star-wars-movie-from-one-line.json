@@ -1,0 +1,93 @@
+{
+  "slug": "guess-star-wars-movie-from-one-line",
+  "title": "Guess The Star Wars Movie From Just One Iconic Line",
+  "dek": "No character names, no spoilers pointing you to the answer \u2014 just the line. Can your Jedi brain pull the title out of thin air?",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T15:57:55.623077+00:00",
+  "items": [
+    {
+      "number": 1,
+      "quote": "May the Force be with you.",
+      "reveal_title": "Star Wars: Episode IV - A New Hope (1977)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+      "trailer_key": "i-vsILeJ8_8"
+    },
+    {
+      "number": 2,
+      "quote": "No. I am your father.",
+      "reveal_title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+      "trailer_key": "vU6L3jXt2r8"
+    },
+    {
+      "number": 3,
+      "quote": "I know.",
+      "reveal_title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/8vG0vicedQKdmpNggqyHgYH8T0t.jpg",
+      "trailer_key": "MAW1E3JIQZE"
+    },
+    {
+      "number": 4,
+      "quote": "There's always a bigger fish.",
+      "reveal_title": "Star Wars: Episode I - The Phantom Menace (1999)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+      "trailer_key": "J3kyYFHdRsM"
+    },
+    {
+      "number": 5,
+      "quote": "I don't like sand. It's coarse and rough and irritating, and it gets everywhere.",
+      "reveal_title": "Star Wars: Episode II - Attack of the Clones (2002)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/msYmRFJfXy0zsFd73PAEqdetKpO.jpg",
+      "trailer_key": "gYbW1F_c9eM"
+    },
+    {
+      "number": 6,
+      "quote": "It's over! I have the high ground.",
+      "reveal_title": "Star Wars: Episode III - Revenge of the Sith (2005)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/aQX9Hc4pCdbkzf4Oz6FMSpujagV.jpg",
+      "trailer_key": "5UnjrG_N8hU"
+    },
+    {
+      "number": 7,
+      "quote": "I am one with the Force. The Force is with me.",
+      "reveal_title": "Rogue One: A Star Wars Story (2016)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/q7j4YgANnRex9ZEo3hghVQQoyWf.jpg",
+      "trailer_key": "sC9abcLLQpI"
+    },
+    {
+      "number": 8,
+      "quote": "Chewie, we're home.",
+      "reveal_title": "Star Wars: Episode VII - The Force Awakens (2015)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/tYv3srChn9nqUbk6SEC0JyxbrcM.jpg",
+      "trailer_key": "sGbxmsDFVnE"
+    },
+    {
+      "number": 9,
+      "quote": "This is not going to go the way you think.",
+      "reveal_title": "Star Wars: Episode VIII - The Last Jedi (2017)",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/dYDhc4bFN3y1l3djJJZ0m64PlF.jpg",
+      "trailer_key": "Q0CbN8sfihY"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Know Your Meme: I Don't Like Sand",
+      "url": "https://knowyourmeme.com/memes/i-dont-like-sand"
+    },
+    {
+      "title": "IMDb: Attack of the Clones Quotes",
+      "url": "https://www.imdb.com/title/tt0121765/quotes/"
+    },
+    {
+      "title": "Bustle: Why Chirrut's 'The Force Is With Me' Quote Is Becoming A Mantra",
+      "url": "https://www.bustle.com/p/why-chirruts-the-force-is-with-me-quote-from-rogue-one-is-becoming-a-mantra-for-star-wars-fans-26084"
+    },
+    {
+      "title": "Know Your Meme: I Am One With the Force and the Force Is With Me",
+      "url": "https://knowyourmeme.com/memes/i-am-one-with-the-force-and-the-force-is-with-me"
+    }
+  ],
+  "related": []
+}
