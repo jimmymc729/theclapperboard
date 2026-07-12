@@ -357,11 +357,30 @@ a { color: inherit; }
 }
 
 /* Hero card: matches the full height of the compact item stack next to
-   it, title + number overlaid on a dark gradient scrim at the bottom. */
+   it, title + number overlaid on a dark gradient scrim at the bottom.
+
+   `.trending-hero-image`'s "height: 100%" alone doesn't reliably resolve —
+   percentage heights only work if EVERY ancestor in the chain has a
+   definite height, and `.trending-card` (its direct parent) never
+   declared one of its own; it just happened to get an implicit stretched
+   size as a grid item, which doesn't reliably propagate as a resolvable
+   percentage-height context to a nested child in every browser. In
+   practice this let a tall/portrait-ish source image render at its own
+   native aspect ratio instead of being cropped to match the small-card
+   stack's height, throwing off the whole grid row. Making `.trending-hero`
+   an explicit flex column with its own real height, and letting the image
+   container fill it via `flex: 1` instead of a percentage, sidesteps the
+   ambiguity entirely. */
+.trending-hero {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
 .trending-hero-image {
   position: relative;
   width: 100%;
-  height: 100%;
+  flex: 1;
   min-height: 280px;
 }
 
