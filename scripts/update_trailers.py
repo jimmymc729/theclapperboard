@@ -42,6 +42,14 @@ PAGES_TO_SCAN = 5  # discover/movie pages to pull candidates from (20/page)
 RECENT_WINDOW_DAYS = 60  # also include movies that opened up to this many days ago
 MAX_VIDEOS_PER_MOVIE = 4  # a heavily-marketed movie can have a dozen+ clips on file;
                            # cap it so one movie's page doesn't turn into an endless list
+MIN_UPCOMING = 6  # guaranteed minimum still-unreleased movies out of TARGET_COUNT.
+                   # A pure popularity.desc pass systematically starves "Coming Soon"
+                   # — attention/searches spike once a movie is actually out, so an
+                   # upcoming movie rarely out-popularity-ranks something currently
+                   # in theaters no matter how anticipated it eventually becomes.
+                   # Left alone, this meant the site's "Coming Soon" trailer tab
+                   # stayed thin even when plenty of upcoming movies had trailers on
+                   # file — they just never survived a straight popularity cut.
 
 
 def discover_movies(page: int) -> list:
@@ -109,6 +117,21 @@ def movie_trailers(movie_id: int) -> list:
     ]
 
 
+def is_upcoming(movie: dict) -> bool:
+    """A raw TMDB /discover result is "upcoming" if its release date is
+    still in the future — same released-vs-upcoming split build_site.py's
+    is_upcoming()/theater_status_pill() apply to the resolved trailer
+    records, just working off the raw movie dict before it's been turned
+    into one."""
+    release = movie.get("release_date")
+    if not release:
+        return False
+    try:
+        return date.fromisoformat(release) > date.today()
+    except ValueError:
+        return False
+
+
 def main():
     if not TMDB_API_KEY:
         sys.exit("Missing TMDB_API_KEY environment variable.")
@@ -117,29 +140,32 @@ def main():
     for page in range(1, PAGES_TO_SCAN + 1):
         candidates.extend(discover_movies(page))
 
-    trailers = []
+    resolved = {}  # movie_id -> trailer dict, in the order each was resolved
     seen_ids = set()
-    for movie in candidates:
-        if len(trailers) >= TARGET_COUNT:
-            break
+
+    def try_resolve(movie: dict):
+        """Resolve one /discover result into a trailer record, or None if
+        it's not usable (missing basics, or TMDB has no trailer on file
+        yet). Marks the id seen either way so a second pass over the same
+        candidate list never re-attempts (or double-counts) it."""
         movie_id = movie.get("id")
         if not movie_id or movie_id in seen_ids:
-            continue
+            return None
         seen_ids.add(movie_id)
 
         if not movie.get("release_date") or not movie.get("poster_path"):
-            continue  # not enough to show a usable card
+            return None  # not enough to show a usable card
 
         try:
             videos = movie_trailers(movie_id)
         except requests.RequestException as e:
             print(f"  trailer lookup failed for '{movie.get('title')}': {e}")
-            continue
+            return None
 
         if not videos:
-            continue  # no trailer on file yet — skip rather than show a dead card
+            return None  # no trailer on file yet — skip rather than show a dead card
 
-        trailers.append({
+        return {
             "id": movie_id,
             "title": movie.get("title", ""),
             "release_date": movie["release_date"],
@@ -147,14 +173,46 @@ def main():
             "backdrop": f"{TMDB_BACKDROP_IMG}{movie['backdrop_path']}" if movie.get("backdrop_path") else "",
             "overview": movie.get("overview", ""),
             "videos": videos,
-        })
+        }
 
-    # Deliberately NOT re-sorted by release date — `trailers` is already in
-    # the order discover_movies() returned it (TMDB's own popularity.desc
-    # ranking), and that order is preserved all the way through to what
-    # build_site.py renders. Biggest/most-talked-about movies show first,
-    # regardless of whether they're already out or still upcoming.
+    # Pass 1: guarantee MIN_UPCOMING upcoming-movie slots first — see the
+    # comment on MIN_UPCOMING above for why a plain popularity pass alone
+    # would otherwise crowd these out almost entirely.
+    for movie in candidates:
+        if len(resolved) >= MIN_UPCOMING:
+            break
+        if not is_upcoming(movie):
+            continue
+        trailer = try_resolve(movie)
+        if trailer:
+            resolved[trailer["id"]] = trailer
 
+    upcoming_reserved = len(resolved)
+
+    # Pass 2: fill the remaining slots from the full popularity-ranked
+    # list (released or upcoming) — same selection as before this fix,
+    # just picking up wherever pass 1 left off (seen_ids already skips
+    # anything pass 1 added or already ruled out).
+    for movie in candidates:
+        if len(resolved) >= TARGET_COUNT:
+            break
+        trailer = try_resolve(movie)
+        if trailer:
+            resolved[trailer["id"]] = trailer
+
+    # The two passes above are only about WHICH movies make the cut — the
+    # actual output order is re-sorted back to TMDB's own popularity.desc
+    # ranking, so "All" and the homepage shelf still read biggest/
+    # most-talked-about-first exactly like before, regardless of which
+    # pass happened to pick up a given movie.
+    popularity_rank = {m.get("id"): i for i, m in enumerate(candidates)}
+    trailers = sorted(
+        resolved.values(),
+        key=lambda t: popularity_rank.get(t["id"], len(candidates)),
+    )
+
+    print(f"Reserved {upcoming_reserved} upcoming-movie slot(s) for Coming Soon, "
+          f"{len(trailers) - upcoming_reserved} filled by overall popularity.")
     OUT_PATH.write_text(json.dumps(trailers, indent=2) + "\n")
     print(f"Wrote {len(trailers)} in-theaters/upcoming movie trailers to {OUT_PATH}")
 
