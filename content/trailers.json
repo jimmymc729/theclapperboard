@@ -595,6 +595,36 @@
     ]
   },
   {
+    "id": 1003596,
+    "title": "Avengers: Doomsday",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kgNXJ0GWNX1D9h9cm1JEchGW5vz.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "videos": [
+      {
+        "key": "399Ez7WHK5s",
+        "name": "The Wakandans and The Fantastic Four Will Return",
+        "type": "Teaser"
+      },
+      {
+        "key": "kH1XlwHQv9o",
+        "name": "The X-Men Will Return",
+        "type": "Teaser"
+      },
+      {
+        "key": "1clWprLC5Ak",
+        "name": "Thor Will Return",
+        "type": "Teaser"
+      },
+      {
+        "key": "UiMg566PREA",
+        "name": "Steve Rogers Will Return",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1375646,
     "title": "Colony",
     "release_date": "2026-08-28",
@@ -640,36 +670,6 @@
       {
         "key": "Vt7860xZFXk",
         "name": "HOPE - Official Teaser - In Theaters Fall 2026",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1003596,
-    "title": "Avengers: Doomsday",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kgNXJ0GWNX1D9h9cm1JEchGW5vz.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "videos": [
-      {
-        "key": "399Ez7WHK5s",
-        "name": "The Wakandans and The Fantastic Four Will Return",
-        "type": "Teaser"
-      },
-      {
-        "key": "kH1XlwHQv9o",
-        "name": "The X-Men Will Return",
-        "type": "Teaser"
-      },
-      {
-        "key": "1clWprLC5Ak",
-        "name": "Thor Will Return",
-        "type": "Teaser"
-      },
-      {
-        "key": "UiMg566PREA",
-        "name": "Steve Rogers Will Return",
         "type": "Teaser"
       }
     ]
@@ -725,6 +725,31 @@
     ]
   },
   {
+    "id": 421892,
+    "title": "Shrek 5",
+    "release_date": "2027-06-30",
+    "poster": "https://image.tmdb.org/t/p/w500/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
+    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure.",
+    "videos": [
+      {
+        "key": "Swiz1XyfhcI",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "KbiwL74KyJQ",
+        "name": "Cast Announcement",
+        "type": "Teaser"
+      },
+      {
+        "key": "BhCSpmVOGow",
+        "name": "Not too Far, Far Away\u2026",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1628071,
     "title": "Ip Man: Kung Fu Legend",
     "release_date": "2026-07-22",
@@ -755,31 +780,6 @@
       {
         "key": "Rd21PhsDHww",
         "name": "Title Announcement",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 421892,
-    "title": "Shrek 5",
-    "release_date": "2027-06-30",
-    "poster": "https://image.tmdb.org/t/p/w500/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
-    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure.",
-    "videos": [
-      {
-        "key": "Swiz1XyfhcI",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "KbiwL74KyJQ",
-        "name": "Cast Announcement",
-        "type": "Teaser"
-      },
-      {
-        "key": "BhCSpmVOGow",
-        "name": "Not too Far, Far Away\u2026",
         "type": "Teaser"
       }
     ]
@@ -820,21 +820,6 @@
     ]
   },
   {
-    "id": 1538497,
-    "title": "Hexed",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
-    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
-    "videos": [
-      {
-        "key": "mtC4sjABZNw",
-        "name": "Teaser Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1101412,
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
@@ -845,6 +830,21 @@
       {
         "key": "Rsztt5qDj_A",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1694305,
+    "title": "Faceless: Retribution",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/clVVWR9kvZoQsgoDyTDphGHMPZ7.jpg",
+    "backdrop": "",
+    "overview": "After the devastating effects of Beast: The Omen, the world is in ruin. The Magician has just collected the pillars of power and harnessed them to kill half of all life, leaving Josh, Roonald, and The Beast stranded in the cursed forest. Those who remain of the MHHM characters band together in hopes of defeating The Magician once and for all, no matter what sacrifices must be made.",
+    "videos": [
+      {
+        "key": "NcQtB6FGXGE",
+        "name": "Faceless: Retribution (2026) - Official Teaser Trailer",
         "type": "Trailer"
       }
     ]
