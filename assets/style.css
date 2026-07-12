@@ -163,6 +163,31 @@ a { color: inherit; }
   background: var(--text);
 }
 
+/* On narrow screens the category row scrolls sideways (Games/Trailers sit
+   past the visible edge) with nothing else hinting that — no scrollbar,
+   no arrow. This fade is a static "there's more over here" cue rather than
+   a scroll-position-aware one (which would need JS to detect when you've
+   actually reached the end); simple enough to leave visible throughout,
+   and only shown on the narrow viewports where the row can actually
+   overflow in the first place — on desktop/tablet all five tabs already
+   fit, so the fade would just be sitting over nothing. */
+@media (max-width: 700px) {
+  .category-nav-wrap {
+    position: relative;
+  }
+
+  .category-nav-wrap::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 10px;
+    width: 32px;
+    background: linear-gradient(to right, transparent, var(--bg));
+    pointer-events: none;
+  }
+}
+
 .page-main { padding: 40px 0 32px; }
 
 /* Narrower centered text column — see --text-col comment above */
