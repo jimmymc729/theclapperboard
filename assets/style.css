@@ -350,10 +350,16 @@ a { color: inherit; }
   box-shadow: var(--shadow-lg);
 }
 
+/* Accent pink rather than plain white — ties the numbers into the same
+   brand color used everywhere else (the Flickle button, hover states)
+   instead of a flat white-on-dark treatment. Deliberately one consistent
+   color for #1-4, not a gold/silver/bronze-style scheme — these aren't a
+   ranking with different meanings, just a fixed "trending now" set, so a
+   tiered color scheme would imply a hierarchy that isn't really there. */
 .trending-number {
   font-family: var(--font-display);
   font-weight: 900;
-  color: #fff;
+  color: var(--accent);
 }
 
 /* Hero card: matches the full height of the compact item stack next to
@@ -1193,6 +1199,15 @@ details.reveal[open] summary::before { content: "🙈"; }
   font-weight: 800;
   font-size: 1.05rem;
   line-height: 1.3;
+}
+
+/* Shown inside a filter tab (In Theaters Now / Coming Soon) on the rare
+   occasion that state genuinely has nothing on file yet, rather than
+   silently rendering an empty grid. */
+.trailer-empty {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  padding: 20px 0;
 }
 
 /* A single trailer's own dedicated page (docs/trailers/<slug>/). This card
