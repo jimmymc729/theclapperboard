@@ -1,0 +1,321 @@
+{
+  "slug": "which-dicaprio-role-are-you",
+  "title": "Which Leonardo DiCaprio Role Are You, Actually?",
+  "dek": "Eight iconic characters, zero right answers \u2014 let's find out if you're a romantic idealist, a reckless wolf, or a full-on unraveling mind.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T01:37:06.539655+00:00",
+  "quiz": {
+    "intro": "No wrong answers \u2014 just go with your gut and let your inner Leo reveal himself.",
+    "questions": [
+      {
+        "question": "It's Friday night. What's the vibe?",
+        "answers": [
+          {
+            "text": "Sneak into first class, wing it completely",
+            "result": "jack"
+          },
+          {
+            "text": "Whatever's loudest, most expensive, and involves a toast",
+            "result": "jordan"
+          },
+          {
+            "text": "Holding court, impeccably dressed, making everyone uncomfortable",
+            "result": "candie"
+          },
+          {
+            "text": "A tightly planned evening with a backup plan for the backup plan",
+            "result": "cobb"
+          }
+        ]
+      },
+      {
+        "question": "Pick an outfit that defines you.",
+        "answers": [
+          {
+            "text": "Something loud, tailored, and obscenely expensive",
+            "result": "jordan"
+          },
+          {
+            "text": "White suit, cigar, a smile that spells trouble",
+            "result": "candie"
+          },
+          {
+            "text": "A sharp grey suit \u2014 nothing flashy, everything intentional",
+            "result": "cobb"
+          },
+          {
+            "text": "Immaculate, monogrammed, and quietly out of date",
+            "result": "hughes"
+          }
+        ]
+      },
+      {
+        "question": "What's your biggest weakness?",
+        "answers": [
+          {
+            "text": "My own cruelty, dressed up as charm",
+            "result": "candie"
+          },
+          {
+            "text": "I can't let go of the past",
+            "result": "cobb"
+          },
+          {
+            "text": "My own impossibly high standards",
+            "result": "hughes"
+          },
+          {
+            "text": "Grief I refuse to put down",
+            "result": "glass"
+          }
+        ]
+      },
+      {
+        "question": "Pick a superpower.",
+        "answers": [
+          {
+            "text": "Controlling dreams. Literally.",
+            "result": "cobb"
+          },
+          {
+            "text": "Seeing details nobody else can",
+            "result": "hughes"
+          },
+          {
+            "text": "Surviving absolutely anything thrown at me",
+            "result": "glass"
+          },
+          {
+            "text": "Solving any mystery \u2014 even the ones about myself",
+            "result": "teddy"
+          }
+        ]
+      },
+      {
+        "question": "What would your enemies say about you?",
+        "answers": [
+          {
+            "text": "A genius who's completely unraveling",
+            "result": "hughes"
+          },
+          {
+            "text": "Impossible to kill. Unfortunately.",
+            "result": "glass"
+          },
+          {
+            "text": "Not who he says he is",
+            "result": "teddy"
+          },
+          {
+            "text": "Somehow always one step ahead",
+            "result": "frank"
+          }
+        ]
+      },
+      {
+        "question": "How do you handle a full-blown crisis?",
+        "answers": [
+          {
+            "text": "Grit my teeth and physically push through it",
+            "result": "glass"
+          },
+          {
+            "text": "Convince myself a different story is true",
+            "result": "teddy"
+          },
+          {
+            "text": "Talk, forge, or charm my way out",
+            "result": "frank"
+          },
+          {
+            "text": "Make a grand romantic gesture and hope for the best",
+            "result": "jack"
+          }
+        ]
+      },
+      {
+        "question": "Pick a love language.",
+        "answers": [
+          {
+            "text": "A grief I simply cannot let go of",
+            "result": "teddy"
+          },
+          {
+            "text": "Sweeping someone off their feet with a great story",
+            "result": "frank"
+          },
+          {
+            "text": "Grand, impulsive romantic gestures",
+            "result": "jack"
+          },
+          {
+            "text": "Extravagant gifts, no budget in sight",
+            "result": "jordan"
+          }
+        ]
+      },
+      {
+        "question": "What's your ideal ending?",
+        "answers": [
+          {
+            "text": "Redemption, somehow, after all the lies",
+            "result": "frank"
+          },
+          {
+            "text": "Bittersweet, tragic, unforgettable",
+            "result": "jack"
+          },
+          {
+            "text": "Chaotic \u2014 and somehow I still land on my feet",
+            "result": "jordan"
+          },
+          {
+            "text": "A twist where the villain finally gets what's coming",
+            "result": "candie"
+          }
+        ]
+      },
+      {
+        "question": "Choose a setting for your biopic.",
+        "answers": [
+          {
+            "text": "A doomed ocean liner",
+            "result": "jack"
+          },
+          {
+            "text": "A trading floor gone completely off the rails",
+            "result": "jordan"
+          },
+          {
+            "text": "A plantation mansion dripping with menace",
+            "result": "candie"
+          },
+          {
+            "text": "A dream, inside a dream, inside a dream",
+            "result": "cobb"
+          }
+        ]
+      },
+      {
+        "question": "Pick the one word people always use to describe you.",
+        "answers": [
+          {
+            "text": "Excessive",
+            "result": "jordan"
+          },
+          {
+            "text": "Menacing",
+            "result": "candie"
+          },
+          {
+            "text": "Controlled",
+            "result": "cobb"
+          },
+          {
+            "text": "Obsessive",
+            "result": "hughes"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "jack",
+        "name": "Jack Dawson",
+        "subtitle": "Titanic (1997)",
+        "description": "You're all heart \u2014 impulsive, romantic, and completely unwilling to play it safe when it actually matters. You'd sketch a stranger, win a ticket in a poker game, and fall in love before the ship even leaves port, consequences be damned.",
+        "image": "https://image.tmdb.org/t/p/w780/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg"
+      },
+      {
+        "key": "jordan",
+        "name": "Jordan Belfort",
+        "subtitle": "The Wolf of Wall Street (2013)",
+        "description": "You live loud, chase excess, and genuinely don't know when to stop \u2014 for better and for very obviously worse. This role got DiCaprio a Best Actor nomination for a reason: you talk your way into anything, and everyone in the room somehow ends up buying it.",
+        "image": "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
+      },
+      {
+        "key": "candie",
+        "name": "Calvin Candie",
+        "subtitle": "Django Unchained (2012)",
+        "description": "You're charming right up until the exact moment you're chilling, and honestly that's the whole appeal. Underneath the hospitality and the cigar smoke is someone who enjoys the power a little too much.",
+        "image": "https://image.tmdb.org/t/p/w780/w6Fs4bIje1naeILo9KwAc1Y6bvP.jpg"
+      },
+      {
+        "key": "cobb",
+        "name": "Dom Cobb",
+        "subtitle": "Inception (2010)",
+        "description": "You're the strategist \u2014 always thinking three layers deep, always in control, even when your own past is the thing you can't quite navigate. You'd rather build an elaborate plan than admit what you're actually running from.",
+        "image": "https://image.tmdb.org/t/p/w780/ii8QGacT3MXESqBckQlyrATY0lT.jpg"
+      },
+      {
+        "key": "hughes",
+        "name": "Howard Hughes",
+        "subtitle": "The Aviator (2004)",
+        "description": "You're a genius and a perfectionist who can't quite turn the noise in your head off. The film portrays Hughes' life as he grows more unstable due to severe obsessive-compulsive disorder even while achieving greatness \u2014 and honestly, that tension is very you.",
+        "image": "https://image.tmdb.org/t/p/w780/eDT0H0bApPYXepBnhEV5tPZF33G.jpg"
+      },
+      {
+        "key": "glass",
+        "name": "Hugh Glass",
+        "subtitle": "The Revenant (2015)",
+        "description": "You are, quite simply, built different. This is the role that finally earned DiCaprio his first Oscar after five nominations, and it's not hard to see why \u2014 you'd crawl out of your own grave just to finish what you started.",
+        "image": "https://image.tmdb.org/t/p/w780/mNQtUJv1F3u0uSKILFrGjIHqkxx.jpg"
+      },
+      {
+        "key": "teddy",
+        "name": "Teddy Daniels",
+        "subtitle": "Shutter Island (2010)",
+        "description": "Nothing about your reality is as stable as it looks, and deep down you kind of know it. DiCaprio called this one of the hardest roles of his career, and your mind runs on the same fog-covered logic as his \u2014 always one twist away from unraveling completely.",
+        "image": "https://image.tmdb.org/t/p/w780/U8QRD7jvTXEYsUXq74IFKaSiL5.jpg"
+      },
+      {
+        "key": "frank",
+        "name": "Frank Abagnale Jr.",
+        "subtitle": "Catch Me If You Can (2002)",
+        "description": "You could talk your way into a cockpit, a hospital, or a courtroom, and somehow people would just let you. The real Frank Abagnale allegedly cashed $2.5 million worth of bad checks while posing as a pilot, a doctor, and a lawyer \u2014 and you've got that same slippery, can't-catch-me energy.",
+        "image": "https://image.tmdb.org/t/p/w780/z8cdtRlW9KvZebK5HXm5lOSoVwt.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Revenant (2015 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Revenant_(2015_film)"
+    },
+    {
+      "title": "Leonardo DiCaprio Wins His First Oscar for 'The Revenant' - ABC News",
+      "url": "https://abcnews.com/Entertainment/leonardo-dicaprio-wins-oscar-revenant/story?id=37221983"
+    },
+    {
+      "title": "Shutter Island (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+    },
+    {
+      "title": "Shutter Island Ending Explained (In Detail) - ScreenRant",
+      "url": "https://screenrant.com/shutter-island-movie-ending-explained/"
+    },
+    {
+      "title": "The Wolf of Wall Street (2013 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "title": "The Aviator (2004 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Aviator_(2004_film)"
+    },
+    {
+      "title": "Catch Me If You Can (book) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Catch_Me_If_You_Can_(book)"
+    },
+    {
+      "title": "Catch Me If You Can - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Catch_Me_If_You_Can"
+    },
+    {
+      "title": "Flickle - The daily movie guessing game",
+      "url": "https://flickle.app/"
+    }
+  ],
+  "related": []
+}
