@@ -254,6 +254,30 @@ def slugify(text: str) -> str:
 # "../../" for docs/posts/<slug>/index.html.
 # --------------------------------------------------------------------------
 
+def social_image_size(url: str) -> str:
+    """Swaps a TMDB image URL's size tier (e.g. /w780/, /w500/) up to
+    /w1280/, but ONLY for the og:image/twitter:image meta tags — never the
+    on-page <img> that reuses the same stored URL. X's own guidance wants
+    at least 1200x628 for reliable full-quality summary_large_image
+    rendering; the w780 tier used for regular on-page images (roughly
+    780x439) is below that and was the likely cause of X's card sometimes
+    rendering inconsistently even though the tags themselves are correct.
+    Bumping every on-page image to match would add real page weight for a
+    quality bump that only matters at the moment of sharing, so this stays
+    scoped to just the two social tags via a simple URL string swap — no
+    extra fetch, no new stored field, just a different size segment on the
+    same already-resolved TMDB URL.
+
+    Anything that isn't a recognized TMDB image URL (e.g. a locally hosted
+    custom photo, see custom-photos/) is returned unchanged rather than
+    risking a broken substitution on a URL that was never in that
+    /t/p/w###/ format to begin with."""
+    match = re.match(r"^(https://image\.tmdb\.org/t/p/)w\d+(/.+)$", url)
+    if not match:
+        return url
+    return f"{match.group(1)}w1280{match.group(2)}"
+
+
 def base_page(title: str, description: str, canonical_path: str, body: str, root: str,
               image: str = "", schema: str = "") -> str:
     # Both og:image AND twitter:image are emitted (rather than relying on
@@ -261,8 +285,9 @@ def base_page(title: str, description: str, canonical_path: str, body: str, root
     # guaranteed) — this is what makes a shared link unfurl into a card with
     # a real image instead of a bare text link, on both Facebook/iMessage
     # (which read og:*) and X (which prefers twitter:* when present).
-    social_image = f"""<meta property="og:image" content="{esc(image)}">
-<meta name="twitter:image" content="{esc(image)}">""" if image else ""
+    social_image_url = social_image_size(image) if image else ""
+    social_image = f"""<meta property="og:image" content="{esc(social_image_url)}">
+<meta name="twitter:image" content="{esc(social_image_url)}">""" if image else ""
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
