@@ -687,11 +687,13 @@ a { color: inherit; }
   transform: translateY(-2px);
 }
 
-/* Reddit's "r/" and WhatsApp's chat-bubble glyph both run a touch larger
-   than the single-letter Twitter/Facebook glyphs — nudged down slightly so
-   all five/six icons read as the same visual weight in the row. */
+/* Reddit's "r/", WhatsApp's chat-bubble, and Bluesky's butterfly glyphs all
+   run a touch larger than the single-letter Twitter/Facebook glyphs —
+   nudged down slightly so every icon in the row reads as the same visual
+   weight. */
 .share-row a[data-method="reddit"] { font-size: 0.72rem; }
 .share-row a[data-method="whatsapp"],
+.share-row a[data-method="bluesky"],
 .share-row button[data-method="copy"] { font-size: 0.85rem; }
 
 .breadcrumb {
