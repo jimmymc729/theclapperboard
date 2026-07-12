@@ -1,0 +1,305 @@
+{
+  "slug": "which-robin-williams-character-are-you",
+  "title": "Which Robin Williams Character Are You? (One Answer Is Genuinely Unsettling)",
+  "dek": "Answer honestly and we'll match you to your true Robin Williams alter ego \u2014 Genie energy, Sy Parrish energy, or something in between.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T20:26:37.735146+00:00",
+  "quiz": {
+    "intro": "No wrong answers \u2014 just go with your gut, even if the result creeps you out a little.",
+    "questions": [
+      {
+        "question": "It's Friday night with zero plans. What's actually happening?",
+        "answers": [
+          {
+            "text": "I'm rearranging my whole personality to entertain whoever's in the room.",
+            "result": "genie"
+          },
+          {
+            "text": "I'm cooking an elaborate dinner for the people I love, disguise or not.",
+            "result": "doubtfire"
+          },
+          {
+            "text": "I'm re-reading poetry, highlighting the lines that feel like permission.",
+            "result": "keating"
+          },
+          {
+            "text": "I'm sitting quietly with someone who needs to talk, not trying to fix them.",
+            "result": "sean"
+          }
+        ]
+      },
+      {
+        "question": "What's your move for winning someone over?",
+        "answers": [
+          {
+            "text": "Show up disguised as exactly what they need, just to stay close.",
+            "result": "doubtfire"
+          },
+          {
+            "text": "Quote something that makes them see their life differently.",
+            "result": "keating"
+          },
+          {
+            "text": "Tell them the one true thing nobody else is brave enough to say.",
+            "result": "sean"
+          },
+          {
+            "text": "Promise I'll be there \u2014 and actually mean it this time.",
+            "result": "peter"
+          }
+        ]
+      },
+      {
+        "question": "What's your biggest flaw, honestly?",
+        "answers": [
+          {
+            "text": "I push people toward freedom without weighing the cost.",
+            "result": "keating"
+          },
+          {
+            "text": "I hide behind other people's problems instead of facing my own.",
+            "result": "sean"
+          },
+          {
+            "text": "I let 'important' work steal time I can't get back.",
+            "result": "peter"
+          },
+          {
+            "text": "I run from hard feelings by literally running somewhere else.",
+            "result": "alan"
+          }
+        ]
+      },
+      {
+        "question": "Pick your biggest fear.",
+        "answers": [
+          {
+            "text": "Real, unguarded intimacy.",
+            "result": "sean"
+          },
+          {
+            "text": "Missing my kids growing up while I 'handle things.'",
+            "result": "peter"
+          },
+          {
+            "text": "Being trapped somewhere with no way out.",
+            "result": "alan"
+          },
+          {
+            "text": "Getting silenced by people who outrank me.",
+            "result": "cronauer"
+          }
+        ]
+      },
+      {
+        "question": "What's your dream weekend getaway?",
+        "answers": [
+          {
+            "text": "Literally anywhere but the office, kids in tow.",
+            "result": "peter"
+          },
+          {
+            "text": "Anywhere at all, as long as it's an escape.",
+            "result": "alan"
+          },
+          {
+            "text": "A radio booth somewhere loud and a little chaotic.",
+            "result": "cronauer"
+          },
+          {
+            "text": "A quiet counter job, watching everyone else's lives go by.",
+            "result": "sy"
+          }
+        ]
+      },
+      {
+        "question": "The room just went dead silent and awkward. What do you do?",
+        "answers": [
+          {
+            "text": "Bolt. Too much stillness.",
+            "result": "alan"
+          },
+          {
+            "text": "Crack wise until somebody laughs.",
+            "result": "cronauer"
+          },
+          {
+            "text": "Watch closely, say nothing, notice everything.",
+            "result": "sy"
+          },
+          {
+            "text": "Fill it instantly with a bit.",
+            "result": "genie"
+          }
+        ]
+      },
+      {
+        "question": "What's the compliment you secretly want most?",
+        "answers": [
+          {
+            "text": "\"You said what nobody else would say.\"",
+            "result": "cronauer"
+          },
+          {
+            "text": "\"You're basically part of the family.\"",
+            "result": "sy"
+          },
+          {
+            "text": "\"You made me laugh harder than anyone ever has.\"",
+            "result": "genie"
+          },
+          {
+            "text": "\"You're the best parent I know.\"",
+            "result": "doubtfire"
+          }
+        ]
+      },
+      {
+        "question": "Which environment do you thrive in?",
+        "answers": [
+          {
+            "text": "Behind a counter, same routine, every single day.",
+            "result": "sy"
+          },
+          {
+            "text": "No rules, pure improv, anything goes.",
+            "result": "genie"
+          },
+          {
+            "text": "Whatever keeps the household running smoothly.",
+            "result": "doubtfire"
+          },
+          {
+            "text": "A classroom where standing on the desk is encouraged.",
+            "result": "keating"
+          }
+        ]
+      },
+      {
+        "question": "Someone you love is struggling. What's your instinct?",
+        "answers": [
+          {
+            "text": "Grant them a wish \u2014 solve it with a little magic.",
+            "result": "genie"
+          },
+          {
+            "text": "Reorganize my entire life just to be near them.",
+            "result": "doubtfire"
+          },
+          {
+            "text": "Hand them a poem that says it better than I ever could.",
+            "result": "keating"
+          },
+          {
+            "text": "Sit with them in the silence, no rush to fix anything.",
+            "result": "sean"
+          }
+        ]
+      },
+      {
+        "question": "What's your love language, basically?",
+        "answers": [
+          {
+            "text": "Acts of service, whatever it takes, wig included.",
+            "result": "doubtfire"
+          },
+          {
+            "text": "Words. The right ones, at the right moment.",
+            "result": "keating"
+          },
+          {
+            "text": "Quality time, just the two of us.",
+            "result": "sean"
+          },
+          {
+            "text": "Quality time... eventually, I swear.",
+            "result": "peter"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "genie",
+        "name": "Genie",
+        "subtitle": "Aladdin (1992)",
+        "description": "You're pure improvisational chaos wrapped in a big blue heart \u2014 always performing, always shape-shifting, but secretly just hoping someone will finally set you free. You'll do anything for the people you love, even if it means turning yourself into a thousand different bits along the way.",
+        "image": "https://image.tmdb.org/t/p/w780/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg"
+      },
+      {
+        "key": "doubtfire",
+        "name": "Mrs. Doubtfire (Daniel Hillard)",
+        "subtitle": "Mrs. Doubtfire (1993)",
+        "description": "You will go to absurd, wig-and-latex lengths to keep your family together \u2014 because to you, showing up matters more than how it looks. You're chaotic, a little dishonest in the details, but completely sincere in the mission.",
+        "image": "https://image.tmdb.org/t/p/w780/f9X91dUckoRzOZlw4XBUOfkN9FC.jpg"
+      },
+      {
+        "key": "keating",
+        "name": "John Keating",
+        "subtitle": "Dead Poets Society (1989)",
+        "description": "You quote poetry like it's a dare and you genuinely believe words can change the world. You push everyone around you to seize the day, even when it costs you \u2014 because a life half-lived isn't a life you're willing to accept.",
+        "image": "https://image.tmdb.org/t/p/w780/yYvBNN96Ym3wtPxGCFl7F888WwB.jpg"
+      },
+      {
+        "key": "sean",
+        "name": "Sean Maguire",
+        "subtitle": "Good Will Hunting (1997)",
+        "description": "You're the person people call when they actually need to talk, not to be fixed. You sit in silence when silence is needed and you say the hard true thing everyone else is too scared to.",
+        "image": "https://image.tmdb.org/t/p/w780/bpV8wn48s82au37QyUJ51S7X2Vf.jpg"
+      },
+      {
+        "key": "peter",
+        "name": "Peter Banning / Peter Pan",
+        "subtitle": "Hook (1991)",
+        "description": "You've let \"important\" work eat the time you meant to spend with the people who matter \u2014 but somewhere under the phone calls and the deadlines, you still remember how to fly. You just need reminding.",
+        "image": "https://image.tmdb.org/t/p/w780/kochqqJCADGLyIeW4wWkAPgLo2O.jpg"
+      },
+      {
+        "key": "alan",
+        "name": "Alan Parrish",
+        "subtitle": "Jumanji (1995)",
+        "description": "You've spent so long running from something that adventure basically became your personality. You're restless, a little haunted, but ready to charge headfirst into chaos the second it shows up.",
+        "image": "https://image.tmdb.org/t/p/w780/gokuPFarJIZcAykUXP0yzBTLfeT.jpg"
+      },
+      {
+        "key": "cronauer",
+        "name": "Adrian Cronauer",
+        "subtitle": "Good Morning, Vietnam (1987)",
+        "description": "You talk fast, joke faster, and use humor as both a weapon and a lifeline \u2014 for yourself and everyone listening. Authority figures find you exhausting; everyone else finds you exactly what they needed.",
+        "image": "https://image.tmdb.org/t/p/w780/l04cyHUP6PCAozc2GMEHPguu7AN.jpg"
+      },
+      {
+        "key": "sy",
+        "name": "Sy Parrish",
+        "subtitle": "One Hour Photo (2002)",
+        "description": "You notice everything, remember everything, and quietly attach yourself to the people around you \u2014 a little too closely. Robin Williams played Sy as an isolated man who develops an unhealthy fixation on a family whose photos he's processed for years, and honestly? If this is your result, maybe take a walk outside.",
+        "image": "https://image.tmdb.org/t/p/w780/eqy2V70zTUvI6PyafHGZ8H0Rhbv.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "One Hour Photo - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/One_Hour_Photo"
+    },
+    {
+      "title": "One Hour Photo movie review & film summary - Roger Ebert",
+      "url": "https://www.rogerebert.com/reviews/one-hour-photo-2002"
+    },
+    {
+      "title": "One Hour Photo (Film) - TV Tropes",
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/OneHourPhoto"
+    },
+    {
+      "title": "Dead Poets Society (1989) - Robin Williams as John Keating - IMDb",
+      "url": "https://www.imdb.com/title/tt0097165/characters/nm0000245/"
+    },
+    {
+      "title": "On our cultural mis-reading of 'One Hour Photo' - Film Daze",
+      "url": "https://filmdaze.net/one-hour-photo/"
+    }
+  ],
+  "related": []
+}
