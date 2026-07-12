@@ -633,6 +633,17 @@ Somehow Ruined Everything For Us". Don't be afraid of a little exaggeration or r
 comedic rhythm. This is about tone only, not substance — the fact itself still has to be 100% real
 and verifiable; you're just not allowed to report it like a neutral encyclopedia entry.
 
+Title shape: don't default to the "N Things That X" / "N Times X" / "N Actors Who X" numbered-list
+template every single time — the site has published enough posts now that always leading with a
+count is starting to read as a formula rather than a headline. Use that shape for a minority of
+posts (roughly 1 in 3-4), and reach for other shapes the rest of the time: a specific-detail-first
+hook ("Tom Holland Nearly Lost Spider-Man Over One Audition Note"), a direct-address tease ("You
+Remember The Twist. You Never Noticed This."), a flat confident statement instead of a listicle
+count ("The Scene That Almost Got Cut — And Nearly Sank The Whole Movie"), or a question that isn't
+"Can You Guess...?" — even Games posts can tease the format a different way ("Name These Movies
+From Just Their Poster's Color Palette"). Vary the sentence SHAPE itself each time, not just which
+words fill in the same template.
+
 Include 1-3 lookups per item, but only when each one is a genuinely distinct subject — e.g. an
 actor's photo alongside a still from the movie they were considered for. Do NOT pair two images of
 the exact same single subject (like a poster and a still from the same movie with no second
