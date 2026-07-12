@@ -197,6 +197,24 @@ a { color: inherit; }
   margin-left: 6px;
 }
 
+/* Quiz/Trivia pills — sit next to the "Games" category pill (see
+   game_type_pill() in build_site.py) so a personality quiz and a
+   guess-the-movie trivia card don't look identical at a glance despite
+   being genuinely different interactions. Colors pulled from the
+   clapper-stripe palette already used elsewhere on the site, rather than
+   introducing new ones. */
+.pill-quiz {
+  background: #2469c7;
+  color: #fff;
+  margin-left: 6px;
+}
+
+.pill-trivia {
+  background: #2ea84a;
+  color: #fff;
+  margin-left: 6px;
+}
+
 /* Flickle CTA */
 .flickle-cta {
   display: flex;
