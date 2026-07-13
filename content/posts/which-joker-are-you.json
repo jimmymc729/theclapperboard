@@ -1,0 +1,305 @@
+{
+  "slug": "which-joker-are-you",
+  "title": "Which Joker Are You? Your Answers Will Reveal Your Inner Clown Prince",
+  "dek": "Eight actors, eight completely different flavors of chaos \u2014 take this quiz to find out which Clown Prince of Crime is secretly running your personality.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/LkXu70KAWSLzqUqwTyiPxabgpd.jpg",
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T15:20:26.635743+00:00",
+  "quiz": {
+    "intro": "No wrong answers here \u2014 just pick the option that sounds most like something you'd actually say, and let the clown makeup do the rest.",
+    "questions": [
+      {
+        "question": "Your friend cancels plans last minute. Your honest reaction?",
+        "answers": [
+          {
+            "text": "I laugh way harder than the situation deserves and immediately forget about it.",
+            "result": "romero"
+          },
+          {
+            "text": "I get theatrically, dramatically offended \u2014 this is a personal betrayal.",
+            "result": "nicholson"
+          },
+          {
+            "text": "I go quiet. It confirms everything I already believed about people.",
+            "result": "ledger"
+          },
+          {
+            "text": "I spiral a little, then do something unpredictable to cope.",
+            "result": "leto"
+          }
+        ]
+      },
+      {
+        "question": "Pick a party trick.",
+        "answers": [
+          {
+            "text": "A dance that turns into a full performance nobody asked for.",
+            "result": "nicholson"
+          },
+          {
+            "text": "A magic trick involving a sharp object and zero warning.",
+            "result": "ledger"
+          },
+          {
+            "text": "Something so unhinged everyone just quietly backs away.",
+            "result": "leto"
+          },
+          {
+            "text": "An impression that makes everyone uncomfortably sad, then somehow funny.",
+            "result": "phoenix"
+          }
+        ]
+      },
+      {
+        "question": "What's your villain origin story, realistically?",
+        "answers": [
+          {
+            "text": "Honestly? Doesn't matter. Some men just want to watch it burn.",
+            "result": "ledger"
+          },
+          {
+            "text": "Chaotic, loud, and impossible to pin down \u2014 on purpose.",
+            "result": "leto"
+          },
+          {
+            "text": "A slow, sad unraveling nobody noticed until it was too late.",
+            "result": "phoenix"
+          },
+          {
+            "text": "A tragic backstory I'll bring up mid-fight for sympathy points.",
+            "result": "monaghan"
+          }
+        ]
+      },
+      {
+        "question": "How do you handle an argument?",
+        "answers": [
+          {
+            "text": "It escalates fast and gets weird in a way people talk about later.",
+            "result": "leto"
+          },
+          {
+            "text": "I get uncomfortably raw and emotional about it.",
+            "result": "phoenix"
+          },
+          {
+            "text": "I smirk through the whole thing like it's a game.",
+            "result": "monaghan"
+          },
+          {
+            "text": "I laugh at the worst possible moment.",
+            "result": "hamill"
+          }
+        ]
+      },
+      {
+        "question": "Pick a color palette for your life.",
+        "answers": [
+          {
+            "text": "Faded red suit, washed-out everything else.",
+            "result": "phoenix"
+          },
+          {
+            "text": "Bleached hair, scars, and a grin that doesn't fully close.",
+            "result": "monaghan"
+          },
+          {
+            "text": "Purple, green, and a laugh that's basically its own color.",
+            "result": "hamill"
+          },
+          {
+            "text": "Muted grays with one unsettling pop of red.",
+            "result": "keoghan"
+          }
+        ]
+      },
+      {
+        "question": "What's your ideal Friday night?",
+        "answers": [
+          {
+            "text": "Causing a little trouble, then disappearing before anyone can pin it on me.",
+            "result": "monaghan"
+          },
+          {
+            "text": "Cackling at my own plan going perfectly wrong.",
+            "result": "hamill"
+          },
+          {
+            "text": "Sitting in total silence until someone finally asks what I'm thinking.",
+            "result": "keoghan"
+          },
+          {
+            "text": "Hijacking a TV broadcast just to mess with people, then laughing about it for hours.",
+            "result": "romero"
+          }
+        ]
+      },
+      {
+        "question": "How would your coworkers describe you behind your back?",
+        "answers": [
+          {
+            "text": "The laugh alone should've been a warning sign.",
+            "result": "hamill"
+          },
+          {
+            "text": "Quiet. Too quiet. We're a little scared of him.",
+            "result": "keoghan"
+          },
+          {
+            "text": "Charming, a little much, secretly having the time of his life.",
+            "result": "romero"
+          },
+          {
+            "text": "Loud, unpredictable, definitely the main character of every meeting.",
+            "result": "nicholson"
+          }
+        ]
+      },
+      {
+        "question": "Pick a weapon of choice.",
+        "answers": [
+          {
+            "text": "Nothing visible. That's what makes it scarier.",
+            "result": "keoghan"
+          },
+          {
+            "text": "A joy buzzer and a bad pun, honestly that's enough.",
+            "result": "romero"
+          },
+          {
+            "text": "Acid-spray flower on my lapel, obviously.",
+            "result": "nicholson"
+          },
+          {
+            "text": "Whatever's on the table. A pencil will do just fine.",
+            "result": "ledger"
+          }
+        ]
+      },
+      {
+        "question": "What's your relationship with Batman, really?",
+        "answers": [
+          {
+            "text": "A fun rivalry, honestly \u2014 we're basically in on the same bit.",
+            "result": "romero"
+          },
+          {
+            "text": "I made him. He owes me his whole personality.",
+            "result": "nicholson"
+          },
+          {
+            "text": "We're not so different, and that's the whole point.",
+            "result": "ledger"
+          },
+          {
+            "text": "It's complicated, loud, and involves way too many stunts.",
+            "result": "leto"
+          }
+        ]
+      },
+      {
+        "question": "Last one: what's your endgame?",
+        "answers": [
+          {
+            "text": "Total chaos, delivered with maximum flair.",
+            "result": "nicholson"
+          },
+          {
+            "text": "Prove that everything anyone believes in can be knocked down in one bad day.",
+            "result": "ledger"
+          },
+          {
+            "text": "Build an empire out of pure chaos and vibes.",
+            "result": "leto"
+          },
+          {
+            "text": "Just be seen. That's it. That's the whole tragedy.",
+            "result": "phoenix"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "romero",
+        "name": "Cesar Romero",
+        "subtitle": "Batman (1966 TV series & film)",
+        "description": "You're pure, unfiltered camp \u2014 all giggles, garish purple suits, and gleeful scenery-chewing with zero interest in tragic backstories. You refuse to take anything too seriously, mustache and all, and honestly, life's more fun that way.",
+        "image": "https://image.tmdb.org/t/p/w780/LkXu70KAWSLzqUqwTyiPxabgpd.jpg"
+      },
+      {
+        "key": "nicholson",
+        "name": "Jack Nicholson",
+        "subtitle": "Batman (1989)",
+        "description": "You're big, theatrical, and impossible to ignore \u2014 every room becomes your stage the second you walk in. You bring chaos with style, art with a body count, and you never let anyone forget who's really in charge.",
+        "image": "https://image.tmdb.org/t/p/w780/frDS8A5vIP927KYAxTVVKRIbqZw.jpg"
+      },
+      {
+        "key": "ledger",
+        "name": "Heath Ledger",
+        "subtitle": "The Dark Knight (2008)",
+        "description": "You're the quiet menace in the room \u2014 calm right up until you absolutely aren't. You don't need a plan, just a little chaos and the patience to watch it unfold.",
+        "image": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
+      },
+      {
+        "key": "leto",
+        "name": "Jared Leto",
+        "subtitle": "Suicide Squad (2016)",
+        "description": "You're loud, flashy, and a little unhinged in ways people are still talking about years later. Method to the max, chaos as a lifestyle \u2014 you commit fully, even when nobody asked you to.",
+        "image": "https://image.tmdb.org/t/p/w780/7CsoobQ9wzrVXPiqB15bDqEk9zG.jpg"
+      },
+      {
+        "key": "phoenix",
+        "name": "Joaquin Phoenix",
+        "subtitle": "Joker (2019)",
+        "description": "You feel everything way too deeply, and it shows in every twitchy, uncomfortable, achingly human moment. Your chaos isn't about a master plan \u2014 it's about finally being seen, even if it takes a full unraveling to get there.",
+        "image": "https://image.tmdb.org/t/p/w780/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg"
+      },
+      {
+        "key": "monaghan",
+        "name": "Cameron Monaghan",
+        "subtitle": "Gotham (TV series)",
+        "description": "You're a slow-burn transformation \u2014 charming and a little tragic before you fully tip over into chaos. You keep people guessing exactly how far you're willing to go, and honestly, so do you.",
+        "image": "https://image.tmdb.org/t/p/w500/oFdcWMQ30vJraCF2GjhQJDtSjb3.jpg"
+      },
+      {
+        "key": "hamill",
+        "name": "Mark Hamill",
+        "subtitle": "Batman: The Animated Series",
+        "description": "Your laugh really is your whole personality \u2014 zany one second, genuinely bloodcurdling the next. You've mastered the art of making people laugh and flinch in the exact same breath.",
+        "image": "https://image.tmdb.org/t/p/w500/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+      },
+      {
+        "key": "keoghan",
+        "name": "Barry Keoghan",
+        "subtitle": "The Batman (2022)",
+        "description": "You're quiet, unsettling, and impossible to fully read \u2014 a single scene from you does more damage than most people's whole villain arc. You don't need noise to be terrifying; the silence does all the work.",
+        "image": "https://image.tmdb.org/t/p/w780/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cesar Romero - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cesar_Romero"
+    },
+    {
+      "title": "The best Joker is still Cesar Romero in the '66 Batman TV show, hands down",
+      "url": "https://www.syfy.com/syfy-wire/the-best-joker-is-still-cesar-romero-in-the-66-batman-tv-show-hands-down"
+    },
+    {
+      "title": "The Inspiration Behind Mark Hamill's Signature Joker Voice - SlashFilm",
+      "url": "https://www.slashfilm.com/826961/the-inspiration-behind-mark-hamills-signature-joker-voice/"
+    },
+    {
+      "title": "Mark Hamill Made A Language Out Of The Joker's Laughs For Batman: The Animated Series - SlashFilm",
+      "url": "https://www.slashfilm.com/1224358/mark-hamill-made-a-language-out-of-the-jokers-laughs-for-batman-the-animated-series/"
+    },
+    {
+      "title": "Mark Hamill Reveals How to Do His Iconic Joker Laugh - CBR",
+      "url": "https://www.cbr.com/mark-hamill-joker-laugh-how-to/"
+    }
+  ],
+  "related": []
+}
