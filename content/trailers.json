@@ -1,35 +1,5 @@
 [
   {
-    "id": 1339713,
-    "title": "Obsession",
-    "release_date": "2026-05-15",
-    "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
-    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "videos": [
-      {
-        "key": "gMC8kkwbIQQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "vGagNXaSoWc",
-        "name": "Watch at Home Now",
-        "type": "Teaser"
-      },
-      {
-        "key": "aGZ_uALWvk8",
-        "name": "Watch at Home Now",
-        "type": "Teaser"
-      },
-      {
-        "key": "yybtztMB-Ww",
-        "name": "Official Teaser Trailer 2",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1084244,
     "title": "Toy Story 5",
     "release_date": "2026-06-19",
@@ -234,7 +204,7 @@
     "title": "Moana",
     "release_date": "2026-07-10",
     "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
     "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
     "videos": [
       {
@@ -270,66 +240,6 @@
       {
         "key": "oB6HNuKxLmo",
         "name": "The Get Out | Official Trailer (HD) | Vertical",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 980431,
-    "title": "Avatar Aang: The Last Airbender",
-    "release_date": "2026-07-25",
-    "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
-    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-    "videos": [
-      {
-        "key": "7b20GRFZBFE",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1315772,
-    "title": "Minions & Monsters",
-    "release_date": "2026-07-01",
-    "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-    "videos": [
-      {
-        "key": "V-O-uBaHk3c",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "ZSdOwt-G49w",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "a_G7XFjggI8",
-        "name": "Everyone is going bananas for Minions and Monsters, don't miss it in cinemas now!",
-        "type": "Teaser"
-      },
-      {
-        "key": "aSxYl3qbN8Y",
-        "name": "How do we say 'all of the above' in Minionese? Let's go England!",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1155818,
-    "title": "Satluj",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/cxFo7L82dW3Vg8x0280BVPpLNXf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
-    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
-    "videos": [
-      {
-        "key": "WtL3YbjUJN8",
-        "name": "ZEE5 Satluj",
         "type": "Trailer"
       }
     ]
@@ -391,6 +301,66 @@
         "key": "ie6k69mpHHI",
         "name": "On July 17 embark on an epic journey",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 980431,
+    "title": "Avatar Aang: The Last Airbender",
+    "release_date": "2026-07-25",
+    "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+    "videos": [
+      {
+        "key": "7b20GRFZBFE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1315772,
+    "title": "Minions & Monsters",
+    "release_date": "2026-07-01",
+    "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "videos": [
+      {
+        "key": "V-O-uBaHk3c",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "ZSdOwt-G49w",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "a_G7XFjggI8",
+        "name": "Everyone is going bananas for Minions and Monsters, don't miss it in cinemas now!",
+        "type": "Teaser"
+      },
+      {
+        "key": "aSxYl3qbN8Y",
+        "name": "How do we say 'all of the above' in Minionese? Let's go England!",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1155818,
+    "title": "Satluj",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/cxFo7L82dW3Vg8x0280BVPpLNXf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
+    "videos": [
+      {
+        "key": "WtL3YbjUJN8",
+        "name": "ZEE5 Satluj",
+        "type": "Trailer"
       }
     ]
   },
@@ -565,11 +535,31 @@
     ]
   },
   {
+    "id": 1711175,
+    "title": "Summerween",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/oCsyamu5ixofd3yyK9gD7pGfCiF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/25N840Us9DC7JY6WSxKCsHSjDsu.jpg",
+    "overview": "A former circus clown escapes a mental institution on the tenth anniversary of his first kills. Now, as unsuspecting high schoolers throw a Summerween party at the clown\u2019s abandoned mansion, a police officer and father to one of the party goers must rescue his daughter before the clown kills again.",
+    "videos": [
+      {
+        "key": "PNBLN4Pl3q4",
+        "name": "Summerween | Official Trailer | The Asylum Movie Channel",
+        "type": "Trailer"
+      },
+      {
+        "key": "KYi2iCjUXJs",
+        "name": "Summerween | Official Trailer | Horror Brains",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bU206dN0ucfOFRK17OXabkdHKFC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
     "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
     "videos": [
       {
@@ -705,26 +695,6 @@
     ]
   },
   {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-    "videos": [
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 421892,
     "title": "Shrek 5",
     "release_date": "2027-06-30",
@@ -781,6 +751,26 @@
         "key": "Rd21PhsDHww",
         "name": "Title Announcement",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+    "videos": [
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
