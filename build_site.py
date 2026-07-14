@@ -392,8 +392,18 @@ def post_accent_class(p) -> str:
     return ""
 
 
-def post_card(p, root: str, featured: bool = False) -> str:
-    cls = "post-card post-card-featured" if featured else "post-card"
+def post_card(p, root: str, featured: bool = False, compact: bool = False) -> str:
+    """`featured` and `compact` reuse the exact same inner markup/classes
+    (.post-card-image, .post-card-body, .post-card-title) as a plain card
+    — only the outer class list differs — so each variant's actual visual
+    behavior lives entirely in CSS (.post-card-featured for the full-width
+    desktop breakout, .post-card-compact for the mobile-only horizontal
+    row) rather than needing separate rendering logic here."""
+    cls = "post-card"
+    if featured:
+        cls += " post-card-featured"
+    if compact:
+        cls += " post-card-compact"
     cls += post_accent_class(p)
     return f"""    <a class="{cls}" href="{root}posts/{esc(p['slug'])}/index.html">
       <div class="post-card-image"><img src="{esc(p['cover_image'])}" alt="{esc(p['title'])}" loading="lazy"></div>
@@ -406,41 +416,41 @@ def post_card(p, root: str, featured: bool = False) -> str:
 
 
 def post_grid_html(posts: list, root: str) -> str:
-    """Renders an ordered list of posts as .post-card entries, periodically
-    breaking the 3-column rhythm with one full-width featured card (see
-    post_card()'s `featured` param and .post-card-featured in the CSS,
-    which existed fully styled but was never actually wired up until now)
-    — a long unbroken grid of identically-sized cards reads as monotonous
-    well before a visitor scrolls through dozens of them.
+    """Renders an ordered list of posts as .post-card entries, applying two
+    independent, viewport-specific rhythm-breaks to keep a long feed from
+    reading as one monotonous run of identical cards.
 
-    Posts are chunked into windows of FEATURED_INTERVAL, and the LAST post
-    in each window is always the featured one — deliberately unconditional
-    rather than preferring a Quiz/Trivia post wherever it happened to fall
-    in the window (an earlier version of this tried that, and it broke the
-    row math: pulling the featured card to whatever position a quiz/trivia
-    post occupied meant the regular-card run between two featured cards
-    was no longer a guaranteed multiple of 3, producing an awkward short
-    row right at the break — visible on the real homepage, not just in
-    theory). Always featuring the fixed last slot keeps every run between
-    featured cards exactly INTERVAL-1 long, so the grid math can never
-    drift again, at the cost of not specifically spotlighting Quiz/Trivia
-    content — a fair trade for a bug that would otherwise resurface every
-    time the content mix shifted.
+    On wide screens, every FEATURED_INTERVAL-th post spans the full grid
+    width (see .post-card-featured, CSS that existed fully styled but was
+    never wired up until now). On narrow screens the grid has already
+    collapsed to one column, where "full width" looks identical to a
+    normal card — a completely different problem needing a different fix
+    — so there every COMPACT_INTERVAL-th post instead switches to a
+    compact horizontal thumbnail+title row (see .post-card-compact,
+    adapting the same shape already used for the homepage hero's small
+    trending items), a mobile-only CSS override with zero effect on
+    desktop. A post is never marked both — if a position lands on both
+    intervals the featured treatment wins and compact is skipped for that
+    slot, since "huge on desktop, tiny on mobile" on the very same post is
+    more confusing than useful.
 
-    FEATURED_INTERVAL is 7, not 6: one slot in the window always goes to
-    the featured (full-width) card, leaving the other INTERVAL-1 to fill
-    the 3-column grid — and that number needs to be a clean multiple of 3
-    or the row right before the featured card falls short (5 cards = a
-    full row of 3 plus a dangling row of 2), which is exactly what
-    happened at 6. 7-1=6 divides into two complete rows with nothing left
-    over."""
+    FEATURED_INTERVAL is 7 rather than a rounder number like 6, because
+    with the featured slot always the last of its window, the remaining
+    INTERVAL-1 posts need to be a clean multiple of 3 to fill complete
+    3-column rows — 6 isn't (5 regular cards left a dangling short row),
+    7 is (6 regular cards divides into two full rows). An earlier version
+    of this also tried preferring whichever post was Quiz/Trivia-typed for
+    the featured slot regardless of its position in the window, which
+    broke this exact guarantee — visible as a real gap on the live
+    homepage — so the position is now unconditional, always the fixed
+    last slot, never content-dependent."""
     FEATURED_INTERVAL = 7
+    COMPACT_INTERVAL = 4
     parts = []
-    for start in range(0, len(posts), FEATURED_INTERVAL):
-        window = posts[start:start + FEATURED_INTERVAL]
-        featured_index = len(window) - 1
-        for j, p in enumerate(window):
-            parts.append(post_card(p, root, featured=(j == featured_index)))
+    for i, p in enumerate(posts):
+        featured = i % FEATURED_INTERVAL == FEATURED_INTERVAL - 1
+        compact = (not featured) and (i % COMPACT_INTERVAL == COMPACT_INTERVAL - 1)
+        parts.append(post_card(p, root, featured=featured, compact=compact))
     return "".join(parts)
 
 
