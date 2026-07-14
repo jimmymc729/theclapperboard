@@ -526,6 +526,15 @@ a { color: inherit; }
   display: block;
 }
 
+/* Spans the full grid row (see post_grid_html() in build_site.py, which
+   periodically breaks the 3-column rhythm with one of these) rather than
+   sitting in a single column slot like every other card — this is what
+   actually makes it read as a deliberate visual break instead of just a
+   taller version of the same card shape. */
+.post-grid .post-card-featured {
+  grid-column: 1 / -1;
+}
+
 .post-card-featured .post-card-image {
   aspect-ratio: 16 / 9;
 }
@@ -588,6 +597,16 @@ a { color: inherit; }
   box-shadow: var(--shadow-sm);
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
+
+/* Type accent — a colored top edge on the card itself (same "colored top
+   bar" language the emoji/quote game cards already use, and the same
+   colors as the Quiz/Trivia/Our Take pills) so these read as visually
+   distinct from a plain listicle at a skim, not just on close reading of
+   the pill text under the image. Only overrides the top edge — the 1px
+   var(--border) above still governs the other three sides. */
+.post-card-quiz { border-top: 4px solid #2469c7; }
+.post-card-trivia { border-top: 4px solid #2ea84a; }
+.post-card-opinion { border-top: 4px solid var(--text); }
 
 .post-card:hover {
   transform: translateY(-3px);
