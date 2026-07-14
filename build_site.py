@@ -416,40 +416,42 @@ def post_card(p, root: str, featured: bool = False, compact: bool = False) -> st
 
 
 def post_grid_html(posts: list, root: str) -> str:
-    """Renders an ordered list of posts as .post-card entries, applying two
-    independent, viewport-specific rhythm-breaks to keep a long feed from
-    reading as one monotonous run of identical cards.
+    """Renders an ordered list of posts as .post-card entries, applying one
+    positional rhythm-break that reads differently per viewport to keep a
+    long feed from reading as one monotonous run of identical cards.
 
-    On wide screens, every FEATURED_INTERVAL-th post spans the full grid
-    width (see .post-card-featured, CSS that existed fully styled but was
-    never wired up until now). On narrow screens the grid has already
-    collapsed to one column, where "full width" looks identical to a
-    normal card — a completely different problem needing a different fix
-    — so there every COMPACT_INTERVAL-th post instead switches to a
-    compact horizontal thumbnail+title row (see .post-card-compact,
-    adapting the same shape already used for the homepage hero's small
-    trending items), a mobile-only CSS override with zero effect on
-    desktop. A post is never marked both — if a position lands on both
-    intervals the featured treatment wins and compact is skipped for that
-    slot, since "huge on desktop, tiny on mobile" on the very same post is
-    more confusing than useful.
+    Every FEATURED_INTERVAL-th post is "featured"; every other post is
+    "compact". The two CSS classes only do anything at opposite ends of the
+    viewport range, so the same underlying cycle produces two different
+    effects for free:
+      - On wide screens, .post-card-featured spans the full grid width
+        (CSS that existed fully styled but was never wired up until now)
+        and .post-card-compact has no effect there — a normal card.
+      - On narrow screens, .post-grid has already collapsed to one column,
+        where "full width" looks identical to a normal card, so instead
+        .post-card-compact switches to a compact horizontal thumbnail+title
+        row there (adapting the same shape already used for the homepage
+        hero's small trending items), giving a repeating "1 full-size card,
+        then FEATURED_INTERVAL-1 compact rows" pattern down the mobile feed.
+        .post-card-featured still renders as an ordinary full-size stacked
+        card on mobile (just not compact) — that's what supplies the "1
+        full-size" anchor in the cycle.
 
-    FEATURED_INTERVAL is 7 rather than a rounder number like 6, because
-    with the featured slot always the last of its window, the remaining
-    INTERVAL-1 posts need to be a clean multiple of 3 to fill complete
-    3-column rows — 6 isn't (5 regular cards left a dangling short row),
-    7 is (6 regular cards divides into two full rows). An earlier version
-    of this also tried preferring whichever post was Quiz/Trivia-typed for
-    the featured slot regardless of its position in the window, which
-    broke this exact guarantee — visible as a real gap on the live
-    homepage — so the position is now unconditional, always the fixed
-    last slot, never content-dependent."""
+    FEATURED_INTERVAL is 7 rather than a rounder number like 6, because on
+    desktop, with the featured slot always the last of its window, the
+    remaining INTERVAL-1 posts need to be a clean multiple of 3 to fill
+    complete 3-column rows — 6 isn't (5 regular cards left a dangling short
+    row), 7 is (6 regular cards divides into two full rows). An earlier
+    version of this also tried preferring whichever post was Quiz/Trivia-
+    typed for the featured slot regardless of its position in the window,
+    which broke this exact guarantee — visible as a real gap on the live
+    homepage — so the position is now unconditional, always the fixed last
+    slot, never content-dependent."""
     FEATURED_INTERVAL = 7
-    COMPACT_INTERVAL = 4
     parts = []
     for i, p in enumerate(posts):
         featured = i % FEATURED_INTERVAL == FEATURED_INTERVAL - 1
-        compact = (not featured) and (i % COMPACT_INTERVAL == COMPACT_INTERVAL - 1)
+        compact = not featured
         parts.append(post_card(p, root, featured=featured, compact=compact))
     return "".join(parts)
 
