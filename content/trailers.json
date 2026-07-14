@@ -150,36 +150,6 @@
     ]
   },
   {
-    "id": 1368314,
-    "title": "Passenger",
-    "release_date": "2026-05-22",
-    "poster": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
-    "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
-    "videos": [
-      {
-        "key": "eNIn8kW1kyE",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "TMw8yXK6bH8",
-        "name": "Prayer",
-        "type": "Teaser"
-      },
-      {
-        "key": "ytGYbHYGgec",
-        "name": "Situationship",
-        "type": "Teaser"
-      },
-      {
-        "key": "EcUTEEqFE0E",
-        "name": "Road Trip",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1280738,
     "title": "The Furious",
     "release_date": "2026-06-12",
@@ -540,6 +510,36 @@
     ]
   },
   {
+    "id": 1081003,
+    "title": "Supergirl",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "videos": [
+      {
+        "key": "tzlY8XD1CGg",
+        "name": "Tickets on Sale Now",
+        "type": "Trailer"
+      },
+      {
+        "key": "s1-pfiVMKAs",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "YqdAEdkHrwo",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "oBjvsGAU6KY",
+        "name": "New powers incoming",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
@@ -645,36 +645,6 @@
       {
         "key": "Vt7860xZFXk",
         "name": "HOPE - Official Teaser - In Theaters Fall 2026",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1101383,
-    "title": "The End of Oak Street",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "videos": [
-      {
-        "key": "3oB9AxspVow",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "s9GKXTbChjE",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "p4zNsXjPeMU",
-        "name": "The neighborhood has moved.",
-        "type": "Teaser"
-      },
-      {
-        "key": "dBb0EQSEGAk",
-        "name": "Scream, laugh, and everything in between on Oak Street.",
         "type": "Teaser"
       }
     ]
@@ -845,6 +815,36 @@
       {
         "key": "8_nX4qQU1Wc",
         "name": "NOW IN PRODUCTION!",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rhCg3n4wIu2wkT607h7znedYZBj.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
+    "videos": [
+      {
+        "key": "Xmy-Z3dHMd8",
+        "name": "Official Teaser [Subtitled]",
+        "type": "Teaser"
+      },
+      {
+        "key": "n-NDYWPXpKg",
+        "name": "First Look Teaser",
+        "type": "Teaser"
+      },
+      {
+        "key": "msIIHSrWjgo",
+        "name": "Title Reveal",
+        "type": "Teaser"
+      },
+      {
+        "key": "wDD2gTgxQJ8",
+        "name": "New Godzilla Film Announcement",
         "type": "Teaser"
       }
     ]

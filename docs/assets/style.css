@@ -547,6 +547,57 @@ a { color: inherit; }
 @media (max-width: 700px) {
   .post-card-featured .post-card-image { aspect-ratio: 4 / 3; }
   .post-card-featured .post-card-title { font-size: 1.3rem; }
+
+  /* Mobile-only: .post-grid is already a single column here (see the
+     minmax(260px, 1fr) auto-fill above), so the desktop featured-card
+     breakout is invisible — a "full width" card looks identical to a
+     regular one when there's only one column to begin with. This is the
+     mobile answer to the same "feed reads as monotonous" problem: every
+     COMPACT_INTERVAL-th post (see post_grid_html() in build_site.py)
+     switches from the normal stacked image-then-text card to a compact
+     horizontal thumbnail+title row instead — the same shape already used
+     for the homepage hero's small trending items — so the rhythm break
+     comes from varying card HEIGHT rather than needing a second column
+     that wouldn't fit. Has zero effect outside this breakpoint: on
+     desktop a "compact" post renders as a completely ordinary card. */
+  .post-card-compact {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px;
+  }
+
+  .post-card-compact .post-card-image {
+    flex: 0 0 auto;
+    width: 84px;
+    aspect-ratio: 1 / 1;
+    border-radius: 8px;
+  }
+
+  .post-card-compact .post-card-body {
+    padding: 0;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .post-card-compact .post-card-title {
+    font-size: 0.9rem;
+    margin-top: 4px;
+  }
+
+  /* A colored bar across the top reads oddly above a small square
+     thumbnail sitting in a horizontal row — swap the type accent to the
+     leading (left) edge instead, matching how .reveal-body already
+     handles the same "accent bar on a horizontal shape" case elsewhere
+     on the site. */
+  .post-card-compact.post-card-quiz,
+  .post-card-compact.post-card-trivia,
+  .post-card-compact.post-card-opinion {
+    border-top: 1px solid var(--border);
+  }
+  .post-card-compact.post-card-quiz { border-left: 6px solid #2469c7; }
+  .post-card-compact.post-card-trivia { border-left: 6px solid #2ea84a; }
+  .post-card-compact.post-card-opinion { border-left: 6px solid var(--text); }
 }
 
 .post-grid {
