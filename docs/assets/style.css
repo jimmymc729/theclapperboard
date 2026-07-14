@@ -23,6 +23,20 @@
 
 * { box-sizing: border-box; }
 
+/* Without this, mobile Chrome/Safari silently inflate text past whatever
+   size the CSS actually specifies — an automatic "readability" heuristic
+   (text autosizing / font boosting) that kicks in on narrow viewports even
+   with a valid viewport meta tag, and hits short inline-block text nodes
+   like .pill hardest (a one-word "GAMES" badge reads as "too small to be
+   readable" to the heuristic and gets scaled up well past its real
+   0.72rem, blowing up to the point it no longer fits next to a second pill
+   on the same line). Turning it off makes every element render at exactly
+   its specified size on every device, matching desktop 1:1. */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 body {
   margin: 0;
   background: var(--bg);
@@ -200,6 +214,7 @@ a { color: inherit; }
 /* Category pill */
 .pill {
   display: inline-block;
+  white-space: nowrap;
   font-size: 0.72rem;
   font-weight: 800;
   text-transform: uppercase;
