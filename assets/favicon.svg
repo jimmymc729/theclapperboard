@@ -1,4 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#c0392b"/>
+  <!-- Four bold 45deg diagonal stripes in the site's brand accent colors
+       (green/gold/blue/red, same hexes as .clapper-stripes and the
+       category-pill palette in style.css) — no black or white bands, per
+       final direction after a few width iterations checked visually. -->
+  <defs>
+    <pattern id="stripes" width="96" height="96" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect x="0" width="24" height="96" fill="#2ea84a"/>
+      <rect x="24" width="24" height="96" fill="#ffc145"/>
+      <rect x="48" width="24" height="96" fill="#2469c7"/>
+      <rect x="72" width="24" height="96" fill="#d81e42"/>
+    </pattern>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#stripes)"/>
   <text x="32" y="42" font-size="32" text-anchor="middle" font-family="-apple-system, Segoe UI Emoji, Noto Color Emoji, sans-serif">🎬</text>
 </svg>
