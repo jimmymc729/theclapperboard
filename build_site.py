@@ -373,8 +373,28 @@ def flickle_cta(context: str = "") -> str:
 """
 
 
+def post_accent_class(p) -> str:
+    """Matches the exact same type-detection logic as game_type_pill()/
+    opinion_pill() (quiz flag, Games-with-emoji/quote items, opinion flag)
+    — reused here to add a colored top-edge accent on the card itself (see
+    .post-card-quiz/-trivia/-opinion in the CSS, the same "colored top bar"
+    language the emoji/quote game cards already use), so a Quiz or Trivia
+    or Our Take piece reads as visually distinct from a plain listicle at
+    a skim, not just on close reading of the pill text under the image."""
+    if p.get("quiz"):
+        return " post-card-quiz"
+    if p.get("category") == "Games" and p.get("items"):
+        first_item = p["items"][0]
+        if "emoji" in first_item or "quote" in first_item:
+            return " post-card-trivia"
+    if p.get("opinion"):
+        return " post-card-opinion"
+    return ""
+
+
 def post_card(p, root: str, featured: bool = False) -> str:
     cls = "post-card post-card-featured" if featured else "post-card"
+    cls += post_accent_class(p)
     return f"""    <a class="{cls}" href="{root}posts/{esc(p['slug'])}/index.html">
       <div class="post-card-image"><img src="{esc(p['cover_image'])}" alt="{esc(p['title'])}" loading="lazy"></div>
       <div class="post-card-body">
@@ -383,6 +403,40 @@ def post_card(p, root: str, featured: bool = False) -> str:
       </div>
     </a>
 """
+
+
+def post_grid_html(posts: list, root: str) -> str:
+    """Renders an ordered list of posts as .post-card entries, periodically
+    breaking the 3-column rhythm with one full-width featured card (see
+    post_card()'s `featured` param and .post-card-featured in the CSS,
+    which existed fully styled but was never actually wired up until now)
+    — a long unbroken grid of identically-sized cards reads as monotonous
+    well before a visitor scrolls through dozens of them.
+
+    Posts are chunked into windows of FEATURED_INTERVAL. Within each
+    window, a Quiz or Trivia post is preferred for the featured slot if
+    one exists — interactive content earning the extra visual weight —
+    otherwise the LAST post in the window is featured, so a batch of
+    regular-sized cards reads first and the break lands as a punctuation
+    mark closing that batch, rather than a featured card sitting
+    immediately at the top of every window (which, on the homepage
+    specifically, would otherwise land right under the hero — already the
+    biggest thing on the page — instead of giving the eye a plain run of
+    cards first)."""
+    FEATURED_INTERVAL = 6
+    parts = []
+    for start in range(0, len(posts), FEATURED_INTERVAL):
+        window = posts[start:start + FEATURED_INTERVAL]
+        featured_index = next(
+            (j for j, p in enumerate(window) if p.get("quiz") or (
+                p.get("category") == "Games" and p.get("items")
+                and ("emoji" in p["items"][0] or "quote" in p["items"][0])
+            )),
+            len(window) - 1,
+        )
+        for j, p in enumerate(window):
+            parts.append(post_card(p, root, featured=(j == featured_index)))
+    return "".join(parts)
 
 
 def share_row(canonical_path: str, title: str, label: str = "Share this", share_text: str = None) -> str:
@@ -484,8 +538,8 @@ def render_home(posts, trailers: list, engagement: dict) -> str:
         trending_hero_card(trending[0], root, 1)
         + f'    <div class="trending-items">\n{small_cards}    </div>\n'
     )
-    newest_grid = "\n".join(post_card(p, root) for p in rest)
-    trending_grid = "\n".join(post_card(p, root) for p in trending_order(rest, engagement))
+    newest_grid = post_grid_html(rest, root)
+    trending_grid = post_grid_html(trending_order(rest, engagement), root)
     toggle_html = view_toggle("home", [
         ("newest", "Newest", f'    <div class="post-grid">\n{newest_grid}\n    </div>\n'),
         ("trending", "🔥 Trending", f'    <div class="post-grid">\n{trending_grid}\n    </div>\n'),
@@ -537,8 +591,8 @@ def render_posts_index(posts, engagement: dict, category: str = None) -> str:
     title = f"{CATEGORY_EMOJI.get(category, '')} {category}".strip() if category else "All Posts"
     canonical = f"/posts/{CATEGORY_SLUGS[category]}/" if category else "/posts/"
     group_id = f"posts-{CATEGORY_SLUGS[category]}" if category else "posts-all"
-    newest_grid = "\n".join(post_card(p, root) for p in posts)
-    trending_grid = "\n".join(post_card(p, root) for p in trending_order(posts, engagement))
+    newest_grid = post_grid_html(posts, root)
+    trending_grid = post_grid_html(trending_order(posts, engagement), root)
     toggle_html = view_toggle(group_id, [
         ("newest", "Newest", f'    <div class="post-grid">\n{newest_grid}\n    </div>\n'),
         ("trending", "🔥 Trending", f'    <div class="post-grid">\n{trending_grid}\n    </div>\n'),
