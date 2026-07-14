@@ -60,6 +60,36 @@
     ]
   },
   {
+    "id": 1108427,
+    "title": "Moana",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "videos": [
+      {
+        "key": "EEz5xbzYPKI",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "n7f6hlKsxxo",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "o8JZW9hFqtI",
+        "name": "#1 In The World",
+        "type": "Teaser"
+      },
+      {
+        "key": "pBe-5cXYwcE",
+        "name": "\ud83d\udc99\ud83c\udf0a",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1273221,
     "title": "Scary Movie",
     "release_date": "2026-06-05",
@@ -115,36 +145,6 @@
       {
         "key": "tKGhxMi50y8",
         "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1108427,
-    "title": "Moana",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "videos": [
-      {
-        "key": "EEz5xbzYPKI",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "n7f6hlKsxxo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "o8JZW9hFqtI",
-        "name": "#1 In The World",
-        "type": "Teaser"
-      },
-      {
-        "key": "pBe-5cXYwcE",
-        "name": "\ud83d\udc99\ud83c\udf0a",
         "type": "Teaser"
       }
     ]
@@ -230,6 +230,36 @@
     ]
   },
   {
+    "id": 1368337,
+    "title": "The Odyssey",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "videos": [
+      {
+        "key": "AyIZ9tiiN8I",
+        "name": "Official Countdown Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "f_bKjZeJBBI",
+        "name": "Official New Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "Mzw2ttJD2qQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "ie6k69mpHHI",
+        "name": "On July 17 embark on an epic journey",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1279493,
     "title": "The Get Out",
     "release_date": "2026-06-26",
@@ -270,36 +300,6 @@
       {
         "key": "bDMjoptmoXI",
         "name": "Alice doesn\u2019t play.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1368337,
-    "title": "The Odyssey",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "videos": [
-      {
-        "key": "AyIZ9tiiN8I",
-        "name": "Official Countdown Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "f_bKjZeJBBI",
-        "name": "Official New Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "Mzw2ttJD2qQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "ie6k69mpHHI",
-        "name": "On July 17 embark on an epic journey",
         "type": "Teaser"
       }
     ]
@@ -463,13 +463,13 @@
         "type": "Trailer"
       },
       {
-        "key": "8vXGGMrrH48",
-        "name": "Brand New Day. Brand New abilities.",
+        "key": "u0LZ40vFrgU",
+        "name": "In Cinemas JULY 29",
         "type": "Teaser"
       },
       {
-        "key": "f0EzGMi4H5c",
-        "name": "Besties.",
+        "key": "8vXGGMrrH48",
+        "name": "Brand New Day. Brand New abilities.",
         "type": "Teaser"
       }
     ]
@@ -480,7 +480,7 @@
     "release_date": "2026-06-03",
     "poster": "https://image.tmdb.org/t/p/w500/wDoZa41ieE80WT5dQfC6QPC9Caf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-    "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
+    "overview": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
     "videos": [
       {
         "key": "AdEE5xFQelY",
