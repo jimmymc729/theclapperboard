@@ -692,23 +692,32 @@ a { color: inherit; }
     aspect-ratio: auto;
   }
 
-  /* Deliberately NOT display:flex here (an earlier version made this a
-     flex column to vertically center the text block within the taller
-     image row) — flex items default to align-items: stretch on the cross
-     axis, which pulled each inline-block .pill span to the full column
-     width instead of letting it hug its own text, blowing every pill up
-     into a full-width bar stacked one per line instead of sitting side
-     by side. Plain block flow is exactly what the desktop/non-compact
-     .post-card-body already uses and its pills already sit correctly
-     side by side there — no reason the compact row needs different
-     behavior, just different padding. */
+  /* flex-wrap (NOT flex-direction: column — that was tried already and
+     had to be backed out, see the git history/earlier note) so the pill
+     span(s) and the title paragraph can be vertically centered as a
+     group within the taller image row, while the pills themselves still
+     end up sitting side by side rather than one-per-line: a plain
+     flex-direction: column would put every direct child (each pill span,
+     then the title) on its own row regardless of alignment settings,
+     which is exactly what broke this the first time. With flex-wrap
+     instead, items flow left-to-right like normal inline content — the
+     pill span(s) sit side by side on line one, then .post-card-title
+     below forces itself onto its own new line via flex-basis: 100%
+     (a standard trick: an item claiming the full row width has nowhere
+     to go but a fresh line) — and align-content: center then centers
+     that whole 1-2 line block vertically as a unit. */
   .post-card.post-card-compact .post-card-body {
     padding: 10px 14px;
     flex: 1;
     min-width: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
   }
 
   .post-card.post-card-compact .post-card-title {
+    flex-basis: 100%;
+    width: 100%;
     font-size: 0.9rem;
     margin-top: 4px;
   }
