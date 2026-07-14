@@ -682,6 +682,7 @@ a { color: inherit; }
   .post-card.post-card-compact {
     display: flex;
     align-items: stretch;
+    gap: 10px;
     padding: 0;
   }
 
@@ -691,18 +692,40 @@ a { color: inherit; }
     aspect-ratio: auto;
   }
 
+  /* Deliberately NOT display:flex here (an earlier version made this a
+     flex column to vertically center the text block within the taller
+     image row) — flex items default to align-items: stretch on the cross
+     axis, which pulled each inline-block .pill span to the full column
+     width instead of letting it hug its own text, blowing every pill up
+     into a full-width bar stacked one per line instead of sitting side
+     by side. Plain block flow is exactly what the desktop/non-compact
+     .post-card-body already uses and its pills already sit correctly
+     side by side there — no reason the compact row needs different
+     behavior, just different padding. */
   .post-card.post-card-compact .post-card-body {
     padding: 10px 14px;
     flex: 1;
     min-width: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
   }
 
   .post-card.post-card-compact .post-card-title {
     font-size: 0.9rem;
     margin-top: 4px;
+  }
+
+  /* The compact row's body column is narrower than a full-width card's,
+     so the pills also shrink a size further here — otherwise two of them
+     ("Games" + "Trivia"/"Quiz") can be too wide to both fit on one line
+     next to each other in that narrower space. */
+  .post-card.post-card-compact .pill {
+    font-size: 0.6rem;
+    padding: 4px 8px;
+  }
+
+  .post-card.post-card-compact .pill-quiz,
+  .post-card.post-card-compact .pill-trivia,
+  .post-card.post-card-compact .pill-opinion {
+    margin-left: 4px;
   }
 
   /* A colored bar across the top reads oddly on a horizontal row — swap
