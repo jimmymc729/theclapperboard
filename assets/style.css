@@ -604,9 +604,9 @@ a { color: inherit; }
    distinct from a plain listicle at a skim, not just on close reading of
    the pill text under the image. Only overrides the top edge — the 1px
    var(--border) above still governs the other three sides. */
-.post-card-quiz { border-top: 4px solid #2469c7; }
-.post-card-trivia { border-top: 4px solid #2ea84a; }
-.post-card-opinion { border-top: 4px solid var(--text); }
+.post-card-quiz { border-top: 8px solid #2469c7; }
+.post-card-trivia { border-top: 8px solid #2ea84a; }
+.post-card-opinion { border-top: 8px solid var(--text); }
 
 .post-card:hover {
   transform: translateY(-3px);
