@@ -7,45 +7,6 @@ function trackEvent(name, params) {
   if (typeof gtag === "function") gtag("event", name, params || {});
 }
 
-// Scroll-reveal for post cards and listicle items — a small fade/slide-up
-// the first time each one crosses into view, instead of just sitting there
-// the instant the page loads. The .reveal-on-scroll/.is-visible classes
-// themselves are only ever added here, never baked into build_site.py's
-// HTML output — see the CSS comment on .reveal-on-scroll for why: if this
-// script fails to run for any reason, elements simply never get the hidden
-// starting state applied and stay visible, so nothing can get silently
-// stuck invisible. Two early-outs before doing anything: skip entirely if
-// IntersectionObserver isn't supported (rather than a scroll-event
-// fallback — every real target browser has had it for years), and skip if
-// the visitor's OS-level "prefers-reduced-motion" is set, out of respect
-// for that preference rather than motion they explicitly asked to avoid.
-(function () {
-  if (!("IntersectionObserver" in window)) return;
-  if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-
-  var targets = document.querySelectorAll(".post-card, .list-item");
-  if (!targets.length) return;
-
-  targets.forEach(function (el) { el.classList.add("reveal-on-scroll"); });
-
-  // rootMargin's negative bottom value triggers the reveal a little before
-  // an element's bottom edge actually reaches the viewport edge, so it's
-  // already animating in as it arrives rather than only starting once
-  // fully on-screen. unobserve() after the first reveal makes this a
-  // one-time "arrival" effect — scrolling back up and down again never
-  // re-triggers it.
-  var observer = new IntersectionObserver(function (entries) {
-    entries.forEach(function (entry) {
-      if (entry.isIntersecting) {
-        entry.target.classList.add("is-visible");
-        observer.unobserve(entry.target);
-      }
-    });
-  }, { threshold: 0.1, rootMargin: "0px 0px -40px 0px" });
-
-  targets.forEach(function (el) { observer.observe(el); });
-})();
-
 // Reaction buttons on post pages. This is intentionally a purely local,
 // per-visitor counter (stored in this browser's localStorage) — it does NOT
 // simulate or fake shared/global engagement numbers. Each button just

@@ -610,12 +610,7 @@ a { color: inherit; }
   background: var(--bg-sunken);
   border: 1px solid var(--border);
   box-shadow: var(--shadow-sm);
-  /* opacity added alongside the existing hover transitions (not a separate
-     rule) so the scroll-reveal fade-in below and the hover "pop" don't
-     fight over which one owns the `transition` shorthand property — CSS
-     doesn't merge two separate declarations of it, the later one simply
-     wins outright and silently drops whatever the other one needed. */
-  transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.4s ease;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
 
 /* Type accent — a colored top edge on the card itself (same "colored top
@@ -871,40 +866,9 @@ a { color: inherit; }
 .list-item {
   padding: 56px 0;
   border-top: 1px solid var(--border);
-  transition: opacity 0.4s ease, transform 0.4s ease;
 }
 
 .list-item:first-of-type { border-top: none; padding-top: 8px; }
-
-/* Scroll-reveal — script.js adds .reveal-on-scroll to every .post-card and
-   .list-item on page load (only when IntersectionObserver is actually
-   supported and the visitor hasn't asked for reduced motion), then adds
-   .is-visible to each one individually the first time it scrolls into
-   view. Deliberately NOT baked into .post-card/.list-item's own default
-   styling — if JS fails to run for any reason, elements simply never get
-   the hidden starting state applied and stay visible, so nothing can get
-   silently stuck invisible. Uses each element's own existing transition
-   (transform/box-shadow on .post-card, nothing pre-existing on
-   .list-item) rather than declaring a competing one here, since a second
-   `transition` declaration on the same element would just override the
-   first outright instead of combining with it. */
-.reveal-on-scroll {
-  opacity: 0;
-  transform: translateY(18px);
-}
-
-.reveal-on-scroll.is-visible {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .reveal-on-scroll {
-    opacity: 1;
-    transform: none;
-    transition: none;
-  }
-}
 
 .list-item-number {
   display: inline-flex;
