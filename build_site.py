@@ -422,8 +422,16 @@ def post_grid_html(posts: list, root: str) -> str:
     immediately at the top of every window (which, on the homepage
     specifically, would otherwise land right under the hero — already the
     biggest thing on the page — instead of giving the eye a plain run of
-    cards first)."""
-    FEATURED_INTERVAL = 6
+    cards first).
+
+    FEATURED_INTERVAL is deliberately 7, not 6: one slot in the window
+    always goes to the featured (full-width) card, leaving the other
+    INTERVAL-1 to fill the 3-column grid — and that number needs to be a
+    clean multiple of 3 or the last row before the featured card falls
+    short (5 cards = a full row of 3 plus a dangling row of 2, an awkward
+    visible gap), which is exactly what happened at 6. 7-1=6 divides into
+    two complete rows with nothing left over."""
+    FEATURED_INTERVAL = 7
     parts = []
     for start in range(0, len(posts), FEATURED_INTERVAL):
         window = posts[start:start + FEATURED_INTERVAL]
