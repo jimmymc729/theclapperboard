@@ -260,21 +260,6 @@
     ]
   },
   {
-    "id": 1279493,
-    "title": "The Get Out",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg",
-    "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-    "videos": [
-      {
-        "key": "oB6HNuKxLmo",
-        "name": "The Get Out | Official Trailer (HD) | Vertical",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -305,21 +290,6 @@
     ]
   },
   {
-    "id": 1645603,
-    "title": "Night of the Living Dead",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
-    "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
-    "videos": [
-      {
-        "key": "3ZfsKIKtYaA",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 980431,
     "title": "Avatar Aang: The Last Airbender",
     "release_date": "2026-07-25",
@@ -335,16 +305,31 @@
     ]
   },
   {
-    "id": 1155818,
-    "title": "Satluj",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/cxFo7L82dW3Vg8x0280BVPpLNXf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
-    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
+    "id": 1279493,
+    "title": "The Get Out",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg",
+    "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
     "videos": [
       {
-        "key": "WtL3YbjUJN8",
-        "name": "ZEE5 Satluj",
+        "key": "oB6HNuKxLmo",
+        "name": "The Get Out | Official Trailer (HD) | Vertical",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1645603,
+    "title": "Night of the Living Dead",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
+    "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+    "videos": [
+      {
+        "key": "3ZfsKIKtYaA",
+        "name": "Official Trailer",
         "type": "Trailer"
       }
     ]
@@ -375,26 +360,6 @@
       {
         "key": "6LHjHY-WHL4",
         "name": "you heard the man: the minions are back.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1202033,
-    "title": "Enola Holmes 3",
-    "release_date": "2026-07-01",
-    "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
-    "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-    "videos": [
-      {
-        "key": "n_pEJjq-9xQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "g1fq327snPU",
-        "name": "Official Teaser",
         "type": "Teaser"
       }
     ]
@@ -463,13 +428,48 @@
         "type": "Trailer"
       },
       {
-        "key": "u0LZ40vFrgU",
+        "key": "A0yuP5GtVoE",
         "name": "In Cinemas JULY 29",
         "type": "Teaser"
       },
       {
-        "key": "8vXGGMrrH48",
-        "name": "Brand New Day. Brand New abilities.",
+        "key": "g_rYknhAlI8",
+        "name": "SHORT VIDEO 2",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1155818,
+    "title": "Satluj",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/cxFo7L82dW3Vg8x0280BVPpLNXf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
+    "videos": [
+      {
+        "key": "WtL3YbjUJN8",
+        "name": "ZEE5 Satluj",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1202033,
+    "title": "Enola Holmes 3",
+    "release_date": "2026-07-01",
+    "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+    "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+    "videos": [
+      {
+        "key": "n_pEJjq-9xQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "g1fq327snPU",
+        "name": "Official Teaser",
         "type": "Teaser"
       }
     ]
