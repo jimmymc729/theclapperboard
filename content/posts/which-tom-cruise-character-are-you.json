@@ -1,0 +1,337 @@
+{
+  "slug": "which-tom-cruise-character-are-you",
+  "title": "Which Tom Cruise Character Are You, Actually?",
+  "dek": "Eight roles, zero overlap in personality \u2014 answer honestly and find out if you're a mission-obsessed daredevil, a seduce-and-destroy disaster, or something far weirder.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T01:06:33.670938+00:00",
+  "quiz": {
+    "intro": "No wrong answers \u2014 just go with your gut reaction, not what you think sounds cool.",
+    "questions": [
+      {
+        "question": "Something's going catastrophically wrong right now. What's your move?",
+        "answers": [
+          {
+            "text": "Make an insane, half-formed plan on the spot and trust it'll somehow work",
+            "result": "ethan"
+          },
+          {
+            "text": "Ignore the checklist, trust my gut, and do the risky maneuver anyway",
+            "result": "maverick"
+          },
+          {
+            "text": "Have a full moral crisis and rewrite my entire life philosophy overnight",
+            "result": "jerry"
+          },
+          {
+            "text": "Scream obscenities until it becomes someone else's problem",
+            "result": "grossman"
+          }
+        ]
+      },
+      {
+        "question": "How would your friends describe your energy?",
+        "answers": [
+          {
+            "text": "Cocky, but I somehow always back it up",
+            "result": "maverick"
+          },
+          {
+            "text": "Earnest to a fault, wears my heart on my sleeve",
+            "result": "jerry"
+          },
+          {
+            "text": "Loud, unhinged, and a little bit terrifying",
+            "result": "grossman"
+          },
+          {
+            "text": "Detached, unreadable, hard to get a read on",
+            "result": "vincent"
+          }
+        ]
+      },
+      {
+        "question": "Pick a party trick.",
+        "answers": [
+          {
+            "text": "Giving an unplanned, tearful, heartfelt toast",
+            "result": "jerry"
+          },
+          {
+            "text": "Dancing to hip hop in front of everyone, zero shame",
+            "result": "grossman"
+          },
+          {
+            "text": "Quietly mapping every exit in the room without anyone noticing",
+            "result": "vincent"
+          },
+          {
+            "text": "Hyping up a room of total strangers like it's a seminar",
+            "result": "frank"
+          }
+        ]
+      },
+      {
+        "question": "What's your actual career philosophy?",
+        "answers": [
+          {
+            "text": "Profit above everything else, full stop",
+            "result": "grossman"
+          },
+          {
+            "text": "It's just a job. Professional, efficient, impersonal",
+            "result": "vincent"
+          },
+          {
+            "text": "Turn your pain into a personal brand and sell it",
+            "result": "frank"
+          },
+          {
+            "text": "Live forever, indulge every desire, never apologize for it",
+            "result": "lestat"
+          }
+        ]
+      },
+      {
+        "question": "How do you deal with people telling you what to do?",
+        "answers": [
+          {
+            "text": "I work for whoever's paying, no questions, no attachment",
+            "result": "vincent"
+          },
+          {
+            "text": "I reject the father figure who let me down in the first place",
+            "result": "frank"
+          },
+          {
+            "text": "I answer to no one. Ever. That's the whole point",
+            "result": "lestat"
+          },
+          {
+            "text": "I rage, loudly and publicly, against the system that betrayed me",
+            "result": "kovic"
+          }
+        ]
+      },
+      {
+        "question": "Pick your signature look.",
+        "answers": [
+          {
+            "text": "Skin-tight leather pants and a stage presence to match",
+            "result": "frank"
+          },
+          {
+            "text": "Velvet, fangs, and a cape that somehow works",
+            "result": "lestat"
+          },
+          {
+            "text": "A wheelchair and a chest full of medals I have complicated feelings about",
+            "result": "kovic"
+          },
+          {
+            "text": "All-black tactical gear, ready to scale a wall at any moment",
+            "result": "ethan"
+          }
+        ]
+      },
+      {
+        "question": "What's your worst flaw, honestly?",
+        "answers": [
+          {
+            "text": "Vanity and a cruelty I don't fully apologize for",
+            "result": "lestat"
+          },
+          {
+            "text": "Consuming anger I haven't fully figured out what to do with",
+            "result": "kovic"
+          },
+          {
+            "text": "Reckless self-sacrifice \u2014 I will not consider my own safety",
+            "result": "ethan"
+          },
+          {
+            "text": "An ego that nearly gets people killed",
+            "result": "maverick"
+          }
+        ]
+      },
+      {
+        "question": "Pick a soundtrack for your life.",
+        "answers": [
+          {
+            "text": "A protest folk song about a country that let you down",
+            "result": "kovic"
+          },
+          {
+            "text": "Pulse-pounding action score, constant tension",
+            "result": "ethan"
+          },
+          {
+            "text": "A soaring rock anthem, played way too loud",
+            "result": "maverick"
+          },
+          {
+            "text": "A quiet acoustic ballad about finally growing up",
+            "result": "jerry"
+          }
+        ]
+      },
+      {
+        "question": "What's your idea of a perfect night?",
+        "answers": [
+          {
+            "text": "Defusing something explosive somewhere exotic, solo",
+            "result": "ethan"
+          },
+          {
+            "text": "A bar singalong tonight, flying again at dawn",
+            "result": "maverick"
+          },
+          {
+            "text": "One real, honest conversation that changes everything",
+            "result": "jerry"
+          },
+          {
+            "text": "Closing a huge deal, then dancing alone in triumph",
+            "result": "grossman"
+          }
+        ]
+      },
+      {
+        "question": "Last one: what's your love language?",
+        "answers": [
+          {
+            "text": "Showing off spectacularly, then falling for you way too hard",
+            "result": "maverick"
+          },
+          {
+            "text": "Writing an embarrassingly sincere mission statement about you",
+            "result": "jerry"
+          },
+          {
+            "text": "Flexing my success like it's proof I actually care",
+            "result": "grossman"
+          },
+          {
+            "text": "Cool, efficient distance \u2014 love isn't really in my job description",
+            "result": "vincent"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "ethan",
+        "name": "Ethan Hunt",
+        "subtitle": "Mission: Impossible (1996)",
+        "description": "You are physically incapable of letting a mission fail, even if it means hanging off a plane or free-climbing a cliff face for no reason a normal person would accept. Loyalty runs so deep for you that you'll burn every rule in the book to protect your people. Rest is not in your vocabulary \u2014 the next impossible thing is already waiting.",
+        "image": "https://image.tmdb.org/t/p/w780/sra8XnL96OyLHENcglmZJg6HA8z.jpg"
+      },
+      {
+        "key": "maverick",
+        "name": "Maverick",
+        "subtitle": "Top Gun (1986)",
+        "description": "You're cocky, you know it, and honestly you've earned the right to be. You break rules constantly, fly too close to the edge, and somehow keep landing the plane anyway. Underneath the swagger there's a real vulnerability you rarely let anyone see \u2014 but when it counts, you show up.",
+        "image": "https://image.tmdb.org/t/p/w780/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
+      },
+      {
+        "key": "jerry",
+        "name": "Jerry Maguire",
+        "subtitle": "Jerry Maguire (1996)",
+        "description": "You're the person who has a full-blown moral epiphany at 2am and blows up your entire life over it. You genuinely believe fewer, deeper relationships beat a hundred shallow ones, even when it costs you everything short-term. Sincerity is your whole brand, embarrassing mission statements included.",
+        "image": "https://image.tmdb.org/t/p/w780/qXRevZK99KtLtW3iUd079Nt1oz5.jpg"
+      },
+      {
+        "key": "grossman",
+        "name": "Les Grossman",
+        "subtitle": "Tropic Thunder (2008)",
+        "description": "You are loud, unapologetic, and running the whole show whether anyone asked you to or not. Empathy is optional; the deal closing is not. And when the pressure's finally off, you will absolutely dance about it, alone, in an empty office, with zero shame.",
+        "image": "https://image.tmdb.org/t/p/w780/aEIwUA2UpvfRWBM0U1Tuzi2oU9k.jpg"
+      },
+      {
+        "key": "vincent",
+        "name": "Vincent",
+        "subtitle": "Collateral (2004)",
+        "description": "You're calm, meticulous, and impossible to read \u2014 a professional through and through, whatever the job actually is. People find you weirdly likable even though something about you clearly doesn't add up. You improvise, you adapt, and you never let anyone see you sweat.",
+        "image": "https://image.tmdb.org/t/p/w780/55vfQqilh6KNCxym03v7cMMCTqs.jpg"
+      },
+      {
+        "key": "frank",
+        "name": "Frank T.J. Mackey",
+        "subtitle": "Magnolia (1999)",
+        "description": "You perform total confidence for a room full of strangers, and it works \u2014 right up until someone asks you a real question about your past. Underneath the bravado is a person still hurting over something they've never actually dealt with. You control every room except the one inside your own head.",
+        "image": "https://image.tmdb.org/t/p/w780/b1pQi4anIPZl7CU3S4s3Cjw3KSY.jpg"
+      },
+      {
+        "key": "lestat",
+        "name": "Lestat",
+        "subtitle": "Interview with the Vampire (1994)",
+        "description": "You are dramatic, vain, and completely magnetic \u2014 the kind of presence that makes an entire room reorganize itself around you. You crave connection so badly you'll do almost anything to keep the people you love close, even if your methods are, to put it mildly, questionable. Centuries in, you still haven't changed a thing about your look, because why would you.",
+        "image": "https://image.tmdb.org/t/p/w780/leLqEL9ME1o2Ck47k2WubgOvaRh.jpg"
+      },
+      {
+        "key": "kovic",
+        "name": "Ron Kovic",
+        "subtitle": "Born on the Fourth of July (1989)",
+        "description": "You started out believing completely in something, had that belief shattered, and turned the wreckage into a lifelong fight for people who've been failed the same way you were. Your anger isn't random \u2014 it's pointed directly at whatever system let you down. You carry real pain, but you refuse to let it go to waste.",
+        "image": "https://image.tmdb.org/t/p/w780/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Frank T.J. Mackey (Magnolia \u2013 1999) | Character Assassin",
+      "url": "https://characterassassinationblog.wordpress.com/2015/10/29/frank-t-j-mackey-magnolia-1999/"
+    },
+    {
+      "title": "The Real-Life Inspiration Behind Tom Cruise's Character In Magnolia - SlashFilm",
+      "url": "https://www.slashfilm.com/775623/the-real-life-inspiration-behind-tom-cruises-character-in-magnolia/"
+    },
+    {
+      "title": "Les Grossman | Villains Wiki | Fandom",
+      "url": "https://villains.fandom.com/wiki/Les_Grossman"
+    },
+    {
+      "title": "Tropic Thunder - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tropic_Thunder"
+    },
+    {
+      "title": "Tom Cruise Invented Tropic Thunder's Les Grossman, Starting With 2 Hilarious Requests | Cinemablend",
+      "url": "https://www.cinemablend.com/news/1696289/tom-cruise-invented-tropic-thunders-les-grossman-starting-with-2-hilarious-requests"
+    },
+    {
+      "title": "Vincent (Collateral) | Villains Wiki | Fandom",
+      "url": "https://villains.fandom.com/wiki/Vincent_(Collateral)"
+    },
+    {
+      "title": "Collateral: Tom Cruise's Vincent Is Still Haunting 20 Years Later - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/collateral-tom-cruise-vincent-still-213000649.html"
+    },
+    {
+      "title": "The Seductive Bloodlust of Tom Cruise in 'Interview with the Vampire' - Bright Wall/Dark Room",
+      "url": "https://www.brightwalldarkroom.com/2019/06/17/bloodlust-cruise-interview-with-the-vampire/"
+    },
+    {
+      "title": "Lestat de Lioncourt - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lestat_de_Lioncourt"
+    },
+    {
+      "title": "Jerry Maguire - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/Jerry_Maguire"
+    },
+    {
+      "title": "Born on the Fourth of July (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Born_on_the_Fourth_of_July_(film)"
+    },
+    {
+      "title": "Top Gun Character List - GradeSaver",
+      "url": "https://www.gradesaver.com/top-gun/study-guide/character-list"
+    },
+    {
+      "title": "Maverick (Tom Cruise) in Top Gun Character Analysis | Shmoop",
+      "url": "https://www.shmoop.com/study-guides/top-gun/tom-cruise.html"
+    }
+  ],
+  "related": []
+}
