@@ -960,6 +960,62 @@ a { color: inherit; }
   line-height: 1.75;
 }
 
+/* Running progress counter for trivia-format game posts (emoji/quote
+   clues) — see render_post_page() in build_site.py, which only emits this
+   for that format (the quiz has its own equivalent progress bar, and a
+   plain listicle has nothing to count). script.js updates the count as
+   each clue's <details> reveal is opened, so there's something visibly
+   "in progress" pulling a visitor from clue 1 toward the last one, rather
+   than a flat list with no sense of how much is left or already done. */
+.game-progress {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  background: var(--bg-sunken);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 14px;
+  margin: 4px 0 6px;
+}
+
+.game-progress-count {
+  color: var(--accent);
+  font-weight: 900;
+}
+
+/* Shown once every clue in the post has been revealed (script.js flips
+   [hidden] off) — a one-time payoff moment for actually finishing the
+   whole set, which this format didn't have before. The explicit
+   [hidden] override is needed for the same reason as .quiz-result[hidden]
+   above: this rule sets its own `display`, which as an author style would
+   otherwise silently beat the browser's built-in [hidden] rule. */
+.game-complete[hidden] {
+  display: none;
+}
+
+.game-complete {
+  text-align: center;
+  background: var(--text);
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 20px 24px;
+  margin: 10px 0 30px;
+  box-shadow: var(--shadow-md);
+}
+
+.game-complete-text {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.1rem;
+}
+
 /* Emoji guess format — a dark "slate" card (echoing the clapperboard
    itself) with a mini clapper-stripe bar on top, so game items read as
    a distinct, more playful format than the plain listicle items around

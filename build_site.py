@@ -1062,6 +1062,11 @@ def render_post_page(p, posts_by_slug: dict) -> str:
     root = "../../"
     canonical_path = f"/posts/{p['slug']}/"
 
+    trivia_items = [item for item in p.get("items", []) if "emoji" in item or "quote" in item]
+    is_quiz = bool(p.get("quiz"))
+    is_trivia = not is_quiz and len(trivia_items) > 0
+    is_game = is_quiz or is_trivia
+
     items_html = []
     if p.get("quiz"):
         items_html.append(render_quiz(p["quiz"], p["slug"], root, p["title"]))
@@ -1073,6 +1078,38 @@ def render_post_page(p, posts_by_slug: dict) -> str:
                 items_html.append(render_quote_item(item, root, p["slug"], p["title"]))
             else:
                 items_html.append(render_list_item(item, root))
+
+    # A visitor arriving from a social link already knows this is a game —
+    # the top CTA (a full "Play Flickle" promo card) used to sit between the
+    # cover image and the first clue/question, meaning the actual payoff
+    # they clicked for was pushed below an ad-like banner. Skipped here for
+    # any game post (quiz or trivia); the bottom CTA ("now go prove it")
+    # still runs after the game either way, so nothing is actually lost —
+    # it was previously just duplicated in the one spot doing the most harm.
+    top_cta = "" if is_game else flickle_cta()
+
+    # Trivia-format games (unlike the quiz, which already has its own
+    # progress bar) are a flat list with nothing pulling a visitor from clue
+    # 1 toward clue N — no sense that anything is "in progress" or worth
+    # finishing. This adds a small running counter (updated client-side in
+    # script.js's reveal listener, which already fires once per opened
+    # <details>) and a one-time completion message once every clue in the
+    # post has been opened. Quiz posts are excluded — they already have an
+    # equivalent mechanic — and plain listicles have nothing to count.
+    progress_html = ""
+    complete_html = ""
+    if is_trivia:
+        total = len(trivia_items)
+        progress_html = f"""  <div class="list-item-text">
+    <div class="game-progress" id="game-progress" data-total="{total}">
+      <span class="game-progress-count">0</span> / {total} revealed
+    </div>
+  </div>
+"""
+        complete_html = f"""  <div class="game-complete" id="game-complete" hidden>
+    <p class="game-complete-text">🎉 You cleared all {total} — nice work.</p>
+  </div>
+"""
 
     related_posts = pick_related_posts(p, posts_by_slug)
     related_html = ""
@@ -1114,9 +1151,12 @@ def render_post_page(p, posts_by_slug: dict) -> str:
     </div>
   </div>
 
-{flickle_cta()}
+{top_cta}
 
+{progress_html}
 {"".join(items_html)}
+
+{complete_html}
 
 {flickle_cta("Now go prove it — play today's Flickle.")}
 

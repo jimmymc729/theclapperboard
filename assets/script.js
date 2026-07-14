@@ -104,17 +104,44 @@ function trackEvent(name, params) {
 })();
 
 // Guess-the-movie games (emoji clue / famous quote). Fires once per reveal
-// — the <details> "toggle" event covers both click and keyboard activation,
-// and only fires on the open transition (re-closing/re-opening the same
-// item that's already been seen isn't counted twice in a row).
+// — the <details> "toggle" event covers both click and keyboard activation.
+// Also drives the "X / N revealed" progress counter and end-of-post
+// completion message (see .game-progress/.game-complete in build_site.py
+// and their CSS) when those elements exist on the page — they only get
+// rendered for trivia-format posts, so this is a no-op everywhere else
+// (quiz pages, plain listicles) since the querySelector calls just come
+// back empty.
 (function () {
   var reveals = document.querySelectorAll("details.reveal");
   if (!reveals.length) return;
 
+  var progressEl = document.getElementById("game-progress");
+  var progressCountEl = progressEl ? progressEl.querySelector(".game-progress-count") : null;
+  var completeEl = document.getElementById("game-complete");
+  var total = progressEl ? parseInt(progressEl.getAttribute("data-total") || "0", 10) : 0;
+
+  // Tracks which items have already been counted, keyed by their
+  // data-item value — re-opening a clue you already revealed shouldn't
+  // increment the counter a second time.
+  var revealedIds = {};
+  var revealedCount = 0;
+
   reveals.forEach(function (details) {
     details.addEventListener("toggle", function () {
-      if (details.open) {
-        trackEvent("game_reveal", { item: details.getAttribute("data-item") || undefined });
+      if (!details.open) return;
+
+      var item = details.getAttribute("data-item") || undefined;
+      trackEvent("game_reveal", { item: item });
+
+      if (progressCountEl && item && !revealedIds[item]) {
+        revealedIds[item] = true;
+        revealedCount++;
+        progressCountEl.textContent = revealedCount;
+
+        if (total && revealedCount >= total && completeEl) {
+          completeEl.hidden = false;
+          trackEvent("game_completed", { total: total });
+        }
       }
     });
   });
