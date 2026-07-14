@@ -600,27 +600,27 @@
     ]
   },
   {
-    "id": 1375646,
-    "title": "Colony",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-    "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hG1tXuommFDedfdrzaEHfMY1Q3W.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "videos": [
       {
-        "key": "LW6dpj1uCK8",
-        "name": "COLONY - International Trailer | Directed by Yeon Sang-ho | In Theaters August 28th",
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
         "type": "Trailer"
       },
       {
-        "key": "D6eKZ6arMI8",
-        "name": "Official Teaser [Subtitled]",
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "Rd21PhsDHww",
+        "name": "Title Announcement",
         "type": "Teaser"
-      },
-      {
-        "key": "XeurGlQMJxw",
-        "name": "Colony Exclusive Trailer (2026)",
-        "type": "Trailer"
       }
     ]
   },
@@ -646,6 +646,31 @@
         "key": "Vt7860xZFXk",
         "name": "HOPE - Official Teaser - In Theaters Fall 2026",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1375646,
+    "title": "Colony",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+    "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+    "videos": [
+      {
+        "key": "LW6dpj1uCK8",
+        "name": "COLONY - International Trailer | Directed by Yeon Sang-ho | In Theaters August 28th",
+        "type": "Trailer"
+      },
+      {
+        "key": "D6eKZ6arMI8",
+        "name": "Official Teaser [Subtitled]",
+        "type": "Teaser"
+      },
+      {
+        "key": "XeurGlQMJxw",
+        "name": "Colony Exclusive Trailer (2026)",
+        "type": "Trailer"
       }
     ]
   },
@@ -740,31 +765,6 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/swAe6WOz95Pl3Q8ztpCncDMO1pT.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "videos": [
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "Rd21PhsDHww",
-        "name": "Title Announcement",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -800,36 +800,6 @@
     ]
   },
   {
-    "id": 1185806,
-    "title": "PAW Patrol: The Dino Movie",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
-    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-    "videos": [
-      {
-        "key": "xgI5iYmOf5Q",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "knDmb8lWEhQ",
-        "name": "World Pup",
-        "type": "Teaser"
-      },
-      {
-        "key": "dFdVkmaIfYE",
-        "name": "Trailer Wednesday",
-        "type": "Teaser"
-      },
-      {
-        "key": "aHw4PuLCUIc",
-        "name": "Teaser Trailer",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1300926,
     "title": "The Angry Birds Movie 3",
     "release_date": "2026-12-23",
@@ -845,6 +815,21 @@
       {
         "key": "8_nX4qQU1Wc",
         "name": "NOW IN PRODUCTION!",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1588765,
+    "title": "Brandon & Haider",
+    "release_date": "2026-08-31",
+    "poster": "https://image.tmdb.org/t/p/w500/bMxc9jsafqlUdWUp5ewUyx0t6Gr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mcurGgCTvTeYRSpCZXBAXk7iHeU.jpg",
+    "overview": "When the enigmatic allure of two ancient artifacts is unleashed, two students are bestowed with unparalleled powers. Yet, a relentless collector, driven by an insatiable thirst for dominion, will stop at nothing to seize them, igniting a cataclysmic battle that will determine the fate of worlds",
+    "videos": [
+      {
+        "key": "ZjbvmSaewyM",
+        "name": "Brandon & Haider | Reveal Trailer |",
         "type": "Teaser"
       }
     ]
