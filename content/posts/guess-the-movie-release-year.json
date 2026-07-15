@@ -1,0 +1,19 @@
+{
+  "slug": "guess-the-movie-release-year",
+  "title": "How Well Do You Know Your Movie Decades? Guess The Release Year For These 6 Classics",
+  "dek": "No pressure — just see how close you can get.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+  "date": "2026-07-15",
+  "year_guess": {
+    "intro": "Drag the slider to lock in your guess for each one. Score is just how close you land — nobody expects you to nail it exactly.",
+    "movies": [
+      { "title": "Jaws", "year": 1975, "image": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg" },
+      { "title": "The Matrix", "year": 1999, "image": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg" },
+      { "title": "Parasite", "year": 2019, "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" },
+      { "title": "Jurassic Park", "year": 1993, "image": "https://image.tmdb.org/t/p/w500/63viWuPfYQjRYLSZSZNq7dglJP5.jpg" },
+      { "title": "Titanic", "year": 1997, "image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" },
+      { "title": "Star Wars", "year": 1977, "image": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" }
+    ]
+  }
+}
