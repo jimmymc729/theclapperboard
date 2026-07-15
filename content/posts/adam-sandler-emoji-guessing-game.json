@@ -1,0 +1,110 @@
+{
+  "slug": "adam-sandler-emoji-guessing-game",
+  "title": "Guess The Adam Sandler Movie From Just 3 Emoji",
+  "dek": "From golf-rage classics to that one time he made you cry over a black opal \u2014 can you crack all 8 before you peek at the answers?",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/s3HSJQO1yN6ImYIdwQP244HN3Jb.jpg",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T16:44:57.369184+00:00",
+  "items": [
+    {
+      "number": 1,
+      "emoji": "\u26f3\ud83d\ude21\ud83c\udfd2",
+      "reveal_title": "Happy Gilmore (1996)",
+      "reveal_text": "\"You little son of a bitch ball! Why don't you just go home?\"",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/s3HSJQO1yN6ImYIdwQP244HN3Jb.jpg",
+      "trailer_key": "VJFdK0Owxlc"
+    },
+    {
+      "number": 2,
+      "emoji": "\ud83c\udf93\ud83c\udf7c\ud83d\udcc9",
+      "reveal_title": "Billy Madison (1995)",
+      "reveal_text": "\"I award you no points, and may God have mercy on your soul.\"",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/5ESLsrW33Kw2c3GeLNHrG4Ef9M5.jpg",
+      "trailer_key": "WMNX2dP6RNY"
+    },
+    {
+      "number": 3,
+      "emoji": "\ud83d\udc76\ud83c\udfca\u200d\u2642\ufe0f\ud83d\udc68",
+      "reveal_title": "Big Daddy (1999)",
+      "reveal_text": "\"Having a kid is great... as long as his eyes are closed and he's not moving or speaking.\"",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/fl3no3IMXGjZAUa2iU9aBzlid5m.jpg",
+      "trailer_key": "J_l5fMb1oxg"
+    },
+    {
+      "number": 4,
+      "emoji": "\ud83c\udfc8\ud83d\udca7\ud83d\udc0a",
+      "reveal_title": "The Waterboy (1998)",
+      "reveal_text": "\"You can do it! You can do it all night long!\"",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/5efxViSwHrpJBw9tP3e22Z5OEXS.jpg",
+      "trailer_key": "vVLvkqfTRVQ"
+    },
+    {
+      "number": 5,
+      "emoji": "\ud83d\udcfa\u23e9\u23ea",
+      "reveal_title": "Click (2006)",
+      "reveal_text": "\"You wanted a universal remote control that remote-controls your universe.\"",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/zDNWltot0VqhzonZJqbxManLbyZ.jpg",
+      "trailer_key": "APUqyhgtCfk"
+    },
+    {
+      "number": 6,
+      "emoji": "\ud83c\udf3a\ud83e\udde0\ud83d\udd01",
+      "reveal_title": "50 First Dates (2004)",
+      "reveal_text": "\"There's nothing like a first kiss.\"",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/7qciJF7sQaCSYFVpxykEwyStKOl.jpg",
+      "trailer_key": "17KJk3ErIx0"
+    },
+    {
+      "number": 7,
+      "emoji": "\ud83d\udc8e\ud83c\udfb0\ud83d\ude30",
+      "reveal_title": "Uncut Gems (2019)",
+      "reveal_text": "\"This is me! This is how I win.\"",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/gN4ahTRnj0Z5ctYaHpeFTMSKqKD.jpg",
+      "trailer_key": "sXga1Oy0iRk"
+    },
+    {
+      "number": 8,
+      "emoji": "\ud83c\udfb9\ud83c\udf6e\ud83d\udc4a",
+      "reveal_title": "Punch-Drunk Love (2002)",
+      "reveal_text": "\"I have a love in my life. It makes me stronger than anything you can imagine.\"",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/3CmxQv7AJlujUxRnKRuKoIslQD6.jpg",
+      "trailer_key": "9pG2nfxoUcs"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Happy Gilmore (1996) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0116483/quotes/"
+    },
+    {
+      "title": "Billy Madison (1995) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0112508/quotes/"
+    },
+    {
+      "title": "Big Daddy Quotes - Quotes.net",
+      "url": "https://www.quotes.net/movies/big_daddy_1031"
+    },
+    {
+      "title": "The Waterboy (1998) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0120484/quotes/"
+    },
+    {
+      "title": "Click (2006) - Quotes - IMDb",
+      "url": "https://www.imdb.com/title/tt0389860/quotes/?item=qt0365531"
+    },
+    {
+      "title": "50 First Dates - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/50_First_Dates"
+    },
+    {
+      "title": "This Is How I Win | Know Your Meme",
+      "url": "https://knowyourmeme.com/memes/this-is-how-i-win"
+    },
+    {
+      "title": "Punch-Drunk Love - Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/Punch-Drunk_Love"
+    }
+  ],
+  "related": []
+}

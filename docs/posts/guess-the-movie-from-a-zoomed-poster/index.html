@@ -91,10 +91,10 @@
     </div>
     <p class="poster-guess-status" aria-live="polite"></p>
     <div class="poster-guess-choices">
+        <button type="button" class="poster-guess-choice">The Matrix</button>
         <button type="button" class="poster-guess-choice">Jurassic Park</button>
-        <button type="button" class="poster-guess-choice">Parasite</button>
-        <button type="button" class="poster-guess-choice">Titanic</button>
         <button type="button" class="poster-guess-choice" data-correct="true">Jaws</button>
+        <button type="button" class="poster-guess-choice">Parasite</button>
     </div>
   </div>
   <div class="list-item poster-guess-item" id="pg-item-2" data-title="The Matrix">
@@ -106,10 +106,10 @@
     </div>
     <p class="poster-guess-status" aria-live="polite"></p>
     <div class="poster-guess-choices">
+        <button type="button" class="poster-guess-choice" data-correct="true">The Matrix</button>
         <button type="button" class="poster-guess-choice">Jaws</button>
         <button type="button" class="poster-guess-choice">Parasite</button>
         <button type="button" class="poster-guess-choice">Titanic</button>
-        <button type="button" class="poster-guess-choice" data-correct="true">The Matrix</button>
     </div>
   </div>
   <div class="list-item poster-guess-item" id="pg-item-3" data-title="Parasite">
@@ -121,10 +121,10 @@
     </div>
     <p class="poster-guess-status" aria-live="polite"></p>
     <div class="poster-guess-choices">
-        <button type="button" class="poster-guess-choice">Jurassic Park</button>
-        <button type="button" class="poster-guess-choice">Star Wars</button>
-        <button type="button" class="poster-guess-choice">The Matrix</button>
+        <button type="button" class="poster-guess-choice">Jaws</button>
         <button type="button" class="poster-guess-choice" data-correct="true">Parasite</button>
+        <button type="button" class="poster-guess-choice">Star Wars</button>
+        <button type="button" class="poster-guess-choice">Jurassic Park</button>
     </div>
   </div>
   <div class="list-item poster-guess-item" id="pg-item-4" data-title="Jurassic Park">
@@ -137,9 +137,9 @@
     <p class="poster-guess-status" aria-live="polite"></p>
     <div class="poster-guess-choices">
         <button type="button" class="poster-guess-choice" data-correct="true">Jurassic Park</button>
-        <button type="button" class="poster-guess-choice">Jaws</button>
+        <button type="button" class="poster-guess-choice">Titanic</button>
         <button type="button" class="poster-guess-choice">Star Wars</button>
-        <button type="button" class="poster-guess-choice">Parasite</button>
+        <button type="button" class="poster-guess-choice">Jaws</button>
     </div>
   </div>
   <div class="list-item poster-guess-item" id="pg-item-5" data-title="Titanic">
@@ -151,10 +151,10 @@
     </div>
     <p class="poster-guess-status" aria-live="polite"></p>
     <div class="poster-guess-choices">
-        <button type="button" class="poster-guess-choice" data-correct="true">Titanic</button>
-        <button type="button" class="poster-guess-choice">Star Wars</button>
-        <button type="button" class="poster-guess-choice">Jaws</button>
         <button type="button" class="poster-guess-choice">The Matrix</button>
+        <button type="button" class="poster-guess-choice">Parasite</button>
+        <button type="button" class="poster-guess-choice">Jaws</button>
+        <button type="button" class="poster-guess-choice" data-correct="true">Titanic</button>
     </div>
   </div>
   <div class="list-item poster-guess-item" id="pg-item-6" data-title="Star Wars">
@@ -166,15 +166,25 @@
     </div>
     <p class="poster-guess-status" aria-live="polite"></p>
     <div class="poster-guess-choices">
+        <button type="button" class="poster-guess-choice">Jaws</button>
         <button type="button" class="poster-guess-choice">Parasite</button>
         <button type="button" class="poster-guess-choice">Jurassic Park</button>
-        <button type="button" class="poster-guess-choice">Jaws</button>
         <button type="button" class="poster-guess-choice" data-correct="true">Star Wars</button>
     </div>
   </div>
     <div class="game-complete" id="game-complete" hidden>
       <p class="game-complete-text">🎬 You cleared all 6!</p>
       <p class="game-complete-sub" id="poster-guess-summary"></p>
+  <div class="share-row" id="poster-guess-share">
+    <span class="share-label">Share your score</span>
+    <a href="https://twitter.com/intent/tweet?text=I%20just%20played%20The%20Clapperboard%27s%20zoomed-poster%20movie%20game%20%F0%9F%8E%AC&url=https%3A%2F%2Ftheclapperboard.com%2Fposts%2Fguess-the-movie-from-a-zoomed-poster%2F" target="_blank" rel="noopener" aria-label="Share on X/Twitter" data-method="twitter">𝕏</a>
+    <a href="https://bsky.app/intent/compose?text=I%20just%20played%20The%20Clapperboard%27s%20zoomed-poster%20movie%20game%20%F0%9F%8E%AC%20https%3A//theclapperboard.com/posts/guess-the-movie-from-a-zoomed-poster/" target="_blank" rel="noopener" aria-label="Share on Bluesky" data-method="bluesky">🦋</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftheclapperboard.com%2Fposts%2Fguess-the-movie-from-a-zoomed-poster%2F" target="_blank" rel="noopener" aria-label="Share on Facebook" data-method="facebook">f</a>
+    <a href="https://www.reddit.com/submit?url=https%3A%2F%2Ftheclapperboard.com%2Fposts%2Fguess-the-movie-from-a-zoomed-poster%2F&title=I%20just%20played%20The%20Clapperboard%27s%20zoomed-poster%20movie%20game%20%F0%9F%8E%AC" target="_blank" rel="noopener" aria-label="Share on Reddit" data-method="reddit">r/</a>
+    <a href="https://api.whatsapp.com/send?text=I%20just%20played%20The%20Clapperboard%27s%20zoomed-poster%20movie%20game%20%F0%9F%8E%AC%20https%3A%2F%2Ftheclapperboard.com%2Fposts%2Fguess-the-movie-from-a-zoomed-poster%2F" target="_blank" rel="noopener" aria-label="Share on WhatsApp" data-method="whatsapp">💬</a>
+    <a href="mailto:?subject=We%20Zoomed%20Way%20Into%206%20Movie%20Posters%20%E2%80%94%20Can%20You%20Name%20Them%20Before%20They%20Zoom%20Out%3F&body=I%20just%20played%20The%20Clapperboard%27s%20zoomed-poster%20movie%20game%20%F0%9F%8E%AC%20https%3A%2F%2Ftheclapperboard.com%2Fposts%2Fguess-the-movie-from-a-zoomed-poster%2F" aria-label="Share by email" data-method="email">✉</a>
+    <button type="button" class="share-copy-btn" data-method="copy" data-url="https://theclapperboard.com/posts/guess-the-movie-from-a-zoomed-poster/" aria-label="Copy link">🔗</button>
+  </div>
     </div>
   </div>
 
@@ -214,7 +224,14 @@
   <div class="list-item-text">
   <section>
     <h2 class="section-heading">Keep Reading</h2>
-    <div class="post-grid related-grid">    <a class="post-card post-card-quiz" href="../../posts/which-anthony-hopkins-character-are-you/index.html">
+    <div class="post-grid related-grid">    <a class="post-card post-card-trivia" href="../../posts/adam-sandler-emoji-guessing-game/index.html">
+      <div class="post-card-image"><img src="https://image.tmdb.org/t/p/w780/s3HSJQO1yN6ImYIdwQP244HN3Jb.jpg" alt="Guess The Adam Sandler Movie From Just 3 Emoji" loading="lazy"></div>
+      <div class="post-card-body">
+        <span class="pill">🎮 Games</span><span class="pill pill-trivia">🎯 Trivia</span>
+        <p class="post-card-title">Guess The Adam Sandler Movie From Just 3 Emoji</p>
+      </div>
+    </a>
+    <a class="post-card post-card-quiz" href="../../posts/which-anthony-hopkins-character-are-you/index.html">
       <div class="post-card-image"><img src="https://image.tmdb.org/t/p/w780/5EqT0WyG7yYs8v7GdoS4R9P75Gz.jpg" alt="Which Anthony Hopkins Character Are You, Actually?" loading="lazy"></div>
       <div class="post-card-body">
         <span class="pill">🎮 Games</span><span class="pill pill-quiz">🧩 Quiz</span>
@@ -247,13 +264,6 @@
       <div class="post-card-body">
         <span class="pill">🎮 Games</span><span class="pill pill-trivia">🎯 Trivia</span>
         <p class="post-card-title">That Voice Could Read A Grocery List And We&#x27;d Still Get Chills — Guess The Movie</p>
-      </div>
-    </a>
-    <a class="post-card post-card-trivia" href="../../posts/rocky-franchise-emoji-game/index.html">
-      <div class="post-card-image"><img src="https://image.tmdb.org/t/p/w780/4bwsjrKcmIxHcKJlbxrqGkLVbvL.jpg" alt="Guess The Rocky Movie From Just Three Emoji — No Bells, No Mercy" loading="lazy"></div>
-      <div class="post-card-body">
-        <span class="pill">🎮 Games</span><span class="pill pill-trivia">🎯 Trivia</span>
-        <p class="post-card-title">Guess The Rocky Movie From Just Three Emoji — No Bells, No Mercy</p>
       </div>
     </a>
 </div>

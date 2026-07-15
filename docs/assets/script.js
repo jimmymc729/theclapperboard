@@ -7,6 +7,40 @@ function trackEvent(name, params) {
   if (typeof gtag === "function") gtag("event", name, params || {});
 }
 
+// Rewrites an existing share_row() (see build_site.py) in place once a
+// personalized score is known — e.g. "averaged 2.3 years off" — rather
+// than building the row from scratch. build_site.py already bakes in a
+// working share row with generic fallback copy (so sharing still works
+// even if this never runs), including the real canonical page URL on the
+// Copy Link button's data-url; this just reads that URL back out and
+// rebuilds the other five links' hrefs around the new text, mirroring
+// the exact same URL formats as the Python share_row() function.
+function refreshShareText(rowId, text) {
+  var row = document.getElementById(rowId);
+  if (!row) return;
+  var copyBtn = row.querySelector('[data-method="copy"]');
+  var urlRaw = copyBtn && copyBtn.getAttribute("data-url");
+  if (!urlRaw) return;
+
+  var url = encodeURIComponent(urlRaw);
+  var textEnc = encodeURIComponent(text);
+  var hrefs = {
+    twitter: "https://twitter.com/intent/tweet?text=" + textEnc + "&url=" + url,
+    // Bluesky's compose intent takes one combined "text" field, no
+    // separate url param — same quirk as the Python version.
+    bluesky: "https://bsky.app/intent/compose?text=" + encodeURIComponent(text + " " + urlRaw),
+    facebook: "https://www.facebook.com/sharer/sharer.php?u=" + url,
+    reddit: "https://www.reddit.com/submit?url=" + url + "&title=" + textEnc,
+    whatsapp: "https://api.whatsapp.com/send?text=" + textEnc + "%20" + url,
+    email: "mailto:?subject=" + textEnc + "&body=" + textEnc + "%20" + url,
+  };
+
+  Object.keys(hrefs).forEach(function (method) {
+    var el = row.querySelector('[data-method="' + method + '"]');
+    if (el) el.setAttribute("href", hrefs[method]);
+  });
+}
+
 // Reaction buttons on post pages. This is intentionally a purely local,
 // per-visitor counter (stored in this browser's localStorage) — it does NOT
 // simulate or fake shared/global engagement numbers. Each button just
@@ -207,6 +241,7 @@ function trackEvent(name, params) {
             if (summaryEl) {
               var avgReveals = (totalReveals / total).toFixed(1);
               summaryEl.textContent = "Averaged " + avgReveals + " reveals per movie.";
+              refreshShareText("poster-guess-share", "I averaged " + avgReveals + " reveals per movie on The Clapperboard's zoomed poster game 🎬 Think you can beat it?");
             }
             trackEvent("poster_guess_completed", { total: total });
           }
@@ -269,6 +304,7 @@ function trackEvent(name, params) {
           if (summaryEl) {
             var avgDiff = (totalDiff / total).toFixed(1);
             summaryEl.textContent = "Averaged " + avgDiff + " years off per guess.";
+            refreshShareText("year-guess-share", "I averaged " + avgDiff + " years off guessing movie release years on The Clapperboard 🗓️ Can you do better?");
           }
           trackEvent("year_guess_completed", { total: total });
         }
