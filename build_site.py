@@ -45,7 +45,7 @@ HAS_TRAILERS = False
 
 SITE = {
     "name": "The Clapperboard",
-    "tagline": "For movie people.",
+    "tagline": "The stories behind the stories.",
     "description": "Movie facts, personality quizzes, guess-the-movie games, and the latest trailers.",
     "url": "https://theclapperboard.com",
     "flickle_url": "https://flickle.io",
