@@ -60,6 +60,36 @@
     ]
   },
   {
+    "id": 1108427,
+    "title": "Moana",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "videos": [
+      {
+        "key": "EEz5xbzYPKI",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "n7f6hlKsxxo",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "o8JZW9hFqtI",
+        "name": "#1 In The World",
+        "type": "Teaser"
+      },
+      {
+        "key": "pBe-5cXYwcE",
+        "name": "\ud83d\udc99\ud83c\udf0a",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1083381,
     "title": "Backrooms",
     "release_date": "2026-05-29",
@@ -85,36 +115,6 @@
       {
         "key": "tKGhxMi50y8",
         "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1108427,
-    "title": "Moana",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "videos": [
-      {
-        "key": "EEz5xbzYPKI",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "n7f6hlKsxxo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "o8JZW9hFqtI",
-        "name": "#1 In The World",
-        "type": "Teaser"
-      },
-      {
-        "key": "pBe-5cXYwcE",
-        "name": "\ud83d\udc99\ud83c\udf0a",
         "type": "Teaser"
       }
     ]
@@ -260,36 +260,6 @@
     ]
   },
   {
-    "id": 1212763,
-    "title": "Evil Dead Burn",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-    "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
-    "videos": [
-      {
-        "key": "RddZObTlmA8",
-        "name": "Tickets on Sale",
-        "type": "Trailer"
-      },
-      {
-        "key": "TnHby2cxJzs",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "nMzhf6qYJ4I",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "VEEL7z1AoYg",
-        "name": "Not a myth.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 980431,
     "title": "Avatar Aang: The Last Airbender",
     "release_date": "2026-07-25",
@@ -316,6 +286,36 @@
         "key": "oB6HNuKxLmo",
         "name": "The Get Out | Official Trailer (HD) | Vertical",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1212763,
+    "title": "Evil Dead Burn",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+    "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
+    "videos": [
+      {
+        "key": "RddZObTlmA8",
+        "name": "Tickets on Sale",
+        "type": "Trailer"
+      },
+      {
+        "key": "TnHby2cxJzs",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "nMzhf6qYJ4I",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "VEEL7z1AoYg",
+        "name": "Not a myth.",
+        "type": "Teaser"
       }
     ]
   },
@@ -398,14 +398,29 @@
         "type": "Trailer"
       },
       {
-        "key": "A0yuP5GtVoE",
+        "key": "EZQrNTeNYNc",
         "name": "In Cinemas JULY 29",
         "type": "Teaser"
       },
       {
-        "key": "g_rYknhAlI8",
-        "name": "SHORT VIDEO 2",
+        "key": "A0yuP5GtVoE",
+        "name": "In Cinemas JULY 29",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1155818,
+    "title": "Satluj",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/cxFo7L82dW3Vg8x0280BVPpLNXf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
+    "videos": [
+      {
+        "key": "WtL3YbjUJN8",
+        "name": "ZEE5 Satluj",
+        "type": "Trailer"
       }
     ]
   },
@@ -435,61 +450,6 @@
       {
         "key": "azv8TS-wUho",
         "name": "Digital Release",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1155818,
-    "title": "Satluj",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/cxFo7L82dW3Vg8x0280BVPpLNXf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
-    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
-    "videos": [
-      {
-        "key": "WtL3YbjUJN8",
-        "name": "ZEE5 Satluj",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1202033,
-    "title": "Enola Holmes 3",
-    "release_date": "2026-07-01",
-    "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
-    "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-    "videos": [
-      {
-        "key": "n_pEJjq-9xQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "g1fq327snPU",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1491920,
-    "title": "Kung Fu Soccer",
-    "release_date": "2026-07-11",
-    "poster": "https://image.tmdb.org/t/p/w500/6QgJQrClh9ej357yzLWgCxrjAmJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
-    "overview": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
-    "videos": [
-      {
-        "key": "x-HE-g5YwZE",
-        "name": "\u529f\u592b\u5973\u8db3\uff5cKung Fu Soccer | Official Trailer | \u6b63\u5f0f\u9884\u544a\u7247    \uff5cComing to GSC starting 13 August 2026",
-        "type": "Trailer"
-      },
-      {
-        "key": "4kY3QcXXy8g",
-        "name": "\u300a\u529f\u592b\u5973\u8db3\u300b2026 \u65b0\u52a0\u5761\u5b98\u65b9\u9884\u544a \uff5c8\u67086\u65e5\u65b0\u52a0\u5761\u4e0a\u6620 Kung Fu Soccer (2026) Singapore Official Teaser | In Cinemas 06.08.26",
         "type": "Teaser"
       }
     ]
@@ -525,6 +485,41 @@
       {
         "key": "KYi2iCjUXJs",
         "name": "Summerween | Official Trailer | Horror Brains",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1202033,
+    "title": "Enola Holmes 3",
+    "release_date": "2026-07-01",
+    "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+    "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+    "videos": [
+      {
+        "key": "n_pEJjq-9xQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "g1fq327snPU",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1305672,
+    "title": "I Know Who You Are",
+    "release_date": "2026-07-02",
+    "poster": "https://image.tmdb.org/t/p/w500/dzS3PxisVd9y9BrLPiFfA2MvcI8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
+    "overview": "On 1949 October 1, the day of the founding ceremony of the People's Republic of China, Xiao Dali enters the city and is reorganized as the director of the public security police station. He finds that primary school teacher Feng Jingbo is full of doubts. With the high vigilance of a soldier and the sense of responsibility of a public security official, Dali insists on partnering with Feng and becomes his neighbor. He then spends his whole life carrying out a nearly four-decade pursuit without regrets.",
+    "videos": [
+      {
+        "key": "Kpf7-Gqf25Q",
+        "name": "I KNOW WHO YOU ARE | ANZ TRAILER | 09 JULY",
         "type": "Trailer"
       }
     ]
@@ -596,6 +591,36 @@
         "key": "Rd21PhsDHww",
         "name": "Title Announcement",
         "type": "Teaser"
+      },
+      {
+        "key": "nC0Gu5AXP9M",
+        "name": "DIGGER Official Trailer (2026)",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1058424,
+    "title": "Hope",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "videos": [
+      {
+        "key": "R5jcEBVBEbQ",
+        "name": "Official US Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "ODnHr2Emnf0",
+        "name": "International Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "Vt7860xZFXk",
+        "name": "HOPE - Official Teaser - In Theaters Fall 2026",
+        "type": "Teaser"
       }
     ]
   },
@@ -625,31 +650,6 @@
       {
         "key": "bqwKY5DZay4",
         "name": "What can be forgiven?",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1058424,
-    "title": "Hope",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "videos": [
-      {
-        "key": "R5jcEBVBEbQ",
-        "name": "Official US Trailer [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "ODnHr2Emnf0",
-        "name": "International Trailer [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "Vt7860xZFXk",
-        "name": "HOPE - Official Teaser - In Theaters Fall 2026",
         "type": "Teaser"
       }
     ]
@@ -805,6 +805,36 @@
     ]
   },
   {
+    "id": 1185806,
+    "title": "PAW Patrol: The Dino Movie",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "videos": [
+      {
+        "key": "xgI5iYmOf5Q",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "knDmb8lWEhQ",
+        "name": "World Pup",
+        "type": "Teaser"
+      },
+      {
+        "key": "dFdVkmaIfYE",
+        "name": "Trailer Wednesday",
+        "type": "Teaser"
+      },
+      {
+        "key": "aHw4PuLCUIc",
+        "name": "Teaser Trailer",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
@@ -815,21 +845,6 @@
       {
         "key": "mtC4sjABZNw",
         "name": "Teaser Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1473505,
-    "title": "Kill Trip",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/qHEXW63p1NcuoyCGQHDroi4HV9V.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9NkPCbhywlcINLUKQOGNHNp1ALk.jpg",
-    "overview": "On the way to a Texas music festival, a group of friends catches a ride with a magnetic van driver. But when people start vanishing, the real headliner becomes survival.",
-    "videos": [
-      {
-        "key": "Ay_sd39xtBo",
-        "name": "Kill Trip | Official Trailer",
         "type": "Trailer"
       }
     ]
