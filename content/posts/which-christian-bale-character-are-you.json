@@ -1,0 +1,288 @@
+{
+  "slug": "which-christian-bale-character-are-you",
+  "title": "Which Christian Bale Character Are You, Actually?",
+  "dek": "Batman, Bateman, or Burry \u2014 take this quiz and find out which unhinged Bale transformation matches your actual personality.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T15:53:58.010421+00:00",
+  "quiz": {
+    "intro": "No wrong answers here \u2014 just answer like you actually would, not like you think you should.",
+    "questions": [
+      {
+        "question": "Your friend group needs someone to make a tough call under pressure. What's your move?",
+        "answers": [
+          {
+            "text": "I disappear into a cave (literally or figuratively) and handle it alone.",
+            "result": "bruce"
+          },
+          {
+            "text": "I stay eerily calm on the surface while completely unraveling underneath.",
+            "result": "bateman"
+          },
+          {
+            "text": "I haven't slept in days but somehow I'm still the one taking notes.",
+            "result": "trevor"
+          },
+          {
+            "text": "I throw myself in front of the problem even if it costs me everything.",
+            "result": "dicky"
+          }
+        ]
+      },
+      {
+        "question": "Pick the compliment that would actually mean the most to you.",
+        "answers": [
+          {
+            "text": "\"Wow, you look put-together. No notes.\"",
+            "result": "bateman"
+          },
+          {
+            "text": "\"You're still standing after everything you've been through.\"",
+            "result": "trevor"
+          },
+          {
+            "text": "\"You never stopped believing in your brother/sibling/family.\"",
+            "result": "dicky"
+          },
+          {
+            "text": "\"You're always three steps ahead of everyone in the room.\"",
+            "result": "cheney"
+          }
+        ]
+      },
+      {
+        "question": "What's your relationship with rules?",
+        "answers": [
+          {
+            "text": "Honestly I've stopped being sure what's real, let alone what's a rule.",
+            "result": "trevor"
+          },
+          {
+            "text": "I bend them constantly, but always for someone I love.",
+            "result": "dicky"
+          },
+          {
+            "text": "I quietly rewrite them when no one's paying attention.",
+            "result": "cheney"
+          },
+          {
+            "text": "Rules are just the con you haven't figured out how to run yet.",
+            "result": "irving"
+          }
+        ]
+      },
+      {
+        "question": "How do you handle being doubted by everyone around you?",
+        "answers": [
+          {
+            "text": "It stings, but I keep showing up for the people who matter anyway.",
+            "result": "dicky"
+          },
+          {
+            "text": "I don't need their approval, I just need the outcome I already planned.",
+            "result": "cheney"
+          },
+          {
+            "text": "I find the one weak spot in their doubt and exploit it.",
+            "result": "irving"
+          },
+          {
+            "text": "I get frustrated, but I don't change course just because it's unpopular.",
+            "result": "burry"
+          }
+        ]
+      },
+      {
+        "question": "Pick a hobby you'd actually be into.",
+        "answers": [
+          {
+            "text": "Reading policy briefs for fun. Genuinely for fun.",
+            "result": "cheney"
+          },
+          {
+            "text": "Collecting art, wine, or anything with a good story attached.",
+            "result": "irving"
+          },
+          {
+            "text": "Blasting metal alone while going down a research rabbit hole.",
+            "result": "burry"
+          },
+          {
+            "text": "Long walks where I do some of my best thinking.",
+            "result": "moses"
+          }
+        ]
+      },
+      {
+        "question": "What's your biggest flaw, if you're honest?",
+        "answers": [
+          {
+            "text": "I lie so smoothly even I start believing it.",
+            "result": "irving"
+          },
+          {
+            "text": "I'm terrible at small talk and worse at trusting people's optimism.",
+            "result": "burry"
+          },
+          {
+            "text": "I take on way more responsibility than one person should carry.",
+            "result": "moses"
+          },
+          {
+            "text": "I isolate myself instead of asking for help.",
+            "result": "bruce"
+          }
+        ]
+      },
+      {
+        "question": "Your group project is falling apart. What's your role?",
+        "answers": [
+          {
+            "text": "The one who saw this failing three weeks before anyone else did.",
+            "result": "burry"
+          },
+          {
+            "text": "The one who takes charge and gets everyone to the finish line.",
+            "result": "moses"
+          },
+          {
+            "text": "The one quietly holding the whole thing together behind the scenes.",
+            "result": "bruce"
+          },
+          {
+            "text": "The one whose slides looked incredible even though nobody read the content.",
+            "result": "bateman"
+          }
+        ]
+      },
+      {
+        "question": "What would your enemies say about you?",
+        "answers": [
+          {
+            "text": "\"He won't back down, no matter what we throw at him.\"",
+            "result": "moses"
+          },
+          {
+            "text": "\"Terrifying. Relentless. Won't stop.\"",
+            "result": "bruce"
+          },
+          {
+            "text": "\"Charming on the outside. Something's off underneath.\"",
+            "result": "bateman"
+          },
+          {
+            "text": "\"Unpredictable. We're not sure what's real with him anymore.\"",
+            "result": "trevor"
+          }
+        ]
+      },
+      {
+        "question": "Last one: what would your personal motto be?",
+        "answers": [
+          {
+            "text": "\"It's not who I am underneath, it's what I do that defines me.\"",
+            "result": "bruce"
+          },
+          {
+            "text": "\"I have to return some videotapes.\"",
+            "result": "bateman"
+          },
+          {
+            "text": "\"I just want to sleep.\"",
+            "result": "trevor"
+          },
+          {
+            "text": "\"Family first, always, even when it hurts.\"",
+            "result": "dicky"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "bruce",
+        "name": "Bruce Wayne / Batman",
+        "subtitle": "The Dark Knight (2008)",
+        "description": "You're driven by a code, not a badge \u2014 you'd rather operate alone in the shadows than compromise on what you actually believe is right. People find you a little intense, but they also know you'll show up when it counts.",
+        "image": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
+      },
+      {
+        "key": "bateman",
+        "name": "Patrick Bateman",
+        "subtitle": "American Psycho (2000)",
+        "description": "You're obsessed with the details other people don't even notice \u2014 the business card, the skincare routine, the reservation nobody else could get. Underneath the polish, though, you're a little unhinged, and you know it.",
+        "image": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg"
+      },
+      {
+        "key": "trevor",
+        "name": "Trevor Reznik",
+        "subtitle": "The Machinist (2004)",
+        "description": "You push yourself past any reasonable limit, whether anyone's watching or not. You're haunted by something, and even when you can't quite name it, you keep grinding through it anyway.",
+        "image": "https://image.tmdb.org/t/p/w780/bTTT7DWMZVwpbCeU9PG8TVHMAB8.jpg"
+      },
+      {
+        "key": "dicky",
+        "name": "Dicky Eklund",
+        "subtitle": "The Fighter (2010)",
+        "description": "You're loyal to a fault, chaotic on the surface, and impossible not to root for. You've made mistakes, but the people who love you know your heart's always been in the right place.",
+        "image": "https://image.tmdb.org/t/p/w780/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg"
+      },
+      {
+        "key": "cheney",
+        "name": "Dick Cheney",
+        "subtitle": "Vice (2018)",
+        "description": "You're the quiet strategist who's already three moves ahead while everyone else is still catching up. You don't need the spotlight \u2014 you just need the outcome you already planned for.",
+        "image": "https://image.tmdb.org/t/p/w780/n49difnnZ8e0CZTvulnMRoURdQj.jpg"
+      },
+      {
+        "key": "irving",
+        "name": "Irving Rosenfeld",
+        "subtitle": "American Hustle (2013)",
+        "description": "You could talk your way into or out of anything. You read people instantly, you know exactly what they want to hear, and somehow, despite it all, people still can't help but like you.",
+        "image": "https://image.tmdb.org/t/p/w780/ffJff2KWHd2rbwYWPRxKxTBypRB.jpg"
+      },
+      {
+        "key": "burry",
+        "name": "Michael Burry",
+        "subtitle": "The Big Short (2015)",
+        "description": "You'd rather be right than be liked, and honestly, you usually are right. You don't do small talk, you trust the data over the room's mood, and you're comfortable being the only person who sees what's coming.",
+        "image": "https://image.tmdb.org/t/p/w780/u6UyFHkkpUGzZec88PYaaamya5E.jpg"
+      },
+      {
+        "key": "moses",
+        "name": "Moses",
+        "subtitle": "Exodus: Gods and Kings (2014)",
+        "description": "You take on responsibility other people would run from, and you don't back down once you've decided something's worth fighting for. Leadership finds you, whether you asked for it or not.",
+        "image": "https://image.tmdb.org/t/p/w780/hJ1jUw8irCiWwQk7BElxF92BrlK.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "How Much Weight Christian Bale Lost For The Machinist",
+      "url": "https://screenrant.com/machinist-movie-christian-bale-weight-loss/"
+    },
+    {
+      "title": "The Machinist - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Machinist"
+    },
+    {
+      "title": "Christian Bale Transforms Into Dick Cheney for Vice",
+      "url": "https://time.com/5413956/christian-bale-dick-cheney/"
+    },
+    {
+      "title": "Michael Burry Character Analysis in The Big Short | LitCharts",
+      "url": "https://www.litcharts.com/lit/the-big-short/characters/michael-burry"
+    },
+    {
+      "title": "American Hustle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Hustle"
+    },
+    {
+      "title": "American Hustle Cast & Character Guide",
+      "url": "https://screenrant.com/american-hustle-cast-character-guide/"
+    }
+  ],
+  "related": []
+}
