@@ -1,0 +1,19 @@
+{
+  "slug": "guess-the-movie-from-a-zoomed-poster",
+  "title": "We Zoomed Way Into 6 Movie Posters — Can You Name Them Before They Zoom Out?",
+  "dek": "Fewer looks, higher score.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+  "date": "2026-07-15",
+  "poster_guess": {
+    "intro": "Each poster starts zoomed in tight. Guess wrong and it zooms out a little — guess right and you'll lock in your score.",
+    "movies": [
+      { "title": "Jaws", "poster": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg" },
+      { "title": "The Matrix", "poster": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg" },
+      { "title": "Parasite", "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" },
+      { "title": "Jurassic Park", "poster": "https://image.tmdb.org/t/p/w500/63viWuPfYQjRYLSZSZNq7dglJP5.jpg" },
+      { "title": "Titanic", "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" },
+      { "title": "Star Wars", "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" }
+    ]
+  }
+}
