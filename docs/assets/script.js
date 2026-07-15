@@ -207,7 +207,7 @@ function refreshShareText(rowId, text) {
     var realTitle = item.getAttribute("data-title");
 
     var reveals = 0;
-    var startZoom = 3.2;
+    var startZoom = 4.5;
     var endZoom = 1;
     var stepsTotal = choiceButtons.length - 1;
 

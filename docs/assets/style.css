@@ -1103,7 +1103,7 @@ a { color: inherit; }
      CSS custom property rather than a set of fixed classes, so the exact
      number of "reveal" steps can vary with however many wrong-answer
      choices a given round actually has. */
-  transform: scale(var(--pg-zoom, 3.2));
+  transform: scale(var(--pg-zoom, 4.5));
   transform-origin: center;
   transition: transform 0.5s ease;
 }
