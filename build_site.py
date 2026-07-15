@@ -973,7 +973,7 @@ def render_poster_guess(pg: dict, slug: str, root: str, post_title: str) -> str:
       <span class="list-item-number">{n}</span>
     </div>
     <div class="poster-guess-frame">
-      <img src="{esc(m["poster"])}" alt="Mystery movie poster" loading="lazy" class="poster-guess-img" style="--pg-zoom: 3.2">
+      <img src="{esc(m["poster"])}" alt="Mystery movie poster" loading="lazy" class="poster-guess-img" style="--pg-zoom: 4.5">
     </div>
     <p class="poster-guess-status" aria-live="polite"></p>
     <div class="poster-guess-choices">
