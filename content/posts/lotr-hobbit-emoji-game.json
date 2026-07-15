@@ -1,0 +1,86 @@
+{
+  "slug": "lotr-hobbit-emoji-game",
+  "title": "Guess Middle-earth From Just 3 Emoji \u2014 Only True Tolkien Nerds Clear All 6",
+  "dek": "From the Shire to the Black Gate, can you name all six Middle-earth movies before the reveal gives it away?",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/zzIdXP769uYxQq6rK9plfeoVdTo.jpg",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T15:55:14.560691+00:00",
+  "items": [
+    {
+      "number": 1,
+      "emoji": "\ud83d\udc8d\ud83e\uddd9\u200d\u2642\ufe0f\ud83c\udf09",
+      "reveal_title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+      "reveal_text": "You shall not pass!",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/zzIdXP769uYxQq6rK9plfeoVdTo.jpg",
+      "trailer_key": "_nZdmwHrcnw"
+    },
+    {
+      "number": 2,
+      "emoji": "\ud83c\udf33\ud83d\udc34\ud83c\udff0",
+      "reveal_title": "The Lord of the Rings: The Two Towers (2002)",
+      "reveal_text": "That there's some good in this world, Mr. Frodo... and it's worth fighting for.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/7ABgKch4hBX4qwCujRKM58fKsoG.jpg",
+      "trailer_key": "nuTU5XcZTLA"
+    },
+    {
+      "number": 3,
+      "emoji": "\ud83d\udc51\ud83d\udd77\ufe0f\ud83c\udf0b",
+      "reveal_title": "The Lord of the Rings: The Return of the King (2003)",
+      "reveal_text": "I can't carry it for you, but I can carry you.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/9DeGfFIqjph5CBFVQrD6wv9S7rR.jpg",
+      "trailer_key": "zckJCxYxn1g"
+    },
+    {
+      "number": 4,
+      "emoji": "\ud83c\udfe1\ud83d\udddd\ufe0f\u2694\ufe0f",
+      "reveal_title": "The Hobbit: An Unexpected Journey (2012)",
+      "reveal_text": "True courage is about knowing not when to take a life, but when to spare one.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/5vaxg5JTbCAqvcPGT88kQNtKNPR.jpg",
+      "trailer_key": "CXqZK-nbZ74"
+    },
+    {
+      "number": 5,
+      "emoji": "\ud83d\udc09\ud83d\udd25\ud83d\udee2\ufe0f",
+      "reveal_title": "The Hobbit: The Desolation of Smaug (2013)",
+      "reveal_text": "I am fire. I am death.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
+      "trailer_key": "gAo95e7_XKA"
+    },
+    {
+      "number": 6,
+      "emoji": "5\ufe0f\u20e3\u2694\ufe0f\ud83d\udc51",
+      "reveal_title": "The Hobbit: The Battle of the Five Armies (2014)",
+      "reveal_text": "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.",
+      "reveal_image": "https://image.tmdb.org/t/p/w780/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+      "trailer_key": "Y6Fv5StfAxA"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring - Quotes (IMDb)",
+      "url": "https://www.imdb.com/title/tt0120737/quotes/"
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers - Quotes (IMDb)",
+      "url": "https://www.imdb.com/title/tt0167261/quotes/"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King - Quotes (IMDb)",
+      "url": "https://www.imdb.com/title/tt0167260/quotes/?item=qt0502145"
+    },
+    {
+      "title": "The Hobbit: An Unexpected Journey - Quotes (IMDb)",
+      "url": "https://www.imdb.com/title/tt0903624/quotes/"
+    },
+    {
+      "title": "Does Smaug say 'I am fire, I am death'? (Quora)",
+      "url": "https://www.quora.com/Does-Smaug-say-I-am-fire-I-am-death-in-the-Hobbit-book-or-was-that-just-in-the-movie"
+    },
+    {
+      "title": "Thorin II (The One Wiki to Rule Them All)",
+      "url": "https://lotr.fandom.com/wiki/Thorin_II"
+    }
+  ],
+  "related": []
+}

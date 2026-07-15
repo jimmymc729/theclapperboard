@@ -255,6 +255,25 @@ a { color: inherit; }
   margin-left: 6px;
 }
 
+.pill-poster {
+  background: #d81e42;
+  color: #fff;
+  margin-left: 6px;
+}
+
+/* Quiz/Trivia/Poster ID pills each already use one of the site's four
+   clapper-stripe colors (blue/green/red — gold's already spoken for by
+   the category pill sitting right next to these). Guess The Year is a
+   genuine fifth distinct game type, so this is a deliberate, small
+   extension past that original four-color set rather than reusing one of
+   them — reusing red (Poster ID's color) would make two visually
+   different games read as the same thing at a glance. */
+.pill-year {
+  background: #0f8a8a;
+  color: #fff;
+  margin-left: 6px;
+}
+
 /* Flickle CTA */
 .flickle-cta {
   display: flex;
@@ -621,6 +640,8 @@ a { color: inherit; }
    var(--border) above still governs the other three sides. */
 .post-card-quiz { border-top: 8px solid #2469c7; }
 .post-card-trivia { border-top: 8px solid #2ea84a; }
+.post-card-poster { border-top: 8px solid #d81e42; }
+.post-card-year { border-top: 8px solid #0f8a8a; }
 .post-card-opinion { border-top: 8px solid var(--text); }
 
 .post-card:hover {
@@ -743,11 +764,15 @@ a { color: inherit; }
      shape" case elsewhere on the site. */
   .post-card.post-card-compact.post-card-quiz,
   .post-card.post-card-compact.post-card-trivia,
+  .post-card.post-card-compact.post-card-poster,
+  .post-card.post-card-compact.post-card-year,
   .post-card.post-card-compact.post-card-opinion {
     border-top: 1px solid var(--border);
   }
   .post-card.post-card-compact.post-card-quiz { border-left: 6px solid #2469c7; }
   .post-card.post-card-compact.post-card-trivia { border-left: 6px solid #2ea84a; }
+  .post-card.post-card-compact.post-card-poster { border-left: 6px solid #d81e42; }
+  .post-card.post-card-compact.post-card-year { border-left: 6px solid #0f8a8a; }
   .post-card.post-card-compact.post-card-opinion { border-left: 6px solid var(--text); }
 }
 
@@ -1014,6 +1039,191 @@ a { color: inherit; }
   font-family: var(--font-display);
   font-weight: 800;
   font-size: 1.1rem;
+}
+
+/* The dynamic stats line (average reveals, average year-distance) under
+   the poster-guess game's completion headline — only that format fills
+   this in via script.js, so it's simply absent for trivia's completion
+   banner, which has nothing dynamic to report. */
+.game-complete-sub {
+  margin: 6px 0 0;
+  color: #c8c8d0;
+  font-size: 0.92rem;
+}
+
+/* Zoomed-poster + guess-the-year game (see render_poster_guess() in
+   build_site.py and the matching block in script.js). Reuses .list-item
+   for outer spacing/numbering (same rhythm as the emoji/quote trivia
+   format) and .game-complete for the end-of-post payoff — only the
+   poster/choices/slider pieces below are unique to this format. */
+.poster-guess-frame {
+  width: 220px;
+  max-width: 60%;
+  aspect-ratio: 2 / 3;
+  margin: 0 auto 16px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--bg-sunken);
+  box-shadow: var(--shadow-md);
+}
+
+.poster-guess-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  /* --pg-zoom starts high (set inline per item) and script.js lowers it
+     by one notch per wrong guess, down to 1 (the full poster) — a plain
+     CSS custom property rather than a set of fixed classes, so the exact
+     number of "reveal" steps can vary with however many wrong-answer
+     choices a given round actually has. */
+  transform: scale(var(--pg-zoom, 3.2));
+  transform-origin: center;
+  transition: transform 0.5s ease;
+}
+
+.poster-guess-status {
+  min-height: 1.4em;
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.92rem;
+  color: var(--accent-dark);
+  margin: 0 0 10px;
+}
+
+.poster-guess-choices {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.poster-guess-choice {
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 0.92rem;
+  padding: 12px 14px;
+  background: var(--bg-sunken);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease, transform 0.15s ease;
+}
+
+.poster-guess-choice:hover:not(:disabled) {
+  border-color: var(--text-muted);
+  transform: translateY(-1px);
+}
+
+.poster-guess-choice:disabled {
+  cursor: default;
+}
+
+.poster-guess-choice.poster-guess-wrong {
+  background: transparent;
+  border-color: var(--border);
+  color: var(--text-muted);
+  text-decoration: line-through;
+}
+
+.poster-guess-choice.poster-guess-correct {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+@media (max-width: 500px) {
+  .poster-guess-frame { width: 180px; }
+  .poster-guess-choices { grid-template-columns: 1fr; }
+}
+
+/* Guess-the-release-year game (see render_year_guess() in build_site.py)
+   — standalone sibling to .poster-guess above. No zoom/reveal mechanic
+   here (there's nothing to identify, the poster is shown in full and the
+   title is right there) — just an image, a title, and a single slider
+   scored by distance from the real year. */
+.year-guess-frame {
+  width: 220px;
+  max-width: 60%;
+  aspect-ratio: 2 / 3;
+  margin: 0 auto 14px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--bg-sunken);
+  box-shadow: var(--shadow-md);
+}
+
+.year-guess-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.year-guess-title {
+  text-align: center;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.1rem;
+  margin: 0 0 16px;
+}
+
+.year-guess-controls {
+  max-width: 380px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.year-guess-slider {
+  flex: 1;
+  accent-color: var(--accent);
+}
+
+.year-guess-output {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.05rem;
+  min-width: 3.5ch;
+  text-align: center;
+}
+
+.year-guess-lock {
+  display: block;
+  margin: 14px auto 0;
+  font-family: inherit;
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: #fff;
+  background: var(--accent);
+  border: none;
+  padding: 10px 22px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.year-guess-lock:hover:not(:disabled) {
+  transform: translateY(-1px);
+}
+
+.year-guess-lock:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.year-guess-result {
+  margin: 12px 0 0;
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 500px) {
+  .year-guess-frame { width: 180px; }
 }
 
 /* Emoji guess format — a dark "slate" card (echoing the clapperboard
