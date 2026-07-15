@@ -920,6 +920,16 @@ a { color: inherit; }
   margin: 0 0 26px;
 }
 
+/* 1.4rem is sized for mobile's narrow column — on desktop's wider content
+   width that same size reads small next to the number badge and images.
+   Bumped up above the 700px breakpoint where the rest of the layout
+   already switches to its wider desktop treatment. */
+@media (min-width: 701px) {
+  .list-item h2 {
+    font-size: 1.75rem;
+  }
+}
+
 .list-item-images {
   display: flex;
   align-items: flex-start;
