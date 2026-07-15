@@ -24,6 +24,7 @@ scripts/generate_post.py adds new listicles.
 
 import html
 import json
+import random
 import re
 import shutil
 from datetime import datetime
@@ -194,14 +195,18 @@ def opinion_pill() -> str:
 
 def game_type_pill(p) -> str:
     """A second pill, alongside the category pill, specifically for Games
-    posts — "Games" alone doesn't distinguish two genuinely different
-    interactions: a multi-question personality quiz versus a single
-    reveal-based guess-the-movie trivia card (emoji or quote clue). Empty
-    string for every other category, or for a Games post that's neither
-    shape (shouldn't happen, but this degrades gracefully rather than
-    guessing)."""
+    posts — "Games" alone doesn't distinguish the different interactions
+    a Games post might be: a multi-question personality quiz, a single
+    reveal-based guess-the-movie trivia card (emoji or quote clue), or a
+    zoomed-poster + guess-the-year game. Empty string for every other
+    category, or for a Games post that's none of these shapes (shouldn't
+    happen, but this degrades gracefully rather than guessing)."""
     if p.get("quiz"):
         return '<span class="pill pill-quiz">🧩 Quiz</span>'
+    if p.get("poster_guess"):
+        return '<span class="pill pill-poster">🖼️ Poster ID</span>'
+    if p.get("year_guess"):
+        return '<span class="pill pill-year">🗓️ Guess The Year</span>'
     if p.get("category") == "Games" and p.get("items"):
         first_item = p["items"][0]
         if "emoji" in first_item or "quote" in first_item:
@@ -383,6 +388,10 @@ def post_accent_class(p) -> str:
     a skim, not just on close reading of the pill text under the image."""
     if p.get("quiz"):
         return " post-card-quiz"
+    if p.get("poster_guess"):
+        return " post-card-poster"
+    if p.get("year_guess"):
+        return " post-card-year"
     if p.get("category") == "Games" and p.get("items"):
         first_item = p["items"][0]
         if "emoji" in first_item or "quote" in first_item:
@@ -911,6 +920,122 @@ def render_quote_item(item, root: str, slug: str, post_title: str) -> str:
 """
 
 
+def render_poster_guess(pg: dict, slug: str, root: str, post_title: str) -> str:
+    """Zoomed-poster guessing game. The poster starts heavily zoomed in —
+    a CSS custom property (--pg-zoom) driving `transform: scale()` on the
+    plain poster image, not a separately-cropped asset — alongside up to
+    four multiple-choice title buttons. A wrong pick (script.js) disables
+    that button and zooms the poster out one notch, so the puzzle is
+    always eventually solvable (choices only ever shrink) rather than
+    able to genuinely stump anyone forever. Score is simply how many
+    wrong picks it took.
+
+    Originally this also chained straight into a guess-the-year slider
+    per movie, but that got split out into its own standalone format (see
+    render_year_guess() below) — bundling both into one round added a
+    second interaction after the win that not everyone wants, muddied a
+    single clean "solved in N tries" score into two different kinds of
+    stats, and made for a wordier social pitch than "guess the movie from
+    a zoomed poster" on its own.
+
+    Wrong-answer choices are drawn from the OTHER movies already in this
+    same post rather than needing any extra API or LLM call — they're
+    already thematically related (same post, usually same era/franchise/
+    actor), so this is both free to generate and coherent to play. Below
+    2 movies in the post this quietly renders with fewer/no choices
+    rather than failing to build."""
+    movies = pg["movies"]
+    total = len(movies)
+
+    blocks = []
+    for i, m in enumerate(movies):
+        n = i + 1
+        others = [o["title"] for j, o in enumerate(movies) if j != i]
+        decoys = random.sample(others, k=min(3, len(others)))
+        choices = decoys + [m["title"]]
+        random.shuffle(choices)
+        choice_parts = []
+        for c in choices:
+            correct_attr = ' data-correct="true"' if c == m["title"] else ""
+            choice_parts.append(f'        <button type="button" class="poster-guess-choice"{correct_attr}>{esc(c)}</button>\n')
+        choices_html = "".join(choice_parts)
+        blocks.append(f'''  <div class="list-item poster-guess-item" id="pg-item-{n}" data-title="{esc(m["title"])}">
+    <div class="list-item-text">
+      <span class="list-item-number">{n}</span>
+    </div>
+    <div class="poster-guess-frame">
+      <img src="{esc(m["poster"])}" alt="Mystery movie poster" loading="lazy" class="poster-guess-img" style="--pg-zoom: 3.2">
+    </div>
+    <p class="poster-guess-status" aria-live="polite"></p>
+    <div class="poster-guess-choices">
+{choices_html}    </div>
+  </div>
+''')
+
+    intro = f'<p class="quiz-intro">{esc(pg["intro"])}</p>' if pg.get("intro") else ""
+
+    return f"""  <div class="poster-guess" data-poster-guess="{esc(slug)}">
+    {intro}
+{"".join(blocks)}    <div class="game-complete" id="game-complete" hidden>
+      <p class="game-complete-text">🎬 You cleared all {total}!</p>
+      <p class="game-complete-sub" id="poster-guess-summary"></p>
+    </div>
+  </div>
+"""
+
+
+def render_year_guess(yg: dict, slug: str, root: str, post_title: str) -> str:
+    """Guess-the-release-year mini-game. Standalone sibling to
+    render_poster_guess() above (see that function's docstring for why
+    they were split apart rather than chained into one round) — this
+    format shows the FULL poster/still plus the movie's title (there's
+    nothing to identify here, the challenge is purely "how well do you
+    know movie chronology") and a single year-guess slider, scored by how
+    far off the guess lands rather than flat right/wrong — the same
+    spirit as GeoGuessr's distance scoring.
+
+    The slider's range is the exact same wide span on every single round
+    (1960 through the current year) — deliberately NOT narrowed anywhere
+    near any particular movie's real year, which would just leak the
+    answer by making the slider itself a hint."""
+    movies = yg["movies"]
+    total = len(movies)
+    current_year = datetime.now().year
+    slider_min = 1960
+    mid_year = (slider_min + current_year) // 2
+
+    blocks = []
+    for i, m in enumerate(movies):
+        n = i + 1
+        blocks.append(f'''  <div class="list-item year-guess-item" id="yg-item-{n}" data-year="{m["year"]}">
+    <div class="list-item-text">
+      <span class="list-item-number">{n}</span>
+    </div>
+    <div class="year-guess-frame">
+      <img src="{esc(m["image"])}" alt="{esc(m["title"])}" loading="lazy">
+    </div>
+    <p class="year-guess-title">{esc(m["title"])}</p>
+    <div class="year-guess-controls">
+      <input type="range" class="year-guess-slider" min="{slider_min}" max="{current_year}" value="{mid_year}" step="1">
+      <output class="year-guess-output">{mid_year}</output>
+    </div>
+    <button type="button" class="year-guess-lock">Lock in guess</button>
+    <p class="year-guess-result" aria-live="polite" hidden></p>
+  </div>
+''')
+
+    intro = f'<p class="quiz-intro">{esc(yg["intro"])}</p>' if yg.get("intro") else ""
+
+    return f"""  <div class="year-guess" data-year-guess="{esc(slug)}">
+    {intro}
+{"".join(blocks)}    <div class="game-complete" id="game-complete" hidden>
+      <p class="game-complete-text">🗓️ You guessed all {total}!</p>
+      <p class="game-complete-sub" id="year-guess-summary"></p>
+    </div>
+  </div>
+"""
+
+
 def render_quiz(quiz: dict, slug: str, root: str, quiz_title: str) -> str:
     """A self-scoring 'which character are you' personality quiz. Entirely
     client-side (see the quiz block in assets/script.js). Only one question
@@ -1064,12 +1189,18 @@ def render_post_page(p, posts_by_slug: dict) -> str:
 
     trivia_items = [item for item in p.get("items", []) if "emoji" in item or "quote" in item]
     is_quiz = bool(p.get("quiz"))
-    is_trivia = not is_quiz and len(trivia_items) > 0
-    is_game = is_quiz or is_trivia
+    is_poster_guess = bool(p.get("poster_guess"))
+    is_year_guess = bool(p.get("year_guess"))
+    is_trivia = not is_quiz and not is_poster_guess and not is_year_guess and len(trivia_items) > 0
+    is_game = is_quiz or is_trivia or is_poster_guess or is_year_guess
 
     items_html = []
     if p.get("quiz"):
         items_html.append(render_quiz(p["quiz"], p["slug"], root, p["title"]))
+    elif p.get("poster_guess"):
+        items_html.append(render_poster_guess(p["poster_guess"], p["slug"], root, p["title"]))
+    elif p.get("year_guess"):
+        items_html.append(render_year_guess(p["year_guess"], p["slug"], root, p["title"]))
     else:
         for item in p.get("items", []):
             if "emoji" in item:

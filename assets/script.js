@@ -147,6 +147,136 @@ function trackEvent(name, params) {
   });
 })();
 
+// Zoomed-poster guessing game (see render_poster_guess() in build_site.py
+// and its CSS). Pick the right title out of a shrinking set of
+// multiple-choice buttons while the poster zooms out one notch per wrong
+// pick — always eventually solvable since choices only ever shrink.
+// Originally this also chained into a guess-the-year slider per movie;
+// that's now its own standalone format below (render_year_guess() /
+// .year-guess-item), since bundling both into one round added a second
+// interaction after the win, muddied one clean "solved in N tries" score
+// into two different kinds of stats, and made for a wordier social pitch.
+(function () {
+  var items = document.querySelectorAll(".poster-guess-item");
+  if (!items.length) return;
+
+  var completeEl = document.getElementById("game-complete");
+  var summaryEl = document.getElementById("poster-guess-summary");
+  var total = items.length;
+  var finishedCount = 0;
+  var totalReveals = 0;
+
+  items.forEach(function (item) {
+    var img = item.querySelector(".poster-guess-img");
+    var statusEl = item.querySelector(".poster-guess-status");
+    var choiceButtons = Array.prototype.slice.call(item.querySelectorAll(".poster-guess-choice"));
+    var realTitle = item.getAttribute("data-title");
+
+    var reveals = 0;
+    var startZoom = 3.2;
+    var endZoom = 1;
+    var stepsTotal = choiceButtons.length - 1;
+
+    // Linear interpolation from startZoom down to endZoom over however
+    // many wrong guesses this particular round actually has available
+    // (choiceButtons.length varies — posts with fewer than 4 movies in
+    // them produce fewer decoys, so this can't assume exactly 3 steps).
+    function zoomFor(step) {
+      if (stepsTotal <= 0) return endZoom;
+      var frac = Math.min(step / stepsTotal, 1);
+      return startZoom - frac * (startZoom - endZoom);
+    }
+
+    choiceButtons.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        if (btn.disabled) return;
+
+        if (btn.getAttribute("data-correct") === "true") {
+          choiceButtons.forEach(function (b) { b.disabled = true; });
+          btn.classList.add("poster-guess-correct");
+          if (img) img.style.setProperty("--pg-zoom", "1");
+          statusEl.textContent = reveals === 0
+            ? "Got it on the first look — " + realTitle + "!"
+            : "Solved in " + (reveals + 1) + " tries — " + realTitle;
+          totalReveals += reveals;
+          trackEvent("poster_guess_title", { reveals: reveals, title: realTitle });
+
+          finishedCount++;
+          if (finishedCount >= total && completeEl) {
+            completeEl.hidden = false;
+            if (summaryEl) {
+              var avgReveals = (totalReveals / total).toFixed(1);
+              summaryEl.textContent = "Averaged " + avgReveals + " reveals per movie.";
+            }
+            trackEvent("poster_guess_completed", { total: total });
+          }
+        } else {
+          btn.disabled = true;
+          btn.classList.add("poster-guess-wrong");
+          reveals++;
+          if (img) img.style.setProperty("--pg-zoom", String(zoomFor(reveals)));
+        }
+      });
+    });
+  });
+})();
+
+// Guess-the-release-year game (see render_year_guess() in build_site.py
+// and its CSS). Standalone sibling to the poster-guess game above — one
+// slider per movie, scored by how far the guess lands from the real
+// year, no reveal/identification step involved.
+(function () {
+  var items = document.querySelectorAll(".year-guess-item");
+  if (!items.length) return;
+
+  var completeEl = document.getElementById("game-complete");
+  var summaryEl = document.getElementById("year-guess-summary");
+  var total = items.length;
+  var finishedCount = 0;
+  var totalDiff = 0;
+
+  items.forEach(function (item) {
+    var slider = item.querySelector(".year-guess-slider");
+    var output = item.querySelector(".year-guess-output");
+    var lockBtn = item.querySelector(".year-guess-lock");
+    var resultEl = item.querySelector(".year-guess-result");
+    var realYear = parseInt(item.getAttribute("data-year"), 10);
+
+    if (slider && output) {
+      slider.addEventListener("input", function () {
+        output.textContent = slider.value;
+      });
+    }
+
+    if (lockBtn && slider) {
+      lockBtn.addEventListener("click", function () {
+        if (lockBtn.disabled) return;
+        lockBtn.disabled = true;
+        slider.disabled = true;
+
+        var guess = parseInt(slider.value, 10);
+        var diff = Math.abs(guess - realYear);
+        resultEl.textContent = diff === 0
+          ? "Nailed it exactly — " + realYear + "!"
+          : "You guessed " + guess + " — it was actually " + realYear + " (off by " + diff + ").";
+        resultEl.hidden = false;
+        totalDiff += diff;
+        trackEvent("year_guess_answer", { diff: diff, year: realYear });
+
+        finishedCount++;
+        if (finishedCount >= total && completeEl) {
+          completeEl.hidden = false;
+          if (summaryEl) {
+            var avgDiff = (totalDiff / total).toFixed(1);
+            summaryEl.textContent = "Averaged " + avgDiff + " years off per guess.";
+          }
+          trackEvent("year_guess_completed", { total: total });
+        }
+      });
+    }
+  });
+})();
+
 // "Which character are you" personality quizzes. Entirely client-side and
 // generic across every quiz post — it just reads whatever .quiz-question /
 // .quiz-result markup build_site.py generated for that page. Nothing here
