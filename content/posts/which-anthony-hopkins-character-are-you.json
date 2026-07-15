@@ -1,0 +1,333 @@
+{
+  "slug": "which-anthony-hopkins-character-are-you",
+  "title": "Which Anthony Hopkins Character Are You, Actually?",
+  "dek": "One brilliant career, eight wildly different souls \u2014 a cannibal, a king, a pope, a president, and more \u2014 so which one is secretly you?",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/5EqT0WyG7yYs8v7GdoS4R9P75Gz.jpg",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T16:07:35.913745+00:00",
+  "quiz": {
+    "intro": "Answer honestly, not aspirationally \u2014 this quiz has seen The Father AND The Silence of the Lambs, and it knows you're hiding something.",
+    "questions": [
+      {
+        "question": "A stranger corners you at a party and wants to debate something serious. What's your move?",
+        "answers": [
+          {
+            "text": "I ask deceptively polite questions until they've told me everything about themselves.",
+            "result": "hannibal"
+          },
+          {
+            "text": "I hold court like it's a royal audience, booming voice included.",
+            "result": "odin"
+          },
+          {
+            "text": "I steer it gently toward doctrine, tradition, and quiet certainty.",
+            "result": "benedict"
+          },
+          {
+            "text": "I get defensive fast \u2014 I'm convinced they're secretly against me.",
+            "result": "nixon"
+          }
+        ]
+      },
+      {
+        "question": "Your family wants something from you. How do you react?",
+        "answers": [
+          {
+            "text": "I decide who deserves what. No discussion necessary. I'm in charge here.",
+            "result": "odin"
+          },
+          {
+            "text": "I quietly step aside rather than fight for control.",
+            "result": "benedict"
+          },
+          {
+            "text": "I assume betrayal is coming and start plotting my defenses immediately.",
+            "result": "nixon"
+          },
+          {
+            "text": "I open up in ways I never expected to, and it changes me completely.",
+            "result": "lewis"
+          }
+        ]
+      },
+      {
+        "question": "Pick the room you'd feel most at home in.",
+        "answers": [
+          {
+            "text": "A quiet Vatican study lined floor-to-ceiling with theology books.",
+            "result": "benedict"
+          },
+          {
+            "text": "The Oval Office at 3am, alone with the tapes.",
+            "result": "nixon"
+          },
+          {
+            "text": "An Oxford pub, mid-argument about God with old friends.",
+            "result": "lewis"
+          },
+          {
+            "text": "A familiar flat that keeps quietly rearranging its furniture without me noticing.",
+            "result": "anthony"
+          }
+        ]
+      },
+      {
+        "question": "Be honest \u2014 what's your relationship with power?",
+        "answers": [
+          {
+            "text": "I clawed my way to it, feared losing it every single day, and it consumed me anyway.",
+            "result": "nixon"
+          },
+          {
+            "text": "Not remotely interested \u2014 only in truth, and in real connection.",
+            "result": "lewis"
+          },
+          {
+            "text": "I insist I'm still in charge of my own life, even as it quietly slips away.",
+            "result": "anthony"
+          },
+          {
+            "text": "I gave mine away for empty flattery, and lived just long enough to regret it.",
+            "result": "lear"
+          }
+        ]
+      },
+      {
+        "question": "How do you actually handle grief or loss?",
+        "answers": [
+          {
+            "text": "It breaks me completely open, and I let it teach me something new.",
+            "result": "lewis"
+          },
+          {
+            "text": "I can't always locate it anymore, but I still feel it, deeply, in flashes.",
+            "result": "anthony"
+          },
+          {
+            "text": "It drives me to madness before it ever drives me to clarity.",
+            "result": "lear"
+          },
+          {
+            "text": "I keep moving \u2014 quite literally, because stopping is worse.",
+            "result": "burt"
+          }
+        ]
+      },
+      {
+        "question": "Someone challenges your authority or beliefs directly. What do you do?",
+        "answers": [
+          {
+            "text": "I get combative because I'm scared, and I can't explain why.",
+            "result": "anthony"
+          },
+          {
+            "text": "I rage first and listen never, until it's far too late to fix anything.",
+            "result": "lear"
+          },
+          {
+            "text": "I just smile, then prove them wrong by doing the impossible thing anyway.",
+            "result": "burt"
+          },
+          {
+            "text": "I stay eerily calm and turn their own words right back on them.",
+            "result": "hannibal"
+          }
+        ]
+      },
+      {
+        "question": "What's your idea of the perfect night?",
+        "answers": [
+          {
+            "text": "Gathering everyone I love so they can publicly prove they love me back.",
+            "result": "lear"
+          },
+          {
+            "text": "Camped out under the stars, the night before the biggest race of my life.",
+            "result": "burt"
+          },
+          {
+            "text": "A five-course meal, a glass of good Chianti, and total control of the evening.",
+            "result": "hannibal"
+          },
+          {
+            "text": "Presiding over a great feast in a golden hall full of warriors.",
+            "result": "odin"
+          }
+        ]
+      },
+      {
+        "question": "How would your loved ones describe you, honestly?",
+        "answers": [
+          {
+            "text": "Eccentric, fearless, and stubborn as hell right up to the finish line.",
+            "result": "burt"
+          },
+          {
+            "text": "Brilliant, terrifying, and completely impossible to look away from.",
+            "result": "hannibal"
+          },
+          {
+            "text": "Wise, but a little tyrannical \u2014 and definitely still holding secrets.",
+            "result": "odin"
+          },
+          {
+            "text": "Reserved, principled, and far more human than people assume.",
+            "result": "benedict"
+          }
+        ]
+      },
+      {
+        "question": "Pick the ending that feels most 'you.'",
+        "answers": [
+          {
+            "text": "I walk off into the crowd, unbothered, with plans already in motion.",
+            "result": "hannibal"
+          },
+          {
+            "text": "I let go of my throne so someone else finally gets to rise.",
+            "result": "odin"
+          },
+          {
+            "text": "I quietly retreat and let the next generation lead the way.",
+            "result": "benedict"
+          },
+          {
+            "text": "I resign in disgrace, but I insist history will be kinder to me.",
+            "result": "nixon"
+          }
+        ]
+      },
+      {
+        "question": "It's a genuinely stressful day. What's your go-to line?",
+        "answers": [
+          {
+            "text": "\"I am still king. Act like it.\"",
+            "result": "odin"
+          },
+          {
+            "text": "\"Let us sit with this quietly.\"",
+            "result": "benedict"
+          },
+          {
+            "text": "\"They're all against me. I know it.\"",
+            "result": "nixon"
+          },
+          {
+            "text": "\"Tell me what's really wrong \u2014 I'm listening.\"",
+            "result": "lewis"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "hannibal",
+        "name": "Dr. Hannibal Lecter",
+        "subtitle": "The Silence of the Lambs (1991)",
+        "description": "You're brilliant, unnervingly calm, and you control every room without raising your voice. It's genuinely wild that Hopkins has a knack for creating indelible images, probably best known for his Oscar-winning role as an especially hungry villain in \"The Silence of the Lambs.\" He barely needed any time to do it, either \u2014 Hopkins has only 16 minutes of screen time in the film, and it was more than enough to convey the cannibal serial killer and win him an Academy Award for Best Actor.",
+        "image": "https://image.tmdb.org/t/p/w780/5EqT0WyG7yYs8v7GdoS4R9P75Gz.jpg"
+      },
+      {
+        "key": "odin",
+        "name": "Odin",
+        "subtitle": "Thor (2011)",
+        "description": "You're the exhausted king who's seen too many wars, and now your only job is deciding whether your reckless kid is finally ready for the throne. Odin is the ruler of Asgard, father of Thor, and adoptive father of Loki, and Hopkins himself said the role came with more gravity than you'd expect \u2014 after all, \"It's a superhero movie, but with a bit of Shakespeare thrown in.\"",
+        "image": "https://image.tmdb.org/t/p/w780/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg"
+      },
+      {
+        "key": "benedict",
+        "name": "Pope Benedict XVI",
+        "subtitle": "The Two Popes (2019)",
+        "description": "You're rigid, principled, and quietly lonelier than you'll ever admit out loud. The film shows Benedict as a rigid, uncompromising leader who saw a return to principles as the best course for a church struggling with 21st-century problems, and Hopkins brought a stillness to it that made the role's few quiet lines land like thunder.",
+        "image": "https://image.tmdb.org/t/p/w780/vNaCGEBjGlEMPPhmJCLVeOdUtXc.jpg"
+      },
+      {
+        "key": "nixon",
+        "name": "Richard Nixon",
+        "subtitle": "Nixon (1995)",
+        "description": "You're ambitious, deeply insecure, and convinced the whole world is plotting against you \u2014 even when you're the one holding all the cards. Oliver Stone's film portrays Nixon as a complex and in many respects admirable, albeit deeply flawed, person, and Hopkins turned that contradiction into one of his most towering performances.",
+        "image": "https://image.tmdb.org/t/p/w780/u9mkbAsXeqsFFOBJIeaf2W5u9Fi.jpg"
+      },
+      {
+        "key": "lewis",
+        "name": "C.S. Lewis",
+        "subtitle": "Shadowlands (1993)",
+        "description": "You're a reserved intellectual who thinks you have life figured out \u2014 until love completely rearranges your insides. The film follows the relationship between academic C.S. Lewis and Jewish American poet Joy Davidman, her death from cancer, and how this challenged his Christianity, with Hopkins carrying every ounce of that quiet devastation.",
+        "image": "https://image.tmdb.org/t/p/w780/gwQHsXpTPB6ceFxtDEo9gcOZeQC.jpg"
+      },
+      {
+        "key": "anthony",
+        "name": "Anthony",
+        "subtitle": "The Father (2020)",
+        "description": "You're charming, sharp-tongued, and quietly terrified that the world around you keeps rearranging itself. The film stars Anthony Hopkins as an octogenarian man living with dementia, and it earned him a second Oscar \u2014 making him, at 83, the oldest Best Actor winner in Academy history.",
+        "image": "https://image.tmdb.org/t/p/w780/h3weAFgg06GqchI2xDfufBgSFTj.jpg"
+      },
+      {
+        "key": "lear",
+        "name": "King Lear",
+        "subtitle": "King Lear (2018)",
+        "description": "You're proud, a little foolish, and prone to demanding proof of love you should've never needed to ask for. This militarized modern retelling is set in a highly militarised version of 21st-century London and depicts the tragedy that follows when King Lear announces the end of his reign and divides his kingdom among his three daughters, and critics ate it up \u2014 the film holds a 91% approval rating on Rotten Tomatoes based on 22 reviews.",
+        "image": "https://image.tmdb.org/t/p/w780/aPTecz0ZxtztDgtS56QkqkaG2Kc.jpg"
+      },
+      {
+        "key": "burt",
+        "name": "Burt Munro",
+        "subtitle": "The World's Fastest Indian (2005)",
+        "description": "You're an eccentric optimist chasing an impossible dream and genuinely too stubborn to notice the odds. Hopkins called this true story of a Kiwi motorcycle racer a total change of pace, saying \"it's a big change because it's a real winner of a guy \u2014 I've had a good career playing psychopaths or uptight people, and I'm fed up with those.\"",
+        "image": "https://image.tmdb.org/t/p/w780/k63u1PAW8aL7hy1Rwtn0d0oy4rn.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Anthony Hopkins and Jonathan Pryce on playing \"The Two Popes\" - CBS News",
+      "url": "https://www.cbsnews.com/news/anthony-hopkins-and-jonathan-pryce-on-playing-the-two-popes/"
+    },
+    {
+      "title": "The True Story Behind the Movie The Two Popes - TIME",
+      "url": "https://time.com/5753982/the-two-popes-movie-true-story/"
+    },
+    {
+      "title": "King Lear (2018 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/King_Lear_(2018_film)"
+    },
+    {
+      "title": "King Lear (2018) - Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/m/king_lear_2018"
+    },
+    {
+      "title": "Nixon (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nixon_(film)"
+    },
+    {
+      "title": "Shadowlands (1993 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shadowlands_(1993_film)"
+    },
+    {
+      "title": "The Father (2020 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Father_(2020_film)"
+    },
+    {
+      "title": "Thor (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thor_(film)"
+    },
+    {
+      "title": "The World's Fastest Indian - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_World's_Fastest_Indian"
+    },
+    {
+      "title": "Film Review: The World's Fastest Indian - The Atlas Society",
+      "url": "https://www.atlassociety.org/post/film-review-the-worlds-fastest-indian"
+    },
+    {
+      "title": "Oscar Winners with the Shortest Amount of Screen Time - MovieWeb",
+      "url": "https://movieweb.com/oscar-winners-with-shortest-time/"
+    },
+    {
+      "title": "Flickle - The daily movie guessing game",
+      "url": "https://www.flickle.app/"
+    }
+  ],
+  "related": []
+}
