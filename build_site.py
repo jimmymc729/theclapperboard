@@ -465,14 +465,22 @@ def post_grid_html(posts: list, root: str) -> str:
     return "".join(parts)
 
 
-def share_row(canonical_path: str, title: str, label: str = "Share this", share_text: str = None) -> str:
+def share_row(canonical_path: str, title: str, label: str = "Share this", share_text: str = None, row_id: str = None) -> str:
     """Share links for a page, covering the platforms people actually use
     to spread this kind of content (X, Bluesky, Facebook, Reddit, WhatsApp,
     email) plus a one-click Copy Link for anywhere else — Discord,
     Instagram bio, text messages, whatever doesn't have its own
     share-intent URL. `share_text` lets a caller (e.g. a quiz result) put
     custom copy in the tweet/message body while still linking back to the
-    same canonical page — falls back to just `title` when not given."""
+    same canonical page — falls back to just `title` when not given.
+
+    `row_id` is only needed when the share text can't be known at build
+    time — e.g. a score that only exists after someone actually plays a
+    round (see the poster-guess/year-guess/trivia game-complete banners).
+    Those callers pass generic fallback copy here (so the row works even
+    if JS never runs) and script.js finds this row by id once the real
+    score is known, then rewrites each link's href in place rather than
+    replacing any markup."""
     url_raw = f"{SITE['url']}{canonical_path}"
     url = quote(url_raw, safe="")
     text = quote(share_text or title)
@@ -490,7 +498,8 @@ def share_row(canonical_path: str, title: str, label: str = "Share this", share_
     # button without having to parse aria-label text; the Copy Link button
     # also uses data-url (the plain, non-percent-encoded address) for the
     # actual clipboard write.
-    return f"""  <div class="share-row">
+    id_attr = f' id="{esc(row_id)}"' if row_id else ""
+    return f"""  <div class="share-row"{id_attr}>
     <span class="share-label">{esc(label)}</span>
     <a href="{twitter}" target="_blank" rel="noopener" aria-label="Share on X/Twitter" data-method="twitter">𝕏</a>
     <a href="{bluesky}" target="_blank" rel="noopener" aria-label="Share on Bluesky" data-method="bluesky">🦋</a>
@@ -974,12 +983,19 @@ def render_poster_guess(pg: dict, slug: str, root: str, post_title: str) -> str:
 
     intro = f'<p class="quiz-intro">{esc(pg["intro"])}</p>' if pg.get("intro") else ""
 
+    score_share = share_row(
+        f"/posts/{slug}/", post_title,
+        label="Share your score",
+        share_text=f"I just played The Clapperboard's zoomed-poster movie game 🎬",
+        row_id="poster-guess-share",
+    )
+
     return f"""  <div class="poster-guess" data-poster-guess="{esc(slug)}">
     {intro}
 {"".join(blocks)}    <div class="game-complete" id="game-complete" hidden>
       <p class="game-complete-text">🎬 You cleared all {total}!</p>
       <p class="game-complete-sub" id="poster-guess-summary"></p>
-    </div>
+{score_share}    </div>
   </div>
 """
 
@@ -1026,12 +1042,19 @@ def render_year_guess(yg: dict, slug: str, root: str, post_title: str) -> str:
 
     intro = f'<p class="quiz-intro">{esc(yg["intro"])}</p>' if yg.get("intro") else ""
 
+    score_share = share_row(
+        f"/posts/{slug}/", post_title,
+        label="Share your score",
+        share_text=f"I just guessed movie release years on The Clapperboard 🗓️",
+        row_id="year-guess-share",
+    )
+
     return f"""  <div class="year-guess" data-year-guess="{esc(slug)}">
     {intro}
 {"".join(blocks)}    <div class="game-complete" id="game-complete" hidden>
       <p class="game-complete-text">🗓️ You guessed all {total}!</p>
       <p class="game-complete-sub" id="year-guess-summary"></p>
-    </div>
+{score_share}    </div>
   </div>
 """
 
@@ -1237,9 +1260,15 @@ def render_post_page(p, posts_by_slug: dict) -> str:
     </div>
   </div>
 """
+        trivia_share = share_row(
+            canonical_path, p["title"],
+            label="Share your score",
+            share_text=f"I just cleared all {total} in The Clapperboard's guessing game 🎯",
+            row_id="trivia-complete-share",
+        )
         complete_html = f"""  <div class="game-complete" id="game-complete" hidden>
     <p class="game-complete-text">🎉 You cleared all {total} — nice work.</p>
-  </div>
+{trivia_share}  </div>
 """
 
     related_posts = pick_related_posts(p, posts_by_slug)

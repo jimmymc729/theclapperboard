@@ -1051,6 +1051,32 @@ a { color: inherit; }
   font-size: 0.92rem;
 }
 
+/* Share-your-score row inside the completion banner — same dark-card
+   re-theme as .quiz-result .share-row above, just centered to match
+   .game-complete's own text-align. */
+.game-complete .share-row {
+  justify-content: center;
+  margin: 14px 0 0;
+}
+
+.game-complete .share-label {
+  color: #c8c8d0;
+}
+
+.game-complete .share-row a,
+.game-complete .share-row button {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.3);
+  color: #fff;
+}
+
+.game-complete .share-row a:hover,
+.game-complete .share-row button:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
 /* Zoomed-poster + guess-the-year game (see render_poster_guess() in
    build_site.py and the matching block in script.js). Reuses .list-item
    for outer spacing/numbering (same rhythm as the emoji/quote trivia
