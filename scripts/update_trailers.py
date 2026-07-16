@@ -130,6 +130,37 @@ def movie_trailers(movie_id: int) -> list:
     ]
 
 
+def has_us_theatrical_release(movie_id: int) -> bool:
+    """TMDB's /discover/movie only returns ONE release date per movie
+    (whichever TMDB considers "primary"), which is very often the streaming/
+    digital date for a straight-to-streaming release, not a theatrical one —
+    so a purely popularity + release-date-based pick can easily surface
+    something that never played in a theater at all, and the site's own
+    "In Theaters Now" pill would then just be wrong for it. This checks the
+    real US release_dates list and looks for an actual theatrical entry —
+    TMDB's `type` field is 2 (limited theatrical) or 3 (wide theatrical);
+    4/5/6 are digital/physical/TV, which don't count here regardless of
+    how official-looking the trailer is. Defaults to False (treated as
+    non-theatrical / "Streaming Now") if the lookup fails or TMDB simply
+    has no US release_dates on file — safer to under-claim "in theaters"
+    than to keep mislabeling streaming-only titles."""
+    try:
+        resp = requests.get(
+            f"{TMDB_BASE}/movie/{movie_id}/release_dates",
+            params={"api_key": TMDB_API_KEY},
+            timeout=20,
+        )
+        resp.raise_for_status()
+    except requests.RequestException:
+        return False
+
+    for entry in resp.json().get("results", []):
+        if entry.get("iso_3166_1") != "US":
+            continue
+        return any(rd.get("type") in (2, 3) for rd in entry.get("release_dates", []))
+    return False
+
+
 def is_upcoming(movie: dict) -> bool:
     """A raw TMDB /discover result is "upcoming" if its release date is
     still in the future — same released-vs-upcoming split build_site.py's
@@ -178,6 +209,16 @@ def main():
         if not videos:
             return None  # no trailer on file yet — skip rather than show a dead card
 
+        # Only worth checking for movies that have actually opened — an
+        # upcoming movie can't have a theatrical release on file yet either
+        # way, and build_site.py's pill only reads this field once a movie's
+        # release date has passed (upcoming ones always show "Coming
+        # {date}" regardless), so skipping the extra API call here for
+        # every still-upcoming candidate is free.
+        theatrical = True
+        if not is_upcoming(movie):
+            theatrical = has_us_theatrical_release(movie_id)
+
         return {
             "id": movie_id,
             "title": movie.get("title", ""),
@@ -185,6 +226,7 @@ def main():
             "poster": f"{TMDB_POSTER_IMG}{movie['poster_path']}",
             "backdrop": f"{TMDB_BACKDROP_IMG}{movie['backdrop_path']}" if movie.get("backdrop_path") else "",
             "overview": movie.get("overview", ""),
+            "theatrical": theatrical,
             "videos": videos,
         }
 
