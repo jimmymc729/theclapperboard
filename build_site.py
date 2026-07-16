@@ -214,20 +214,33 @@ def game_type_pill(p) -> str:
     return ""
 
 
-def theater_status_pill(iso: str) -> str:
+def theater_status_pill(iso: str, theatrical: bool = True) -> str:
     """Trailers now cover both already-released and still-upcoming movies
     (see scripts/update_trailers.py), so a flat "In theaters {date}" label
     would read oddly for something that opened weeks ago. Renders the
     distinction as a small pill rather than plain caption text — solid for
     anything already out, lighter/outlined for anything still upcoming —
     so the two states read as genuinely different information at a glance,
-    not just two different date strings in the same font."""
+    not just two different date strings in the same font.
+
+    TMDB's /discover/movie only surfaces one release date per movie, which
+    is very often a streaming/digital date rather than a theatrical one —
+    so a released movie isn't automatically "in theaters" just because its
+    release date has passed. `theatrical` (resolved once in
+    update_trailers.py via the real US release_dates list — see
+    has_us_theatrical_release()) distinguishes those: a released,
+    non-theatrical movie gets an honest "Streaming Now" pill instead of a
+    flatly wrong "In Theaters Now" one. Defaults to True so any
+    trailers.json written before this field existed still renders exactly
+    as before rather than erroring or guessing."""
     try:
         release = datetime.strptime(iso, "%Y-%m-%d").date()
     except (ValueError, TypeError):
         release = None
     if release is not None and release <= datetime.now().date():
-        return '<span class="status-pill status-pill-now">🎬 In Theaters Now</span>'
+        if theatrical:
+            return '<span class="status-pill status-pill-now">🎬 In Theaters Now</span>'
+        return '<span class="status-pill status-pill-streaming">📺 Streaming Now</span>'
     return f'<span class="status-pill status-pill-upcoming">🍿 Coming {esc(pretty_date(iso))}</span>'
 
 
@@ -750,7 +763,7 @@ def trailer_card(t: dict, root: str) -> str:
         <span class="trailer-card-play">▶</span>
       </div>
       <p class="trailer-card-title">{esc(t['title'])}</p>
-      <div class="trailer-card-date">{theater_status_pill(t.get('release_date'))}</div>
+      <div class="trailer-card-date">{theater_status_pill(t.get('release_date'), t.get('theatrical', True))}</div>
     </a>
 """
 
@@ -774,7 +787,7 @@ def trailer_index_card(t: dict, root: str) -> str:
         <span class="trailer-index-play">▶</span>
       </div>
       <div class="trailer-index-body">
-        <div class="trailer-index-date">{theater_status_pill(t.get('release_date'))}</div>
+        <div class="trailer-index-date">{theater_status_pill(t.get('release_date'), t.get('theatrical', True))}</div>
         <p class="trailer-index-title">{esc(t['title'])}</p>
       </div>
     </a>
@@ -794,10 +807,19 @@ def render_trailers_page(trailers: list) -> str:
     is a real filter — not a resort like Newest/Trending — with "All"
     (today's full popularity-ranked mix, unchanged) as the default so
     nobody's existing experience of this page changes unless they
-    deliberately pick a narrower tab."""
+    deliberately pick a narrower tab.
+
+    Released movies are split further into theatrical vs. streaming-only
+    (see the `theatrical` field resolved in update_trailers.py) — a movie
+    that only ever premiered on a streaming service was never something a
+    visitor could "go watch tonight" in the theatrical sense the "In
+    Theaters Now" tab promises, so it gets its own honest tab instead of
+    just diluting that one with off-topic, often lower-profile titles."""
     root = "../"
     released = [t for t in trailers if not is_upcoming(t.get("release_date", ""))]
     upcoming = [t for t in trailers if is_upcoming(t.get("release_date", ""))]
+    theaters = [t for t in released if t.get("theatrical", True)]
+    streaming = [t for t in released if not t.get("theatrical", True)]
 
     def grid(items, empty_message):
         if not items:
@@ -807,7 +829,8 @@ def render_trailers_page(trailers: list) -> str:
 
     toggle_html = view_toggle("trailers", [
         ("all", "All", grid(trailers, "No trailers on file right now — check back soon.")),
-        ("now", "🎬 In Theaters Now", grid(released, "Nothing currently in theaters on file right now.")),
+        ("now", "🎬 In Theaters Now", grid(theaters, "Nothing currently in theaters on file right now.")),
+        ("streaming", "📺 Streaming Now", grid(streaming, "Nothing streaming-only on file right now.")),
         ("soon", "🍿 Coming Soon", grid(upcoming, "Nothing upcoming on file right now — check back soon.")),
     ])
 
@@ -844,7 +867,7 @@ def render_trailer_page(t: dict) -> str:
   <div class="trailer-page-card">
     {trailer_primary_embed(t)}
     <div class="trailer-page-body">
-      <div class="trailer-page-date">{theater_status_pill(t.get('release_date'))}</div>
+      <div class="trailer-page-date">{theater_status_pill(t.get('release_date'), t.get('theatrical', True))}</div>
       <h1 class="trailer-page-title">{esc(t['title'])}</h1>
       <p class="trailer-page-overview">{esc(t.get('overview', ''))}</p>
 {trailer_extra_videos_html(t)}

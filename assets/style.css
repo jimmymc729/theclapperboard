@@ -1580,6 +1580,16 @@ details.reveal[open] summary::before { content: "🙈"; }
   color: var(--accent-dark);
 }
 
+/* Released, but streaming-only rather than theatrical (see the
+   `theatrical` field in theater_status_pill()) — a third, solid-but-
+   distinct treatment so it doesn't read as either "in theaters" (the red
+   .status-pill-now) or "not out yet" (the outlined .status-pill-upcoming),
+   both of which would be wrong for it. */
+.status-pill-streaming {
+  background: #2469c7;
+  color: #fff;
+}
+
 /* /trailers/ index — its own card look (trailer_index_card in
    build_site.py), deliberately distinct from .post-card even though it
    shares the same grid layout (.post-grid) and the same hover "pop": a
