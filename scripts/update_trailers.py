@@ -37,14 +37,13 @@ TMDB_BASE = "https://api.themoviedb.org/3"
 TMDB_POSTER_IMG = "https://image.tmdb.org/t/p/w500"
 TMDB_BACKDROP_IMG = "https://image.tmdb.org/t/p/w780"
 
-TARGET_COUNT = 50  # how many movies to keep on hand. Bumped up from 36 — a fixed
-                   # small cap meant perfectly good, trailer-having movies (e.g. a
-                   # legacy sequel like Practical Magic 2, popular with a specific
-                   # audience but not an opening-weekend popularity leader) could
-                   # get silently squeezed out any given run just because 36+
-                   # other movies out-ranked it on TMDB's popularity score that
-                   # day, with zero guarantee any specific title would survive.
-PAGES_TO_SCAN = 20  # discover/movie pages to pull candidates from (20/page) — wider
+TARGET_COUNT = 70  # how many movies to keep on hand. Bumped up from 50 — see
+                   # MIN_MAJOR_STUDIO below, which needs its own headroom on top
+                   # of what MIN_UPCOMING already reserves, and the point of
+                   # raising this further was explicitly to add MORE trailers
+                   # without diluting quality, not to just widen the popularity
+                   # net again the same way as last time.
+PAGES_TO_SCAN = 25  # discover/movie pages to pull candidates from (20/page) — wider
                    # than TARGET_COUNT alone would need, since MIN_UPCOMING below
                    # specifically needs a deep enough candidate pool to find that
                    # many upcoming movies, which rank lower in raw popularity than
@@ -64,6 +63,41 @@ MIN_UPCOMING = 24  # guaranteed minimum still-unreleased movies out of TARGET_CO
                    # stayed thin even when plenty of upcoming movies had trailers on
                    # file — they just never survived a straight popularity cut.
 
+# Major studios get their own guaranteed-slot pass (MIN_MAJOR_STUDIO below) —
+# same "reserve slots so the popularity algorithm can't starve a whole
+# category" trick as MIN_UPCOMING, just applied to studio pedigree instead of
+# release timing. Names are resolved to TMDB company IDs at runtime (see
+# resolve_company_ids()) rather than hardcoded numeric IDs, which would be
+# unverifiable from memory and silently wrong if mistyped. Mostly the classic
+# major Hollywood studios, plus a handful of prestige studios (A24, Focus
+# Features, Searchlight, Neon) that reliably put out high-quality work even
+# when it's not blockbuster-scale — "major studio" here means "trustworthy
+# quality signal," not strictly "biggest box office."
+MAJOR_STUDIOS = [
+    "Walt Disney Pictures",
+    "Marvel Studios",
+    "Pixar",
+    "Warner Bros. Pictures",
+    "Universal Pictures",
+    "Paramount Pictures",
+    "Columbia Pictures",
+    "20th Century Studios",
+    "Lionsgate",
+    "New Line Cinema",
+    "Legendary Pictures",
+    "DreamWorks Animation",
+    "Metro-Goldwyn-Mayer",
+    "Amblin Entertainment",
+    "A24",
+    "Focus Features",
+    "Searchlight Pictures",
+    "Neon",
+]
+MIN_MAJOR_STUDIO = 25  # guaranteed minimum major-studio movies out of TARGET_COUNT
+MAJOR_STUDIO_PAGES_TO_SCAN = 6  # the studio-filtered candidate pool is much smaller
+                                # than the general one, so it needs far fewer pages
+                                # to comfortably find MIN_MAJOR_STUDIO usable results
+
 
 def discover_movies(page: int) -> list:
     """Popularity-ranked movies that opened recently (still likely playing
@@ -81,6 +115,61 @@ def discover_movies(page: int) -> list:
             "include_video": "false",
             "primary_release_date.gte": (date.today() - timedelta(days=RECENT_WINDOW_DAYS)).isoformat(),
             "region": "US",
+            "page": page,
+        },
+        timeout=20,
+    )
+    resp.raise_for_status()
+    return resp.json().get("results", [])
+
+
+def resolve_company_ids(names: list) -> list:
+    """Resolves studio names (see MAJOR_STUDIOS) to TMDB company IDs via
+    /search/company, run once per script run. Deliberately not a hardcoded
+    ID list — those numeric IDs aren't something to eyeball-verify from
+    memory, and a wrong one would silently just return zero results rather
+    than erroring, which could go unnoticed indefinitely. Best-effort per
+    name: if one studio fails to resolve (typo, rename, API hiccup), it's
+    logged and skipped rather than failing the whole run over it."""
+    ids = []
+    for name in names:
+        try:
+            resp = requests.get(
+                f"{TMDB_BASE}/search/company",
+                params={"api_key": TMDB_API_KEY, "query": name},
+                timeout=20,
+            )
+            resp.raise_for_status()
+            results = resp.json().get("results", [])
+        except requests.RequestException as e:
+            print(f"  company lookup failed for '{name}': {e}")
+            continue
+        if results:
+            ids.append(results[0]["id"])
+        else:
+            print(f"  no TMDB company match for '{name}' — skipping")
+    return ids
+
+
+def discover_by_companies(company_ids: list, page: int) -> list:
+    """Same popularity/recency/region filters as discover_movies() above,
+    but restricted to a specific set of studios via TMDB's with_companies
+    filter — pipe-separated means OR (matches ANY one of these studios),
+    not AND, which is what actually makes this "major studio OR major
+    studio OR ..." rather than requiring a movie be made by all of them at
+    once. This is the piece that actually guarantees studio coverage (see
+    MIN_MAJOR_STUDIO) instead of just hoping a plain popularity sort
+    happens to surface enough of them on its own."""
+    resp = requests.get(
+        f"{TMDB_BASE}/discover/movie",
+        params={
+            "api_key": TMDB_API_KEY,
+            "sort_by": "popularity.desc",
+            "include_adult": "false",
+            "include_video": "false",
+            "primary_release_date.gte": (date.today() - timedelta(days=RECENT_WINDOW_DAYS)).isoformat(),
+            "region": "US",
+            "with_companies": "|".join(str(c) for c in company_ids),
             "page": page,
         },
         timeout=20,
@@ -184,13 +273,31 @@ def main():
     for page in range(1, PAGES_TO_SCAN + 1):
         candidates.extend(discover_movies(page))
 
+    major_company_ids = resolve_company_ids(MAJOR_STUDIOS)
+    major_candidates = []
+    if major_company_ids:
+        for page in range(1, MAJOR_STUDIO_PAGES_TO_SCAN + 1):
+            major_candidates.extend(discover_by_companies(major_company_ids, page))
+    else:
+        print("  no major-studio company IDs resolved — skipping that pass entirely")
+
+    # Real TMDB popularity score per movie, gathered from whichever list(s)
+    # it showed up in — used for the final output ordering below instead of
+    # each candidate list's own index, since major_candidates and candidates
+    # are two DIFFERENT filtered universes and a movie's position in one
+    # doesn't mean the same thing as its position in the other.
+    popularity_score = {}
+    for m in candidates + major_candidates:
+        if m.get("id") is not None:
+            popularity_score[m["id"]] = m.get("popularity", 0)
+
     resolved = {}  # movie_id -> trailer dict, in the order each was resolved
     seen_ids = set()
 
     def try_resolve(movie: dict):
         """Resolve one /discover result into a trailer record, or None if
         it's not usable (missing basics, or TMDB has no trailer on file
-        yet). Marks the id seen either way so a second pass over the same
+        yet). Marks the id seen either way so a later pass over any
         candidate list never re-attempts (or double-counts) it."""
         movie_id = movie.get("id")
         if not movie_id or movie_id in seen_ids:
@@ -230,24 +337,46 @@ def main():
             "videos": videos,
         }
 
-    # Pass 1: guarantee MIN_UPCOMING upcoming-movie slots first — see the
-    # comment on MIN_UPCOMING above for why a plain popularity pass alone
-    # would otherwise crowd these out almost entirely.
+    # Counters tracked across ALL passes (not just their "own" pass) — a
+    # movie the major-studio pass happens to pick up that's also upcoming
+    # should count toward MIN_UPCOMING too, otherwise the two reservations
+    # would double-count the same slots against TARGET_COUNT.
+    major_resolved = 0
+    upcoming_resolved = 0
+
+    # Pass 1: guarantee MIN_MAJOR_STUDIO major-studio slots first — this is
+    # the actual fix for "more trailers, but keep them high quality": a
+    # dedicated studio-filtered candidate pool that doesn't have to compete
+    # against the raw popularity chart to get in.
+    for movie in major_candidates:
+        if major_resolved >= MIN_MAJOR_STUDIO:
+            break
+        trailer = try_resolve(movie)
+        if trailer:
+            resolved[trailer["id"]] = trailer
+            major_resolved += 1
+            if is_upcoming(movie):
+                upcoming_resolved += 1
+
+    # Pass 2: top up MIN_UPCOMING upcoming-movie slots from the general pool
+    # — see the comment on MIN_UPCOMING above for why a plain popularity
+    # pass alone would otherwise crowd these out almost entirely. Only tops
+    # up the REMAINING gap, since pass 1 may already have resolved some
+    # upcoming major-studio movies that count toward this same total.
     for movie in candidates:
-        if len(resolved) >= MIN_UPCOMING:
+        if upcoming_resolved >= MIN_UPCOMING:
             break
         if not is_upcoming(movie):
             continue
         trailer = try_resolve(movie)
         if trailer:
             resolved[trailer["id"]] = trailer
+            upcoming_resolved += 1
 
-    upcoming_reserved = len(resolved)
-
-    # Pass 2: fill the remaining slots from the full popularity-ranked
+    # Pass 3: fill the remaining slots from the full popularity-ranked
     # list (released or upcoming) — same selection as before this fix,
-    # just picking up wherever pass 1 left off (seen_ids already skips
-    # anything pass 1 added or already ruled out).
+    # just picking up wherever passes 1-2 left off (seen_ids already skips
+    # anything already added or already ruled out).
     for movie in candidates:
         if len(resolved) >= TARGET_COUNT:
             break
@@ -255,19 +384,19 @@ def main():
         if trailer:
             resolved[trailer["id"]] = trailer
 
-    # The two passes above are only about WHICH movies make the cut — the
-    # actual output order is re-sorted back to TMDB's own popularity.desc
-    # ranking, so "All" and the homepage shelf still read biggest/
-    # most-talked-about-first exactly like before, regardless of which
-    # pass happened to pick up a given movie.
-    popularity_rank = {m.get("id"): i for i, m in enumerate(candidates)}
+    # The passes above are only about WHICH movies make the cut — the actual
+    # output order is re-sorted back by real TMDB popularity score, so "All"
+    # and the homepage shelf still read biggest/most-talked-about-first
+    # regardless of which pass happened to pick up a given movie.
     trailers = sorted(
         resolved.values(),
-        key=lambda t: popularity_rank.get(t["id"], len(candidates)),
+        key=lambda t: popularity_score.get(t["id"], 0),
+        reverse=True,
     )
 
-    print(f"Reserved {upcoming_reserved} upcoming-movie slot(s) for Coming Soon, "
-          f"{len(trailers) - upcoming_reserved} filled by overall popularity.")
+    print(f"Reserved {major_resolved} major-studio slot(s), "
+          f"{upcoming_resolved} upcoming-movie slot(s) total (may overlap with major-studio), "
+          f"{len(trailers) - major_resolved} filled beyond the major-studio pass.")
     OUT_PATH.write_text(json.dumps(trailers, indent=2) + "\n")
     print(f"Wrote {len(trailers)} in-theaters/upcoming movie trailers to {OUT_PATH}")
 
