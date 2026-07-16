@@ -37,17 +37,25 @@ TMDB_BASE = "https://api.themoviedb.org/3"
 TMDB_POSTER_IMG = "https://image.tmdb.org/t/p/w500"
 TMDB_BACKDROP_IMG = "https://image.tmdb.org/t/p/w780"
 
-TARGET_COUNT = 36  # how many movies to keep on hand
-PAGES_TO_SCAN = 15  # discover/movie pages to pull candidates from (20/page) — wider
+TARGET_COUNT = 50  # how many movies to keep on hand. Bumped up from 36 — a fixed
+                   # small cap meant perfectly good, trailer-having movies (e.g. a
+                   # legacy sequel like Practical Magic 2, popular with a specific
+                   # audience but not an opening-weekend popularity leader) could
+                   # get silently squeezed out any given run just because 36+
+                   # other movies out-ranked it on TMDB's popularity score that
+                   # day, with zero guarantee any specific title would survive.
+PAGES_TO_SCAN = 20  # discover/movie pages to pull candidates from (20/page) — wider
                    # than TARGET_COUNT alone would need, since MIN_UPCOMING below
                    # specifically needs a deep enough candidate pool to find that
                    # many upcoming movies, which rank lower in raw popularity than
                    # already-released ones (see MIN_UPCOMING comment) and so need
-                   # more of the ranked list scanned to turn up at all.
+                   # more of the ranked list scanned to turn up at all. Bumped up
+                   # alongside TARGET_COUNT/MIN_UPCOMING so the deeper candidate
+                   # pool those actually need is there to draw from.
 RECENT_WINDOW_DAYS = 60  # also include movies that opened up to this many days ago
 MAX_VIDEOS_PER_MOVIE = 4  # a heavily-marketed movie can have a dozen+ clips on file;
                            # cap it so one movie's page doesn't turn into an endless list
-MIN_UPCOMING = 16  # guaranteed minimum still-unreleased movies out of TARGET_COUNT.
+MIN_UPCOMING = 24  # guaranteed minimum still-unreleased movies out of TARGET_COUNT.
                    # A pure popularity.desc pass systematically starves "Coming Soon"
                    # — attention/searches spike once a movie is actually out, so an
                    # upcoming movie rarely out-popularity-ranks something currently
