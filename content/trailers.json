@@ -526,22 +526,6 @@
     ]
   },
   {
-    "id": 1155818,
-    "title": "Satluj",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
-    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "WtL3YbjUJN8",
-        "name": "ZEE5 Satluj",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1202033,
     "title": "Enola Holmes 3",
     "release_date": "2026-07-01",
@@ -1110,6 +1094,22 @@
         "key": "GSfq5jq7ChQ",
         "name": "Official Promo",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1397485,
+    "title": "Girls Like Girls",
+    "release_date": "2026-06-19",
+    "poster": "https://image.tmdb.org/t/p/w500/m1hSTBv3qLeywznEGsnqVSln1Tg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f1L2n701wbcjlJ80vx9acAWLRdY.jpg",
+    "overview": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "ZC1kEknG2ro",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
