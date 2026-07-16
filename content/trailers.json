@@ -367,12 +367,12 @@
         "type": "Trailer"
       },
       {
-        "key": "EZQrNTeNYNc",
-        "name": "In Cinemas JULY 29",
+        "key": "eGyRMzie9SY",
+        "name": "It\u2019s almost time for a brand new day.",
         "type": "Teaser"
       },
       {
-        "key": "A0yuP5GtVoE",
+        "key": "EZQrNTeNYNc",
         "name": "In Cinemas JULY 29",
         "type": "Teaser"
       }
@@ -882,6 +882,22 @@
     ]
   },
   {
+    "id": 1580803,
+    "title": "Susana and Elvira: No Plan B",
+    "release_date": "2026-05-28",
+    "poster": "https://image.tmdb.org/t/p/w500/amqNq4a3cugpf48nfpZFJwnFzbb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sSwxsbLD5jpGadBi0pPMzm7rTNS.jpg",
+    "overview": "Susana and Elvira, two former best friends, reunite after two years apart to organize the celebrity wedding of the year.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "zQd9gmm0khQ",
+        "name": "Susana y Elvira - Sin plan B | Tr\u00e1iler Oficial",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1710008,
     "title": "Nothing to Lose",
     "release_date": "2026-07-08",
@@ -1000,11 +1016,6 @@
         "key": "Rd21PhsDHww",
         "name": "Title Announcement",
         "type": "Teaser"
-      },
-      {
-        "key": "nC0Gu5AXP9M",
-        "name": "DIGGER Official Trailer (2026)",
-        "type": "Trailer"
       }
     ]
   },
@@ -1099,22 +1110,6 @@
         "key": "GSfq5jq7ChQ",
         "name": "Official Promo",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1141970,
-    "title": "Morte Cucina",
-    "release_date": "2026-07-02",
-    "poster": "https://image.tmdb.org/t/p/w500/xlPJ8Wp9mm10bWmKdydkuOyxrHU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vElyR7rR3EOAmW3ZeLOdGhFWaeu.jpg",
-    "overview": "Sao, a talented cook, accidentally meets the man who took advantage of her in the past. She sets her revenge plan in motion using her cooking skill to achieve a rather unexpected result.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "TR9uva-Ym8o",
-        "name": "\u0e04\u0e23\u0e31\u0e27\u0e2a\u0e32\u0e27 Morte Cucina l Official Trailer",
-        "type": "Trailer"
       }
     ]
   },
@@ -1431,6 +1426,22 @@
     ]
   },
   {
+    "id": 1137844,
+    "title": "Mayday",
+    "release_date": "2026-09-03",
+    "poster": "https://image.tmdb.org/t/p/w500/kkMnUfG5qO8BfTV9MVPOoH78YS8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
+    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "om5Un9X720M",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1694305,
     "title": "Faceless: Retribution",
     "release_date": "2026-12-18",
@@ -1472,7 +1483,7 @@
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jI7rheh0rUI4iyhMqY038nZdUtD.jpg",
     "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
     "theatrical": true,
     "videos": [
@@ -1484,6 +1495,37 @@
       {
         "key": "_P8tNR9Rvwg",
         "name": "Teaser Trailer",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Xmy-Z3dHMd8",
+        "name": "Official Teaser [Subtitled]",
+        "type": "Teaser"
+      },
+      {
+        "key": "n-NDYWPXpKg",
+        "name": "First Look Teaser",
+        "type": "Teaser"
+      },
+      {
+        "key": "msIIHSrWjgo",
+        "name": "Title Reveal",
+        "type": "Teaser"
+      },
+      {
+        "key": "wDD2gTgxQJ8",
+        "name": "New Godzilla Film Announcement",
         "type": "Teaser"
       }
     ]
@@ -1509,7 +1551,7 @@
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
     "poster": "https://image.tmdb.org/t/p/w500/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sjuywIJAUN9KxdDaBU778lMf1rJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fJwX9iURf4boUTJd815aiG0Q3V2.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
     "videos": [
@@ -1552,22 +1594,6 @@
     ]
   },
   {
-    "id": 1473505,
-    "title": "Kill Trip",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/qHEXW63p1NcuoyCGQHDroi4HV9V.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9NkPCbhywlcINLUKQOGNHNp1ALk.jpg",
-    "overview": "On the way to a Texas music festival, a group of friends catches a ride with a magnetic van driver. But when people start vanishing, the real headliner becomes survival.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Ay_sd39xtBo",
-        "name": "Kill Trip | Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1263337,
     "title": "Heart of the Beast",
     "release_date": "2026-09-25",
@@ -1580,22 +1606,6 @@
         "key": "JFQcDFhNh4o",
         "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1588765,
-    "title": "Brandon & Haider",
-    "release_date": "2026-08-31",
-    "poster": "https://image.tmdb.org/t/p/w500/bMxc9jsafqlUdWUp5ewUyx0t6Gr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mcurGgCTvTeYRSpCZXBAXk7iHeU.jpg",
-    "overview": "When the enigmatic allure of two ancient artifacts is unleashed, two students are bestowed with unparalleled powers. Yet, a relentless collector, driven by an insatiable thirst for dominion, will stop at nothing to seize them, igniting a cataclysmic battle that will determine the fate of worlds",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "ZjbvmSaewyM",
-        "name": "Brandon & Haider | Reveal Trailer |",
-        "type": "Teaser"
       }
     ]
   }
