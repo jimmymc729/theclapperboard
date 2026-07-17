@@ -60,6 +60,16 @@ CATEGORY_SLUGS = {"Actors": "actors", "Movies": "movies", "Games": "games"}
 
 REACTIONS = [("😂", "LOL"), ("😍", "LOVE"), ("😱", "WOW"), ("🧠", "TIL")]
 
+# trailers.json is now a genuinely large library (see update_trailers.py's
+# TARGET_COUNT), not a small curated handful — the homepage's horizontal
+# "Latest Trailers" shelf was never meant to hold the WHOLE thing inline, just
+# a taste of it with "See All Trailers →" for the rest. Capping it here keeps
+# the homepage itself from growing an ever-longer scroll shelf as the trailer
+# library grows; the full list still lives at /trailers/ regardless of this
+# number. trailers.json is already popularity-sorted, so a plain slice keeps
+# the biggest/most-talked-about trailers up front exactly like before.
+HOMEPAGE_TRAILER_SHELF_COUNT = 20
+
 
 # --------------------------------------------------------------------------
 # Small helpers
@@ -596,7 +606,7 @@ def render_home(posts, trailers: list, engagement: dict) -> str:
 
     trailers_html = ""
     if trailers:
-        cards = "".join(trailer_card(t, root) for t in trailers)
+        cards = "".join(trailer_card(t, root) for t in trailers[:HOMEPAGE_TRAILER_SHELF_COUNT])
         trailers_html = f"""  <section class="trailer-shelf">
     <h2 class="section-heading">🎥 Latest Trailers</h2>
     <div class="trailer-scroll">

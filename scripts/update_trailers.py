@@ -37,24 +37,19 @@ TMDB_BASE = "https://api.themoviedb.org/3"
 TMDB_POSTER_IMG = "https://image.tmdb.org/t/p/w500"
 TMDB_BACKDROP_IMG = "https://image.tmdb.org/t/p/w780"
 
-TARGET_COUNT = 70  # how many movies to keep on hand. Bumped up from 50 — see
-                   # MIN_MAJOR_STUDIO below, which needs its own headroom on top
-                   # of what MIN_UPCOMING already reserves, and the point of
-                   # raising this further was explicitly to add MORE trailers
-                   # without diluting quality, not to just widen the popularity
-                   # net again the same way as last time.
-PAGES_TO_SCAN = 25  # discover/movie pages to pull candidates from (20/page) — wider
-                   # than TARGET_COUNT alone would need, since MIN_UPCOMING below
-                   # specifically needs a deep enough candidate pool to find that
-                   # many upcoming movies, which rank lower in raw popularity than
-                   # already-released ones (see MIN_UPCOMING comment) and so need
-                   # more of the ranked list scanned to turn up at all. Bumped up
-                   # alongside TARGET_COUNT/MIN_UPCOMING so the deeper candidate
-                   # pool those actually need is there to draw from.
+TARGET_COUNT = 150  # how many movies to keep on hand. Bumped up again from 70 —
+                   # this is now a genuinely large library rather than a curated
+                   # top-N, so the pool sizes/reserved-slot counts below all had
+                   # to scale up proportionally too, not just this one number.
+PAGES_TO_SCAN = 50  # discover/movie pages to pull candidates from (20/page) —
+                   # 1,000 candidates deep, comfortably enough headroom for
+                   # MIN_UPCOMING at its new size (see below) to actually find
+                   # that many usable upcoming movies rather than running out
+                   # of pages before hitting the target.
 RECENT_WINDOW_DAYS = 60  # also include movies that opened up to this many days ago
 MAX_VIDEOS_PER_MOVIE = 4  # a heavily-marketed movie can have a dozen+ clips on file;
                            # cap it so one movie's page doesn't turn into an endless list
-MIN_UPCOMING = 24  # guaranteed minimum still-unreleased movies out of TARGET_COUNT.
+MIN_UPCOMING = 45  # guaranteed minimum still-unreleased movies out of TARGET_COUNT.
                    # A pure popularity.desc pass systematically starves "Coming Soon"
                    # — attention/searches spike once a movie is actually out, so an
                    # upcoming movie rarely out-popularity-ranks something currently
@@ -93,8 +88,8 @@ MAJOR_STUDIOS = [
     "Searchlight Pictures",
     "Neon",
 ]
-MIN_MAJOR_STUDIO = 25  # guaranteed minimum major-studio movies out of TARGET_COUNT
-MAJOR_STUDIO_PAGES_TO_SCAN = 6  # the studio-filtered candidate pool is much smaller
+MIN_MAJOR_STUDIO = 60  # guaranteed minimum major-studio movies out of TARGET_COUNT
+MAJOR_STUDIO_PAGES_TO_SCAN = 15  # the studio-filtered candidate pool is much smaller
                                 # than the general one, so it needs far fewer pages
                                 # to comfortably find MIN_MAJOR_STUDIO usable results
 
