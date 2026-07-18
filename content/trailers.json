@@ -355,13 +355,13 @@
         "type": "Trailer"
       },
       {
-        "key": "eGyRMzie9SY",
-        "name": "It\u2019s almost time for a brand new day.",
+        "key": "WsP_Nz0o7WY",
+        "name": "Don\u2019t let this Brand New ticket swing away",
         "type": "Teaser"
       },
       {
-        "key": "EZQrNTeNYNc",
-        "name": "In Cinemas JULY 29",
+        "key": "cHGsLJJY2K0",
+        "name": "Tomorrow's mission: Book. Your. Tickets.",
         "type": "Teaser"
       }
     ]
@@ -417,9 +417,9 @@
     "id": 1318621,
     "title": "Descendants: Wicked Wonderland",
     "release_date": "2026-07-16",
-    "poster": "https://image.tmdb.org/t/p/w500/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
-    "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past created a new villain - Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work with Red\u2019s new sister Pink, Luisa Madrigal\u2019s son Luis and Maddox\u2019s son Max to save her and Wonderland.",
+    "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past created a new villain \u2014 Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red\u2019s new sister Pink, Luisa Madrigal\u2019s son Luis, and Maddox\u2019s son Max to save her and Wonderland.",
     "theatrical": false,
     "videos": [
       {
@@ -787,7 +787,7 @@
     "title": "Heartstopper Forever",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vvE7zc2aie3ozZcy5xYbg5QTFrF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eAURmcYabHQnq2FcWf9rCIGAA23.jpg",
     "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
     "theatrical": false,
     "videos": [
@@ -1112,13 +1112,13 @@
         "type": "Trailer"
       },
       {
-        "key": "BADqgl2Oy30",
-        "name": "World Cup",
+        "key": "1B09aaEq1Tk",
+        "name": "Most important thing we know.",
         "type": "Teaser"
       },
       {
-        "key": "Rd21PhsDHww",
-        "name": "Title Announcement",
+        "key": "BADqgl2Oy30",
+        "name": "World Cup",
         "type": "Teaser"
       }
     ]
@@ -2102,6 +2102,22 @@
     ]
   },
   {
+    "id": 87513,
+    "title": "Motor City",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cYEu96qXUFilbHPw7yP3qi0SQle.jpg",
+    "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "JHMPxTWI4sQ",
+        "name": "Teaser Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1424965,
     "title": "Ice Skater",
     "release_date": "2026-02-24",
@@ -2391,37 +2407,6 @@
     ]
   },
   {
-    "id": 1288445,
-    "title": "Mutiny",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "MPyXlWTZ32E",
-        "name": "Official Trailer 2",
-        "type": "Trailer"
-      },
-      {
-        "key": "FKSdXH89jbo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "YXaRXE330EI",
-        "name": "Fireworks aren\u2019t the only things popping off.",
-        "type": "Teaser"
-      },
-      {
-        "key": "TosExIUHD1M",
-        "name": "This one\u2019s for you.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1165369,
     "title": "De Gaulle: Libert\u00e9",
     "release_date": "2026-06-26",
@@ -2676,22 +2661,6 @@
     ]
   },
   {
-    "id": 1486860,
-    "title": "Haunted 3D: Echoes of the Past",
-    "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a6VXgWVWjSvUq0UsCPSgUQko4CQ.jpg",
-    "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "MmWxmeChy9o",
-        "name": "Haunted - Ghosts Of The Past 3D Official Teaser| Vikram Bhatt,Anand Pandit,Mimoh,Chetna Pande,21 Nov",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -2704,27 +2673,6 @@
         "key": "gM4LkaXwGuY",
         "name": "Official Teaser Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1626170,
-    "title": "Sing Geetham",
-    "release_date": "2026-06-10",
-    "poster": "https://image.tmdb.org/t/p/w500/fidrFssKGktpmZlNDLXJr83ww4p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y3YZvFiuWJ0b4OpCvX9UY1AIprF.jpg",
-    "overview": "In an isolated village, young Prathap seeks opportunity but enters a world of deception. Drawn into uncontrollable forces, he's caught between progress and preservation, testing his beliefs and purpose.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "7xz5uL0Bk2E",
-        "name": "Sing Geetham Official Trailer | Singeetham Srinivasa Rao | Devi Sri Prasad | Nag Ashwin",
-        "type": "Trailer"
-      },
-      {
-        "key": "jJMv6in6Ga4",
-        "name": "Teaser",
-        "type": "Teaser"
       }
     ]
   },
@@ -2782,6 +2730,37 @@
       {
         "key": "pa3nW0EYYcQ",
         "name": "Now in Production",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
+    "overview": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I. (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos' last chance to prove himself...or lose his magical hat!",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "CUnaaeoCqXQ",
+        "name": "New trailer for The Cat In The Hat?!?! Best day ever!",
+        "type": "Teaser"
+      },
+      {
+        "key": "JtpLhxp5t3o",
+        "name": "It's a vibe thing.",
         "type": "Teaser"
       }
     ]
@@ -3098,6 +3077,22 @@
       {
         "key": "zrcg8YHSys8",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1662511,
+    "title": "Daffy Season",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/qriast8ZDy0ELWGEK96nAxNSuaR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/71Kly7myXlClhmMoimEVw5iqSkl.jpg",
+    "overview": "Daffy is ready for Duck Season, but Elmer is too immersed in his new obsession \u2013 soccer \u2013 to come hunting. Slowly the world around Daffy turns into a zombie-esque nightmare as the Tunes become obsessed with the sport.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "DqopaY31gB4",
+        "name": "A global celebration of soccer. A personal crisis for Daffy.",
         "type": "Trailer"
       }
     ]
