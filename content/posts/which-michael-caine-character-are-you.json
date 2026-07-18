@@ -1,0 +1,301 @@
+{
+  "slug": "which-michael-caine-character-are-you",
+  "title": "Which Michael Caine Character Are You, Really?",
+  "dek": "Charmer, crook, butler, or burnt-out professor \u2014 your answers reveal which iconic Caine role is basically your on-screen twin.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/ksSpcJxiYaqDlgAgEFtbGieXQMM.jpg",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T19:39:47.483446+00:00",
+  "quiz": {
+    "intro": "No wrong answers here \u2014 just answer honestly and let's see which legendary Caine performance matches your soul.",
+    "questions": [
+      {
+        "question": "Someone crosses you in a deal. What's your actual move?",
+        "answers": [
+          {
+            "text": "Charm my way through it and worry about the fallout later",
+            "result": "alfie"
+          },
+          {
+            "text": "Cook up an elaborate, audacious plan to get even in style",
+            "result": "charlie"
+          },
+          {
+            "text": "Go quiet, go cold, and make them regret it personally",
+            "result": "carter"
+          },
+          {
+            "text": "Handle it calmly and loyally \u2014 I only raise my voice when it truly counts",
+            "result": "alfred"
+          }
+        ]
+      },
+      {
+        "question": "A younger person needs your guidance. How do you handle it?",
+        "answers": [
+          {
+            "text": "Recruit them into something bigger and pull off one last great plan together",
+            "result": "charlie"
+          },
+          {
+            "text": "Protect them fiercely, whatever it costs me",
+            "result": "carter"
+          },
+          {
+            "text": "Dedicate myself to raising them right, full stop, no exceptions",
+            "result": "alfred"
+          },
+          {
+            "text": "Teach them the craft, but keep my own secrets close",
+            "result": "cutter"
+          }
+        ]
+      },
+      {
+        "question": "Be honest \u2014 how do you really feel about money?",
+        "answers": [
+          {
+            "text": "I don't care about money \u2014 I care about respect",
+            "result": "carter"
+          },
+          {
+            "text": "I'd give every penny away for the people I love",
+            "result": "alfred"
+          },
+          {
+            "text": "I'll spend whatever it takes to perfect the craft",
+            "result": "cutter"
+          },
+          {
+            "text": "Spent it all having the time of my life, mate",
+            "result": "nigel"
+          }
+        ]
+      },
+      {
+        "question": "Your general conflict-resolution style is...",
+        "answers": [
+          {
+            "text": "De-escalate quietly and stay loyal to the people who matter",
+            "result": "alfred"
+          },
+          {
+            "text": "Outsmart it with careful, patient planning",
+            "result": "cutter"
+          },
+          {
+            "text": "Defuse the whole thing with a bad joke",
+            "result": "nigel"
+          },
+          {
+            "text": "Dig in stubbornly until reality finally forces me to change",
+            "result": "scrooge"
+          }
+        ]
+      },
+      {
+        "question": "How do you show people you actually care about them?",
+        "answers": [
+          {
+            "text": "Respect earned through shared craft and mutual obsession",
+            "result": "cutter"
+          },
+          {
+            "text": "Playful teasing that's secretly all affection",
+            "result": "nigel"
+          },
+          {
+            "text": "Coldly at first \u2014 then with a complete, dramatic change of heart",
+            "result": "scrooge"
+          },
+          {
+            "text": "Reluctant, gruff mentorship that turns into something real",
+            "result": "frank"
+          }
+        ]
+      },
+      {
+        "question": "At a party, people would describe you as...",
+        "answers": [
+          {
+            "text": "Loud, cheeky, full of embarrassing dad energy",
+            "result": "nigel"
+          },
+          {
+            "text": "Standing in the corner grumbling about the whole thing",
+            "result": "scrooge"
+          },
+          {
+            "text": "Witty, but a little too fond of the open bar",
+            "result": "frank"
+          },
+          {
+            "text": "The charming rogue who's the life of the party",
+            "result": "alfie"
+          }
+        ]
+      },
+      {
+        "question": "What's your biggest flaw, if you're honest?",
+        "answers": [
+          {
+            "text": "Greed and isolation, at least for most of my life",
+            "result": "scrooge"
+          },
+          {
+            "text": "Self-loathing dressed up as cynicism",
+            "result": "frank"
+          },
+          {
+            "text": "I'm emotionally unavailable and I know it",
+            "result": "alfie"
+          },
+          {
+            "text": "Overconfidence \u2014 I always think I can pull it off",
+            "result": "charlie"
+          }
+        ]
+      },
+      {
+        "question": "Someone offers you one huge, risky opportunity. Do you take it?",
+        "answers": [
+          {
+            "text": "I'll take it, then immediately regret it over a drink",
+            "result": "frank"
+          },
+          {
+            "text": "Only if there's fun \u2014 or someone attractive \u2014 involved",
+            "result": "alfie"
+          },
+          {
+            "text": "Absolutely \u2014 let's assemble a team and go big",
+            "result": "charlie"
+          },
+          {
+            "text": "Yes, alone if I have to, if it settles a score",
+            "result": "carter"
+          }
+        ]
+      },
+      {
+        "question": "How do you want people to remember you?",
+        "answers": [
+          {
+            "text": "Fondly, as unforgettable \u2014 flaws and all",
+            "result": "alfie"
+          },
+          {
+            "text": "As the guy who pulled off the impossible job",
+            "result": "charlie"
+          },
+          {
+            "text": "As someone you did not want to cross",
+            "result": "carter"
+          },
+          {
+            "text": "As someone who was there when it truly mattered",
+            "result": "alfred"
+          }
+        ]
+      },
+      {
+        "question": "Pick the line that sounds most like something you'd say.",
+        "answers": [
+          {
+            "text": "\"We're going to need a bigger plan.\"",
+            "result": "charlie"
+          },
+          {
+            "text": "A quiet, menacing one-liner that ends the conversation",
+            "result": "carter"
+          },
+          {
+            "text": "\"I will always be there for you. No matter what.\"",
+            "result": "alfred"
+          },
+          {
+            "text": "\"Are you watching closely?\"",
+            "result": "cutter"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "alfie",
+        "name": "Alfie Elkins",
+        "subtitle": "Alfie (1966)",
+        "description": "You're charming, self-aware, and allergic to real commitment \u2014 a magnetic presence who'd rather crack wise to the camera than face the consequences of your own choices. Deep down, though, you know the empty feeling of a life spent avoiding what really matters.",
+        "image": "https://image.tmdb.org/t/p/w780/ksSpcJxiYaqDlgAgEFtbGieXQMM.jpg"
+      },
+      {
+        "key": "charlie",
+        "name": "Charlie Croker",
+        "subtitle": "The Italian Job (1969)",
+        "description": "You're stylish, cocky, and always three steps ahead with a plan nobody else could pull off. Loyalty to your crew matters more than the loot, and you'd rather go out on a cliffhanger than play it safe.",
+        "image": "https://image.tmdb.org/t/p/w780/whShrongfHvdSTPfpcN0NbGpXKF.jpg"
+      },
+      {
+        "key": "carter",
+        "name": "Jack Carter",
+        "subtitle": "Get Carter (1971)",
+        "description": "You're intense, quiet, and absolutely not someone to mess with once you've decided someone's crossed a line. Underneath the cold exterior is a fierce, almost obsessive loyalty to your own people.",
+        "image": "https://image.tmdb.org/t/p/w780/pRBCb6Hs6Xo4diXwpnBTcwMizE.jpg"
+      },
+      {
+        "key": "alfred",
+        "name": "Alfred Pennyworth",
+        "subtitle": "The Dark Knight (2008)",
+        "description": "You're steady, devoted, and quietly the strongest person in any room \u2014 the one who shows up for the people you love without ever needing credit for it. Your calm exterior hides a willingness to sacrifice everything for someone else's mission.",
+        "image": "https://image.tmdb.org/t/p/w500/5K0WR3yaodF8Cz4nTo0sNinFDdw.jpg"
+      },
+      {
+        "key": "cutter",
+        "name": "Cutter",
+        "subtitle": "The Prestige (2006)",
+        "description": "You're methodical, private, and take real pride in mastering your craft, even if it means keeping people at arm's length. You'd rather quietly outthink a problem than make a scene about it.",
+        "image": "https://image.tmdb.org/t/p/w780/mfJepkInUbiZ0mFXFhDNz8ko6Zr.jpg"
+      },
+      {
+        "key": "nigel",
+        "name": "Nigel Powers",
+        "subtitle": "Austin Powers in Goldmember (2002)",
+        "description": "You're loud, cheeky, and treat life like one long adventure with a punchline attached. Tough love and terrible jokes are basically your entire parenting \u2014 and friendship \u2014 strategy.",
+        "image": "https://image.tmdb.org/t/p/w780/kuPpElzfYnzsCye0hF8EbJSrvwo.jpg"
+      },
+      {
+        "key": "scrooge",
+        "name": "Ebenezer Scrooge",
+        "subtitle": "The Muppet Christmas Carol (1992)",
+        "description": "You're stubborn, guarded, and slow to open up \u2014 but when you finally do change your mind about something, you go all in. Redemption arcs exist for people exactly like you.",
+        "image": "https://image.tmdb.org/t/p/w780/2WWs8PqWcx34CsvqvVVQahdvUw8.jpg"
+      },
+      {
+        "key": "frank",
+        "name": "Frank Bryant",
+        "subtitle": "Educating Rita (1983)",
+        "description": "You're witty, self-deprecating, and a little too comfortable drowning your disappointment in a drink \u2014 but you're also capable of real, unexpected growth when the right person walks into your life. Cynical on the outside, secretly hopeful underneath.",
+        "image": "https://image.tmdb.org/t/p/w780/4WaqsTQUhGzRRuuY7FXPVM1lLda.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Alfie (1966 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alfie_(1966_film)"
+    },
+    {
+      "title": "Educating Rita (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Educating_Rita_(film)"
+    },
+    {
+      "title": "Educating Rita (1983) | Michael Caine Film Review | CitizenCaine",
+      "url": "https://www.citizencaine.org/main/films/educating-rita/"
+    },
+    {
+      "title": "The 1980s films of Michael Caine: Educating Rita (1983) | Film Stories",
+      "url": "https://filmstories.co.uk/news/the-1980s-films-of-michael-caine-educating-rita-1983/"
+    }
+  ],
+  "related": []
+}
