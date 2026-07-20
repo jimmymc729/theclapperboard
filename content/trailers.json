@@ -903,7 +903,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/aoDpTDvwNorynUV3xVnOpcpSzkO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6KDDoTq8Vq3HuQHULzuvPiCJbMI.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -1531,6 +1531,22 @@
     ]
   },
   {
+    "id": 1571981,
+    "title": "Jellyfish, The new Rulers of the Ocean",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/eOuAELAP8H5N7ToQAdLdjmDHNrq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1FRcwZE1aFivy7ruCURIjr12TNq.jpg",
+    "overview": "Jellyfish blooms are making headlines around the world. This is due to the damage they cause to tourism, fishing and our health. How can these creatures, which are over 98% water and have no shell, skeleton or brain, expand so rapidly?  Although this is a normal stage in the life cycle of these gelatinous animals, we have to admit that blooms have become much more frequent and massive in recent decades. We're even witnessing jellyfish populations appearing in more and more regions where fish have been replaced by them, such as off the coast of Namibia, in the Black Sea, in the Sea of Japan and in certain areas of the Baltic Sea. What causes this? Why has the role of jellyfish in the ocean been underestimated, even though they outlived the dinosaurs? Are jellyfish on their way to dominating the oceans as they once did? What if they were to be the only ones left?",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "mt4VC1fOZTs",
+        "name": "Jellyfish, the new rulers of the ocean - Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1382832,
     "title": "Hungry",
     "release_date": "2026-06-03",
@@ -1804,6 +1820,22 @@
     ]
   },
   {
+    "id": 1587964,
+    "title": "They Fight",
+    "release_date": "2026-06-08",
+    "poster": "https://image.tmdb.org/t/p/w500/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h6BWd6mU6o1KqZDrVaAldmvboCX.jpg",
+    "overview": "Reformed ex-convict Walt Manigan returns home to rebuild his family with the love of his life, Ketta. His path leads him to a boxing gym inside a D.C. youth recreation center about to be closed. There, he works under the wise coach Slim to mentor a group of boys to train for the junior national boxing tournament, all leading to a showdown between best friends Quincey and Peanut as they battle for a spot on the U.S. Junior Olympic Team.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "o9r5xmGthFY",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1705729,
     "title": "Man of War",
     "release_date": "2026-07-03",
@@ -1973,6 +2005,27 @@
     ]
   },
   {
+    "id": 1424965,
+    "title": "Ice Skater",
+    "release_date": "2026-02-24",
+    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
+    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "ShXeLbwaZLw",
+        "name": "Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "nBjUq8xyjx8",
+        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1631208,
     "title": "Sunset Strip Killers",
     "release_date": "2026-07-10",
@@ -2053,6 +2106,58 @@
       {
         "key": "ZVkrhHebz1Q",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1185806,
+    "title": "PAW Patrol: The Dino Movie",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "xgI5iYmOf5Q",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "knDmb8lWEhQ",
+        "name": "World Pup",
+        "type": "Teaser"
+      },
+      {
+        "key": "dFdVkmaIfYE",
+        "name": "Trailer Wednesday",
+        "type": "Teaser"
+      },
+      {
+        "key": "aHw4PuLCUIc",
+        "name": "Teaser Trailer",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1165366,
+    "title": "De Gaulle: R\u00e9sistance",
+    "release_date": "2026-06-03",
+    "poster": "https://image.tmdb.org/t/p/w500/tMqAZgh0oT09YQuxN94n0z0BVgt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ovzRhiBZjaZXTX5dd36yL9BvGyr.jpg",
+    "overview": "June, 1940. France collapses and signs the armistice. In the midst of the chaos, one man refuses to give up. Alone against the odds, this unknown general flees to London to save what remains of freedom.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "dKUArYoZ_0U",
+        "name": "De Gaulle: Tilting Iron / La Bataille de Gaulle : L'\u00c2ge de fer (2026) - Trailer (English Subs)",
+        "type": "Trailer"
+      },
+      {
+        "key": "dysnNEOai8A",
+        "name": "DE GAULLE: TILTING IRON Official Trailer 2026 | One Man Refused to Surrender\u2026",
         "type": "Trailer"
       }
     ]
@@ -2368,6 +2473,38 @@
     ]
   },
   {
+    "id": 1165369,
+    "title": "De Gaulle: Libert\u00e9",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/tcypmwT43pt5jWiUyy2BomyPD1Y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pS7VXwb1sNk79F5GzgtEP5YzEHE.jpg",
+    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "J6MRNchmZkY",
+        "name": "DE GAULLE: FILM 2 - LIBERT\u00c9 - Official Trailer HD",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1137844,
+    "title": "Mayday",
+    "release_date": "2026-09-03",
+    "poster": "https://image.tmdb.org/t/p/w500/kkMnUfG5qO8BfTV9MVPOoH78YS8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
+    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "om5Un9X720M",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
@@ -2392,7 +2529,7 @@
     "id": 1650856,
     "title": "Dastaar",
     "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
     "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
     "theatrical": false,
@@ -2401,6 +2538,22 @@
         "key": "Cumx6EQ-ZC0",
         "name": "DASTAAR : TARSEM JASSAR (Official Teaser) | Upcoming Punjabi Movie | In Cinema on 17th July",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1061798,
+    "title": "Jim Queen",
+    "release_date": "2026-06-17",
+    "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
+    "overview": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "0nigDLFf524",
+        "name": "JIM QUEEN and the Quest for Chloroqueer | ENG | Official Teaser",
+        "type": "Teaser"
       }
     ]
   },
@@ -2437,6 +2590,22 @@
     ]
   },
   {
+    "id": 1431804,
+    "title": "40 Dates and 40 Nights",
+    "release_date": "2026-06-16",
+    "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
+    "overview": "Burned out on dating and ready to quit, Leah accepts her grandma's outrageous challenge: 40 dates in 40 nights for a full year of rent. From awkward dinners to unexpected sparks, she discovers the biggest obstacle to love might just be herself.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Egk_FWQgW4w",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -2453,106 +2622,6 @@
     ]
   },
   {
-    "id": 445466,
-    "title": "Idiots",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cWWKFcsW9Hi0bVPXTQGeYb2Upi8.jpg",
-    "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "UoAf0LNAn30",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "SbmR9Jy0vRQ",
-        "name": "Teaser 4K",
-        "type": "Teaser"
-      },
-      {
-        "key": "8MVqh5L93Bs",
-        "name": "Teaser Trailer",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1728263,
-    "title": "Running Man Vietnam 2026: The Lord Of Time",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/ddNblTivTS5jdWJqt4lRHCRIVXh.jpg",
-    "backdrop": "",
-    "overview": "Humanity races endlessly, dreaming of becoming the Lord of Time\u2014believing that only by mastering time can they find true freedom in a relentless world. Yet even the divine beasts who govern the flow of time are trapped by the very power they possess, as their greatest gift has become an inescapable burden. Now, a breathtaking battle of supernatural abilities is about to unfold. But does the crown of the Lord of Time truly exist?",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "rsMNGyuz9ZQ",
-        "name": "RUNNING MAN VI\u1ec6T NAM 2026 - CH\u00daA T\u1ec2 TH\u1edcI GIAN | Official Trailer | KC: 10.07.2026",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1699155,
-    "title": "Maternal Instinct",
-    "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
-    "overview": "Police pull over a woman who claims she just gave birth. But the baby \u2014 and the blood \u2014 aren't hers. Twisted lies unravel in this true-crime documentary.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "fzW61JgRbNk",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him the target of a ruthless cartel. With betrayal closing in from every side, he must survive the chase and deliver his cargo before an innocent child runs out of time.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "2ZfuX4IBTXM",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1213243,
-    "title": "Toxic",
-    "release_date": "2026-08-15",
-    "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "JQ7pytcXahw",
-        "name": "Ladies & Ladies",
-        "type": "Teaser"
-      },
-      {
-        "key": "aF08WVSvCok",
-        "name": "Introducing Raya",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1339588,
     "title": "Finding Emily",
     "release_date": "2026-08-28",
@@ -2564,38 +2633,6 @@
       {
         "key": "-OGuJf70S0s",
         "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1232667,
-    "title": "Miss You, Love You",
-    "release_date": "2026-05-29",
-    "poster": "https://image.tmdb.org/t/p/w500/aVt8ubqnuBU8R5MVNbuf9OTy8sa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
-    "overview": "A blunt, grieving widow is forced to plan her husband\u2019s funeral with a total stranger: her estranged gay son\u2019s gay assistant. As they fumble through grief and their strange, darkly funny circumstances, buried secrets and long-held resentments surface, but their partnership becomes an unlikely conduit for connection, laughter, and healing for this mother and her unexpected surrogate son.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "qriWSK376U0",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1376484,
-    "title": "Roid",
-    "release_date": "2026-05-28",
-    "poster": "https://image.tmdb.org/t/p/w500/sHewWBdFBJ1IDIvzCEpLOaeqTb9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8BHZ6wUtvYlzib44dqPheODJZ2x.jpg",
-    "overview": "A solitary middle aged man marries a madwoman and builds a house on a vacant plot of land far from the village. However, his wife\u2019s madness becomes a calamity in his tranquil life.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "OVJAzrfvAps",
-        "name": "Roid | \u09b0\u0987\u09a6 | Official Trailer",
         "type": "Trailer"
       }
     ]
@@ -2633,22 +2670,6 @@
     ]
   },
   {
-    "id": 1361071,
-    "title": "Earth, Wind & Fire (To Be Celestial vs. That's the Weight of the World)",
-    "release_date": "2026-06-03",
-    "poster": "https://image.tmdb.org/t/p/w500/eCxbErDh65qZqXMvPK5ZeX9X9Jl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/msMLYc6ZHtRJrgfpPR8DVteWryk.jpg",
-    "overview": "Examines the legacy, cultural impact, and body of work of American R&B/funk/jazz/soul/disco band Earth, Wind & Fire, and will feature exclusive access to the band\u2019s archives of visual, audio, and written material, as well as the support of the estate of Maurice White and the band.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "Szznn02Nli0",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1400336,
     "title": "Focker-In-Law",
     "release_date": "2026-11-25",
@@ -2666,22 +2687,6 @@
         "key": "DqcnBiYO7_A",
         "name": "Trailer Tomorrow",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1713962,
-    "title": "Night of Blood",
-    "release_date": "2026-06-16",
-    "poster": "https://image.tmdb.org/t/p/w500/sa7Ko9iXItGwtBmsBSehSyz6mk3.jpg",
-    "backdrop": "",
-    "overview": "Six strangers enter a cash-prize endurance challenge at the Val Verde Hotel, a location infamous for a fatal explosion and rumors of being haunted. Instead of being stalked by a physical, masked serial killer, the contestants face immersive, supernatural scares when the hauntings at the hotel turn out to be all too real.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "tXOiwlerDxU",
-        "name": "Official Trailer",
-        "type": "Trailer"
       }
     ]
   },
