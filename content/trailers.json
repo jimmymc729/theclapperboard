@@ -909,6 +909,11 @@
     "theatrical": true,
     "videos": [
       {
+        "key": "irVNGjRFZGk",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
         "key": "399Ez7WHK5s",
         "name": "The Wakandans and The Fantastic Four Will Return",
         "type": "Teaser"
@@ -921,11 +926,6 @@
       {
         "key": "1clWprLC5Ak",
         "name": "Thor Will Return",
-        "type": "Teaser"
-      },
-      {
-        "key": "UiMg566PREA",
-        "name": "Steve Rogers Will Return",
         "type": "Teaser"
       }
     ]
