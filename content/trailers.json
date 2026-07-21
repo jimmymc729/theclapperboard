@@ -441,6 +441,22 @@
     ]
   },
   {
+    "id": 1727780,
+    "title": "Borderline",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t5iMyppJhIdjPQDAWIWoilO5iYf.jpg",
+    "overview": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "ORHBgSvX_24",
+        "name": "Borderline - Official Trailer | Starring Samara Weaving and Ray Nicholson | In theaters March 14",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -1187,13 +1203,13 @@
         "type": "Trailer"
       },
       {
-        "key": "dY5WXueSc6U",
-        "name": "Every couple fights. This couple fights dinosaurs.",
+        "key": "VCz3Q-d3hlE",
+        "name": "That doesn't sound normal.",
         "type": "Teaser"
       },
       {
-        "key": "VAJPonmwrrI",
-        "name": "This mother bites back.",
+        "key": "dY5WXueSc6U",
+        "name": "Every couple fights. This couple fights dinosaurs.",
         "type": "Teaser"
       }
     ]
@@ -2338,22 +2354,6 @@
     "videos": [
       {
         "key": "om5Un9X720M",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1101412,
-    "title": "Fall 2: Deadpoint",
-    "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/ckKAdEz49bJ10jCLbCYIzVHJGEu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Rsztt5qDj_A",
         "name": "Official Trailer",
         "type": "Trailer"
       }
