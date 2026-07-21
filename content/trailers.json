@@ -50,13 +50,13 @@
         "type": "Trailer"
       },
       {
-        "key": "3Vzovv7AwY8",
-        "name": "Princess \u274c Daughter of the chief \u2705",
+        "key": "6cQGfS7o-Zk",
+        "name": "Our summer mood board",
         "type": "Teaser"
       },
       {
-        "key": "byabJmm6dYg",
-        "name": "The colours of Moana",
+        "key": "3Vzovv7AwY8",
+        "name": "Princess \u274c Daughter of the chief \u2705",
         "type": "Teaser"
       }
     ]
@@ -2176,6 +2176,22 @@
     ]
   },
   {
+    "id": 1228834,
+    "title": "The Fix",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
+    "backdrop": "",
+    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "NYC0v8xqQdM",
+        "name": "THE FIX | Official Trailer | In Theaters September 11",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1316427,
     "title": "7 Dogs",
     "release_date": "2026-06-26",
@@ -2427,18 +2443,18 @@
         "type": "Trailer"
       },
       {
-        "key": "knDmb8lWEhQ",
-        "name": "World Pup",
+        "key": "P_ogZcvAOhs",
+        "name": "Plans Vs Reality",
         "type": "Teaser"
       },
       {
-        "key": "dFdVkmaIfYE",
-        "name": "Trailer Wednesday",
+        "key": "Z7o1Mmqnyog",
+        "name": "Saving The Day",
         "type": "Teaser"
       },
       {
-        "key": "aHw4PuLCUIc",
-        "name": "Teaser Trailer",
+        "key": "LI8vGX36EzY",
+        "name": "Are You Prepared?",
         "type": "Teaser"
       }
     ]
@@ -2559,6 +2575,38 @@
     ]
   },
   {
+    "id": 1165369,
+    "title": "De Gaulle: Libert\u00e9",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/tcypmwT43pt5jWiUyy2BomyPD1Y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pS7VXwb1sNk79F5GzgtEP5YzEHE.jpg",
+    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "J6MRNchmZkY",
+        "name": "DE GAULLE: FILM 2 - LIBERT\u00c9 - Official Trailer HD",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1693201,
+    "title": "Poldi",
+    "release_date": "2026-06-04",
+    "poster": "https://image.tmdb.org/t/p/w500/euscz6PC9uHa2oLybmBUtgdyafh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8hUPAKKxU20sq8oyAUnK19zCzsi.jpg",
+    "overview": "Footballer, entrepreneur, fan favorite and true community hero \u2014 Lukas Podolski reflects on his journey and what comes next in this intimate documentary.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "COUkUkLAIII",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1699155,
     "title": "Maternal Instinct",
     "release_date": "2026-06-12",
@@ -2571,85 +2619,6 @@
         "key": "fzW61JgRbNk",
         "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1458215,
-    "title": "The Gentleman Thief",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/k4mdrRKo0cvddfePekCuPyEKC3N.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hEp4QLxuTu0zZFNZ31zcFjdlejy.jpg",
-    "overview": "A retired master thief is forced to protect his reckless brother from harm when a daring yacht heist worth 100 million dollars culminates in a complex and dangerous web of intrigue and deceit. As tensions mount and old enemies from the past resurface, he faces a life-or-death struggle. To survive, he must draw upon all the skills, experience, and cunning tricks that once made him the best in his field. As the stakes rise, a compelling story of loyalty, betrayal, and the will to survive unfolds.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "0LB3yWX1R8Y",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1476682,
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
-    "overview": "Small-town Kansas hairdresser Gail Daughtry's fianc\u00e9 uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "GEbaLieo_Kw",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "gbBpfswemXM",
-        "name": "Hungry for Tickets",
-        "type": "Teaser"
-      },
-      {
-        "key": "I8LuLWr1qVg",
-        "name": "Jon Hamm",
-        "type": "Teaser"
-      },
-      {
-        "key": "PEZD6JhxBOQ",
-        "name": "Premise",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1511675,
-    "title": "Kingdom 5",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/67OK6PDMHOhXK7XeP8KJ9fGam8C.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cKLAotXdVF1CSjieKCn1O9CRX2Y.jpg",
-    "overview": "",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "AQEct00Ks5s",
-        "name": "\u3010\u4e3b\u984c\u6b4c\u5165\u308a\u4e88\u544a\u3011\u7c73\u6d25\u7384\u5e2b\u300c\u591c\u9df9\u300d\u306b\u6c7a\u5b9a\uff01\uff5c\u6620\u753b\u300e\u30ad\u30f3\u30b0\u30c0\u30e0 \u9b42\u306e\u6c7a\u6226\u300f7\u670817\u65e5(\u91d1)\u516c\u958b",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 890216,
-    "title": "Pacific",
-    "release_date": "2026-07-08",
-    "poster": "https://image.tmdb.org/t/p/w500/lxHviNCgIVv8juHBrwHJpR5wJ5b.jpg",
-    "backdrop": "",
-    "overview": "A group of young travelers are stranded on an island in the Pacific where they struggle to escape an evil presence kept hidden from mankind for centuries.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "tgOveb3Pq0w",
-        "name": "PACIFICO (2026) a film by Gonzalo Gutierrez - Theatrical Teaser",
-        "type": "Teaser"
       }
     ]
   },
@@ -2808,6 +2777,37 @@
         "key": "cmjpadVj-Vk",
         "name": "Official Trailer",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/uA8ytJv17alSiREcUthbYAdiPCX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "PLFzB7JfjSI",
+        "name": "No time for second guesses.",
+        "type": "Teaser"
+      },
+      {
+        "key": "GSUNFgz7ePY",
+        "name": "A bond that cannot be broken.",
+        "type": "Teaser"
       }
     ]
   },
