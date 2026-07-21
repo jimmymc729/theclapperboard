@@ -65,7 +65,7 @@
     "id": 1275779,
     "title": "Disclosure Day",
     "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
     "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
     "theatrical": true,
@@ -158,7 +158,7 @@
     "id": 1081003,
     "title": "Supergirl",
     "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
     "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
     "theatrical": true,
@@ -303,7 +303,7 @@
     "id": 969681,
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/x19dchU8e38vQfW4epzOsQNLuZ2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kjNlN0gFNHRLUAfOs3AeNynUFKQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0M2JTPUlR64jkfXAhZeD9e7ZWF.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
@@ -484,22 +484,6 @@
         "key": "hs9sOk8stYE",
         "name": "Read, and be rewarded.",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1656220,
-    "title": "23 000 Lives",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
-    "overview": "Unable to stand by and watch as countless refugees lose their lives attempting to reach Europe by sea, a group of young Berliners take action. Inexperienced but driven by passion and courage, they launch a crowdfunding campaign to buy an old ship. Venturing into the Mediterranean, they embark on a mission to save thousands of people. But their efforts soon put their understanding of law and justice to the test.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "89dugTvBEWw",
-        "name": "Trailer [Subtitled]",
-        "type": "Trailer"
       }
     ]
   },
@@ -1689,6 +1673,22 @@
     ]
   },
   {
+    "id": 1731122,
+    "title": "The Odyssemen",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/3wSVQ155T4tcYmLXedKosvmrvhU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2suj7rQXv2hvmubhUsuwEQxue1G.jpg",
+    "overview": "After undergoing the split of Meiosis, meiosisters Orchis and Semes awaken as sperm in the ethereal land of Test, where the annual Testy Festy welcomes them to what seems like heaven. Things take a turn when Seed, a strange sperm donning a condom mask, claims that their paradise is a lie and calls for the start of the Great Jac, a taboo event prophesied to lead either to the Promised Unknown or to death. A sperm civil war breaks out as rebels and loyalists fight over whether their world is truly heaven or merely the prelude to something far greater...",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "KbYsqcwMoCs",
+        "name": "The Odyssemen | Official Trailer | Sperm Short Film About Faith | The Odyssey Parody Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1716842,
     "title": "Latina",
     "release_date": "2026-06-19",
@@ -2002,6 +2002,27 @@
     ]
   },
   {
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him the target of a ruthless cartel. With betrayal closing in from every side, he must survive the chase and deliver his cargo before an innocent child runs out of time.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "2ZfuX4IBTXM",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1664011,
     "title": "Revolutionary America",
     "release_date": "2026-05-31",
@@ -2208,7 +2229,7 @@
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
-    "overview": "Andrew Garfield stars as the legendary leader of a ferocious rebellion against the tyranny of King Richard II. As war burns across England, he forms an army of the people to face the King\u2019s might in a fight for justice and survival.",
+    "overview": "As war and plague devastate 14th-century England, humble peasant Wat Tyler ignites a rebellion, uniting an army of commoners to defy the king's brutal rule in a desperate fight for freedom and survival.",
     "theatrical": true,
     "videos": [
       {
@@ -2267,6 +2288,22 @@
         "key": "8_nX4qQU1Wc",
         "name": "NOW IN PRODUCTION!",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "jxU8FU3o75A",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -2360,6 +2397,22 @@
     ]
   },
   {
+    "id": 1101412,
+    "title": "Fall 2: Deadpoint",
+    "release_date": "2026-09-02",
+    "poster": "https://image.tmdb.org/t/p/w500/ckKAdEz49bJ10jCLbCYIzVHJGEu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Rsztt5qDj_A",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1185806,
     "title": "PAW Patrol: The Dino Movie",
     "release_date": "2026-08-14",
@@ -2438,18 +2491,70 @@
     ]
   },
   {
-    "id": 1165369,
-    "title": "De Gaulle: Libert\u00e9",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/tcypmwT43pt5jWiUyy2BomyPD1Y.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pS7VXwb1sNk79F5GzgtEP5YzEHE.jpg",
-    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
-    "theatrical": false,
+    "id": 1288445,
+    "title": "Mutiny",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "theatrical": true,
     "videos": [
       {
-        "key": "J6MRNchmZkY",
-        "name": "DE GAULLE: FILM 2 - LIBERT\u00c9 - Official Trailer HD",
+        "key": "MPyXlWTZ32E",
+        "name": "Official Trailer 2",
         "type": "Trailer"
+      },
+      {
+        "key": "FKSdXH89jbo",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "YXaRXE330EI",
+        "name": "Fireworks aren\u2019t the only things popping off.",
+        "type": "Teaser"
+      },
+      {
+        "key": "TosExIUHD1M",
+        "name": "This one\u2019s for you.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1670548,
+    "title": "LOCKED IN",
+    "release_date": "2026-09-19",
+    "poster": "https://image.tmdb.org/t/p/w500/u3nQqjORtfUeUvDe1QjgUdqulCB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/orAg94P9mPmAhpeVE4ngtK3p8rg.jpg",
+    "overview": "Artist and young father John finds himself stuck in a room. He attempts to break free but ends up letting go and surrenders himself to the trap. Causing his home life to blur as he becomes a cog in the white-collar machine.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "yNeYtsBvEt8",
+        "name": "LOCKED IN (2026) | Official Teaser Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1213243,
+    "title": "Toxic",
+    "release_date": "2026-08-15",
+    "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "JQ7pytcXahw",
+        "name": "Ladies & Ladies",
+        "type": "Teaser"
+      },
+      {
+        "key": "aF08WVSvCok",
+        "name": "Introducing Raya",
+        "type": "Teaser"
       }
     ]
   },
@@ -2470,113 +2575,65 @@
     ]
   },
   {
-    "id": 1650856,
-    "title": "Dastaar",
+    "id": 1458215,
+    "title": "The Gentleman Thief",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/k4mdrRKo0cvddfePekCuPyEKC3N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hEp4QLxuTu0zZFNZ31zcFjdlejy.jpg",
+    "overview": "A retired master thief is forced to protect his reckless brother from harm when a daring yacht heist worth 100 million dollars culminates in a complex and dangerous web of intrigue and deceit. As tensions mount and old enemies from the past resurface, he faces a life-or-death struggle. To survive, he must draw upon all the skills, experience, and cunning tricks that once made him the best in his field. As the stakes rise, a compelling story of loyalty, betrayal, and the will to survive unfolds.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "0LB3yWX1R8Y",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1476682,
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
+    "overview": "Small-town Kansas hairdresser Gail Daughtry's fianc\u00e9 uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "GEbaLieo_Kw",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "gbBpfswemXM",
+        "name": "Hungry for Tickets",
+        "type": "Teaser"
+      },
+      {
+        "key": "I8LuLWr1qVg",
+        "name": "Jon Hamm",
+        "type": "Teaser"
+      },
+      {
+        "key": "PEZD6JhxBOQ",
+        "name": "Premise",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1511675,
+    "title": "Kingdom 5",
     "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
-    "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+    "poster": "https://image.tmdb.org/t/p/w500/67OK6PDMHOhXK7XeP8KJ9fGam8C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cKLAotXdVF1CSjieKCn1O9CRX2Y.jpg",
+    "overview": "",
     "theatrical": false,
     "videos": [
       {
-        "key": "Cumx6EQ-ZC0",
-        "name": "DASTAAR : TARSEM JASSAR (Official Teaser) | Upcoming Punjabi Movie | In Cinema on 17th July",
+        "key": "AQEct00Ks5s",
+        "name": "\u3010\u4e3b\u984c\u6b4c\u5165\u308a\u4e88\u544a\u3011\u7c73\u6d25\u7384\u5e2b\u300c\u591c\u9df9\u300d\u306b\u6c7a\u5b9a\uff01\uff5c\u6620\u753b\u300e\u30ad\u30f3\u30b0\u30c0\u30e0 \u9b42\u306e\u6c7a\u6226\u300f7\u670817\u65e5(\u91d1)\u516c\u958b",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "6IxPD-jNdwM",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1061798,
-    "title": "Jim Queen",
-    "release_date": "2026-06-17",
-    "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
-    "overview": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "0nigDLFf524",
-        "name": "JIM QUEEN and the Quest for Chloroqueer | ENG | Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1431804,
-    "title": "40 Dates and 40 Nights",
-    "release_date": "2026-06-16",
-    "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
-    "overview": "Burned out on dating and ready to quit, Leah accepts her grandma's outrageous challenge: 40 dates in 40 nights for a full year of rent. From awkward dinners to unexpected sparks, she discovers the biggest obstacle to love might just be herself.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Egk_FWQgW4w",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 445466,
-    "title": "Idiots",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cWWKFcsW9Hi0bVPXTQGeYb2Upi8.jpg",
-    "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "UoAf0LNAn30",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "SbmR9Jy0vRQ",
-        "name": "Teaser 4K",
-        "type": "Teaser"
-      },
-      {
-        "key": "8MVqh5L93Bs",
-        "name": "Teaser Trailer",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/feyEk59rpGXZHKqej9HkUHOnIg2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "Prv_FLWLlq8",
-        "name": "Title Reveal",
-        "type": "Teaser"
       }
     ]
   },
@@ -2593,22 +2650,6 @@
         "key": "tgOveb3Pq0w",
         "name": "PACIFICO (2026) a film by Gonzalo Gutierrez - Theatrical Teaser",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1431071,
-    "title": "System",
-    "release_date": "2026-05-22",
-    "poster": "https://image.tmdb.org/t/p/w500/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7f9ZaTwyqQOJtNWUS7xZgWQOzSt.jpg",
-    "overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the system and raising a question of what justice truly means to them.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "AdZ_I4ySZoI",
-        "name": "System Trailer Drops Ahead of Prime Video Premiere",
-        "type": "Trailer"
       }
     ]
   },
@@ -2771,37 +2812,6 @@
     ]
   },
   {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/uA8ytJv17alSiREcUthbYAdiPCX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "PLFzB7JfjSI",
-        "name": "No time for second guesses.",
-        "type": "Teaser"
-      },
-      {
-        "key": "GSUNFgz7ePY",
-        "name": "A bond that cannot be broken.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1288438,
     "title": "Godzilla x Kong: Supernova",
     "release_date": "2027-03-26",
@@ -2854,7 +2864,7 @@
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
-    "overview": "Based on Jane Austen\u2019s novel, sisters Elinor and Marianne Dashwood navigate love, uncertainty and societal pressures in the wake of their father\u2019s death.",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "videos": [
       {
