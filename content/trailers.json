@@ -65,7 +65,7 @@
     "id": 1275779,
     "title": "Disclosure Day",
     "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/fb4jlgX1q4sdv33t3dYlop5EGiT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pW4Ah1A6SgZNQNmf5AgiIYPzFHF.jpg",
     "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
     "theatrical": true,
@@ -1205,6 +1205,22 @@
     ]
   },
   {
+    "id": 1400837,
+    "title": "Other Mommy",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/8CXwxpyvQiz9COMLZov4Oae8NKb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+    "overview": "A young girl, her family and their home are haunted by a sinister entity that is determined to take up residence inside her. But first, it needs to persuade her to let it in\u2026",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "bEpTgowZ1dI",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1700944,
     "title": "Love, Ngo",
     "release_date": "2026-06-03",
@@ -2127,6 +2143,22 @@
     ]
   },
   {
+    "id": 1726557,
+    "title": "The Hoodoos",
+    "release_date": "2026-07-07",
+    "poster": "https://image.tmdb.org/t/p/w500/hEUQczbYxpdWTRniUxOP4rcgfeS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ojYNifqtwK9bYraDgjGETc0e2bZ.jpg",
+    "overview": "When a crew of criminals attempts to steal cursed Confederate gold from a haunted Louisiana plantation, they discover that the voodoo protecting the treasure is terrifyingly real\u2026 and the dolls are awake.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "X9Iq1M-XMFE",
+        "name": "The Hoodoos | Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 977942,
     "title": "The Uprising",
     "release_date": "2026-09-11",
@@ -2427,6 +2459,27 @@
     ]
   },
   {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/feyEk59rpGXZHKqej9HkUHOnIg2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "Prv_FLWLlq8",
+        "name": "Title Reveal",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1670548,
     "title": "LOCKED IN",
     "release_date": "2026-09-19",
@@ -2443,6 +2496,22 @@
     ]
   },
   {
+    "id": 890216,
+    "title": "Pacific",
+    "release_date": "2026-07-08",
+    "poster": "https://image.tmdb.org/t/p/w500/lxHviNCgIVv8juHBrwHJpR5wJ5b.jpg",
+    "backdrop": "",
+    "overview": "A group of young travelers are stranded on an island in the Pacific where they struggle to escape an evil presence kept hidden from mankind for centuries.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "tgOveb3Pq0w",
+        "name": "PACIFICO (2026) a film by Gonzalo Gutierrez - Theatrical Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1165369,
     "title": "De Gaulle: Libert\u00e9",
     "release_date": "2026-06-26",
@@ -2454,6 +2523,80 @@
       {
         "key": "J6MRNchmZkY",
         "name": "DE GAULLE: FILM 2 - LIBERT\u00c9 - Official Trailer HD",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "6IxPD-jNdwM",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1538497,
+    "title": "Hexed",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "mtC4sjABZNw",
+        "name": "Teaser Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 445466,
+    "title": "Idiots",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cWWKFcsW9Hi0bVPXTQGeYb2Upi8.jpg",
+    "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "UoAf0LNAn30",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "SbmR9Jy0vRQ",
+        "name": "Teaser 4K",
+        "type": "Teaser"
+      },
+      {
+        "key": "8MVqh5L93Bs",
+        "name": "Teaser Trailer",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1565790,
+    "title": "Double Occupancy",
+    "release_date": "2026-06-12",
+    "poster": "https://image.tmdb.org/t/p/w500/afwvI8D1SLSMqINJbq0Wi9eCBWt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v4Fkzv4wrlGzF3af60Xwxpb5tJk.jpg",
+    "overview": "Rajini transforms between woman by day and man by night, hiding this gender swap from partners creating tangled complications.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "uyELlAIvnuM",
+        "name": "Double Occupancy Official Trailer \ud83d\udd25 | Tamil Movie 2026 | Santhosh, Reshma",
         "type": "Trailer"
       }
     ]
@@ -2491,58 +2634,6 @@
     ]
   },
   {
-    "id": 1213243,
-    "title": "Toxic",
-    "release_date": "2026-08-15",
-    "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "JQ7pytcXahw",
-        "name": "Ladies & Ladies",
-        "type": "Teaser"
-      },
-      {
-        "key": "aF08WVSvCok",
-        "name": "Introducing Raya",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1381071,
-    "title": "Godzilla Minus Zero",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Xmy-Z3dHMd8",
-        "name": "Official Teaser [Subtitled]",
-        "type": "Teaser"
-      },
-      {
-        "key": "n-NDYWPXpKg",
-        "name": "First Look Teaser",
-        "type": "Teaser"
-      },
-      {
-        "key": "msIIHSrWjgo",
-        "name": "Title Reveal",
-        "type": "Teaser"
-      },
-      {
-        "key": "wDD2gTgxQJ8",
-        "name": "New Godzilla Film Announcement",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1433367,
     "title": "One Night Only",
     "release_date": "2026-08-07",
@@ -2569,38 +2660,6 @@
     ]
   },
   {
-    "id": 1699155,
-    "title": "Maternal Instinct",
-    "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
-    "overview": "Police pull over a woman who claims she just gave birth. But the baby \u2014 and the blood \u2014 aren't hers. Twisted lies unravel in this true-crime documentary.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "fzW61JgRbNk",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1712587,
-    "title": "Kikirot Kirot",
-    "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/gIFCj47N5Z4dUQkhJ8Is5POUGyk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qhbNE5RRducNHrJmirIvY10drtO.jpg",
-    "overview": "A married couple\u2019s life unravels when the wife\u2019s cousin moves in. The husband realizes she\u2019s the stripper he secretly met before, sparking temptation, deception, and fear of exposure.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "yBdfwJCFq5Q",
-        "name": "KIKIROT-KIROT Official Trailer | World Premiere this JUNE 12 only on VMX!",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1497464,
     "title": "Gatto",
     "release_date": "2027-03-05",
@@ -2613,22 +2672,6 @@
         "key": "NIKfR_uF_d0",
         "name": "Teaser Trailer",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1728263,
-    "title": "Running Man Vietnam 2026: The Lord Of Time",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/ddNblTivTS5jdWJqt4lRHCRIVXh.jpg",
-    "backdrop": "",
-    "overview": "Humanity races endlessly, dreaming of becoming the Lord of Time\u2014believing that only by mastering time can they find true freedom in a relentless world. Yet even the divine beasts who govern the flow of time are trapped by the very power they possess, as their greatest gift has become an inescapable burden. Now, a breathtaking battle of supernatural abilities is about to unfold. But does the crown of the Lord of Time truly exist?",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "rsMNGyuz9ZQ",
-        "name": "RUNNING MAN VI\u1ec6T NAM 2026 - CH\u00daA T\u1ec2 TH\u1edcI GIAN | Official Trailer | KC: 10.07.2026",
-        "type": "Trailer"
       }
     ]
   },
@@ -2686,22 +2729,6 @@
     ]
   },
   {
-    "id": 1571981,
-    "title": "Jellyfish, The new Rulers of the Ocean",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/eOuAELAP8H5N7ToQAdLdjmDHNrq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1FRcwZE1aFivy7ruCURIjr12TNq.jpg",
-    "overview": "Jellyfish blooms are making headlines around the world. This is due to the damage they cause to tourism, fishing and our health. How can these creatures, which are over 98% water and have no shell, skeleton or brain, expand so rapidly?  Although this is a normal stage in the life cycle of these gelatinous animals, we have to admit that blooms have become much more frequent and massive in recent decades. We're even witnessing jellyfish populations appearing in more and more regions where fish have been replaced by them, such as off the coast of Namibia, in the Black Sea, in the Sea of Japan and in certain areas of the Baltic Sea. What causes this? Why has the role of jellyfish in the ocean been underestimated, even though they outlived the dinosaurs? Are jellyfish on their way to dominating the oceans as they once did? What if they were to be the only ones left?",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "mt4VC1fOZTs",
-        "name": "Jellyfish, the new rulers of the ocean - Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 675871,
     "title": "Super Troopers 3",
     "release_date": "2026-08-07",
@@ -2714,37 +2741,6 @@
         "key": "cYFevn5frf0",
         "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1204680,
-    "title": "Coyote vs ACME",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AbQYEHieBJsMheLFKM02rFu0xnc.jpg",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "H-43VeYGiPM",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "GXmAP6XyZ7g",
-        "name": "Destiny Arrives August 28",
-        "type": "Teaser"
-      },
-      {
-        "key": "qT6kR2nHI8M",
-        "name": "Trailer Tomorrow",
-        "type": "Teaser"
-      },
-      {
-        "key": "G11SytnNYqI",
-        "name": "Happy Tax Day",
-        "type": "Teaser"
       }
     ]
   },
@@ -2887,22 +2883,6 @@
         "key": "TrMGdrCJ5Ck",
         "name": "Official Teaser",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1664011,
-    "title": "Revolutionary America",
-    "release_date": "2026-05-31",
-    "poster": "https://image.tmdb.org/t/p/w500/r136QaWVKw5eBuGENUGsQcJKPVT.jpg",
-    "backdrop": "",
-    "overview": "The story of the American Founding, the greatest political achievement in history. The American colonists had developed a unique way of life as they practiced self-government for 150 years. In the struggles between the colonies and the mother country that followed the French and Indian War, Britain\u202fdeclared that Americans had no right to rule themselves. This went against everything the Americans knew. In response, our ancestors risked their \u201clives, fortunes, and sacred honor\u201d to fight the War for Independence. Against all odds, they won, and in victory formed a stable, lasting republic.\u202f",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "fDg303WfCj0",
-        "name": "Coming to Theaters Soon: Revolutionary America | Trailer",
-        "type": "Trailer"
       }
     ]
   },
