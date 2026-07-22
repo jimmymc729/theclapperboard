@@ -340,8 +340,8 @@
         "type": "Trailer"
       },
       {
-        "key": "cM9zSxf2IYI",
-        "name": "Here we go.",
+        "key": "Yr8SLMuf1qE",
+        "name": "One week until a brand new day",
         "type": "Teaser"
       }
     ]
@@ -1104,6 +1104,11 @@
     "theatrical": true,
     "videos": [
       {
+        "key": "u4tgctWuHc0",
+        "name": "Tickets now on sale",
+        "type": "Trailer"
+      },
+      {
         "key": "3oB9AxspVow",
         "name": "Official Trailer",
         "type": "Trailer"
@@ -1114,13 +1119,8 @@
         "type": "Trailer"
       },
       {
-        "key": "atl0vszyt9Y",
-        "name": "Dinosaurs beware, he bites.",
-        "type": "Teaser"
-      },
-      {
-        "key": "VCz3Q-d3hlE",
-        "name": "That doesn't sound normal.",
+        "key": "lFvd6dYi3lk",
+        "name": "Dinosaurs have moved in.",
         "type": "Teaser"
       }
     ]
@@ -2537,6 +2537,11 @@
     "theatrical": true,
     "videos": [
       {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
         "key": "6IxPD-jNdwM",
         "name": "Official Teaser",
         "type": "Teaser"
@@ -2612,22 +2617,6 @@
     "videos": [
       {
         "key": "COUkUkLAIII",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1137844,
-    "title": "Mayday",
-    "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hyenJuiOPuyHqASGF8GLiYEfjET.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
-    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "om5Un9X720M",
         "name": "Official Trailer",
         "type": "Trailer"
       }
@@ -2741,6 +2730,37 @@
         "key": "cYFevn5frf0",
         "name": "Official Trailer",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1204680,
+    "title": "Coyote vs ACME",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AbQYEHieBJsMheLFKM02rFu0xnc.jpg",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "H-43VeYGiPM",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "GXmAP6XyZ7g",
+        "name": "Destiny Arrives August 28",
+        "type": "Teaser"
+      },
+      {
+        "key": "qT6kR2nHI8M",
+        "name": "Trailer Tomorrow",
+        "type": "Teaser"
+      },
+      {
+        "key": "G11SytnNYqI",
+        "name": "Happy Tax Day",
+        "type": "Teaser"
       }
     ]
   },
