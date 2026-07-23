@@ -2692,7 +2692,7 @@
   },
   {
     "id": 1204680,
-    "title": "Coyote vs ACME",
+    "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/AbQYEHieBJsMheLFKM02rFu0xnc.jpg",
@@ -2700,23 +2700,23 @@
     "theatrical": true,
     "videos": [
       {
+        "key": "kMsiD1Nky5I",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
         "key": "H-43VeYGiPM",
         "name": "Official Trailer",
         "type": "Trailer"
       },
       {
+        "key": "x6JTEzWheiE",
+        "name": "Coyote vs. ACME - Destiny Arrives August 28",
+        "type": "Teaser"
+      },
+      {
         "key": "GXmAP6XyZ7g",
         "name": "Destiny Arrives August 28",
-        "type": "Teaser"
-      },
-      {
-        "key": "qT6kR2nHI8M",
-        "name": "Trailer Tomorrow",
-        "type": "Teaser"
-      },
-      {
-        "key": "G11SytnNYqI",
-        "name": "Happy Tax Day",
         "type": "Teaser"
       }
     ]
