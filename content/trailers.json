@@ -81,13 +81,13 @@
         "type": "Trailer"
       },
       {
-        "key": "FDqOa3cOy6w",
-        "name": "You",
+        "key": "1gtRK1WxhzI",
+        "name": "Watch At Home Now",
         "type": "Teaser"
       },
       {
-        "key": "tQdAJzCPQpc",
-        "name": "Unveil the truth in IMAX.",
+        "key": "FDqOa3cOy6w",
+        "name": "You",
         "type": "Teaser"
       }
     ]
@@ -1039,8 +1039,8 @@
         "type": "Trailer"
       },
       {
-        "key": "lFvd6dYi3lk",
-        "name": "Dinosaurs have moved in.",
+        "key": "ot49rrmEFWc",
+        "name": "Get tickets for The End of Oak Street before they disappear.",
         "type": "Teaser"
       }
     ]
@@ -1200,17 +1200,17 @@
     ]
   },
   {
-    "id": 1424435,
-    "title": "Wings of Dread",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/iCnTJwkAMwIvaZgwpPHJJHfV0Er.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m0joYYat6anzyIaJ6B4CQnTMjti.jpg",
-    "overview": "Air police officer Gu Chaoyang encounters a hijacking crisis on his flight back to China. With his extremely high professional ethics, he fights desperately to stop the hijacker, and a life-and-death struggle that takes place at an altitude of ten thousand meters begins.",
+    "id": 1620682,
+    "title": "Love in Slow Motion",
+    "release_date": "2026-07-23",
+    "poster": "https://image.tmdb.org/t/p/w500/31x1VCgNfTiPBR3xtYBocagHLry.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rivKhEJWZirF7UtnCnaN44YaJ69.jpg",
+    "overview": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels \u2014 because who knew true love could be hiding in the friend zone?",
     "theatrical": false,
     "videos": [
       {
-        "key": "9AhPB0dgito",
-        "name": "Trailer",
+        "key": "oCg2wXznjLo",
+        "name": "Love in Slow Motion | Official Trailer | Netflix",
         "type": "Trailer"
       }
     ]
@@ -2302,13 +2302,13 @@
         "type": "Trailer"
       },
       {
-        "key": "x6JTEzWheiE",
-        "name": "Coyote vs. ACME - Destiny Arrives August 28",
+        "key": "GXmAP6XyZ7g",
+        "name": "Destiny Arrives August 28",
         "type": "Teaser"
       },
       {
-        "key": "GXmAP6XyZ7g",
-        "name": "Destiny Arrives August 28",
+        "key": "qT6kR2nHI8M",
+        "name": "Trailer Tomorrow",
         "type": "Teaser"
       }
     ]
@@ -2558,22 +2558,6 @@
       {
         "key": "Egk_FWQgW4w",
         "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 806704,
-    "title": "The Batman: Part II",
-    "release_date": "2028-02-18",
-    "poster": "https://image.tmdb.org/t/p/w500/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4uaHnYDDpUTj0nCg6YqBKab50YW.jpg",
-    "overview": "Sequel to the 2022 film The Batman.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "aG8U7-XK7PI",
-        "name": "The Batman Part 2 - Official 'Camera Test' Teaser Trailer (2028) Robert Pattinson",
         "type": "Trailer"
       }
     ]
@@ -2843,6 +2827,22 @@
         "key": "GSUNFgz7ePY",
         "name": "A bond that cannot be broken.",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/wbTHJ5VzOjEq02PYHkLAL7yhhBn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
+    "overview": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
