@@ -35,7 +35,7 @@
     "title": "Moana",
     "release_date": "2026-07-10",
     "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
     "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
     "theatrical": true,
     "videos": [
@@ -893,7 +893,7 @@
     "title": "Hope",
     "release_date": "2026-09-09",
     "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i0lipAm0VHFA3EH0CPV0s5LJMIE.jpg",
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "theatrical": true,
     "videos": [
@@ -1060,6 +1060,11 @@
         "type": "Trailer"
       },
       {
+        "key": "YyJ9YER6cJg",
+        "name": "Can't keep it contained.",
+        "type": "Teaser"
+      },
+      {
         "key": "z4BT5bpVl5s",
         "name": "Official Trailer Tease",
         "type": "Teaser"
@@ -1200,10 +1205,26 @@
     ]
   },
   {
+    "id": 1424435,
+    "title": "Wings of Dread",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/iCnTJwkAMwIvaZgwpPHJJHfV0Er.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m0joYYat6anzyIaJ6B4CQnTMjti.jpg",
+    "overview": "Air police officer Gu Chaoyang encounters a hijacking crisis on his flight back to China. With his extremely high professional ethics, he fights desperately to stop the hijacker, and a life-and-death struggle that takes place at an altitude of ten thousand meters begins.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "9AhPB0dgito",
+        "name": "Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1620682,
     "title": "Love in Slow Motion",
     "release_date": "2026-07-23",
-    "poster": "https://image.tmdb.org/t/p/w500/31x1VCgNfTiPBR3xtYBocagHLry.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rivKhEJWZirF7UtnCnaN44YaJ69.jpg",
     "overview": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels \u2014 because who knew true love could be hiding in the friend zone?",
     "theatrical": false,
@@ -1309,19 +1330,9 @@
         "type": "Trailer"
       },
       {
-        "key": "mmWcqwR5yX0",
-        "name": "Pinocchio: Unstrung Official Trailer \u2014 Grotesque Reimagining from the Twisted Childhood Universe",
-        "type": "Trailer"
-      },
-      {
         "key": "_VHIU9dIAWQ",
-        "name": "Pinocchio Unstrung (2026) | Official Trailer | In Theaters July 24th",
-        "type": "Teaser"
-      },
-      {
-        "key": "4JFZfieUNcM",
-        "name": "Pinocchio Unstrung Title revealed",
-        "type": "Teaser"
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -1849,11 +1860,16 @@
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "theatrical": true,
     "videos": [
+      {
+        "key": "2Iqvbe98Gb4",
+        "name": "Official UK Trailer",
+        "type": "Trailer"
+      },
       {
         "key": "MPyXlWTZ32E",
         "name": "Official Trailer 2",
@@ -1865,13 +1881,8 @@
         "type": "Trailer"
       },
       {
-        "key": "KWyElOAgcPM",
-        "name": "Adrenaline on tap. Jason Statham ups the ante in Mutiny.",
-        "type": "Teaser"
-      },
-      {
-        "key": "2GD2uLTGQzg",
-        "name": "All hands on deck. We\u2019re officially ONE MONTH away from Mutiny.",
+        "key": "aQ7Glkzba-8",
+        "name": "Greatest to ever do it.",
         "type": "Teaser"
       }
     ]
@@ -1927,7 +1938,7 @@
     "id": 1723460,
     "title": "A Toxic Love Story",
     "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/bKrqQGLlIM8qjCjWhHTg6AhrlsY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
     "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
     "theatrical": false,
@@ -2241,6 +2252,22 @@
     ]
   },
   {
+    "id": 1571981,
+    "title": "Jellyfish, The new Rulers of the Ocean",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/eOuAELAP8H5N7ToQAdLdjmDHNrq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1FRcwZE1aFivy7ruCURIjr12TNq.jpg",
+    "overview": "Jellyfish blooms are making headlines around the world. This is due to the damage they cause to tourism, fishing and our health. How can these creatures, which are over 98% water and have no shell, skeleton or brain, expand so rapidly?  Although this is a normal stage in the life cycle of these gelatinous animals, we have to admit that blooms have become much more frequent and massive in recent decades. We're even witnessing jellyfish populations appearing in more and more regions where fish have been replaced by them, such as off the coast of Namibia, in the Black Sea, in the Sea of Japan and in certain areas of the Baltic Sea. What causes this? Why has the role of jellyfish in the ocean been underestimated, even though they outlived the dinosaurs? Are jellyfish on their way to dominating the oceans as they once did? What if they were to be the only ones left?",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "mt4VC1fOZTs",
+        "name": "Jellyfish, the new rulers of the ocean - Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1424965,
     "title": "Ice Skater",
     "release_date": "2026-02-24",
@@ -2494,22 +2521,6 @@
     ]
   },
   {
-    "id": 1602337,
-    "title": "Parimala and Co",
-    "release_date": "2026-06-05",
-    "poster": "https://image.tmdb.org/t/p/w500/vN2TOTKin83av7hwYnwAKSd3EG8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hcQ9Kcmc34yYElii4fjFxABQYqq.jpg",
-    "overview": "A dark comedy centered around a chaotic family whose tangled relationships and unpredictable situations lead to emotionally charged and absurd moments, blending humor with underlying tension and drama.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "7M0j1oh2lOg",
-        "name": "Parimala and Co | Official Trailer | Jayaram | Urvasi | Tamil ZEE5 | Premieres 10th July",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1377237,
     "title": "Runner",
     "release_date": "2026-09-11",
@@ -2719,8 +2730,8 @@
     "id": 1400336,
     "title": "Focker-In-Law",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
     "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
     "theatrical": true,
     "videos": [
@@ -2834,7 +2845,7 @@
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/wbTHJ5VzOjEq02PYHkLAL7yhhBn.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
     "overview": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
     "theatrical": true,
@@ -3007,22 +3018,6 @@
       {
         "key": "TrMGdrCJ5Ck",
         "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1735857,
-    "title": "Blood Ties: Family Business",
-    "release_date": "2028-11-26",
-    "poster": "https://image.tmdb.org/t/p/w500/wRtoqyr5fVcqy0YA22QgQUu92d0.jpg",
-    "backdrop": "",
-    "overview": "Evan Morgan built his reputation on the streets as a man nobody wanted to cross. But after years of violence, betrayal, and survival, he leaves behind his criminal empire to build the one thing he never thought he would have \u2014 a family.  Now married to Detective Zola Carter Morgan, the woman who once hunted him, Evan is determined to give his children Paige and Kane the life he never had. But escaping his past comes at a price.  When his former partner Kash Zimmerman returns with a dangerous agenda and a score to settle, Evan\u2019s carefully built world begins to collapse. Forced back into the criminal world he tried to abandon, Evan must protect the people he loves while facing the man who knows every secret he\u2019s tried to bury.  With Zola caught between her duty as a detective and her loyalty as a wife, and his best friend Anthony Brooks standing beside him one last time, Evan must answer the question that has followed him his entire life.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "IbblqT8jSEo",
-        "name": "Blood Ties: Family Business",
         "type": "Teaser"
       }
     ]
