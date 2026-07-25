@@ -355,7 +355,7 @@
     "id": 1630409,
     "title": "The Debt Collector",
     "release_date": "2026-07-23",
-    "poster": "https://image.tmdb.org/t/p/w500/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
     "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
     "theatrical": false,
@@ -687,8 +687,8 @@
     "id": 1227241,
     "title": "Maa Inti Bangaram",
     "release_date": "2026-06-18",
-    "poster": "https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lAbxmPvGfdNshyrtXAtj0EZon2z.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
     "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
     "theatrical": true,
     "videos": [
@@ -738,6 +738,22 @@
         "key": "9O9ZeG6op_Y",
         "name": "Official Teaser",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1659155,
+    "title": "The Truthers",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+    "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "IvL0oT13djs",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
       }
     ]
   },
@@ -1385,27 +1401,11 @@
     ]
   },
   {
-    "id": 1723460,
-    "title": "A Toxic Love Story",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
-    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "9k9SYlMy9qs",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wpS0GW0TQYla51wZ41wHwUqZqS8.jpg",
     "overview": "Tale of an elderly miser, Ebenezer Scrooge, who embarks on a supernatural journey after being visited by the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come, forcing him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "videos": [
@@ -1866,7 +1866,7 @@
     "id": 1300926,
     "title": "The Angry Birds Movie 3",
     "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/d8k8LfTF5ld8u81dNGhZ6ZOOEH3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
     "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
     "theatrical": true,
@@ -2441,22 +2441,6 @@
     ]
   },
   {
-    "id": 1705729,
-    "title": "Man of War",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
-    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "q0_t2HOsDsY",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1228834,
     "title": "The Fix",
     "release_date": "2026-09-11",
@@ -2569,6 +2553,22 @@
       {
         "key": "Egk_FWQgW4w",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1731494,
+    "title": "The Odyssey: The Making of an Epic",
+    "release_date": "2026-07-14",
+    "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fXUxAL8w724dI9yT5UbwJuk29K9.jpg",
+    "overview": "Go behind the scenes of Christopher Nolan's mythic action epic, The Odyssey. This special documentary explores the monumental undertaking of adapting Homer\u2019s foundational saga for the big screen, charting a grueling 91-day principal photography schedule across six countries. From the revolutionary use of brand-new IMAX film technology to the massive coordination of over 5,300 custom-designed costumes, discover how a star-studded cast led by Matt Damon, Tom Holland, and Anne Hathaway brought the dangerous, timeless world of ancient Greek gods and monsters to life.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "6dS0SI8NCRw",
+        "name": "The Odyssey: The Making Of An Epic Trailer",
         "type": "Trailer"
       }
     ]
