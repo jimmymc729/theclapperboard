@@ -66,7 +66,7 @@
     "title": "Moana",
     "release_date": "2026-07-10",
     "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
     "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
     "theatrical": true,
     "videos": [
@@ -81,13 +81,13 @@
         "type": "Trailer"
       },
       {
-        "key": "6cQGfS7o-Zk",
-        "name": "Our summer mood board",
+        "key": "oft7rwwiZ9o",
+        "name": "the sounds of Motunui",
         "type": "Teaser"
       },
       {
-        "key": "3Vzovv7AwY8",
-        "name": "Princess \u274c Daughter of the chief \u2705",
+        "key": "eDjz_3wnguo",
+        "name": "How would you describe Moana in three words?",
         "type": "Teaser"
       }
     ]
@@ -931,7 +931,7 @@
     "title": "Idhayam Murali",
     "release_date": "2026-07-10",
     "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iE5QgvjnHJGVBAeP5hBohVnMSHQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
     "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
     "theatrical": false,
     "videos": [
@@ -1022,27 +1022,6 @@
         "key": "UEjYNvzithY",
         "name": "\"Have you seen any dinosaurs?!\"",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1382832,
-    "title": "Hungry",
-    "release_date": "2026-06-03",
-    "poster": "https://image.tmdb.org/t/p/w500/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
-    "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "aHZrv6CSTuA",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "QX85JymdGnQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
       }
     ]
   },
@@ -1397,6 +1376,22 @@
         "key": "bqwKY5DZay4",
         "name": "What can be forgiven?",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1723460,
+    "title": "A Toxic Love Story",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "9k9SYlMy9qs",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -1787,8 +1782,8 @@
         "type": "Trailer"
       },
       {
-        "key": "aQ7Glkzba-8",
-        "name": "Greatest to ever do it.",
+        "key": "9D7-U3rxppU",
+        "name": "Bow down.",
         "type": "Teaser"
       }
     ]
@@ -1958,37 +1953,6 @@
       {
         "key": "8zqfxQcz7kM",
         "name": "Title Announcement",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1362262,
-    "title": "CAMP",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/pQrlFAiakpphxCrR5lmHT3GR7Td.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eCLS2vvfyXfG64FZocHs9baVvKA.jpg",
-    "overview": "Emily is the cause of two tragedies early in her life; her dad suggests she go to a Camp for troubled youth to ease her guilt. When Emily arrives, she is taken in by the other counsellors; they accept her as she is and wrap her in a veil of peace & forgiveness. Emily stands at the forefront of a new kind of life, but there\u2019s a voice out there in the woods she can\u2019t ignore, telling Emily to go home.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "qctnEcM5TkI",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "XTiOCFuruFI",
-        "name": "Watch at Home",
-        "type": "Teaser"
-      },
-      {
-        "key": "jblBtxlkVC8",
-        "name": "Witch Chant",
-        "type": "Teaser"
-      },
-      {
-        "key": "GWMqlrsQrtY",
-        "name": "Get Tickets",
         "type": "Teaser"
       }
     ]
@@ -2441,6 +2405,22 @@
     ]
   },
   {
+    "id": 1705729,
+    "title": "Man of War",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "q0_t2HOsDsY",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1228834,
     "title": "The Fix",
     "release_date": "2026-09-11",
@@ -2687,6 +2667,11 @@
         "key": "gM4LkaXwGuY",
         "name": "Official Teaser Trailer",
         "type": "Trailer"
+      },
+      {
+        "key": "9xnDvEJJlxE",
+        "name": "In Cinemas 8 October",
+        "type": "Teaser"
       }
     ]
   },
