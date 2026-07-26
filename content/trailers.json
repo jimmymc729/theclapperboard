@@ -4,7 +4,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "videos": [
@@ -24,8 +24,8 @@
         "type": "Trailer"
       },
       {
-        "key": "HI_1D7lzkwg",
-        "name": "The wait is over. The Odyssey is in cinemas now.",
+        "key": "gIiZ7acBx34",
+        "name": "Biggest IMAX opening of 2026!",
         "type": "Teaser"
       }
     ]
@@ -128,7 +128,7 @@
     "title": "Supergirl",
     "release_date": "2026-06-26",
     "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wj1CsxIx5Y7a2jFuW7p5MqVJoTx.jpg",
     "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
     "theatrical": true,
     "videos": [
@@ -393,7 +393,7 @@
     "title": "Avatar Aang: The Last Airbender",
     "release_date": "2026-07-24",
     "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yQe50s6d8DYiFZ6P0cyRSNhTVCz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qpSQZXk8JIUjWK112MmDrLyepD9.jpg",
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture.",
     "theatrical": true,
     "videos": [
@@ -676,7 +676,7 @@
     "id": 1468683,
     "title": "Heartstopper Forever",
     "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/uKlc5Vrn9k7lnTx2XRcjOm1cgjz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ch28kJu4pG2x07sN22valXvV3JY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
     "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
     "theatrical": false,
@@ -839,6 +839,16 @@
         "key": "n_pEJjq-9xQ",
         "name": "Official Trailer",
         "type": "Trailer"
+      },
+      {
+        "key": "kxjVfmXV2EM",
+        "name": "Maybe tomorrow",
+        "type": "Teaser"
+      },
+      {
+        "key": "9k-PMvouHZ0",
+        "name": "can't stop thinking about this",
+        "type": "Teaser"
       },
       {
         "key": "g1fq327snPU",
@@ -1025,7 +1035,7 @@
     "id": 1101383,
     "title": "The End of Oak Street",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/rnfyioOdFyMXnqikTa6KPAKzCZf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "theatrical": true,
@@ -1269,22 +1279,6 @@
     ]
   },
   {
-    "id": 1442396,
-    "title": "Nagabandham: The Secret Treasure",
-    "release_date": "2026-07-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
-    "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "CTXNTBpWjuE",
-        "name": "Nagabandham - Watch Now | Prime Video India",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1424435,
     "title": "Wings of Dread",
     "release_date": "2026-07-03",
@@ -1494,6 +1488,11 @@
         "type": "Trailer"
       },
       {
+        "key": "-5qHZ-tsM3c",
+        "name": "Guess What?",
+        "type": "Teaser"
+      },
+      {
         "key": "P_ogZcvAOhs",
         "name": "Plans Vs Reality",
         "type": "Teaser"
@@ -1501,11 +1500,6 @@
       {
         "key": "Z7o1Mmqnyog",
         "name": "Saving The Day",
-        "type": "Teaser"
-      },
-      {
-        "key": "LI8vGX36EzY",
-        "name": "Are You Prepared?",
         "type": "Teaser"
       }
     ]
@@ -1893,7 +1887,7 @@
     "id": 1384216,
     "title": "The Dog Stars",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/l2ZiywIMPdlONXoGH7KJHvQ6wWj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
     "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
     "theatrical": true,
@@ -2432,6 +2426,22 @@
     ]
   },
   {
+    "id": 1732097,
+    "title": "Euphoria: A Look Back",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/NVJwjxdoEfUHpUGBQvShsdPzq2.jpg",
+    "overview": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "H0V8fgGlqIU",
+        "name": "Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1433367,
     "title": "One Night Only",
     "release_date": "2026-08-07",
@@ -2451,14 +2461,30 @@
         "type": "Trailer"
       },
       {
-        "key": "70X8u8LGYA8",
-        "name": "callum turner & monica barbaro star in one night only",
+        "key": "LifZzIIlK1k",
+        "name": "two strangers. one unforgettable night.",
         "type": "Teaser"
       },
       {
-        "key": "kiK1aBs6pTo",
-        "name": "some love languages are impossible to miss.",
+        "key": "70X8u8LGYA8",
+        "name": "callum turner & monica barbaro star in one night only",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1596008,
+    "title": "Con City",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+    "overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "TuN_dKpxCgk",
+        "name": "Con City | Official Trailer | Arjun Das | Anna Ben | Yogi Babu | Netflix India",
+        "type": "Trailer"
       }
     ]
   },
@@ -2466,8 +2492,8 @@
     "id": 1148365,
     "title": "Matchbox: The Movie",
     "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/tzedeHjF6zj8TqZY3cWdU496np8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDHCTnzeWqNEajyFPhyRnWo0E4O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
     "theatrical": true,
     "videos": [
@@ -2506,22 +2532,6 @@
       {
         "key": "UBIZgVTunA0",
         "name": "The Outer Threat | Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 964849,
-    "title": "Nightborn",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
-    "overview": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "dWePsu_Kd9c",
-        "name": "Official Trailer",
         "type": "Trailer"
       }
     ]
