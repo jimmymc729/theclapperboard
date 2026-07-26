@@ -2463,6 +2463,22 @@
     ]
   },
   {
+    "id": 1148365,
+    "title": "Matchbox: The Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/tzedeHjF6zj8TqZY3cWdU496np8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDHCTnzeWqNEajyFPhyRnWo0E4O.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1083884,
     "title": "Signal One",
     "release_date": "2026-06-05",
@@ -2591,22 +2607,6 @@
         "key": "-x_4XLUE1qc",
         "name": "Official Teaser Trailer",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1431804,
-    "title": "40 Dates and 40 Nights",
-    "release_date": "2026-06-16",
-    "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
-    "overview": "Burned out on dating and ready to quit, Leah accepts her grandma's outrageous challenge: 40 dates in 40 nights for a full year of rent. From awkward dinners to unexpected sparks, she discovers the biggest obstacle to love might just be herself.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Egk_FWQgW4w",
-        "name": "Official Trailer",
-        "type": "Trailer"
       }
     ]
   },
