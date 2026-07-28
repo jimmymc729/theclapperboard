@@ -4,7 +4,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "videos": [
@@ -24,8 +24,8 @@
         "type": "Trailer"
       },
       {
-        "key": "gIiZ7acBx34",
-        "name": "Biggest IMAX opening of 2026!",
+        "key": "p6W3EWqpvZ4",
+        "name": "See it to believe it.",
         "type": "Teaser"
       }
     ]
@@ -97,7 +97,7 @@
     "title": "Supergirl",
     "release_date": "2026-06-26",
     "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wZJTidyAi53smx6x4LBFgfQolRU.jpg",
     "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
     "theatrical": true,
     "videos": [
@@ -159,7 +159,7 @@
     "title": "Toy Story 5",
     "release_date": "2026-06-19",
     "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "theatrical": true,
     "videos": [
@@ -1156,7 +1156,7 @@
     "title": "Motor City",
     "release_date": "2026-07-24",
     "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cYEu96qXUFilbHPw7yP3qi0SQle.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
     "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
     "theatrical": true,
     "videos": [
@@ -1383,6 +1383,11 @@
         "type": "Trailer"
       },
       {
+        "key": "6APsmeSkvdQ",
+        "name": "Are you prepared?",
+        "type": "Teaser"
+      },
+      {
         "key": "-5qHZ-tsM3c",
         "name": "Guess What?",
         "type": "Teaser"
@@ -1390,11 +1395,6 @@
       {
         "key": "P_ogZcvAOhs",
         "name": "Plans Vs Reality",
-        "type": "Teaser"
-      },
-      {
-        "key": "Z7o1Mmqnyog",
-        "name": "Saving The Day",
         "type": "Teaser"
       }
     ]
@@ -1482,7 +1482,7 @@
     "id": 1564614,
     "title": "Leviticus",
     "release_date": "2026-06-19",
-    "poster": "https://image.tmdb.org/t/p/w500/cu0XnXLzJGPeI0msCoJKgnEecKz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
     "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most \u2014 each other.",
     "theatrical": true,
@@ -1598,8 +1598,8 @@
         "type": "Trailer"
       },
       {
-        "key": "9D7-U3rxppU",
-        "name": "Bow down.",
+        "key": "Cy3UEwfdsz0",
+        "name": "Jason Statham charges in for Mutiny",
         "type": "Teaser"
       }
     ]
@@ -2231,6 +2231,37 @@
     ]
   },
   {
+    "id": 1245859,
+    "title": "Savage House",
+    "release_date": "2026-06-05",
+    "poster": "https://image.tmdb.org/t/p/w500/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xr8cnK9SdDKdqYiWlBthQcvBJvH.jpg",
+    "overview": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising \u2013 Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "dB9HuMcaEGM",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "4VIIZlzqdKE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "1xsOZF1HlOE",
+        "name": "Duke and Duchess",
+        "type": "Teaser"
+      },
+      {
+        "key": "6iVM51myi-o",
+        "name": "What Makes a Savage",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1433367,
     "title": "One Night Only",
     "release_date": "2026-08-07",
@@ -2357,6 +2388,27 @@
     ]
   },
   {
+    "id": 1280015,
+    "title": "Sunny Dancer",
+    "release_date": "2026-08-12",
+    "poster": "https://image.tmdb.org/t/p/w500/d7yOPcBc099HHhmZGS9eMzMruAL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
+    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "UQxRhHK_Bmw",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "BNHQH3u8eTU",
+        "name": "Only In Cinemas August 14",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1602337,
     "title": "Parimala and Co",
     "release_date": "2026-06-05",
@@ -2473,6 +2525,37 @@
     ]
   },
   {
+    "id": 1240889,
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "j9TsiTgYZGw",
+        "name": "Official Vertical Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "dimCiC_hdoA",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "GpfL7SdR0Bc",
+        "name": "Gillian Anderson is Billy Presley.",
+        "type": "Teaser"
+      },
+      {
+        "key": "o8Wi3ZwdODA",
+        "name": "Official Vertical Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1728951,
     "title": "Mukhbir: The Story of a Spy - The Movie",
     "release_date": "2026-07-09",
@@ -2542,6 +2625,22 @@
     ]
   },
   {
+    "id": 1384040,
+    "title": "Haunted Heist",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/hdKkVb8ylvg7xm9W2IAhd5ydp73.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rTPlcQx6aKqEE0ttuDRRfADB4NZ.jpg",
+    "overview": "Four estranged friends reunite at what appears to be a typical house, But one friend has ulterior motives; he plans to rob the place and needs their help to find an antique worth a fortune. But the house is straight up haunted, and the group must squash their differences to survive the night and an insane pack of ghosts.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "M327gG_6mC0",
+        "name": "Haunted Heist | Official Trailer | In Theaters July 24",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1083884,
     "title": "Signal One",
     "release_date": "2026-06-05",
@@ -2575,70 +2674,6 @@
         "key": "-x_4XLUE1qc",
         "name": "Official Teaser Trailer",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1431804,
-    "title": "40 Dates and 40 Nights",
-    "release_date": "2026-06-16",
-    "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
-    "overview": "Burned out on dating and ready to quit, Leah accepts her grandma's outrageous challenge: 40 dates in 40 nights for a full year of rent. From awkward dinners to unexpected sparks, she discovers the biggest obstacle to love might just be herself.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Egk_FWQgW4w",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1381202,
-    "title": "The Outer Threat",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/3ZaO8yZwGo4PJSgwLwSowD4EBbN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ouEdGbvYnhAnHJYLYDkISs3X9yJ.jpg",
-    "overview": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family \u2014 pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "UBIZgVTunA0",
-        "name": "The Outer Threat | Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1710008,
-    "title": "Nothing to Lose",
-    "release_date": "2026-07-08",
-    "poster": "https://image.tmdb.org/t/p/w500/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
-    "overview": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him \u2014 no matter the cost.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "-ST6xtcXq7s",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1705729,
-    "title": "Man of War",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
-    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "q0_t2HOsDsY",
-        "name": "Official Trailer",
-        "type": "Trailer"
       }
     ]
   },
@@ -2707,22 +2742,6 @@
         "key": "9xnDvEJJlxE",
         "name": "In Cinemas 8 October",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1565790,
-    "title": "Double Occupancy",
-    "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/afwvI8D1SLSMqINJbq0Wi9eCBWt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/v4Fkzv4wrlGzF3af60Xwxpb5tJk.jpg",
-    "overview": "Rajini transforms between woman by day and man by night, hiding this gender swap from partners creating tangled complications.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "uyELlAIvnuM",
-        "name": "Double Occupancy Official Trailer \ud83d\udd25 | Tamil Movie 2026 | Santhosh, Reshma",
-        "type": "Trailer"
       }
     ]
   },
@@ -2808,22 +2827,6 @@
         "key": "NIKfR_uF_d0",
         "name": "Teaser Trailer",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1731122,
-    "title": "The Odyssemen",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/3wSVQ155T4tcYmLXedKosvmrvhU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2suj7rQXv2hvmubhUsuwEQxue1G.jpg",
-    "overview": "After undergoing the split of Meiosis, meiosisters Orchis and Semes awaken as sperm in the ethereal land of Test, where the annual Testy Festy welcomes them to what seems like heaven. Things take a turn when Seed, a strange sperm donning a condom mask, claims that their paradise is a lie and calls for the start of the Great Jac, a taboo event prophesied to lead either to the Promised Unknown or to death. A sperm civil war breaks out as rebels and loyalists fight over whether their world is truly heaven or merely the prelude to something far greater...",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "KbYsqcwMoCs",
-        "name": "The Odyssemen | Official Trailer | Sperm Short Film About Faith | The Odyssey Parody Trailer",
-        "type": "Trailer"
       }
     ]
   },
@@ -2986,6 +2989,38 @@
     "videos": [
       {
         "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1611116,
+    "title": "The Housemaid's Secret Tits",
+    "release_date": "2027-12-17",
+    "poster": "https://image.tmdb.org/t/p/w500/wN9UPRZ5jbL9n3wIkZSrVov1dC2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AaYEZi1kf2iAs6EMu7prcs6CMlv.jpg",
+    "overview": "Millie Calloway takes a job keeping house for a woman she's never allowed to see \u2014 only to discover the truth behind the locked door that threatens to expose her boobs far bigger than her own.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "eCQBvtNazV4",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1452168,
+    "title": "Behemoth!",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gI3s8kkXsG0VHkpWjtZBKOz6sOk.jpg",
+    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "TrMGdrCJ5Ck",
         "name": "Official Teaser",
         "type": "Teaser"
       }
