@@ -34,8 +34,8 @@
     "id": 1081003,
     "title": "Supergirl",
     "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wZJTidyAi53smx6x4LBFgfQolRU.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
     "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
     "theatrical": true,
     "videos": [
@@ -159,7 +159,7 @@
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
     "videos": [
@@ -179,8 +179,8 @@
         "type": "Trailer"
       },
       {
-        "key": "XOop4lBWh0w",
-        "name": "Brand New chills",
+        "key": "t96odN5ywXc",
+        "name": "You ready?",
         "type": "Teaser"
       }
     ]
@@ -1464,7 +1464,7 @@
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bU206dN0ucfOFRK17OXabkdHKFC.jpg",
-    "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
+    "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
     "theatrical": true,
     "videos": [
       {
@@ -2155,7 +2155,7 @@
     "id": 621304,
     "title": "Children of Blood and Bone",
     "release_date": "2027-01-15",
-    "poster": "https://image.tmdb.org/t/p/w500/pCzdQJzDuHgYjVpmVJXsOXPZ11r.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iJHHwaFZumvMLx96apZPNhhIb1A.jpg",
     "overview": "In the world of Or\u00efsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
     "theatrical": true,
@@ -2599,6 +2599,22 @@
     ]
   },
   {
+    "id": 1431804,
+    "title": "40 Dates and 40 Nights",
+    "release_date": "2026-06-16",
+    "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
+    "overview": "Burned out on dating and ready to quit, Leah accepts her grandma's outrageous challenge: 40 dates in 40 nights for a full year of rent. From awkward dinners to unexpected sparks, she discovers the biggest obstacle to love might just be herself.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Egk_FWQgW4w",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
@@ -2785,22 +2801,6 @@
         "key": "cmjpadVj-Vk",
         "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1497464,
-    "title": "Gatto",
-    "release_date": "2027-03-05",
-    "poster": "https://image.tmdb.org/t/p/w500/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wysnlyXYzsueW1Vl5w2qNR3nLXU.jpg",
-    "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he\u2019s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose \u2014 unless Venice gets the better of him first.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "NIKfR_uF_d0",
-        "name": "Teaser Trailer",
-        "type": "Teaser"
       }
     ]
   },
