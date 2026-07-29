@@ -432,22 +432,6 @@
     ]
   },
   {
-    "id": 1728704,
-    "title": "Siping",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/wNzRyplxryB8s6jb8Be5dYAKZb5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5XZqtQNB3XAnn7kFgU0XsSHbevV.jpg",
-    "overview": "A gripping story about a woman wagered in a high-stakes card game. But the stakes get even hotter when she\u2019s won by the man who\u2019s long been obsessed with her.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "x2HnS5gu6Co",
-        "name": "SIPING Official Trailer | World Premiere this JULY 10 only on VMX",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
@@ -1540,7 +1524,7 @@
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "theatrical": true,
@@ -1921,7 +1905,7 @@
   },
   {
     "id": 1511675,
-    "title": "Kingdom V: The Clash of Souls",
+    "title": "Kingdom 5: The Clash of Souls",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/3ktrtViH5CCN8YVjgsVa5rPoGPB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cKLAotXdVF1CSjieKCn1O9CRX2Y.jpg",
@@ -2231,6 +2215,22 @@
     ]
   },
   {
+    "id": 1725909,
+    "title": "Asesino Perfecto",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/3cYidNGENPU8Izh0V7ikkEt0Egw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/whZtKmcXtHKvtDgRPwvf5Cxhjyf.jpg",
+    "overview": "A peaceful town is gripped by fear when a series of mysterious murders leaves investigators with no witnesses, no evidence, and no clear suspect. As each new victim is discovered, Captain Rocio Cortes and Detective Soto race to stop a killer who always seems one step ahead. Their investigation uncovers hidden secrets, broken family ties, and painful events from the past that connect several lives in unexpected ways. As suspicion shifts from one person to another, two brothers, Leo and Elias, find themselves at the center of a mystery that will test their loyalty and force them to confront the truth. With fear spreading throughout the community and trust quickly fading, the search for justice becomes a dangerous race against time in this suspenseful Mexican crime thriller filled with mystery, psychological tension, and unexpected twists.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "yh__5DS_pZ8",
+        "name": "\ud83c\udfa5 Perfect Killer | Official Trailer @HuizarTV",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1122030,
     "title": "Alpha",
     "release_date": "2026-07-03",
@@ -2334,7 +2334,7 @@
     "id": 1596008,
     "title": "Con City",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
     "overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
     "theatrical": false,
@@ -2484,6 +2484,48 @@
     ]
   },
   {
+    "id": 1284046,
+    "title": "Onslaught",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
+    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "AMLCbpM1fRQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer"
+      },
+      {
+        "key": "06hhVL13HEw",
+        "name": "Official Trailer (4K)",
+        "type": "Trailer"
+      },
+      {
+        "key": "L24CYVpQ-LI",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1682974,
+    "title": "The India Story",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/xxWm1jf8CdRi9sUB3a19en8YHfF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4TtfVgg7GHiYFtlIiEjZ3JHTz4S.jpg",
+    "overview": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "Pci6yErjwt0",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
@@ -2511,6 +2553,22 @@
         "key": "Jsz_iWiqwts",
         "name": "Proserpina. Vitus. Tibby. Hersilia.",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1664011,
+    "title": "Revolutionary America",
+    "release_date": "2026-05-31",
+    "poster": "https://image.tmdb.org/t/p/w500/r136QaWVKw5eBuGENUGsQcJKPVT.jpg",
+    "backdrop": "",
+    "overview": "The story of the American Founding, the greatest political achievement in history. The American colonists had developed a unique way of life as they practiced self-government for 150 years. In the struggles between the colonies and the mother country that followed the French and Indian War, Britain\u202fdeclared that Americans had no right to rule themselves. This went against everything the Americans knew. In response, our ancestors risked their \u201clives, fortunes, and sacred honor\u201d to fight the War for Independence. Against all odds, they won, and in victory formed a stable, lasting republic.\u202f",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "fDg303WfCj0",
+        "name": "Coming to Theaters Soon: Revolutionary America | Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -2599,6 +2657,22 @@
     ]
   },
   {
+    "id": 1381202,
+    "title": "The Outer Threat",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ouEdGbvYnhAnHJYLYDkISs3X9yJ.jpg",
+    "overview": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family \u2014 pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "UBIZgVTunA0",
+        "name": "The Outer Threat | Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1431804,
     "title": "40 Dates and 40 Nights",
     "release_date": "2026-06-16",
@@ -2615,44 +2689,34 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/2nHPVmDxSZhtjdJWtl4G0CaVORj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
+    "id": 1020047,
+    "title": "In the Hand of Dante",
+    "release_date": "2026-06-12",
+    "poster": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
+    "overview": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
     "theatrical": true,
     "videos": [
       {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
+        "key": "cXA3Zgsky18",
+        "name": "Official Trailer",
         "type": "Trailer"
-      },
-      {
-        "key": "Prv_FLWLlq8",
-        "name": "Title Reveal",
-        "type": "Teaser"
       }
     ]
   },
   {
-    "id": 1280015,
-    "title": "Sunny Dancer",
-    "release_date": "2026-08-12",
-    "poster": "https://image.tmdb.org/t/p/w500/yXdQX7wQSG1TZlGfaSujxazPPtM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
-    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+    "id": 1260649,
+    "title": "Jumanji: Open World",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sI65LrPqw0w9VYHfWfa0KoO5c1J.jpg",
+    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
     "theatrical": true,
     "videos": [
       {
-        "key": "UQxRhHK_Bmw",
+        "key": "zhApeaHMvfs",
         "name": "Official Trailer",
         "type": "Trailer"
-      },
-      {
-        "key": "BNHQH3u8eTU",
-        "name": "Only In Cinemas August 14",
-        "type": "Teaser"
       }
     ]
   },
@@ -2688,22 +2752,6 @@
     "videos": [
       {
         "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1083884,
-    "title": "Signal One",
-    "release_date": "2026-06-05",
-    "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
-    "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we\u2019re left to wonder: do they come in peace?",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "rJY9BC89igE",
         "name": "Official Trailer",
         "type": "Trailer"
       }
@@ -2752,38 +2800,6 @@
       {
         "key": "DT_i0aq-vPs",
         "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1660526,
-    "title": "Please",
-    "release_date": "2026-06-22",
-    "poster": "https://image.tmdb.org/t/p/w500/Shw3N68WNNO7ySEjGiLTtLwjRJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g9y7aCq7gOA2TWF2GmgCcZtVBJO.jpg",
-    "overview": "A dark comedy about humankind\u2019s desire to love and to be loved. Centred around neediness, intimacy and romance.  Told through a series of loosely connected, tender and absurd scenes, the film follows people who are searching for closeness and acceptance. In a world that preaches self-control, the film explores the sides we try to hide, such as feeling needy and pathetic.  The stories overlap and reappear, gradually forming a portrait of collective longing.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "hlxSBtzmcQ8",
-        "name": "PLEASE by Anna Mantzaris - Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1384040,
-    "title": "Haunted Heist",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/hdKkVb8ylvg7xm9W2IAhd5ydp73.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rTPlcQx6aKqEE0ttuDRRfADB4NZ.jpg",
-    "overview": "Four estranged friends reunite at what appears to be a typical house, But one friend has ulterior motives; he plans to rob the place and needs their help to find an antique worth a fortune. But the house is straight up haunted, and the group must squash their differences to survive the night and an insane pack of ghosts.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "M327gG_6mC0",
-        "name": "Haunted Heist | Official Trailer | In Theaters July 24",
         "type": "Trailer"
       }
     ]
@@ -3020,22 +3036,6 @@
       },
       {
         "key": "TrMGdrCJ5Ck",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "67ho3OxCmmM",
         "name": "Official Teaser",
         "type": "Teaser"
       }
