@@ -4,7 +4,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "videos": [
@@ -55,8 +55,8 @@
         "type": "Trailer"
       },
       {
-        "key": "yREwXgtmBW8",
-        "name": "It's a brand new day.",
+        "key": "J8eK7cJah3c",
+        "name": "A new story. A new adventure. A Brand New Day!",
         "type": "Teaser"
       }
     ]
@@ -769,7 +769,7 @@
     "release_date": "2026-06-26",
     "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-    "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+    "overview": "Joe and Angela\u2019s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
     "theatrical": true,
     "videos": [
       {
@@ -830,7 +830,7 @@
     "id": 1101383,
     "title": "The End of Oak Street",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "theatrical": true,
@@ -1211,6 +1211,22 @@
     ]
   },
   {
+    "id": 656908,
+    "title": "Ramayana",
+    "release_date": "2026-11-08",
+    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "lNaSdnz2I8g",
+        "name": "Namit Malhotra\u2019s Ramayana - Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R. Rahman",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1472951,
     "title": "Infiltrate",
     "release_date": "2026-04-10",
@@ -1340,6 +1356,11 @@
         "key": "zhApeaHMvfs",
         "name": "Official Trailer",
         "type": "Trailer"
+      },
+      {
+        "key": "BJY2-UurJZs",
+        "name": "One. Last. Game. The final countdown begins.",
+        "type": "Teaser"
       }
     ]
   },
@@ -1440,7 +1461,7 @@
     "id": 1732097,
     "title": "Euphoria: A Look Back",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/9iqQqn8ZY5TxG17ZY3joKhIg4Z9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
     "overview": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
     "theatrical": false,
@@ -1475,6 +1496,22 @@
         "key": "vjq7I-lNBSU",
         "name": "In Cinemas and IMAX 17 September",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1458215,
+    "title": "The Gentleman Thief",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
+    "overview": "A retired master thief must protect his impulsive brother from disaster when a 100 million dollar yacht heist spirals into a dangerous web of deception. Old foes emerge as the stakes rise, forcing him to use every trick he knows to stay alive.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "0LB3yWX1R8Y",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -1515,7 +1552,7 @@
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bU206dN0ucfOFRK17OXabkdHKFC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
     "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
     "theatrical": true,
     "videos": [
@@ -2250,7 +2287,7 @@
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/vTtUrgIhJwHcupWQXfaZ5vQVx7V.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
     "overview": "A harrowing tale of devotion, damnation and the devil within.",
     "theatrical": true,
@@ -2258,6 +2295,22 @@
       {
         "key": "cmjpadVj-Vk",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1571981,
+    "title": "Jellyfish, The new Rulers of the Ocean",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/eOuAELAP8H5N7ToQAdLdjmDHNrq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1FRcwZE1aFivy7ruCURIjr12TNq.jpg",
+    "overview": "Jellyfish blooms are making headlines around the world. This is due to the damage they cause to tourism, fishing and our health. How can these creatures, which are over 98% water and have no shell, skeleton or brain, expand so rapidly?  Although this is a normal stage in the life cycle of these gelatinous animals, we have to admit that blooms have become much more frequent and massive in recent decades. We're even witnessing jellyfish populations appearing in more and more regions where fish have been replaced by them, such as off the coast of Namibia, in the Black Sea, in the Sea of Japan and in certain areas of the Baltic Sea. What causes this? Why has the role of jellyfish in the ocean been underestimated, even though they outlived the dinosaurs? Are jellyfish on their way to dominating the oceans as they once did? What if they were to be the only ones left?",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "mt4VC1fOZTs",
+        "name": "Jellyfish, the new rulers of the ocean - Trailer",
         "type": "Trailer"
       }
     ]
@@ -2536,6 +2589,22 @@
     ]
   },
   {
+    "id": 1712439,
+    "title": "Behind the Screens",
+    "release_date": "2026-07-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5XhXoKGzI2sLjDixWUUzVqDRnzt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2r8T8p4pNAoClk6OSgIrIpAubJI.jpg",
+    "overview": "Seven close friends reunite for a dinner gathering and decide to play a seemingly harmless game. Throughout the evening, every message, email, and phone call they receive must be shared openly with the group.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "G92ccbCruhI",
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e25\u0e31\u0e1a - Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
@@ -2615,6 +2684,22 @@
     ]
   },
   {
+    "id": 615121,
+    "title": "The Thomas Crown Affair",
+    "release_date": "2027-03-05",
+    "poster": "https://image.tmdb.org/t/p/w500/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4IwoYgyFdBCELwCr9VmEH1u0wwF.jpg",
+    "overview": "A debonair, adventuresome man believes he has pulled off the perfect multi-million dollar heist, only to match wits with an insurance investigator who will do anything to get her man.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "gnm4HgIAVmU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1712828,
     "title": "Water Park Shark",
     "release_date": "2026-07-18",
@@ -2626,85 +2711,6 @@
       {
         "key": "EQyHkXMr59I",
         "name": "Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1602337,
-    "title": "Parimala and Co",
-    "release_date": "2026-06-05",
-    "poster": "https://image.tmdb.org/t/p/w500/vN2TOTKin83av7hwYnwAKSd3EG8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hcQ9Kcmc34yYElii4fjFxABQYqq.jpg",
-    "overview": "A dark comedy centered around a chaotic family whose tangled relationships and unpredictable situations lead to emotionally charged and absurd moments, blending humor with underlying tension and drama.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "7M0j1oh2lOg",
-        "name": "Parimala and Co | Official Trailer | Jayaram | Urvasi | Tamil ZEE5 | Premieres 10th July",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1284046,
-    "title": "Onslaught",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
-    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "AMLCbpM1fRQ",
-        "name": "Official Trailer 2",
-        "type": "Trailer"
-      },
-      {
-        "key": "06hhVL13HEw",
-        "name": "Official Trailer (4K)",
-        "type": "Trailer"
-      },
-      {
-        "key": "L24CYVpQ-LI",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1329471,
-    "title": "Carolina Caroline",
-    "release_date": "2026-06-05",
-    "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5dE3rixgMUTXOQLuO3zya4zSFav.jpg",
-    "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "fNdC6SJ-TxY",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "-x_4XLUE1qc",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1716842,
-    "title": "Latina",
-    "release_date": "2026-06-19",
-    "poster": "https://image.tmdb.org/t/p/w500/awm0GzYGa1uVAccRqHzNLAcRUZm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8VLpnkkW7q1v8Bcf9tiRb1WRKPF.jpg",
-    "overview": "A story about a mysterious woman who shakes up a seemingly ordinary boarding house. As she charms both the boys and girls, secrets unravel, relationships collide, and chaos takes over.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "INq74nrTqQE",
-        "name": "LATINA Official Trailer | World Premiere this June 19 on VMX",
         "type": "Trailer"
       }
     ]
@@ -2735,7 +2741,7 @@
     "title": "Gatto",
     "release_date": "2027-03-05",
     "poster": "https://image.tmdb.org/t/p/w500/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wysnlyXYzsueW1Vl5w2qNR3nLXU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/etB2OT0nUknOAPZV7EgbEbt6HJh.jpg",
     "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he\u2019s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose \u2014 unless Venice gets the better of him first.",
     "theatrical": true,
     "videos": [
@@ -2905,22 +2911,6 @@
         "key": "pa3nW0EYYcQ",
         "name": "Now in Production",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1664011,
-    "title": "Revolutionary America",
-    "release_date": "2026-05-31",
-    "poster": "https://image.tmdb.org/t/p/w500/r136QaWVKw5eBuGENUGsQcJKPVT.jpg",
-    "backdrop": "",
-    "overview": "The story of the American Founding, the greatest political achievement in history. The American colonists had developed a unique way of life as they practiced self-government for 150 years. In the struggles between the colonies and the mother country that followed the French and Indian War, Britain\u202fdeclared that Americans had no right to rule themselves. This went against everything the Americans knew. In response, our ancestors risked their \u201clives, fortunes, and sacred honor\u201d to fight the War for Independence. Against all odds, they won, and in victory formed a stable, lasting republic.\u202f",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "fDg303WfCj0",
-        "name": "Coming to Theaters Soon: Revolutionary America | Trailer",
-        "type": "Trailer"
       }
     ]
   },
