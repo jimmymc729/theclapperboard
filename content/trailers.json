@@ -637,22 +637,6 @@
     ]
   },
   {
-    "id": 656908,
-    "title": "Ramayana",
-    "release_date": "2026-11-08",
-    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "lNaSdnz2I8g",
-        "name": "Namit Malhotra\u2019s Ramayana - Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R. Rahman",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1101412,
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
@@ -2727,6 +2711,22 @@
         "key": "Pci6yErjwt0",
         "name": "Official Teaser",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1712828,
+    "title": "Water Park Shark",
+    "release_date": "2026-07-18",
+    "poster": "https://image.tmdb.org/t/p/w500/eIWgTZIoExUfnEZOsCsNXs9y5Aw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lCEB4vJMHiT8KEWJ7h2dpM5Zya1.jpg",
+    "overview": "Sharks breach a seaside water park during the debut of a new ride, forcing a lifeguard and the town\u2019s police chief to contain the chaos and protect guests from becoming prey.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "EQyHkXMr59I",
+        "name": "Trailer",
+        "type": "Trailer"
       }
     ]
   },
