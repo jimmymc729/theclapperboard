@@ -66,7 +66,7 @@
     "title": "Supergirl",
     "release_date": "2026-06-26",
     "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
     "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
     "theatrical": true,
     "videos": [
@@ -97,7 +97,7 @@
     "title": "Masters of the Universe",
     "release_date": "2026-06-05",
     "poster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
     "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man \u2014 the most powerful man in the universe.",
     "theatrical": true,
     "videos": [
@@ -785,6 +785,27 @@
     ]
   },
   {
+    "id": 1510795,
+    "title": "Shake, Rattle & Roll: Evil Origins",
+    "release_date": "2026-06-05",
+    "poster": "https://image.tmdb.org/t/p/w500/2ayOQIh18qhJRoajoAxxGuZXry2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg",
+    "overview": "In 1775 during the Spanish colonial period in the Philippines, nuns attempts to survive the night after an unknown evil was set free in their cloister. Meanwhile in 2025, a group of friends attend a Halloween masquerade ball which was attacked by a serial killer. Fast forward to the future in 2050, a post-apocalytic Philippines is ruled by the aswang.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "A5QQvRaHxDw",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "A3gbYYnVW1M",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1408170,
     "title": "Lenin",
     "release_date": "2026-07-10",
@@ -872,8 +893,8 @@
         "type": "Trailer"
       },
       {
-        "key": "MVotHiD8sN4",
-        "name": "\"Get Tickets\"",
+        "key": "50ILlGejrBM",
+        "name": "Made for the BIG screen",
         "type": "Teaser"
       }
     ]
@@ -1193,7 +1214,7 @@
     "id": 1058424,
     "title": "Hope",
     "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i0lipAm0VHFA3EH0CPV0s5LJMIE.jpg",
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "theatrical": true,
@@ -2452,6 +2473,27 @@
     ]
   },
   {
+    "id": 1461701,
+    "title": "Foufo",
+    "release_date": "2026-07-09",
+    "poster": "https://image.tmdb.org/t/p/w500/cYNgm6TffgIvqK1xwP264BooSVp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u68lJ7NzvOLlEE4kyyCSKAo8qxz.jpg",
+    "overview": "The encounter of Madurese residents with small aliens that triggers hilarious chaos and unexpected adventures.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "U5W4IuVb9sY",
+        "name": "FOUFO - Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "-Wmls0z39M4",
+        "name": "Official Teaser Trailer \ud835\udc05\ud835\udc0e\ud835\udc14\ud835\udc05\ud835\udc0e \ud83d\udc7d",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
@@ -2683,49 +2725,38 @@
     ]
   },
   {
-    "id": 1165369,
-    "title": "De Gaulle: Libert\u00e9",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/tcypmwT43pt5jWiUyy2BomyPD1Y.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pS7VXwb1sNk79F5GzgtEP5YzEHE.jpg",
-    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+    "id": 1322532,
+    "title": "Cek Khodam",
+    "release_date": "2026-07-16",
+    "poster": "https://image.tmdb.org/t/p/w500/o2aUDzJxXJOGxfCyKF6oawHBf2d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f4P6rDf6FuXe1wtw2ZYJgVtu4G0.jpg",
+    "overview": "Nowadays, people are more afraid of empty wallets, late payments, and the end of the month than ghosts. Ghosts are even used as entertainment through the content Cek Khodam (Hodgkin's Check) created by three friends, Sakti, Wira, and Bima. Unbeknownst to them, their actions have drastically reduced the Human Fear Score (AKM). To restore the dignity of the supernatural world and raise the human fear score, the Commander of the Khodam is tasked with descending directly into the human world. However, the mission does not go according to plan. The harder the khodam try to scare humans, the more chaos they create.",
     "theatrical": false,
     "videos": [
       {
-        "key": "J6MRNchmZkY",
-        "name": "DE GAULLE: FILM 2 - LIBERT\u00c9 - Official Trailer HD",
+        "key": "D8xsvnUCqp4",
+        "name": "KHODAM CHECK - OFFICIAL TRAILER | JULY 16, 2026 IN THEATERS",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1682974,
-    "title": "The India Story",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/xxWm1jf8CdRi9sUB3a19en8YHfF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4TtfVgg7GHiYFtlIiEjZ3JHTz4S.jpg",
-    "overview": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
-    "theatrical": false,
-    "videos": [
+      },
       {
-        "key": "Pci6yErjwt0",
-        "name": "Official Teaser",
+        "key": "r_wFt8Gq8X8",
+        "name": "CHECK YOUR SPIRIT GUARDIAN - TEASER TRAILER | JULY 16, 2026 IN THEATERS",
         "type": "Teaser"
       }
     ]
   },
   {
-    "id": 1712828,
-    "title": "Water Park Shark",
-    "release_date": "2026-07-18",
-    "poster": "https://image.tmdb.org/t/p/w500/eIWgTZIoExUfnEZOsCsNXs9y5Aw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lCEB4vJMHiT8KEWJ7h2dpM5Zya1.jpg",
-    "overview": "Sharks breach a seaside water park during the debut of a new ride, forcing a lifeguard and the town\u2019s police chief to contain the chaos and protect guests from becoming prey.",
-    "theatrical": false,
+    "id": 1473505,
+    "title": "Kill Trip",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/qHEXW63p1NcuoyCGQHDroi4HV9V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9NkPCbhywlcINLUKQOGNHNp1ALk.jpg",
+    "overview": "On the way to a Texas music festival, a group of friends catches a ride with a magnetic van driver. But when people start vanishing, the real headliner becomes survival.",
+    "theatrical": true,
     "videos": [
       {
-        "key": "EQyHkXMr59I",
-        "name": "Trailer",
+        "key": "Ay_sd39xtBo",
+        "name": "Kill Trip | Official Trailer",
         "type": "Trailer"
       }
     ]
@@ -2879,22 +2910,6 @@
         "key": "NIKfR_uF_d0",
         "name": "Teaser Trailer",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1571981,
-    "title": "Jellyfish, The new Rulers of the Ocean",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/eOuAELAP8H5N7ToQAdLdjmDHNrq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1FRcwZE1aFivy7ruCURIjr12TNq.jpg",
-    "overview": "Jellyfish blooms are making headlines around the world. This is due to the damage they cause to tourism, fishing and our health. How can these creatures, which are over 98% water and have no shell, skeleton or brain, expand so rapidly?  Although this is a normal stage in the life cycle of these gelatinous animals, we have to admit that blooms have become much more frequent and massive in recent decades. We're even witnessing jellyfish populations appearing in more and more regions where fish have been replaced by them, such as off the coast of Namibia, in the Black Sea, in the Sea of Japan and in certain areas of the Baltic Sea. What causes this? Why has the role of jellyfish in the ocean been underestimated, even though they outlived the dinosaurs? Are jellyfish on their way to dominating the oceans as they once did? What if they were to be the only ones left?",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "mt4VC1fOZTs",
-        "name": "Jellyfish, the new rulers of the ocean - Trailer",
-        "type": "Trailer"
       }
     ]
   },
