@@ -1420,8 +1420,8 @@
     "id": 1185806,
     "title": "PAW Patrol: The Dino Movie",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cxXSF4aY5N2cOGwaga5OnpPFHzk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
     "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
     "theatrical": true,
     "videos": [
@@ -1533,6 +1533,22 @@
       {
         "key": "2nKLfpXRuEM",
         "name": "Bokshi \u2013 Official Teaser",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1509599,
+    "title": "Gatta Kusthi 2",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
+    "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "KZ4W78J_PrM",
+        "name": "Gatta Kusthi 2 | Official Trailer | Releasing at PVR INOX on July 3!",
         "type": "Trailer"
       }
     ]
@@ -2162,6 +2178,22 @@
     ]
   },
   {
+    "id": 1443961,
+    "title": "Rao Bahadur",
+    "release_date": "2026-07-02",
+    "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
+    "overview": "In 1970s India, an eccentric aristocrat\u2014labeled a 'man of miracles'\u2014miraculously survives a terminal illness. Plagued by guilt and fear, he retreats into his palatial mansion, creating an alternate world that deeply blurs reality and imagination.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "aevbXGQKlw8",
+        "name": "Rao Bahadur - Official Trailer | Satya Dev | A Venkatesh Maha Film | GMB | SriChakraas | A+S Movies",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
@@ -2498,22 +2530,6 @@
     ]
   },
   {
-    "id": 1248251,
-    "title": "Mollywood Times",
-    "release_date": "2026-06-05",
-    "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
-    "overview": "Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "wO_LlRytRTk",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1725909,
     "title": "Asesino Perfecto",
     "release_date": "2026-07-24",
@@ -2726,22 +2742,6 @@
         "key": "-Wmls0z39M4",
         "name": "Official Teaser Trailer \ud835\udc05\ud835\udc0e\ud835\udc14\ud835\udc05\ud835\udc0e \ud83d\udc7d",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1728954,
-    "title": "My Grandfather Charles Manson",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg",
-    "overview": "Sophia was always the good girl growing up and her father's rock, but her quest to identify her unknown grandfather results in a shocking discovery: He is Charles Manson, history's most notorious criminal; and he bears striking physical similarities to her beloved father. Sophia's discovery propels her into an underworld of Manson family members and unreliable narrators as she traces her grandfather's life. Along the way, her genetics unlock never-before-released records and audio recordings that illuminate Manson's pathology in startling ways. But the more Sophia uncovers, the more her relationship with her father is strained. For Sophia, there's no turning back. What has she inherited, and how will she reckon with her family legacy?",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "fiLFIKW7LQI",
-        "name": "Official Trailer",
-        "type": "Trailer"
       }
     ]
   },
