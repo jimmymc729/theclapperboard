@@ -35,7 +35,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "videos": [
@@ -1032,6 +1032,22 @@
     ]
   },
   {
+    "id": 1396749,
+    "title": "Wild Sing",
+    "release_date": "2026-07-30",
+    "poster": "https://image.tmdb.org/t/p/w500/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wuqlB1rgHlGKf33rMu3QpRzb15o.jpg",
+    "overview": "Twenty years after a scandal tears apart a popular 2000s K\u2011pop trio, the three reunite for a one-off gig \u2014 if they can overcome one snag after another.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "ML3X383Jhew",
+        "name": "Wild Sing | Official Trailer | Netflix [ENG SUB]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1057265,
     "title": "Peddi",
     "release_date": "2026-06-03",
@@ -1929,7 +1945,7 @@
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/dp9PYwNIP0aDBiat7tioYGjCjzd.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/95FAaZea15Kjz4TVcCraWhMXt9H.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -2193,22 +2209,6 @@
       {
         "key": "A7lyvgnDuDE",
         "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1660526,
-    "title": "Please",
-    "release_date": "2026-06-22",
-    "poster": "https://image.tmdb.org/t/p/w500/Shw3N68WNNO7ySEjGiLTtLwjRJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g9y7aCq7gOA2TWF2GmgCcZtVBJO.jpg",
-    "overview": "A dark comedy about humankind\u2019s desire to love and to be loved. Centred around neediness, intimacy and romance.  Told through a series of loosely connected, tender and absurd scenes, the film follows people who are searching for closeness and acceptance. In a world that preaches self-control, the film explores the sides we try to hide, such as feeling needy and pathetic.  The stories overlap and reappear, gradually forming a portrait of collective longing.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "hlxSBtzmcQ8",
-        "name": "PLEASE by Anna Mantzaris - Trailer",
         "type": "Trailer"
       }
     ]
@@ -2556,6 +2556,22 @@
     ]
   },
   {
+    "id": 1517868,
+    "title": "Maddie's Secret",
+    "release_date": "2026-06-19",
+    "poster": "https://image.tmdb.org/t/p/w500/gtssK2SacGjpj2psN0Ee2TcTgso.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/39RIvioR4KJWMnzjjZGUWOoQxzv.jpg",
+    "overview": "Maddie is a plucky dishwasher who leaps to viral superstardom at a trendy food content creation company. While her life seems picturesque \u2014 complete with an adoring husband, ride-or-die best friend and a cupboard full of woman-owned ethically-sourced chili crisp to boot \u2014 mounting professional pressures threaten to reawaken a hidden secret from her troubled past.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "IjfX8l5XrF8",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 615121,
     "title": "The Thomas Crown Affair",
     "release_date": "2027-03-05",
@@ -2701,27 +2717,6 @@
         "key": "yh__5DS_pZ8",
         "name": "\ud83c\udfa5 Perfect Killer | Official Trailer @HuizarTV",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier (Alan Ritchson) is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner (Owen Wilson) the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "2ZfuX4IBTXM",
-        "name": "Official Teaser",
-        "type": "Teaser"
       }
     ]
   },
