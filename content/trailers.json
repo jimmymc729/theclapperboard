@@ -494,8 +494,8 @@
     "id": 1469342,
     "title": "Her Private Hell",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/8wnVNRLVZo9T258sb9KYMwizTCE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x9sVh1AVFF5GLs7huOoZdVga07.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
     "overview": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
     "theatrical": true,
     "videos": [
@@ -559,22 +559,6 @@
       {
         "key": "QX85JymdGnQ",
         "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1569947,
-    "title": "The Priest: Thanksgiving Massacre",
-    "release_date": "2026-07-08",
-    "poster": "https://image.tmdb.org/t/p/w500/AiRySv62247N91mfCCAryACGNuv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1ldfkNbf3joNG8mA6idXoEL1fZV.jpg",
-    "overview": "A family gather to spend Thanksgiving at an isolated cabin, unaware that the site has a horrific history of murder and cannibalism and that the Priest responsible did not rest in peace. Now they are on the menu for Thanksgiving dinner.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "Y9kUXQnbB18",
-        "name": "Trailer",
         "type": "Trailer"
       }
     ]
@@ -1821,75 +1805,6 @@
     ]
   },
   {
-    "id": 1616674,
-    "title": "Me Before Me",
-    "release_date": "2026-07-16",
-    "poster": "https://image.tmdb.org/t/p/w500/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg",
-    "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth \u2014 not trophies \u2014 might finally set him free.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "3niHaoJ_MzQ",
-        "name": "Aku Sebelum Aku | Teaser Resmi | Netflix",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1522333,
-    "title": "Carry On Jatta 4",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
-    "backdrop": "",
-    "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "fsDBAr42UUg",
-        "name": "Carry On Jatta 4 (Trailer) Gippy Grewal | Binnu Dhillon | Sargun Mehta | Late Jaswinder Bhalla Ji",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1400837,
-    "title": "Other Mommy",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/kNxRgcTeqeU5jauBackTERoO2De.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
-    "overview": "A young girl, Bela, forms a relationship with a sinister entity in her home who looks uncannily like her own mother.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "bEpTgowZ1dI",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1213243,
-    "title": "Toxic",
-    "release_date": "2026-08-15",
-    "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "JQ7pytcXahw",
-        "name": "Ladies & Ladies",
-        "type": "Teaser"
-      },
-      {
-        "key": "aF08WVSvCok",
-        "name": "Introducing Raya",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 421892,
     "title": "Shrek 5",
     "release_date": "2027-06-30",
@@ -1957,22 +1872,6 @@
       },
       {
         "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1148365,
-    "title": "Matchbox: The Movie",
-    "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "7xfqITrMDcI",
         "name": "Official Trailer",
         "type": "Trailer"
       }
@@ -2068,37 +1967,6 @@
       {
         "key": "h-AyrYcuL8U",
         "name": "In Theaters August 28",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1240889,
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "j9TsiTgYZGw",
-        "name": "Official Vertical Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "dimCiC_hdoA",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "7mgPvX9iSgo",
-        "name": "Hannah Einbinder is Kris",
-        "type": "Teaser"
-      },
-      {
-        "key": "Nf-HBNQ3R8A",
-        "name": "There\u2019s a hole at the bottom of the lake, and it\u2019s open wide.",
         "type": "Teaser"
       }
     ]
@@ -2209,6 +2077,22 @@
       {
         "key": "A7lyvgnDuDE",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1660526,
+    "title": "Please",
+    "release_date": "2026-06-22",
+    "poster": "https://image.tmdb.org/t/p/w500/Shw3N68WNNO7ySEjGiLTtLwjRJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g9y7aCq7gOA2TWF2GmgCcZtVBJO.jpg",
+    "overview": "A dark comedy about humankind\u2019s desire to love and to be loved. Centred around neediness, intimacy and romance.  Told through a series of loosely connected, tender and absurd scenes, the film follows people who are searching for closeness and acceptance. In a world that preaches self-control, the film explores the sides we try to hide, such as feeling needy and pathetic.  The stories overlap and reappear, gradually forming a portrait of collective longing.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "hlxSBtzmcQ8",
+        "name": "PLEASE by Anna Mantzaris - Trailer",
         "type": "Trailer"
       }
     ]
@@ -2604,22 +2488,6 @@
     ]
   },
   {
-    "id": 1443961,
-    "title": "Rao Bahadur",
-    "release_date": "2026-07-02",
-    "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
-    "overview": "In 1970s India, an eccentric aristocrat\u2014labeled a 'man of miracles'\u2014miraculously survives a terminal illness. Plagued by guilt and fear, he retreats into his palatial mansion, creating an alternate world that deeply blurs reality and imagination.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "aevbXGQKlw8",
-        "name": "Rao Bahadur - Official Trailer | Satya Dev | A Venkatesh Maha Film | GMB | SriChakraas | A+S Movies",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 890216,
     "title": "Pacific",
     "release_date": "2026-07-08",
@@ -2721,6 +2589,132 @@
     ]
   },
   {
+    "id": 1617133,
+    "title": "Solitaire",
+    "release_date": "2026-07-04",
+    "poster": "https://image.tmdb.org/t/p/w500/lP4tVQdgQoQpMA7pUPwUg2OVCen.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qxPxzUsOexHwbp24laYaHxVEX23.jpg",
+    "overview": "A young woman adjusts to life in a new city, managing remote work, a relationship on thin ice, and single-player tennis.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "-V9gMWKJhyY",
+        "name": "Solitaire (Official Trailer)",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1538497,
+    "title": "Hexed",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "mtC4sjABZNw",
+        "name": "Teaser Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "2ZfuX4IBTXM",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1284046,
+    "title": "Onslaught",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
+    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "AMLCbpM1fRQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer"
+      },
+      {
+        "key": "06hhVL13HEw",
+        "name": "Official Trailer (4K)",
+        "type": "Trailer"
+      },
+      {
+        "key": "L24CYVpQ-LI",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1362262,
+    "title": "CAMP",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/pQrlFAiakpphxCrR5lmHT3GR7Td.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eCLS2vvfyXfG64FZocHs9baVvKA.jpg",
+    "overview": "Emily is the cause of two tragedies early in her life; her dad suggests she go to a Camp for troubled youth to ease her guilt. When Emily arrives, she is taken in by the other counsellors; they accept her as she is and wrap her in a veil of peace & forgiveness. Emily stands at the forefront of a new kind of life, but there\u2019s a voice out there in the woods she can\u2019t ignore, telling Emily to go home.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "qctnEcM5TkI",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "XTiOCFuruFI",
+        "name": "Watch at Home",
+        "type": "Teaser"
+      },
+      {
+        "key": "jblBtxlkVC8",
+        "name": "Witch Chant",
+        "type": "Teaser"
+      },
+      {
+        "key": "GWMqlrsQrtY",
+        "name": "Get Tickets",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1083884,
+    "title": "Signal One",
+    "release_date": "2026-06-05",
+    "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
+    "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we\u2019re left to wonder: do they come in peace?",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "rJY9BC89igE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 880067,
     "title": "Strung",
     "release_date": "2026-05-27",
@@ -2754,6 +2748,68 @@
         "key": "dysnNEOai8A",
         "name": "DE GAULLE: TILTING IRON Official Trailer 2026 | One Man Refused to Surrender\u2026",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 822653,
+    "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/g4kCd4rMuN7G3VQQDUT6mLbrBqQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xzm3RfWh932rS28WErNC3u8qzVm.jpg",
+    "overview": "After the events of Rebellion, the world appears to be in balance\u2014but that peace is fragile. As a new threat connected to Walpurgisnacht emerges, Homura Akemi is forced to face the consequences of her choices and question how far she is willing to go to protect Madoka.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "g0CsWEIb6D4",
+        "name": "Official Trailer 3 [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "3rdPRWNwJBM",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "CxTenVJOw_o",
+        "name": "Official Trailer: SIDE Homura [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "htNvpTfYMdk",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1341138,
+    "title": "Spa Weekend",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/d2Ga7lZI4c19YGcIH09vj9mDZKU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
+    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families and everyday responsibilities, they have forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for what turns out to be an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "FUFyXtlXw7k",
+        "name": "Censored UK Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "p_LJgljyhfE",
+        "name": "UK Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "9p7j3UvpEQQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "1HHA9Rd4gQk",
+        "name": "Buddy System",
+        "type": "Teaser"
       }
     ]
   },
@@ -3044,22 +3100,6 @@
         "key": "Vrze2vx3avI",
         "name": "Splash City (2026) Official Trailer \u2013 A Film By Berner",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1212489,
-    "title": "The Resurrection of the Christ: Part Two",
-    "release_date": "2028-05-25",
-    "poster": "https://image.tmdb.org/t/p/w500/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg",
-    "backdrop": "",
-    "overview": "The second part of a two-part sequel to The Passion of the Christ. Plot TBA.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "-cwD-lYN2Bo",
-        "name": "THE RESURRECTION OF THE CHRIST Parts One and Two - coming to theaters Spring 2027.",
-        "type": "Teaser"
       }
     ]
   },
