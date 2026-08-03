@@ -4,7 +4,7 @@
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
     "videos": [
@@ -211,7 +211,7 @@
     "title": "The Devil's Mouth",
     "release_date": "2026-07-29",
     "poster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
     "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
     "theatrical": false,
     "videos": [
@@ -507,7 +507,7 @@
     "title": "Descendants: Wicked Wonderland",
     "release_date": "2026-07-16",
     "poster": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
     "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past created a new villain \u2014 Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red\u2019s new sister Pink, Luisa Madrigal\u2019s son Luis, and Maddox\u2019s son Max to save her and Wonderland.",
     "theatrical": false,
     "videos": [
@@ -1052,7 +1052,7 @@
     "id": 1260649,
     "title": "Jumanji: Open World",
     "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6cjXqoR3Deh29nnRHntbBLgadsC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pYN5Zjc3l1hj2hMeBbzRYDYTC1E.jpg",
     "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
     "theatrical": true,
@@ -1254,18 +1254,18 @@
         "type": "Trailer"
       },
       {
+        "key": "T7A6NtD4w8s",
+        "name": "Slide",
+        "type": "Teaser"
+      },
+      {
+        "key": "CZ9uBkTqN2Y",
+        "name": "Ready?",
+        "type": "Teaser"
+      },
+      {
         "key": "6APsmeSkvdQ",
         "name": "Are you prepared?",
-        "type": "Teaser"
-      },
-      {
-        "key": "-5qHZ-tsM3c",
-        "name": "Guess What?",
-        "type": "Teaser"
-      },
-      {
-        "key": "P_ogZcvAOhs",
-        "name": "Plans Vs Reality",
         "type": "Teaser"
       }
     ]
@@ -1709,7 +1709,7 @@
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mA5wI6shQytBlMkzevUZI01IDs6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/95FAaZea15Kjz4TVcCraWhMXt9H.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -2208,7 +2208,7 @@
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/wbTHJ5VzOjEq02PYHkLAL7yhhBn.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
     "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
@@ -2526,6 +2526,22 @@
     ]
   },
   {
+    "id": 1083884,
+    "title": "Signal One",
+    "release_date": "2026-06-05",
+    "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
+    "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we\u2019re left to wonder: do they come in peace?",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "rJY9BC89igE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1248251,
     "title": "Mollywood Times",
     "release_date": "2026-06-05",
@@ -2536,6 +2552,22 @@
     "videos": [
       {
         "key": "wO_LlRytRTk",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1587964,
+    "title": "They Fight",
+    "release_date": "2026-06-08",
+    "poster": "https://image.tmdb.org/t/p/w500/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h6BWd6mU6o1KqZDrVaAldmvboCX.jpg",
+    "overview": "Reformed ex-convict Walt Manigan returns home to rebuild his family with the love of his life, Ketta. His path leads him to a boxing gym inside a D.C. youth recreation center about to be closed. There, he works under the wise coach Slim to mentor a group of boys to train for the junior national boxing tournament, all leading to a showdown between best friends Quincey and Peanut as they battle for a spot on the U.S. Junior Olympic Team.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "o9r5xmGthFY",
         "name": "Official Trailer",
         "type": "Trailer"
       }
@@ -2627,6 +2659,27 @@
     ]
   },
   {
+    "id": 1329471,
+    "title": "Carolina Caroline",
+    "release_date": "2026-06-05",
+    "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5dE3rixgMUTXOQLuO3zya4zSFav.jpg",
+    "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "fNdC6SJ-TxY",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "-x_4XLUE1qc",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1725909,
     "title": "Asesino Perfecto",
     "release_date": "2026-07-24",
@@ -2659,22 +2712,6 @@
     ]
   },
   {
-    "id": 1165369,
-    "title": "De Gaulle: Libert\u00e9",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/tcypmwT43pt5jWiUyy2BomyPD1Y.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pS7VXwb1sNk79F5GzgtEP5YzEHE.jpg",
-    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "J6MRNchmZkY",
-        "name": "DE GAULLE: FILM 2 - LIBERT\u00c9 - Official Trailer HD",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -2691,27 +2728,6 @@
       {
         "key": "9xnDvEJJlxE",
         "name": "In Cinemas 8 October",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "2ZfuX4IBTXM",
-        "name": "Official Teaser",
         "type": "Teaser"
       }
     ]
@@ -2791,22 +2807,6 @@
         "key": "GSUNFgz7ePY",
         "name": "A bond that cannot be broken.",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1617133,
-    "title": "Solitaire",
-    "release_date": "2026-07-04",
-    "poster": "https://image.tmdb.org/t/p/w500/lP4tVQdgQoQpMA7pUPwUg2OVCen.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qxPxzUsOexHwbp24laYaHxVEX23.jpg",
-    "overview": "A young woman adjusts to life in a new city, managing remote work, a relationship on thin ice, and single-player tennis.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "-V9gMWKJhyY",
-        "name": "Solitaire (Official Trailer)",
-        "type": "Trailer"
       }
     ]
   },
