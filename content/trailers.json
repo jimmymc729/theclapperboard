@@ -906,6 +906,22 @@
     ]
   },
   {
+    "id": 1594914,
+    "title": "Lucky Strike",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/fVLC2DMUfD8wHVq0WVNg3WFkG3g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7FivR6OVr56calRq8UyZjmPsVE2.jpg",
+    "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "vtEnjikCXyA",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1408170,
     "title": "Lenin",
     "release_date": "2026-07-10",
@@ -1181,7 +1197,7 @@
     "id": 1227241,
     "title": "Maa Inti Bangaram",
     "release_date": "2026-06-18",
-    "poster": "https://image.tmdb.org/t/p/w500/4JO2WYPwBL6qWsKIM4v7loHrNCX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
     "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
     "theatrical": true,
@@ -1503,8 +1519,8 @@
         "type": "Trailer"
       },
       {
-        "key": "XDEtpedO1T0",
-        "name": "Tools of the trade.",
+        "key": "hfDf-dn2_OQ",
+        "name": "He makes it look so easy.",
         "type": "Teaser"
       }
     ]
@@ -1527,6 +1543,27 @@
         "key": "pNnJ5ORMcA8",
         "name": "Evil found a way out.",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1404304,
+    "title": "The Isolate Thief",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+    "overview": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "jSwHRzmEhBI",
+        "name": "In Theaters Friday",
+        "type": "Trailer"
+      },
+      {
+        "key": "3eVoGaI8mpo",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -2386,6 +2423,11 @@
         "type": "Trailer"
       },
       {
+        "key": "lxZUNdsm8Jc",
+        "name": "Enhance",
+        "type": "Teaser"
+      },
+      {
         "key": "aRk1wmbYWjc",
         "name": "In Theaters Friday - Get Tickets Meow",
         "type": "Teaser"
@@ -2393,11 +2435,6 @@
       {
         "key": "_rBjkHLCobA",
         "name": "In Theaters Friday - Get Tickets Meow",
-        "type": "Teaser"
-      },
-      {
-        "key": "S0r_ISKTqLM",
-        "name": "The Ultimate Mustache Ride",
         "type": "Teaser"
       }
     ]
@@ -2498,22 +2535,6 @@
       {
         "key": "0tVpYYFlbJw",
         "name": "FREE AT HEART - OFFICIAL INTERNATIONAL TRAILER",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 615121,
-    "title": "The Thomas Crown Affair",
-    "release_date": "2027-03-05",
-    "poster": "https://image.tmdb.org/t/p/w500/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4IwoYgyFdBCELwCr9VmEH1u0wwF.jpg",
-    "overview": "A debonair, adventuresome man believes he has pulled off the perfect multi-million dollar heist, only to match wits with an insurance investigator who will do anything to get her man.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "gnm4HgIAVmU",
-        "name": "Official Teaser Trailer",
         "type": "Trailer"
       }
     ]
@@ -2630,27 +2651,6 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/2nHPVmDxSZhtjdJWtl4G0CaVORj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "Prv_FLWLlq8",
-        "name": "Title Reveal",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1078446,
     "title": "Violent Night 2",
     "release_date": "2026-12-04",
@@ -2661,6 +2661,22 @@
     "videos": [
       {
         "key": "FmM2giDwLAE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1431804,
+    "title": "40 Dates and 40 Nights",
+    "release_date": "2026-06-16",
+    "poster": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
+    "overview": "Burned out on dating and ready to quit, Leah accepts her grandma's outrageous challenge: 40 dates in 40 nights for a full year of rent. From awkward dinners to unexpected sparks, she discovers the biggest obstacle to love might just be herself.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Egk_FWQgW4w",
         "name": "Official Trailer",
         "type": "Trailer"
       }
@@ -2679,6 +2695,27 @@
         "key": "Ust_xF_DntU",
         "name": "Mukhbir: The Story of a Spy",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "2ZfuX4IBTXM",
+        "name": "Official Teaser",
+        "type": "Teaser"
       }
     ]
   },
@@ -2704,6 +2741,37 @@
     ]
   },
   {
+    "id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Xmy-Z3dHMd8",
+        "name": "Official Teaser [Subtitled]",
+        "type": "Teaser"
+      },
+      {
+        "key": "n-NDYWPXpKg",
+        "name": "First Look Teaser",
+        "type": "Teaser"
+      },
+      {
+        "key": "msIIHSrWjgo",
+        "name": "Title Reveal",
+        "type": "Teaser"
+      },
+      {
+        "key": "wDD2gTgxQJ8",
+        "name": "New Godzilla Film Announcement",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 890216,
     "title": "Pacific",
     "release_date": "2026-07-08",
@@ -2716,79 +2784,6 @@
         "key": "tgOveb3Pq0w",
         "name": "PACIFICO (2026) a film by Gonzalo Gutierrez - Theatrical Teaser",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1432474,
-    "title": "Nimrods",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/tDTfqu5XJbtUwstRRnWaUcoHxM2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
-    "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year\u2019s Eve.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "5mtbOhpqroo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "IgxC84cZR4A",
-        "name": "Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1461701,
-    "title": "Foufo",
-    "release_date": "2026-07-09",
-    "poster": "https://image.tmdb.org/t/p/w500/cYNgm6TffgIvqK1xwP264BooSVp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/u68lJ7NzvOLlEE4kyyCSKAo8qxz.jpg",
-    "overview": "The encounter of Madurese residents with small aliens that triggers hilarious chaos and unexpected adventures.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "U5W4IuVb9sY",
-        "name": "FOUFO - Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "-Wmls0z39M4",
-        "name": "Official Teaser Trailer \ud835\udc05\ud835\udc0e\ud835\udc14\ud835\udc05\ud835\udc0e \ud83d\udc7d",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 822653,
-    "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/g4kCd4rMuN7G3VQQDUT6mLbrBqQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xzm3RfWh932rS28WErNC3u8qzVm.jpg",
-    "overview": "After the events of Rebellion, the world appears to be in balance\u2014but that peace is fragile. As a new threat connected to Walpurgisnacht emerges, Homura Akemi is forced to face the consequences of her choices and question how far she is willing to go to protect Madoka.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "g0CsWEIb6D4",
-        "name": "Official Trailer 3 [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "3rdPRWNwJBM",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "CxTenVJOw_o",
-        "name": "Official Trailer: SIDE Homura [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "htNvpTfYMdk",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer"
       }
     ]
   },
