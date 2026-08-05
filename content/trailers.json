@@ -1020,13 +1020,13 @@
         "type": "Trailer"
       },
       {
-        "key": "iU8kZV3x5kE",
-        "name": "Zero chill, all chaos",
+        "key": "SXuElfQtEZQ",
+        "name": "The Ice Cream Man movie reviews are starting to drop.",
         "type": "Teaser"
       },
       {
-        "key": "UFoVnFEchSE",
-        "name": "Eat it up....just not the ice cream",
+        "key": "iU8kZV3x5kE",
+        "name": "Zero chill, all chaos",
         "type": "Teaser"
       }
     ]
@@ -1534,6 +1534,11 @@
     "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
     "theatrical": true,
     "videos": [
+      {
+        "key": "gXjurDkYnEM",
+        "name": "Final Trailer (4K)",
+        "type": "Trailer"
+      },
       {
         "key": "jxU8FU3o75A",
         "name": "Official Trailer",
@@ -2540,6 +2545,38 @@
     ]
   },
   {
+    "id": 615121,
+    "title": "The Thomas Crown Affair",
+    "release_date": "2027-03-05",
+    "poster": "https://image.tmdb.org/t/p/w500/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4IwoYgyFdBCELwCr9VmEH1u0wwF.jpg",
+    "overview": "A debonair, adventuresome man believes he has pulled off the perfect multi-million dollar heist, only to match wits with an insurance investigator who will do anything to get her man.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "gnm4HgIAVmU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1451486,
+    "title": "Uyir",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sxs1ME8rwQIccp7SL37fRgt0sFH.jpg",
+    "overview": "Follows Ajeeb, a sub-inspector serving his probationary period at the Dharmadam Police Station in Kannur district, based on real incidents.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "DyTziQOTNK4",
+        "name": "UYiR Movie Official Trailer | M Padmakumar | Roshan Mathew | Santhosh Thrivikraman | Wow Cinemas",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1329016,
     "title": "Tony",
     "release_date": "2026-08-07",
@@ -2651,6 +2688,58 @@
     ]
   },
   {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "Prv_FLWLlq8",
+        "name": "Title Reveal",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1341138,
+    "title": "Spa Weekend",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/d2Ga7lZI4c19YGcIH09vj9mDZKU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
+    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families and everyday responsibilities, they have forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for what turns out to be an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "FUFyXtlXw7k",
+        "name": "Censored UK Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "p_LJgljyhfE",
+        "name": "UK Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "9p7j3UvpEQQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "boaxcNa0Pxg",
+        "name": "We Deserve This",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1078446,
     "title": "Violent Night 2",
     "release_date": "2026-12-04",
@@ -2699,27 +2788,6 @@
     ]
   },
   {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "2ZfuX4IBTXM",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -2737,69 +2805,6 @@
         "key": "9xnDvEJJlxE",
         "name": "In Cinemas 8 October",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1381071,
-    "title": "Godzilla Minus Zero",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Xmy-Z3dHMd8",
-        "name": "Official Teaser [Subtitled]",
-        "type": "Teaser"
-      },
-      {
-        "key": "n-NDYWPXpKg",
-        "name": "First Look Teaser",
-        "type": "Teaser"
-      },
-      {
-        "key": "msIIHSrWjgo",
-        "name": "Title Reveal",
-        "type": "Teaser"
-      },
-      {
-        "key": "wDD2gTgxQJ8",
-        "name": "New Godzilla Film Announcement",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 890216,
-    "title": "Pacific",
-    "release_date": "2026-07-08",
-    "poster": "https://image.tmdb.org/t/p/w500/lxHviNCgIVv8juHBrwHJpR5wJ5b.jpg",
-    "backdrop": "",
-    "overview": "A group of young travelers are stranded on an island in the Pacific where they struggle to escape an evil presence kept hidden from mankind for centuries.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "tgOveb3Pq0w",
-        "name": "PACIFICO (2026) a film by Gonzalo Gutierrez - Theatrical Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1710008,
-    "title": "Nothing to Lose",
-    "release_date": "2026-07-08",
-    "poster": "https://image.tmdb.org/t/p/w500/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
-    "overview": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him \u2014 no matter the cost.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "-ST6xtcXq7s",
-        "name": "Official Trailer",
-        "type": "Trailer"
       }
     ]
   },
