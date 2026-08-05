@@ -274,7 +274,7 @@
     "title": "Avatar Aang: The Last Airbender",
     "release_date": "2026-07-24",
     "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qPNG2riEQLBknaa20RhUCr8QtWA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
     "theatrical": true,
     "videos": [
@@ -688,8 +688,8 @@
         "type": "Trailer"
       },
       {
-        "key": "QybaU8i1T-o",
-        "name": "More like how many.",
+        "key": "imDtMzj0k9Y",
+        "name": "Warning: Dinosaurs on Oak Street may cause these reactions.",
         "type": "Teaser"
       }
     ]
@@ -2567,6 +2567,22 @@
     ]
   },
   {
+    "id": 1500890,
+    "title": "Lockbox",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
+    "overview": "A woman puts her life on the line to protect her troubled, enigmatic cousin, Winthrop, who has been targeted and hunted by a powerful supernatural force.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "xxiHWdsM1rM",
+        "name": "LOCKBOX | Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
@@ -2630,37 +2646,6 @@
       {
         "key": "Prv_FLWLlq8",
         "name": "Title Reveal",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1341138,
-    "title": "Spa Weekend",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/d2Ga7lZI4c19YGcIH09vj9mDZKU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
-    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families and everyday responsibilities, they have forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for what turns out to be an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "FUFyXtlXw7k",
-        "name": "Censored UK Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "p_LJgljyhfE",
-        "name": "UK Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "9p7j3UvpEQQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "boaxcNa0Pxg",
-        "name": "We Deserve This",
         "type": "Teaser"
       }
     ]
@@ -2756,6 +2741,27 @@
     ]
   },
   {
+    "id": 1461701,
+    "title": "Foufo",
+    "release_date": "2026-07-09",
+    "poster": "https://image.tmdb.org/t/p/w500/cYNgm6TffgIvqK1xwP264BooSVp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u68lJ7NzvOLlEE4kyyCSKAo8qxz.jpg",
+    "overview": "The encounter of Madurese residents with small aliens that triggers hilarious chaos and unexpected adventures.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "U5W4IuVb9sY",
+        "name": "FOUFO - Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "-Wmls0z39M4",
+        "name": "Official Teaser Trailer \ud835\udc05\ud835\udc0e\ud835\udc14\ud835\udc05\ud835\udc0e \ud83d\udc7d",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 822653,
     "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
     "release_date": "2026-08-28",
@@ -2782,22 +2788,6 @@
       {
         "key": "htNvpTfYMdk",
         "name": "Official Trailer [Subtitled]",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1165369,
-    "title": "De Gaulle: Libert\u00e9",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/tcypmwT43pt5jWiUyy2BomyPD1Y.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pS7VXwb1sNk79F5GzgtEP5YzEHE.jpg",
-    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "J6MRNchmZkY",
-        "name": "DE GAULLE: FILM 2 - LIBERT\u00c9 - Official Trailer HD",
         "type": "Trailer"
       }
     ]
