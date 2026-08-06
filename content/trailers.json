@@ -621,7 +621,12 @@
     "videos": [
       {
         "key": "le2W_fB_4KY",
-        "name": "Official Trailer (English)",
+        "name": "UK Official Trailer [ENG DUB]",
+        "type": "Trailer"
+      },
+      {
+        "key": "74nF-FWAS6M",
+        "name": "Official Trailer [ENG DUB]",
         "type": "Trailer"
       }
     ]
@@ -978,13 +983,13 @@
         "type": "Trailer"
       },
       {
-        "key": "SXuElfQtEZQ",
-        "name": "The Ice Cream Man movie reviews are starting to drop.",
+        "key": "gf_arL2ODu4",
+        "name": "Finally, an instructional video for the summer we all need",
         "type": "Teaser"
       },
       {
-        "key": "iU8kZV3x5kE",
-        "name": "Zero chill, all chaos",
+        "key": "SXuElfQtEZQ",
+        "name": "The Ice Cream Man movie reviews are starting to drop.",
         "type": "Teaser"
       }
     ]
