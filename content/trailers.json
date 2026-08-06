@@ -35,7 +35,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "videos": [
@@ -289,7 +289,7 @@
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7JFVcU1uzv9zCfyMzLrsU04t8BU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
     "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
     "theatrical": true,
@@ -353,7 +353,7 @@
     "title": "Soulm8te",
     "release_date": "2026-08-01",
     "poster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mIzJ4v9PSPcebz0WTb7UYuH7RS7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
     "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem.",
     "theatrical": false,
     "videos": [
@@ -2237,7 +2237,7 @@
     "id": 1284041,
     "title": "The Last House",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
     "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
     "theatrical": true,
@@ -2245,6 +2245,22 @@
       {
         "key": "MLxgaz2Zp1k",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1738437,
+    "title": "Moms Guardian",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/Eu0X3jllHZeg16ntHgaXYFNILY.jpg",
+    "backdrop": "",
+    "overview": "When the mom who abandoned her passes away, Victoria must confront her feelings about the situation when someone unexpected shows up. Her mom's guardian.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "2g_YZSpQ-XM",
+        "name": "Moms Guardian OFFICIAL TRAILER (2025)",
         "type": "Trailer"
       }
     ]
@@ -2382,6 +2398,22 @@
     ]
   },
   {
+    "id": 1728056,
+    "title": "Big Chicken: A Fast Food Conspiracy",
+    "release_date": "2026-08-05",
+    "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+    "overview": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving \u2014 and industry behind it.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "7sGkQM6TyQU",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1122030,
     "title": "Alpha",
     "release_date": "2026-07-03",
@@ -2443,9 +2475,9 @@
     "id": 675871,
     "title": "Super Troopers 3",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/eV2Uhn8A93V4ELySlrBGvBuQJLj.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oU2H07DQVjGMp2vUgrYzso36v15.jpg",
-    "overview": "When Farva\u2019s wildly over-the-top Indian engagement to Thorny\u2019s sister spirals into chaos, the Super Troopers must navigate Thorny\u2019s schemes to break up the relationship, while trying to crack a pernicious new drug ring  \u2014 all to save the day and maybe the wedding itself.",
+    "overview": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
     "theatrical": true,
     "videos": [
       {
@@ -2482,6 +2514,22 @@
       {
         "key": "FmM2giDwLAE",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1061798,
+    "title": "Jim Queen and the Quest for Chloroqueer",
+    "release_date": "2026-06-17",
+    "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
+    "overview": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "CHof1Bc8oeM",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer"
       }
     ]
@@ -2550,6 +2598,22 @@
     ]
   },
   {
+    "id": 1738625,
+    "title": "Kin",
+    "release_date": "2026-06-07",
+    "poster": "https://image.tmdb.org/t/p/w500/tmHHCdHCfOJ8HcYrSmaIAUpeBg9.jpg",
+    "backdrop": "",
+    "overview": "A short film from Route22 Productions for the 48 Hour Film Project (2026)",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "HMPAjjdaYUA",
+        "name": "KIN OFFICIAL TRAILER (2026)",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1280015,
     "title": "Sunny Dancer",
     "release_date": "2026-08-12",
@@ -2567,6 +2631,22 @@
         "key": "BNHQH3u8eTU",
         "name": "Only In Cinemas August 14",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1725909,
+    "title": "Asesino Perfecto",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/3cYidNGENPU8Izh0V7ikkEt0Egw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/whZtKmcXtHKvtDgRPwvf5Cxhjyf.jpg",
+    "overview": "A peaceful town is gripped by fear when a series of mysterious murders leaves investigators with no witnesses, no evidence, and no clear suspect. As each new victim is discovered, Captain Rocio Cortes and Detective Soto race to stop a killer who always seems one step ahead. Their investigation uncovers hidden secrets, broken family ties, and painful events from the past that connect several lives in unexpected ways. As suspicion shifts from one person to another, two brothers, Leo and Elias, find themselves at the center of a mystery that will test their loyalty and force them to confront the truth. With fear spreading throughout the community and trust quickly fading, the search for justice becomes a dangerous race against time in this suspenseful Mexican crime thriller filled with mystery, psychological tension, and unexpected twists.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "yh__5DS_pZ8",
+        "name": "\ud83c\udfa5 Perfect Killer | Official Trailer @HuizarTV",
+        "type": "Trailer"
       }
     ]
   },
@@ -2667,22 +2747,6 @@
     ]
   },
   {
-    "id": 1437696,
-    "title": "Fatherland",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sSyeRXg3posPAF8XNTHtDurR7sB.jpg",
-    "overview": "In\u00a01949,\u00a0German\u00a0writer Thomas Mann\u00a0and\u00a0his daughter Erika embark on a road trip across a Germany in ruins,\u00a0from\u00a0US-dominated Frankfurt to Soviet-controlled Weimar.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "4pGI64qP0Bw",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -2695,53 +2759,6 @@
         "key": "cmjpadVj-Vk",
         "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1587964,
-    "title": "They Fight",
-    "release_date": "2026-06-08",
-    "poster": "https://image.tmdb.org/t/p/w500/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h6BWd6mU6o1KqZDrVaAldmvboCX.jpg",
-    "overview": "Reformed ex-convict Walt Manigan returns home to rebuild his family with the love of his life, Ketta. His path leads him to a boxing gym inside a D.C. youth recreation center about to be closed. There, he works under the wise coach Slim to mentor a group of boys to train for the junior national boxing tournament, all leading to a showdown between best friends Quincey and Peanut as they battle for a spot on the U.S. Junior Olympic Team.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "o9r5xmGthFY",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1341138,
-    "title": "Spa Weekend",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/d2Ga7lZI4c19YGcIH09vj9mDZKU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
-    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families and everyday responsibilities, they have forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for what turns out to be an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "FUFyXtlXw7k",
-        "name": "Censored UK Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "p_LJgljyhfE",
-        "name": "UK Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "9p7j3UvpEQQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "boaxcNa0Pxg",
-        "name": "We Deserve This",
-        "type": "Teaser"
       }
     ]
   },
@@ -2762,53 +2779,6 @@
       {
         "key": "DqcnBiYO7_A",
         "name": "Trailer Tomorrow",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 615121,
-    "title": "The Thomas Crown Affair",
-    "release_date": "2027-03-05",
-    "poster": "https://image.tmdb.org/t/p/w500/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4IwoYgyFdBCELwCr9VmEH1u0wwF.jpg",
-    "overview": "A debonair, adventuresome man believes he has pulled off the perfect multi-million dollar heist, only to match wits with an insurance investigator who will do anything to get her man.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "gnm4HgIAVmU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1705729,
-    "title": "Man of War",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
-    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "q0_t2HOsDsY",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "NoB63ZNLUow",
-        "name": "MAN OF WAR is \u201cguns ablaze from start to finish.\u201d \u2013 Kevin Film Reviews",
-        "type": "Teaser"
-      },
-      {
-        "key": "jD0uxIKsHms",
-        "name": "MAN OF WAR is \"Brutal, Tactical and Explosive.\" \u2013 Action Reloaded",
-        "type": "Teaser"
-      },
-      {
-        "key": "_ZPCkO5-a44",
-        "name": "ONE WEEK OUT.",
         "type": "Teaser"
       }
     ]
