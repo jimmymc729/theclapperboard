@@ -35,7 +35,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "videos": [
@@ -542,7 +542,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -1004,7 +1004,7 @@
     "title": "Enola Holmes 3",
     "release_date": "2026-07-01",
     "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AsaeoBF2xIXnSwQ1oT4rbhthozv.jpg",
     "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
     "theatrical": false,
     "videos": [
@@ -1114,7 +1114,7 @@
     "title": "One Night Only",
     "release_date": "2026-08-07",
     "poster": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ccoEJ4Rxk9rb5cIrrkpPQDn39MP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
     "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
     "theatrical": true,
     "videos": [
@@ -1914,22 +1914,6 @@
     ]
   },
   {
-    "id": 1738437,
-    "title": "Moms Guardian",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/Eu0X3jllHZeg16ntHgaXYFNILY.jpg",
-    "backdrop": "",
-    "overview": "When the mom who abandoned her passes away, Victoria must confront her feelings about the situation when someone unexpected shows up. Her mom's guardian.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "2g_YZSpQ-XM",
-        "name": "Moms Guardian OFFICIAL TRAILER (2025)",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1728056,
     "title": "Big Chicken: A Fast Food Conspiracy",
     "release_date": "2026-08-05",
@@ -2166,27 +2150,6 @@
     ]
   },
   {
-    "id": 1424965,
-    "title": "Ice Skater",
-    "release_date": "2026-02-24",
-    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
-    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "ShXeLbwaZLw",
-        "name": "Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "nBjUq8xyjx8",
-        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1401586,
     "title": "Sonic the Hedgehog 4",
     "release_date": "2027-03-19",
@@ -2282,6 +2245,22 @@
       {
         "key": "3Evy3t63mnk",
         "name": "Official Trailer [ENG DUB]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1712439,
+    "title": "Behind the Screens",
+    "release_date": "2026-07-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5XhXoKGzI2sLjDixWUUzVqDRnzt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2r8T8p4pNAoClk6OSgIrIpAubJI.jpg",
+    "overview": "Seven close friends reunite for a dinner gathering and decide to play a seemingly harmless game. Throughout the evening, every message, email, and phone call they receive must be shared openly with the group.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "G92ccbCruhI",
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e25\u0e31\u0e1a - Official Trailer",
         "type": "Trailer"
       }
     ]
@@ -2465,6 +2444,22 @@
     ]
   },
   {
+    "id": 1421594,
+    "title": "Inside the Trustor Scandal",
+    "release_date": "2026-08-05",
+    "poster": "https://image.tmdb.org/t/p/w500/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xLJgxU9hTga9tsFw960g1h1uDvx.jpg",
+    "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "Ia_cAr_IM54",
+        "name": "Inside the Trustor Scandal | Official Clip | Netflix",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1517868,
     "title": "Maddie's Secret",
     "release_date": "2026-06-19",
@@ -2524,22 +2519,6 @@
       {
         "key": "zHwpTZ2r-DM",
         "name": "Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1715492,
-    "title": "Shipwrecked: Nightmare at Sea",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
-    "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "eWPdwVtVx9Y",
-        "name": "Official Trailer: Shipwrecked: Nightmare at Sea",
         "type": "Trailer"
       }
     ]
@@ -2614,22 +2593,6 @@
       {
         "key": "DyTziQOTNK4",
         "name": "UYiR Movie Official Trailer | M Padmakumar | Roshan Mathew | Santhosh Thrivikraman | Wow Cinemas",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1061798,
-    "title": "Jim Queen and the Quest for Chloroqueer",
-    "release_date": "2026-06-17",
-    "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
-    "overview": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "CHof1Bc8oeM",
-        "name": "Official Trailer [Subtitled]",
         "type": "Trailer"
       }
     ]
@@ -2762,6 +2725,22 @@
     ]
   },
   {
+    "id": 1587964,
+    "title": "They Fight",
+    "release_date": "2026-06-08",
+    "poster": "https://image.tmdb.org/t/p/w500/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h6BWd6mU6o1KqZDrVaAldmvboCX.jpg",
+    "overview": "Reformed ex-convict Walt Manigan returns home to rebuild his family with the love of his life, Ketta. His path leads him to a boxing gym inside a D.C. youth recreation center about to be closed. There, he works under the wise coach Slim to mentor a group of boys to train for the junior national boxing tournament, all leading to a showdown between best friends Quincey and Peanut as they battle for a spot on the U.S. Junior Olympic Team.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "o9r5xmGthFY",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -2842,6 +2821,22 @@
         "key": "DqcnBiYO7_A",
         "name": "Trailer Tomorrow",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1437696,
+    "title": "Fatherland",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sSyeRXg3posPAF8XNTHtDurR7sB.jpg",
+    "overview": "In\u00a01949,\u00a0German\u00a0writer Thomas Mann\u00a0and\u00a0his daughter Erika embark on a road trip across a Germany in ruins,\u00a0from\u00a0US-dominated Frankfurt to Soviet-controlled Weimar.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "4pGI64qP0Bw",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
       }
     ]
   },
