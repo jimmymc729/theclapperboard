@@ -665,6 +665,11 @@
         "key": "Rsztt5qDj_A",
         "name": "Official Trailer",
         "type": "Trailer"
+      },
+      {
+        "key": "KN-nh6XamcU",
+        "name": "Forecast: 100% chance of falling.",
+        "type": "Teaser"
       }
     ]
   },
@@ -973,6 +978,11 @@
     "theatrical": true,
     "videos": [
       {
+        "key": "Cgw3zNmFtRo",
+        "name": "Official International Trailer",
+        "type": "Trailer"
+      },
+      {
         "key": "BjtVXWa3tWI",
         "name": "Official Green Band Trailer",
         "type": "Trailer"
@@ -985,11 +995,6 @@
       {
         "key": "jXJx6-U4tLY",
         "name": "It's always a yes to ice cream....",
-        "type": "Teaser"
-      },
-      {
-        "key": "gf_arL2ODu4",
-        "name": "Finally, an instructional video for the summer we all need",
         "type": "Teaser"
       }
     ]
