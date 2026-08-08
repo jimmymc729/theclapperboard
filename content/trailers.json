@@ -285,22 +285,6 @@
     ]
   },
   {
-    "id": 1698863,
-    "title": "The Odyssey",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
-    "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "wD5w48WT3uo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 980431,
     "title": "Avatar Aang: The Last Airbender",
     "release_date": "2026-07-24",
@@ -1764,6 +1748,11 @@
         "type": "Trailer"
       },
       {
+        "key": "QgeiW1scQMM",
+        "name": "Meow Playing",
+        "type": "Teaser"
+      },
+      {
         "key": "rMicBT0frBE",
         "name": "Get Tickets Meow",
         "type": "Teaser"
@@ -1771,11 +1760,6 @@
       {
         "key": "lxZUNdsm8Jc",
         "name": "Enhance",
-        "type": "Teaser"
-      },
-      {
-        "key": "aRk1wmbYWjc",
-        "name": "In Theaters Friday - Get Tickets Meow",
         "type": "Teaser"
       }
     ]
@@ -2423,6 +2407,22 @@
       {
         "key": "2nKLfpXRuEM",
         "name": "Bokshi \u2013 Official Teaser",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1329016,
+    "title": "Tony",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+    "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "k1MVnzd2aVc",
+        "name": "Official Trailer",
         "type": "Trailer"
       }
     ]
