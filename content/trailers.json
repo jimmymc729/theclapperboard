@@ -35,7 +35,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "videos": [
@@ -281,6 +281,22 @@
         "key": "32FBFJcsfaY",
         "name": "You know what to do",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1698863,
+    "title": "The Odyssey",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
+    "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "wD5w48WT3uo",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -760,7 +776,7 @@
     "id": 1432631,
     "title": "Idhayam Murali",
     "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
     "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
     "theatrical": false,
@@ -1448,7 +1464,7 @@
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
     "theatrical": true,
@@ -1500,7 +1516,7 @@
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "theatrical": true,
@@ -1797,6 +1813,22 @@
       {
         "key": "G4JYnTeSFik",
         "name": "Snowball",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1431068,
+    "title": "Main Vaapas Aaunga",
+    "release_date": "2026-06-11",
+    "poster": "https://image.tmdb.org/t/p/w500/wHTNsZxvlfRAndc52hGlbdCUXKS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+    "overview": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "dvQgE-8noLs",
+        "name": "Official Teaser",
         "type": "Teaser"
       }
     ]
@@ -2412,22 +2444,6 @@
     ]
   },
   {
-    "id": 1329016,
-    "title": "Tony",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
-    "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "k1MVnzd2aVc",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1300926,
     "title": "The Angry Birds Movie 3",
     "release_date": "2026-12-23",
@@ -2466,22 +2482,6 @@
         "key": "Prv_FLWLlq8",
         "name": "Title Reveal",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1538497,
-    "title": "Hexed",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
-    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "mtC4sjABZNw",
-        "name": "Teaser Trailer",
-        "type": "Trailer"
       }
     ]
   },
@@ -2610,7 +2610,7 @@
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ycnfDX7shszJ0xqUEONt9RnDwhK.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/uA8ytJv17alSiREcUthbYAdiPCX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
