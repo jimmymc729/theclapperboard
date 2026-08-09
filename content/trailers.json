@@ -196,7 +196,7 @@
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
     "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
     "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
     "theatrical": true,
     "videos": [
@@ -321,7 +321,7 @@
     "title": "Soulm8te",
     "release_date": "2026-08-01",
     "poster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
     "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem.",
     "theatrical": false,
     "videos": [
@@ -331,17 +331,17 @@
         "type": "Trailer"
       },
       {
+        "key": "texuWgrqOxM",
+        "name": "Watch at Home",
+        "type": "Teaser"
+      },
+      {
         "key": "xql2A213trU",
         "name": "Watch at Home",
         "type": "Teaser"
       },
       {
         "key": "7Dc-YTooFrk",
-        "name": "Watch at Home",
-        "type": "Teaser"
-      },
-      {
-        "key": "-u3nYn6Mk4o",
         "name": "Watch at Home",
         "type": "Teaser"
       }
@@ -1233,8 +1233,8 @@
     "id": 1541560,
     "title": "Stop! That! Train!",
     "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/p9f6ePFZZ7oF2Z9lMIw5Hgrnbme.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2qycL8CyXvOkEzrs77i5lm7Cj3W.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7t69fo096Ddre1fEmCitxTdQ89v.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/erNAhcSYrDMXQqAU1TVthYyFA71.jpg",
     "overview": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
     "theatrical": true,
     "videos": [
@@ -1251,6 +1251,32 @@
       {
         "key": "9O9ZeG6op_Y",
         "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1679730,
+    "title": "THE RIBBON HERO",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+    "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Z56klGz1BPk",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "oJL-llloz24",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "NynEgERoqmk",
+        "name": "Official Teaser [Subtitled]",
         "type": "Teaser"
       }
     ]
@@ -2703,22 +2729,6 @@
       {
         "key": "DT_i0aq-vPs",
         "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1451486,
-    "title": "Uyir",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sxs1ME8rwQIccp7SL37fRgt0sFH.jpg",
-    "overview": "Follows Ajeeb, a sub-inspector serving his probationary period at the Dharmadam Police Station in Kannur district, based on real incidents.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "DyTziQOTNK4",
-        "name": "UYiR Movie Official Trailer | M Padmakumar | Roshan Mathew | Santhosh Thrivikraman | Wow Cinemas",
         "type": "Trailer"
       }
     ]
