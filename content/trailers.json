@@ -4,7 +4,7 @@
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
     "videos": [
@@ -1262,32 +1262,6 @@
     ]
   },
   {
-    "id": 1058424,
-    "title": "Hope",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i0lipAm0VHFA3EH0CPV0s5LJMIE.jpg",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "R5jcEBVBEbQ",
-        "name": "Official US Trailer [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "ODnHr2Emnf0",
-        "name": "International Trailer [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "Vt7860xZFXk",
-        "name": "HOPE - Official Teaser - In Theaters Fall 2026",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1397385,
     "title": "Little Brother",
     "release_date": "2026-06-18",
@@ -1506,6 +1480,11 @@
         "type": "Trailer"
       },
       {
+        "key": "qOhZPQ1gSHY",
+        "name": "Meow Playing in Theaters",
+        "type": "Teaser"
+      },
+      {
         "key": "QgeiW1scQMM",
         "name": "Meow Playing",
         "type": "Teaser"
@@ -1513,11 +1492,6 @@
       {
         "key": "rMicBT0frBE",
         "name": "Get Tickets Meow",
-        "type": "Teaser"
-      },
-      {
-        "key": "lxZUNdsm8Jc",
-        "name": "Enhance",
         "type": "Teaser"
       }
     ]
@@ -3015,6 +2989,27 @@
         "key": "wtUdmUTNbO4",
         "name": "Official Teaser Trailer",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1280608,
+    "title": "Evil Dead Wrath",
+    "release_date": "2028-04-07",
+    "poster": "https://image.tmdb.org/t/p/w500/r10fSbmxDipJG6VOyt9nkX3zEbx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xkDrNYTcQgq6TFnx5mfQapMXmPA.jpg",
+    "overview": "Plot TBA. A prequel to the first film, set in 1972.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "kuo-9_g2KN0",
+        "name": "Evil Dead Wrath wraps filming",
+        "type": "Teaser"
+      },
+      {
+        "key": "LqeBxZZFx-M",
+        "name": "Evil Dead Wrath has begun its bloody production.",
+        "type": "Teaser"
       }
     ]
   },
