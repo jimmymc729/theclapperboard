@@ -62,6 +62,22 @@
     ]
   },
   {
+    "id": 1284041,
+    "title": "The Last House",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+    "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "MLxgaz2Zp1k",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1081003,
     "title": "Supergirl",
     "release_date": "2026-06-26",
@@ -93,22 +109,6 @@
     ]
   },
   {
-    "id": 1284041,
-    "title": "The Last House",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-    "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "MLxgaz2Zp1k",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1084244,
     "title": "Toy Story 5",
     "release_date": "2026-06-19",
@@ -135,6 +135,37 @@
       {
         "key": "hsWejTM9Xc8",
         "name": "let's ride",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1212763,
+    "title": "Evil Dead Burn",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+    "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "RddZObTlmA8",
+        "name": "Tickets on Sale",
+        "type": "Trailer"
+      },
+      {
+        "key": "TnHby2cxJzs",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "nMzhf6qYJ4I",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "32FBFJcsfaY",
+        "name": "You know what to do",
         "type": "Teaser"
       }
     ]
@@ -192,53 +223,6 @@
     ]
   },
   {
-    "id": 1212763,
-    "title": "Evil Dead Burn",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-    "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "RddZObTlmA8",
-        "name": "Tickets on Sale",
-        "type": "Trailer"
-      },
-      {
-        "key": "TnHby2cxJzs",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "nMzhf6qYJ4I",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "32FBFJcsfaY",
-        "name": "You know what to do",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1481343,
-    "title": "The Devil's Mouth",
-    "release_date": "2026-07-29",
-    "poster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
-    "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "2bp4Viru6Xc",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1108427,
     "title": "Moana",
     "release_date": "2026-07-10",
@@ -265,6 +249,53 @@
       {
         "key": "oft7rwwiZ9o",
         "name": "the sounds of Motunui",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1481343,
+    "title": "The Devil's Mouth",
+    "release_date": "2026-07-29",
+    "poster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
+    "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "2bp4Viru6Xc",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1307118,
+    "title": "Soulm8te",
+    "release_date": "2026-08-01",
+    "poster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "DF9I1wLlXbk",
+        "name": "Watch At Home on 8/1",
+        "type": "Trailer"
+      },
+      {
+        "key": "texuWgrqOxM",
+        "name": "Watch at Home",
+        "type": "Teaser"
+      },
+      {
+        "key": "xql2A213trU",
+        "name": "Watch at Home",
+        "type": "Teaser"
+      },
+      {
+        "key": "7Dc-YTooFrk",
+        "name": "Watch at Home",
         "type": "Teaser"
       }
     ]
@@ -318,33 +349,18 @@
     ]
   },
   {
-    "id": 1307118,
-    "title": "Soulm8te",
-    "release_date": "2026-08-01",
-    "poster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem.",
-    "theatrical": false,
+    "id": 1594914,
+    "title": "Lucky Strike",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
+    "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+    "theatrical": true,
     "videos": [
       {
-        "key": "DF9I1wLlXbk",
-        "name": "Watch At Home on 8/1",
+        "key": "vtEnjikCXyA",
+        "name": "Official Trailer",
         "type": "Trailer"
-      },
-      {
-        "key": "texuWgrqOxM",
-        "name": "Watch at Home",
-        "type": "Teaser"
-      },
-      {
-        "key": "xql2A213trU",
-        "name": "Watch at Home",
-        "type": "Teaser"
-      },
-      {
-        "key": "7Dc-YTooFrk",
-        "name": "Watch at Home",
-        "type": "Teaser"
       }
     ]
   },
@@ -402,17 +418,69 @@
     ]
   },
   {
-    "id": 1594914,
-    "title": "Lucky Strike",
+    "id": 950028,
+    "title": "The Invite",
     "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
-    "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+    "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+    "overview": "Joe and Angela\u2019s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
     "theatrical": true,
     "videos": [
       {
-        "key": "vtEnjikCXyA",
+        "key": "nelkiuezJxg",
+        "name": "Official Trailer 2",
+        "type": "Trailer"
+      },
+      {
+        "key": "OJ19I9q_hOQ",
         "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "TXVH-23lkr0",
+        "name": "A dinner party you won't want to miss.",
+        "type": "Teaser"
+      },
+      {
+        "key": "DsSKuMZsNvc",
+        "name": "See where the night goes.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1432631,
+    "title": "Idhayam Murali",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/8gfs5OsGINENFAl0h1XZPNup9lI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+    "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "7RCeBn0n9IA",
+        "name": "Hrudhayam Murali - Official Trailer | Atharvaa | Fahadh Faasil | Preity | Thaman S | Aakash Baskaran",
+        "type": "Trailer"
+      },
+      {
+        "key": "kdvlqnNqUVU",
+        "name": "Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1728704,
+    "title": "Siping",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/wNzRyplxryB8s6jb8Be5dYAKZb5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5XZqtQNB3XAnn7kFgU0XsSHbevV.jpg",
+    "overview": "A gripping story about a woman wagered in a high-stakes card game. But the stakes get even hotter when she\u2019s won by the man who\u2019s long been obsessed with her.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "x2HnS5gu6Co",
+        "name": "SIPING Official Trailer | World Premiere this JULY 10 only on VMX",
         "type": "Trailer"
       }
     ]
@@ -434,18 +502,33 @@
     ]
   },
   {
-    "id": 1728704,
-    "title": "Siping",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/wNzRyplxryB8s6jb8Be5dYAKZb5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5XZqtQNB3XAnn7kFgU0XsSHbevV.jpg",
-    "overview": "A gripping story about a woman wagered in a high-stakes card game. But the stakes get even hotter when she\u2019s won by the man who\u2019s long been obsessed with her.",
-    "theatrical": false,
+    "id": 1101383,
+    "title": "The End of Oak Street",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "theatrical": true,
     "videos": [
       {
-        "key": "x2HnS5gu6Co",
-        "name": "SIPING Official Trailer | World Premiere this JULY 10 only on VMX",
+        "key": "u4tgctWuHc0",
+        "name": "Tickets now on sale",
         "type": "Trailer"
+      },
+      {
+        "key": "3oB9AxspVow",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "s9GKXTbChjE",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "1u7cyfcRtuo",
+        "name": "Tag who you are bringing to Oak Street.",
+        "type": "Teaser"
       }
     ]
   },
@@ -477,6 +560,22 @@
         "key": "1clWprLC5Ak",
         "name": "Thor Will Return",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1487861,
+    "title": "Elize: Shadows of a Woman",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+    "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "KiKnd3cusPo",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
       }
     ]
   },
@@ -528,74 +627,27 @@
     ]
   },
   {
-    "id": 1487861,
-    "title": "Elize: Shadows of a Woman",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
-    "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "KiKnd3cusPo",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1318621,
-    "title": "Descendants: Wicked Wonderland",
-    "release_date": "2026-07-16",
-    "poster": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
-    "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past created a new villain \u2014 Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red\u2019s new sister Pink, Luisa Madrigal\u2019s son Luis, and Maddox\u2019s son Max to save her and Wonderland.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "0Gg7x3xBqBU",
-        "name": "Official Trailer!",
-        "type": "Trailer"
-      },
-      {
-        "key": "xX5oCunywSs",
-        "name": "Official Teaser!",
-        "type": "Teaser"
-      },
-      {
-        "key": "SczeivOMuUQ",
-        "name": "First Look",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1101383,
-    "title": "The End of Oak Street",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "id": 1469342,
+    "title": "Her Private Hell",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+    "overview": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
     "theatrical": true,
     "videos": [
       {
-        "key": "u4tgctWuHc0",
-        "name": "Tickets now on sale",
-        "type": "Trailer"
-      },
-      {
-        "key": "3oB9AxspVow",
+        "key": "C7E-0t1TfzM",
         "name": "Official Trailer",
         "type": "Trailer"
       },
       {
-        "key": "s9GKXTbChjE",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
+        "key": "3Lw2dlE9vBQ",
+        "name": "Official International Teaser",
+        "type": "Teaser"
       },
       {
-        "key": "1u7cyfcRtuo",
-        "name": "Tag who you are bringing to Oak Street.",
+        "key": "iWqST_E9u_Q",
+        "name": "Official Teaser",
         "type": "Teaser"
       }
     ]
@@ -632,48 +684,27 @@
     ]
   },
   {
-    "id": 1469342,
-    "title": "Her Private Hell",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
-    "overview": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "C7E-0t1TfzM",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "3Lw2dlE9vBQ",
-        "name": "Official International Teaser",
-        "type": "Teaser"
-      },
-      {
-        "key": "iWqST_E9u_Q",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1432631,
-    "title": "Idhayam Murali",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
-    "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+    "id": 1318621,
+    "title": "Descendants: Wicked Wonderland",
+    "release_date": "2026-07-16",
+    "poster": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
+    "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past created a new villain \u2014 Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red\u2019s new sister Pink, Luisa Madrigal\u2019s son Luis, and Maddox\u2019s son Max to save her and Wonderland.",
     "theatrical": false,
     "videos": [
       {
-        "key": "7RCeBn0n9IA",
-        "name": "Hrudhayam Murali - Official Trailer | Atharvaa | Fahadh Faasil | Preity | Thaman S | Aakash Baskaran",
+        "key": "0Gg7x3xBqBU",
+        "name": "Official Trailer!",
         "type": "Trailer"
       },
       {
-        "key": "kdvlqnNqUVU",
-        "name": "Teaser",
+        "key": "xX5oCunywSs",
+        "name": "Official Teaser!",
+        "type": "Teaser"
+      },
+      {
+        "key": "SczeivOMuUQ",
+        "name": "First Look",
         "type": "Teaser"
       }
     ]
@@ -690,6 +721,79 @@
       {
         "key": "NhI2UpkFAFw",
         "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1612018,
+    "title": "Jackass: Best and Last",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+    "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "sNwzFhGwA94",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "YasXQ27FkQI",
+        "name": "Big Red Rocket",
+        "type": "Teaser"
+      },
+      {
+        "key": "kPBedQ6-aGo",
+        "name": "Shopping Cart",
+        "type": "Teaser"
+      },
+      {
+        "key": "BmcMmU9pmnY",
+        "name": "Wee Man Tank",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1679730,
+    "title": "THE RIBBON HERO",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+    "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Z56klGz1BPk",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "oJL-llloz24",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "NynEgERoqmk",
+        "name": "Official Teaser [Subtitled]",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1723013,
+    "title": "Hibla 2",
+    "release_date": "2026-06-30",
+    "poster": "https://image.tmdb.org/t/p/w500/drDsk2ES8YvWFwgWaY9foKaE5xv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oZJQZQ8BHgeq5YHcAbshMlmJvWX.jpg",
+    "overview": "Two VMX queens, Aliya Raymundo and Margaret Diaz, play reunited childhood friends who share a memorable past and a complicated present: one is a liberated city girl, the other a sheltered country virgin, and both are surrounded by men eager to get a taste of their youth.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "YAQ1BUumPzY",
+        "name": "HIBLA 2 Official Trailer | VMX | June 30 | #MargaretDiaz #AliyaRaymundo",
         "type": "Trailer"
       }
     ]
@@ -726,22 +830,6 @@
     ]
   },
   {
-    "id": 1408170,
-    "title": "Lenin",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
-    "overview": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "_d8Gw4ZkEqs",
-        "name": "LENIN Trailer - Akhil Akkineni | Bhagyashri Borse | Thaman S | Murali Kishor | July 10th",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1185806,
     "title": "PAW Patrol: The Dino Movie",
     "release_date": "2026-08-14",
@@ -773,38 +861,6 @@
     ]
   },
   {
-    "id": 1723013,
-    "title": "Hibla 2",
-    "release_date": "2026-06-30",
-    "poster": "https://image.tmdb.org/t/p/w500/drDsk2ES8YvWFwgWaY9foKaE5xv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oZJQZQ8BHgeq5YHcAbshMlmJvWX.jpg",
-    "overview": "Two VMX queens, Aliya Raymundo and Margaret Diaz, play reunited childhood friends who share a memorable past and a complicated present: one is a liberated city girl, the other a sheltered country virgin, and both are surrounded by men eager to get a taste of their youth.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "YAQ1BUumPzY",
-        "name": "HIBLA 2 Official Trailer | VMX | June 30 | #MargaretDiaz #AliyaRaymundo",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1698575,
-    "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
-    "release_date": "2026-07-30",
-    "poster": "https://image.tmdb.org/t/p/w500/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
-    "overview": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "A-NQmpNsZIc",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1305672,
     "title": "I Know Who You Are",
     "release_date": "2026-07-02",
@@ -821,6 +877,38 @@
     ]
   },
   {
+    "id": 1408170,
+    "title": "Lenin",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
+    "overview": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "_d8Gw4ZkEqs",
+        "name": "LENIN Trailer - Akhil Akkineni | Bhagyashri Borse | Thaman S | Murali Kishor | July 10th",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1716513,
+    "title": "Extreme Makeover: Homer Edition",
+    "release_date": "2026-06-17",
+    "poster": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg",
+    "overview": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "uL_1MjLDkeU",
+        "name": "Promo",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 614945,
     "title": "Voicemails for Isabelle",
     "release_date": "2026-06-20",
@@ -832,147 +920,6 @@
       {
         "key": "9mi3YVYm3ZU",
         "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1279493,
-    "title": "The Get Out",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
-    "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "oB6HNuKxLmo",
-        "name": "The Get Out | Official Trailer (HD) | Vertical",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1433367,
-    "title": "One Night Only",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "lDsAVq9lo9g",
-        "name": "UK Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "AvKoSR3O4NQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "JRG244IfrRE",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "fywtiE6V3XU",
-        "name": "go, go, go! get your tickets now for ONE NIGHT ONLY.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1240889,
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "j9TsiTgYZGw",
-        "name": "Official Vertical Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "dimCiC_hdoA",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "ieuTqT-oY-U",
-        "name": "Kiss your inhibitions goodbye.",
-        "type": "Teaser"
-      },
-      {
-        "key": "7mgPvX9iSgo",
-        "name": "Hannah Einbinder is Kris",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1321008,
-    "title": "Black Box",
-    "release_date": "2026-07-07",
-    "poster": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
-    "overview": "A routine domestic flight turns into the flight from hell through a series of inexplicable phenomena and raw terror. Surreal encounters blur the boundaries between reality and nightmare. Passengers fight against all the odds in an attempt to survive while combating bizarre technological malfunctions, accelerating supernatural events and alien influences.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "y-nf8hUFd98",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 950028,
-    "title": "The Invite",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-    "overview": "Joe and Angela\u2019s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "nelkiuezJxg",
-        "name": "Official Trailer 2",
-        "type": "Trailer"
-      },
-      {
-        "key": "OJ19I9q_hOQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "TXVH-23lkr0",
-        "name": "A dinner party you won't want to miss.",
-        "type": "Teaser"
-      },
-      {
-        "key": "DsSKuMZsNvc",
-        "name": "See where the night goes.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1659155,
-    "title": "The Truthers",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
-    "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "IvL0oT13djs",
-        "name": "Official Trailer [Subtitled]",
         "type": "Trailer"
       }
     ]
@@ -1009,6 +956,100 @@
     ]
   },
   {
+    "id": 1698575,
+    "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+    "release_date": "2026-07-30",
+    "poster": "https://image.tmdb.org/t/p/w500/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
+    "overview": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "A-NQmpNsZIc",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1240889,
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "j9TsiTgYZGw",
+        "name": "Official Vertical Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "dimCiC_hdoA",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "ieuTqT-oY-U",
+        "name": "Kiss your inhibitions goodbye.",
+        "type": "Teaser"
+      },
+      {
+        "key": "7mgPvX9iSgo",
+        "name": "Hannah Einbinder is Kris",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1433367,
+    "title": "One Night Only",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "lDsAVq9lo9g",
+        "name": "UK Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "AvKoSR3O4NQ",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "JRG244IfrRE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "fywtiE6V3XU",
+        "name": "go, go, go! get your tickets now for ONE NIGHT ONLY.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1279493,
+    "title": "The Get Out",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+    "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "oB6HNuKxLmo",
+        "name": "The Get Out | Official Trailer (HD) | Vertical",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1477317,
     "title": "Your Fault: London",
     "release_date": "2026-06-17",
@@ -1030,6 +1071,48 @@
     ]
   },
   {
+    "id": 1058424,
+    "title": "Hope",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i0lipAm0VHFA3EH0CPV0s5LJMIE.jpg",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "R5jcEBVBEbQ",
+        "name": "Official US Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "ODnHr2Emnf0",
+        "name": "International Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "Vt7860xZFXk",
+        "name": "HOPE - Official Teaser - In Theaters Fall 2026",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1659155,
+    "title": "The Truthers",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+    "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "IvL0oT13djs",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1724816,
     "title": "Helena",
     "release_date": "2026-07-03",
@@ -1041,6 +1124,22 @@
       {
         "key": "yPZU0t7WDm8",
         "name": "'HELENA' Official Trailer | VMX Crush JENN ROSA",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1321008,
+    "title": "Black Box",
+    "release_date": "2026-07-07",
+    "poster": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
+    "overview": "A routine domestic flight turns into the flight from hell through a series of inexplicable phenomena and raw terror. Surreal encounters blur the boundaries between reality and nightmare. Passengers fight against all the odds in an attempt to survive while combating bizarre technological malfunctions, accelerating supernatural events and alien influences.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "y-nf8hUFd98",
+        "name": "Official Trailer",
         "type": "Trailer"
       }
     ]
@@ -1068,6 +1167,101 @@
         "key": "9O9ZeG6op_Y",
         "name": "Official Teaser",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1361774,
+    "title": "The Dink",
+    "release_date": "2026-07-23",
+    "poster": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tJQhL95q63ITeBy5OTGPx51sFks.jpg",
+    "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "YyVNFzx5Pl8",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1656220,
+    "title": "23 000 Lives",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
+    "overview": "A group of young people sets sail for the Mediterranean to save the lives of refugees \u2014 a mission that puts their ideas of law and justice to the test.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "89dugTvBEWw",
+        "name": "Trailer [Subtitled]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1472951,
+    "title": "Infiltrate",
+    "release_date": "2026-04-10",
+    "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cEvyR19pmQ2s3DE8mdyL0m2Lv2N.jpg",
+    "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she\u2019s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily\u2019s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "dzVz0KqqwGE",
+        "name": "Infiltrate | Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1204680,
+    "title": "Coyote vs. Acme",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AbQYEHieBJsMheLFKM02rFu0xnc.jpg",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "kMsiD1Nky5I",
+        "name": "Final Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "H-43VeYGiPM",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "GXmAP6XyZ7g",
+        "name": "Destiny Arrives August 28",
+        "type": "Teaser"
+      },
+      {
+        "key": "qT6kR2nHI8M",
+        "name": "Trailer Tomorrow",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1329016,
+    "title": "Tony",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+    "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "k1MVnzd2aVc",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -1109,85 +1303,6 @@
     ]
   },
   {
-    "id": 656908,
-    "title": "Ramayana",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "le2W_fB_4KY",
-        "name": "UK Official Trailer [ENG DUB]",
-        "type": "Trailer"
-      },
-      {
-        "key": "74nF-FWAS6M",
-        "name": "Official Trailer [ENG DUB]",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1656220,
-    "title": "23 000 Lives",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
-    "overview": "A group of young people sets sail for the Mediterranean to save the lives of refugees \u2014 a mission that puts their ideas of law and justice to the test.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "89dugTvBEWw",
-        "name": "Trailer [Subtitled]",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1472951,
-    "title": "Infiltrate",
-    "release_date": "2026-04-10",
-    "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cEvyR19pmQ2s3DE8mdyL0m2Lv2N.jpg",
-    "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she\u2019s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily\u2019s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "dzVz0KqqwGE",
-        "name": "Infiltrate | Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1679730,
-    "title": "THE RIBBON HERO",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
-    "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Z56klGz1BPk",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "oJL-llloz24",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "NynEgERoqmk",
-        "name": "Official Teaser [Subtitled]",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1232569,
     "title": "Pinocchio: Unstrung",
     "release_date": "2026-07-24",
@@ -1208,48 +1323,6 @@
       },
       {
         "key": "mmWcqwR5yX0",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1058424,
-    "title": "Hope",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i0lipAm0VHFA3EH0CPV0s5LJMIE.jpg",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "R5jcEBVBEbQ",
-        "name": "Official US Trailer [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "ODnHr2Emnf0",
-        "name": "International Trailer [Subtitled]",
-        "type": "Trailer"
-      },
-      {
-        "key": "Vt7860xZFXk",
-        "name": "HOPE - Official Teaser - In Theaters Fall 2026",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1397385,
-    "title": "Little Brother",
-    "release_date": "2026-06-18",
-    "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
-    "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "bWtrFcerKE0",
         "name": "Official Trailer",
         "type": "Trailer"
       }
@@ -1313,27 +1386,6 @@
     ]
   },
   {
-    "id": 1397485,
-    "title": "Girls Like Girls",
-    "release_date": "2026-06-19",
-    "poster": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/f1L2n701wbcjlJ80vx9acAWLRdY.jpg",
-    "overview": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "ZC1kEknG2ro",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "KQCsTyrDsOk",
-        "name": "What She Actually Saw",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1288059,
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
@@ -1356,6 +1408,75 @@
         "key": "_P8tNR9Rvwg",
         "name": "Teaser Trailer",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1141970,
+    "title": "Morte Cucina",
+    "release_date": "2026-07-02",
+    "poster": "https://image.tmdb.org/t/p/w500/xlPJ8Wp9mm10bWmKdydkuOyxrHU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vElyR7rR3EOAmW3ZeLOdGhFWaeu.jpg",
+    "overview": "Sao, a talented cook, accidentally meets the man who took advantage of her in the past. She sets her revenge plan in motion using her cooking skill to achieve a rather unexpected result.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "TR9uva-Ym8o",
+        "name": "\u0e04\u0e23\u0e31\u0e27\u0e2a\u0e32\u0e27 Morte Cucina l Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1468683,
+    "title": "Heartstopper Forever",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/ch28kJu4pG2x07sN22valXvV3JY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+    "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "locuQ-skySE",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 656908,
+    "title": "Ramayana",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "le2W_fB_4KY",
+        "name": "UK Official Trailer [ENG DUB]",
+        "type": "Trailer"
+      },
+      {
+        "key": "74nF-FWAS6M",
+        "name": "Official Trailer [ENG DUB]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1397385,
+    "title": "Little Brother",
+    "release_date": "2026-06-18",
+    "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+    "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "bWtrFcerKE0",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -1428,239 +1549,23 @@
     ]
   },
   {
-    "id": 1468683,
-    "title": "Heartstopper Forever",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/ch28kJu4pG2x07sN22valXvV3JY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
-    "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "locuQ-skySE",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 675871,
-    "title": "Super Troopers 3",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oU2H07DQVjGMp2vUgrYzso36v15.jpg",
-    "overview": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
+    "id": 1397485,
+    "title": "Girls Like Girls",
+    "release_date": "2026-06-19",
+    "poster": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hSdK33Mjsdfb8TpoUTI3A3OE3RO.jpg",
+    "overview": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
     "theatrical": true,
     "videos": [
       {
-        "key": "cYFevn5frf0",
+        "key": "ZC1kEknG2ro",
         "name": "Official Trailer",
         "type": "Trailer"
       },
       {
-        "key": "qOhZPQ1gSHY",
-        "name": "Meow Playing in Theaters",
+        "key": "KQCsTyrDsOk",
+        "name": "What She Actually Saw",
         "type": "Teaser"
-      },
-      {
-        "key": "QgeiW1scQMM",
-        "name": "Meow Playing",
-        "type": "Teaser"
-      },
-      {
-        "key": "rMicBT0frBE",
-        "name": "Get Tickets Meow",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1141970,
-    "title": "Morte Cucina",
-    "release_date": "2026-07-02",
-    "poster": "https://image.tmdb.org/t/p/w500/xlPJ8Wp9mm10bWmKdydkuOyxrHU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vElyR7rR3EOAmW3ZeLOdGhFWaeu.jpg",
-    "overview": "Sao, a talented cook, accidentally meets the man who took advantage of her in the past. She sets her revenge plan in motion using her cooking skill to achieve a rather unexpected result.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "TR9uva-Ym8o",
-        "name": "\u0e04\u0e23\u0e31\u0e27\u0e2a\u0e32\u0e27 Morte Cucina l Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1204680,
-    "title": "Coyote vs. Acme",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AbQYEHieBJsMheLFKM02rFu0xnc.jpg",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "kMsiD1Nky5I",
-        "name": "Final Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "H-43VeYGiPM",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "GXmAP6XyZ7g",
-        "name": "Destiny Arrives August 28",
-        "type": "Teaser"
-      },
-      {
-        "key": "qT6kR2nHI8M",
-        "name": "Trailer Tomorrow",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1375441,
-    "title": "Primetime",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "5fHXyqQOKL8",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "Yrfrf53ttYY",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1500890,
-    "title": "Lockbox",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
-    "overview": "A woman puts her life on the line to protect her troubled, enigmatic cousin, Winthrop, who has been targeted and hunted by a powerful supernatural force.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "xxiHWdsM1rM",
-        "name": "LOCKBOX | Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1711175,
-    "title": "Summerween",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/oCsyamu5ixofd3yyK9gD7pGfCiF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/25N840Us9DC7JY6WSxKCsHSjDsu.jpg",
-    "overview": "A former circus clown escapes a mental institution on the tenth anniversary of his first kills. Now, as unsuspecting high schoolers throw a Summerween party at the clown\u2019s abandoned mansion, a police officer and father to one of the party goers must rescue his daughter before the clown kills again.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "PNBLN4Pl3q4",
-        "name": "Summerween | Official Trailer | The Asylum Movie Channel",
-        "type": "Trailer"
-      },
-      {
-        "key": "KYi2iCjUXJs",
-        "name": "Summerween | Official Trailer | Horror Brains",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1719326,
-    "title": "The Cheating Wife",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/3KVI4XvSTnGeUf5UriMN12uw4qj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yUO84rpkNb4pSM9Ehh3sZYkaorP.jpg",
-    "overview": "Two widows who find solace in each other and eventually fall in love. But when one of their supposedly dead husbands returns home blind, they are forced to hide their forbidden affair, testing the limits of love and loyalty.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "fNQ4JayA8e4",
-        "name": "\ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddd6\ud835\udddb\ud835\uddd8\ud835\uddd4\ud835\udde7\ud835\udddc\ud835\udde1\ud835\uddda \ud835\uddea\ud835\udddc\ud835\uddd9\ud835\uddd8 Official Trailer | World Premiere this \ud835\udddd\ud835\udde8\ud835\udde1\ud835\uddd8 \ud835\udfee\ud835\udff2 only on VMX!",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1213243,
-    "title": "Toxic",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oxgtM8iJVVb7xqeHkdqSzqIMtRh.jpg",
-    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "JQ7pytcXahw",
-        "name": "Ladies & Ladies",
-        "type": "Teaser"
-      },
-      {
-        "key": "aF08WVSvCok",
-        "name": "Introducing Raya",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1620682,
-    "title": "Love in Slow Motion",
-    "release_date": "2026-07-23",
-    "poster": "https://image.tmdb.org/t/p/w500/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rivKhEJWZirF7UtnCnaN44YaJ69.jpg",
-    "overview": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels \u2014 because who knew true love could be hiding in the friend zone?",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "oCg2wXznjLo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 964849,
-    "title": "Nightborn",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
-    "overview": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "dWePsu_Kd9c",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1227241,
-    "title": "Maa Inti Bangaram",
-    "release_date": "2026-06-18",
-    "poster": "https://image.tmdb.org/t/p/w500/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-    "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "vdTawCMwiQs",
-        "name": "Maa Inti Bangaaram Teaser Trailer | Samantha | Raj Nidimoru | Nandini | Diganth | Santhosh Narayanan",
-        "type": "Trailer"
       }
     ]
   },
@@ -1676,22 +1581,6 @@
       {
         "key": "3ZfsKIKtYaA",
         "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1424435,
-    "title": "Wings of Dread",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/iCnTJwkAMwIvaZgwpPHJJHfV0Er.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m0joYYat6anzyIaJ6B4CQnTMjti.jpg",
-    "overview": "Air police officer Gu Chaoyang encounters a hijacking crisis on his flight back to China. With his extremely high professional ethics, he fights desperately to stop the hijacker, and a life-and-death struggle that takes place at an altitude of ten thousand meters begins.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "9AhPB0dgito",
-        "name": "Trailer",
         "type": "Trailer"
       }
     ]
@@ -1728,16 +1617,158 @@
     ]
   },
   {
-    "id": 1723460,
-    "title": "A Toxic Love Story",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
-    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+    "id": 1375441,
+    "title": "Primetime",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "5fHXyqQOKL8",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "Yrfrf53ttYY",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1719326,
+    "title": "The Cheating Wife",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/3KVI4XvSTnGeUf5UriMN12uw4qj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yUO84rpkNb4pSM9Ehh3sZYkaorP.jpg",
+    "overview": "Two widows who find solace in each other and eventually fall in love. But when one of their supposedly dead husbands returns home blind, they are forced to hide their forbidden affair, testing the limits of love and loyalty.",
     "theatrical": false,
     "videos": [
       {
-        "key": "9k9SYlMy9qs",
+        "key": "fNQ4JayA8e4",
+        "name": "\ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddd6\ud835\udddb\ud835\uddd8\ud835\uddd4\ud835\udde7\ud835\udddc\ud835\udde1\ud835\uddda \ud835\uddea\ud835\udddc\ud835\uddd9\ud835\uddd8 Official Trailer | World Premiere this \ud835\udddd\ud835\udde8\ud835\udde1\ud835\uddd8 \ud835\udfee\ud835\udff2 only on VMX!",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1500890,
+    "title": "Lockbox",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
+    "overview": "A woman puts her life on the line to protect her troubled, enigmatic cousin, Winthrop, who has been targeted and hunted by a powerful supernatural force.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "xxiHWdsM1rM",
+        "name": "LOCKBOX | Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 675871,
+    "title": "Super Troopers 3",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oU2H07DQVjGMp2vUgrYzso36v15.jpg",
+    "overview": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "cYFevn5frf0",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "qOhZPQ1gSHY",
+        "name": "Meow Playing in Theaters",
+        "type": "Teaser"
+      },
+      {
+        "key": "QgeiW1scQMM",
+        "name": "Meow Playing",
+        "type": "Teaser"
+      },
+      {
+        "key": "rMicBT0frBE",
+        "name": "Get Tickets Meow",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1213243,
+    "title": "Toxic",
+    "release_date": "2026-08-26",
+    "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oxgtM8iJVVb7xqeHkdqSzqIMtRh.jpg",
+    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "JQ7pytcXahw",
+        "name": "Ladies & Ladies",
+        "type": "Teaser"
+      },
+      {
+        "key": "aF08WVSvCok",
+        "name": "Introducing Raya",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1711175,
+    "title": "Summerween",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/oCsyamu5ixofd3yyK9gD7pGfCiF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/25N840Us9DC7JY6WSxKCsHSjDsu.jpg",
+    "overview": "A former circus clown escapes a mental institution on the tenth anniversary of his first kills. Now, as unsuspecting high schoolers throw a Summerween party at the clown\u2019s abandoned mansion, a police officer and father to one of the party goers must rescue his daughter before the clown kills again.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "PNBLN4Pl3q4",
+        "name": "Summerween | Official Trailer | The Asylum Movie Channel",
+        "type": "Trailer"
+      },
+      {
+        "key": "KYi2iCjUXJs",
+        "name": "Summerween | Official Trailer | Horror Brains",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1620682,
+    "title": "Love in Slow Motion",
+    "release_date": "2026-07-23",
+    "poster": "https://image.tmdb.org/t/p/w500/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rivKhEJWZirF7UtnCnaN44YaJ69.jpg",
+    "overview": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels \u2014 because who knew true love could be hiding in the friend zone?",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "oCg2wXznjLo",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 964849,
+    "title": "Nightborn",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+    "overview": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "dWePsu_Kd9c",
         "name": "Official Trailer",
         "type": "Trailer"
       }
@@ -1765,18 +1796,18 @@
     ]
   },
   {
-    "id": 1616674,
-    "title": "Me Before Me",
-    "release_date": "2026-07-16",
-    "poster": "https://image.tmdb.org/t/p/w500/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg",
-    "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth \u2014 not trophies \u2014 might finally set him free.",
+    "id": 1723460,
+    "title": "A Toxic Love Story",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
     "theatrical": false,
     "videos": [
       {
-        "key": "3niHaoJ_MzQ",
-        "name": "Aku Sebelum Aku | Teaser Resmi | Netflix",
-        "type": "Teaser"
+        "key": "9k9SYlMy9qs",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -1797,6 +1828,96 @@
     ]
   },
   {
+    "id": 1227241,
+    "title": "Maa Inti Bangaram",
+    "release_date": "2026-06-18",
+    "poster": "https://image.tmdb.org/t/p/w500/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+    "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "vdTawCMwiQs",
+        "name": "Maa Inti Bangaaram Teaser Trailer | Samantha | Raj Nidimoru | Nandini | Diganth | Santhosh Narayanan",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1616674,
+    "title": "Me Before Me",
+    "release_date": "2026-07-16",
+    "poster": "https://image.tmdb.org/t/p/w500/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg",
+    "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth \u2014 not trophies \u2014 might finally set him free.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "3niHaoJ_MzQ",
+        "name": "Aku Sebelum Aku | Teaser Resmi | Netflix",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1511675,
+    "title": "Kingdom 5: The Clash of Souls",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/3ktrtViH5CCN8YVjgsVa5rPoGPB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cKLAotXdVF1CSjieKCn1O9CRX2Y.jpg",
+    "overview": "Except for the state of Qin, the six rival states join forces to form an allied army led by military adviser Riboku. The allied army then targets Qin. Meanwhile, Shin of Qin jumps into the war that will determine the fate of Qin.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "AQEct00Ks5s",
+        "name": "\u3010\u4e3b\u984c\u6b4c\u5165\u308a\u4e88\u544a\u3011\u7c73\u6d25\u7384\u5e2b\u300c\u591c\u9df9\u300d\u306b\u6c7a\u5b9a\uff01\uff5c\u6620\u753b\u300e\u30ad\u30f3\u30b0\u30c0\u30e0 \u9b42\u306e\u6c7a\u6226\u300f7\u670817\u65e5(\u91d1)\u516c\u958b",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1424435,
+    "title": "Wings of Dread",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/iCnTJwkAMwIvaZgwpPHJJHfV0Er.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m0joYYat6anzyIaJ6B4CQnTMjti.jpg",
+    "overview": "Air police officer Gu Chaoyang encounters a hijacking crisis on his flight back to China. With his extremely high professional ethics, he fights desperately to stop the hijacker, and a life-and-death struggle that takes place at an altitude of ten thousand meters begins.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "9AhPB0dgito",
+        "name": "Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 421892,
+    "title": "Shrek 5",
+    "release_date": "2027-06-30",
+    "poster": "https://image.tmdb.org/t/p/w500/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
+    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure, this time in the magical city of Further Further Away.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Swiz1XyfhcI",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "KbiwL74KyJQ",
+        "name": "Cast Announcement",
+        "type": "Teaser"
+      },
+      {
+        "key": "BhCSpmVOGow",
+        "name": "Not too Far, Far Away\u2026",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1458215,
     "title": "The Gentleman Thief",
     "release_date": "2026-07-31",
@@ -1813,17 +1934,43 @@
     ]
   },
   {
-    "id": 1511675,
-    "title": "Kingdom 5: The Clash of Souls",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/3ktrtViH5CCN8YVjgsVa5rPoGPB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cKLAotXdVF1CSjieKCn1O9CRX2Y.jpg",
-    "overview": "Except for the state of Qin, the six rival states join forces to form an allied army led by military adviser Riboku. The allied army then targets Qin. Meanwhile, Shin of Qin jumps into the war that will determine the fate of Qin.",
-    "theatrical": false,
+    "id": 1260649,
+    "title": "Jumanji: Open World",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pYN5Zjc3l1hj2hMeBbzRYDYTC1E.jpg",
+    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "theatrical": true,
     "videos": [
       {
-        "key": "AQEct00Ks5s",
-        "name": "\u3010\u4e3b\u984c\u6b4c\u5165\u308a\u4e88\u544a\u3011\u7c73\u6d25\u7384\u5e2b\u300c\u591c\u9df9\u300d\u306b\u6c7a\u5b9a\uff01\uff5c\u6620\u753b\u300e\u30ad\u30f3\u30b0\u30c0\u30e0 \u9b42\u306e\u6c7a\u6226\u300f7\u670817\u65e5(\u91d1)\u516c\u958b",
+        "key": "zhApeaHMvfs",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "BJY2-UurJZs",
+        "name": "One. Last. Game. The final countdown begins.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
         "type": "Trailer"
       }
     ]
@@ -1860,23 +2007,92 @@
     ]
   },
   {
-    "id": 1260649,
-    "title": "Jumanji: Open World",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pYN5Zjc3l1hj2hMeBbzRYDYTC1E.jpg",
-    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "id": 1421594,
+    "title": "Inside the Trustor Scandal",
+    "release_date": "2026-08-05",
+    "poster": "https://image.tmdb.org/t/p/w500/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xLJgxU9hTga9tsFw960g1h1uDvx.jpg",
+    "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "Ia_cAr_IM54",
+        "name": "Inside the Trustor Scandal | Official Clip | Netflix",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1122030,
+    "title": "Alpha",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+    "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
     "theatrical": true,
     "videos": [
       {
-        "key": "zhApeaHMvfs",
+        "key": "8zqfxQcz7kM",
+        "name": "Title Announcement",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1522333,
+    "title": "Carry On Jatta 4",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
+    "backdrop": "",
+    "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "fsDBAr42UUg",
+        "name": "Carry On Jatta 4 (Trailer) Gippy Grewal | Binnu Dhillon | Sargun Mehta | Late Jaswinder Bhalla Ji",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+    "overview": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
         "name": "Official Trailer",
         "type": "Trailer"
       },
       {
-        "key": "BJY2-UurJZs",
-        "name": "One. Last. Game. The final countdown begins.",
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "vjq7I-lNBSU",
+        "name": "In Cinemas and IMAX 17 September",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1400837,
+    "title": "Other Mommy",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+    "overview": "A young girl, Bela, forms a relationship with a sinister entity in her home who looks uncannily like her own mother.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "bEpTgowZ1dI",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -1912,270 +2128,23 @@
     ]
   },
   {
-    "id": 1400837,
-    "title": "Other Mommy",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/kNxRgcTeqeU5jauBackTERoO2De.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
-    "overview": "A young girl, Bela, forms a relationship with a sinister entity in her home who looks uncannily like her own mother.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "bEpTgowZ1dI",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 421892,
-    "title": "Shrek 5",
-    "release_date": "2027-06-30",
-    "poster": "https://image.tmdb.org/t/p/w500/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
-    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure, this time in the magical city of Further Further Away.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Swiz1XyfhcI",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "KbiwL74KyJQ",
-        "name": "Cast Announcement",
-        "type": "Teaser"
-      },
-      {
-        "key": "BhCSpmVOGow",
-        "name": "Not too Far, Far Away\u2026",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1728056,
-    "title": "Big Chicken: A Fast Food Conspiracy",
-    "release_date": "2026-08-05",
-    "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
-    "overview": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving \u2014 and industry behind it.",
+    "id": 1659389,
+    "title": "One Piece Heroines",
+    "release_date": "2026-07-05",
+    "poster": "https://image.tmdb.org/t/p/w500/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+    "overview": "After failing to stop the thieves due to ill-fitting shoes, Nami storms into the shop where she bought them for a refund. However, the head designer offers to make her a new pair from scratch on one condition: she must walk in their upcoming fashion show.",
     "theatrical": false,
     "videos": [
       {
-        "key": "7sGkQM6TyQU",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
-    "overview": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
+        "key": "TWMGQNQ-ywE",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer"
       },
       {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "vjq7I-lNBSU",
-        "name": "In Cinemas and IMAX 17 September",
+        "key": "qWlvJPCWCg8",
+        "name": "OFFICIAL Teaser [Subtitled]",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1612018,
-    "title": "Jackass: Best and Last",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
-    "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "sNwzFhGwA94",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "YasXQ27FkQI",
-        "name": "Big Red Rocket",
-        "type": "Teaser"
-      },
-      {
-        "key": "kPBedQ6-aGo",
-        "name": "Shopping Cart",
-        "type": "Teaser"
-      },
-      {
-        "key": "BmcMmU9pmnY",
-        "name": "Wee Man Tank",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1401586,
-    "title": "Sonic the Hedgehog 4",
-    "release_date": "2027-03-19",
-    "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
-    "overview": "Sonic the Hedgehog, joined by a new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "YShjCIA9aXk",
-        "name": "Title Reveal",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1522333,
-    "title": "Carry On Jatta 4",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
-    "backdrop": "",
-    "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "fsDBAr42UUg",
-        "name": "Carry On Jatta 4 (Trailer) Gippy Grewal | Binnu Dhillon | Sargun Mehta | Late Jaswinder Bhalla Ji",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1725909,
-    "title": "Asesino Perfecto",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/3cYidNGENPU8Izh0V7ikkEt0Egw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/whZtKmcXtHKvtDgRPwvf5Cxhjyf.jpg",
-    "overview": "A peaceful town is gripped by fear when a series of mysterious murders leaves investigators with no witnesses, no evidence, and no clear suspect. As each new victim is discovered, Captain Rocio Cortes and Detective Soto race to stop a killer who always seems one step ahead. Their investigation uncovers hidden secrets, broken family ties, and painful events from the past that connect several lives in unexpected ways. As suspicion shifts from one person to another, two brothers, Leo and Elias, find themselves at the center of a mystery that will test their loyalty and force them to confront the truth. With fear spreading throughout the community and trust quickly fading, the search for justice becomes a dangerous race against time in this suspenseful Mexican crime thriller filled with mystery, psychological tension, and unexpected twists.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "yh__5DS_pZ8",
-        "name": "\ud83c\udfa5 Perfect Killer | Official Trailer @HuizarTV",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "YyJ9YER6cJg",
-        "name": "Can't keep it contained.",
-        "type": "Teaser"
-      },
-      {
-        "key": "z4BT5bpVl5s",
-        "name": "Official Trailer Tease",
-        "type": "Teaser"
-      },
-      {
-        "key": "6IxPD-jNdwM",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1148365,
-    "title": "Matchbox: The Movie",
-    "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "7xfqITrMDcI",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1384758,
-    "title": "Ice Age: Boiling Point",
-    "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
-    "overview": "A madcap adventure filled with dinosaurs and lava that takes Manny, Sid, Diego, Ellie, Scrat and the herd through the uncharted regions of the dangerous Lost World.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "3fjmjX0QOIg",
-        "name": "Official Teaser",
-        "type": "Teaser"
-      },
-      {
-        "key": "f93TgnGk66k",
-        "name": "In Theaters in 2026",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1738437,
-    "title": "Moms Guardian",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/Eu0X3jllHZeg16ntHgaXYFNILY.jpg",
-    "backdrop": "",
-    "overview": "When the mom who abandoned her passes away, Victoria must confront her feelings about the situation when someone unexpected shows up. Her mom's guardian.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "2g_YZSpQ-XM",
-        "name": "Moms Guardian OFFICIAL TRAILER (2025)",
-        "type": "Trailer"
       }
     ]
   },
@@ -2211,50 +2180,34 @@
     ]
   },
   {
-    "id": 718833,
-    "title": "Bokshi",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/9Loc2q3gO1HWolw0o6kLaMXrocS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
-    "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
+    "id": 1148365,
+    "title": "Matchbox: The Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
     "theatrical": true,
     "videos": [
       {
-        "key": "2nKLfpXRuEM",
-        "name": "Bokshi \u2013 Official Teaser",
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
         "type": "Trailer"
       }
     ]
   },
   {
-    "id": 1628071,
-    "title": "Ip Man: Kung Fu Legend",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
-    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
+    "id": 1728056,
+    "title": "Big Chicken: A Fast Food Conspiracy",
+    "release_date": "2026-08-05",
+    "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+    "overview": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving \u2014 and industry behind it.",
     "theatrical": false,
     "videos": [
       {
-        "key": "cqlZSRvH7BU",
-        "name": "Trailer [Subtitled]",
+        "key": "7sGkQM6TyQU",
+        "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1480503,
-    "title": "CoComelon: The Movie",
-    "release_date": "2027-02-19",
-    "poster": "https://image.tmdb.org/t/p/w500/dDYSKF9VWmcgOy2sruIJkHs5DDG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
-    "overview": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "HGZZJClFIa0",
-        "name": "Official Teaser",
-        "type": "Teaser"
       }
     ]
   },
@@ -2280,39 +2233,103 @@
     ]
   },
   {
-    "id": 1538497,
-    "title": "Hexed",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yy8pf5z2NyuEFG5gCXPM7gjLkcm.jpg",
-    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "id": 1424965,
+    "title": "Ice Skater",
+    "release_date": "2026-02-24",
+    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
+    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "ShXeLbwaZLw",
+        "name": "Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "nBjUq8xyjx8",
+        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1401586,
+    "title": "Sonic the Hedgehog 4",
+    "release_date": "2027-03-19",
+    "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
+    "overview": "Sonic the Hedgehog, joined by a new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
     "theatrical": true,
     "videos": [
       {
-        "key": "mtC4sjABZNw",
-        "name": "Teaser Trailer",
+        "key": "YShjCIA9aXk",
+        "name": "Title Reveal",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1484913,
+    "title": "Ikka",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "LEargi83ofQ",
+        "name": "First Look",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1738437,
+    "title": "Moms Guardian",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/Eu0X3jllHZeg16ntHgaXYFNILY.jpg",
+    "backdrop": "",
+    "overview": "When the mom who abandoned her passes away, Victoria must confront her feelings about the situation when someone unexpected shows up. Her mom's guardian.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "2g_YZSpQ-XM",
+        "name": "Moms Guardian OFFICIAL TRAILER (2025)",
         "type": "Trailer"
       }
     ]
   },
   {
-    "id": 1300926,
-    "title": "The Angry Birds Movie 3",
-    "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
-    "theatrical": true,
+    "id": 1725909,
+    "title": "Asesino Perfecto",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/3cYidNGENPU8Izh0V7ikkEt0Egw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/whZtKmcXtHKvtDgRPwvf5Cxhjyf.jpg",
+    "overview": "A peaceful town is gripped by fear when a series of mysterious murders leaves investigators with no witnesses, no evidence, and no clear suspect. As each new victim is discovered, Captain Rocio Cortes and Detective Soto race to stop a killer who always seems one step ahead. Their investigation uncovers hidden secrets, broken family ties, and painful events from the past that connect several lives in unexpected ways. As suspicion shifts from one person to another, two brothers, Leo and Elias, find themselves at the center of a mystery that will test their loyalty and force them to confront the truth. With fear spreading throughout the community and trust quickly fading, the search for justice becomes a dangerous race against time in this suspenseful Mexican crime thriller filled with mystery, psychological tension, and unexpected twists.",
+    "theatrical": false,
     "videos": [
       {
-        "key": "a9DB_aUMzME",
-        "name": "Official Trailer",
+        "key": "yh__5DS_pZ8",
+        "name": "\ud83c\udfa5 Perfect Killer | Official Trailer @HuizarTV",
         "type": "Trailer"
-      },
+      }
+    ]
+  },
+  {
+    "id": 1628071,
+    "title": "Ip Man: Kung Fu Legend",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
+    "theatrical": false,
+    "videos": [
       {
-        "key": "8_nX4qQU1Wc",
-        "name": "NOW IN PRODUCTION!",
-        "type": "Teaser"
+        "key": "cqlZSRvH7BU",
+        "name": "Trailer [Subtitled]",
+        "type": "Trailer"
       }
     ]
   },
@@ -2333,107 +2350,121 @@
     ]
   },
   {
-    "id": 1725116,
-    "title": "Simpsley",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
-    "overview": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she\u2019s tempted by the trappings of his affluent lifestyle. But there\u2019s a big fat fly in the ointment: Skinner\u2019s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "zHwpTZ2r-DM",
-        "name": "Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1712439,
-    "title": "Behind the Screens",
-    "release_date": "2026-07-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5XhXoKGzI2sLjDixWUUzVqDRnzt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2r8T8p4pNAoClk6OSgIrIpAubJI.jpg",
-    "overview": "Seven close friends reunite for a dinner gathering and decide to play a seemingly harmless game. Throughout the evening, every message, email, and phone call they receive must be shared openly with the group.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "G92ccbCruhI",
-        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e25\u0e31\u0e1a - Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1122030,
-    "title": "Alpha",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-    "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m45xBFqUT4EYpb8eIbamPGK3qea.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
     "videos": [
       {
-        "key": "8zqfxQcz7kM",
-        "name": "Title Announcement",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1061798,
-    "title": "Jim Queen and the Quest for Chloroqueer",
-    "release_date": "2026-06-17",
-    "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
-    "overview": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "CHof1Bc8oeM",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "vyISuWUWcFs",
+        "key": "Xt4X4FvXk2A",
         "name": "Official Trailer",
         "type": "Trailer"
       },
       {
-        "key": "DqcnBiYO7_A",
-        "name": "Trailer Tomorrow",
+        "key": "eGyyykgo6Qo",
+        "name": "Blanka vs. Ryu Special Look",
+        "type": "Teaser"
+      },
+      {
+        "key": "5tXleEhp9oY",
+        "name": "Zoom",
+        "type": "Teaser"
+      },
+      {
+        "key": "hwzW-MfZxGA",
+        "name": "Step into the ring. New Trailer drops TOMORROW.",
         "type": "Teaser"
       }
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
+    "id": 1384758,
+    "title": "Ice Age: Boiling Point",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
+    "overview": "A madcap adventure filled with dinosaurs and lava that takes Manny, Sid, Diego, Ellie, Scrat and the herd through the uncharted regions of the dangerous Lost World.",
     "theatrical": true,
     "videos": [
       {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
+        "key": "3fjmjX0QOIg",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      },
+      {
+        "key": "f93TgnGk66k",
+        "name": "In Theaters in 2026",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1451344,
+    "title": "Husbands in Action",
+    "release_date": "2026-06-19",
+    "poster": "https://image.tmdb.org/t/p/w500/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
+    "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "PSJgwm2xcbI",
+        "name": "Official Trailer [ENG SUB]",
         "type": "Trailer"
       },
       {
-        "key": "Prv_FLWLlq8",
-        "name": "Title Reveal",
+        "key": "arFBLSgaAsE",
+        "name": "Official Teaser [ENG SUB]",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "YyJ9YER6cJg",
+        "name": "Can't keep it contained.",
+        "type": "Teaser"
+      },
+      {
+        "key": "z4BT5bpVl5s",
+        "name": "Official Trailer Tease",
+        "type": "Teaser"
+      },
+      {
+        "key": "6IxPD-jNdwM",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "wbMNy_djxGk",
+        "name": "Official Teaser",
         "type": "Teaser"
       }
     ]
@@ -2470,17 +2501,91 @@
     ]
   },
   {
-    "id": 1155818,
-    "title": "Satluj",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
-    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
+    "id": 1739294,
+    "title": "Maaran",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
+    "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
     "theatrical": false,
     "videos": [
       {
-        "key": "WtL3YbjUJN8",
-        "name": "ZEE5 Satluj",
+        "key": "ranFLVt6LTc",
+        "name": "Maaran | Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "2dZm1i5lAT4",
+        "name": "Maaran | Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1712439,
+    "title": "Behind the Screens",
+    "release_date": "2026-07-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5XhXoKGzI2sLjDixWUUzVqDRnzt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2r8T8p4pNAoClk6OSgIrIpAubJI.jpg",
+    "overview": "Seven close friends reunite for a dinner gathering and decide to play a seemingly harmless game. Throughout the evening, every message, email, and phone call they receive must be shared openly with the group.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "G92ccbCruhI",
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e25\u0e31\u0e1a - Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 718833,
+    "title": "Bokshi",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/9Loc2q3gO1HWolw0o6kLaMXrocS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
+    "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "2nKLfpXRuEM",
+        "name": "Bokshi \u2013 Official Teaser",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "Prv_FLWLlq8",
+        "name": "Title Reveal",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1725116,
+    "title": "Simpsley",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
+    "overview": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she\u2019s tempted by the trappings of his affluent lifestyle. But there\u2019s a big fat fly in the ointment: Skinner\u2019s clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust and Italian lira are abound.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "zHwpTZ2r-DM",
+        "name": "Trailer",
         "type": "Trailer"
       }
     ]
@@ -2517,6 +2622,64 @@
     ]
   },
   {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1739639,
+    "title": "RAGEBAIT",
+    "release_date": "2026-08-04",
+    "poster": "https://image.tmdb.org/t/p/w500/lcUufwF6o3n6VF6PMLt0uUZLTOM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4D7rf8XqGsKXebUKgT2jidGstKp.jpg",
+    "overview": "On Halloween night, a socially parasitic live streamer becomes the target of a malevolent entity after a mysterious viewer curses his stream and forces him to watch a collection of cursed videos from missing content creators.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "9MD_BY_TfOs",
+        "name": "RAGEBAIT | Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1400336,
+    "title": "Focker-in-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "DqcnBiYO7_A",
+        "name": "Trailer Tomorrow",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 880067,
     "title": "Strung",
     "release_date": "2026-05-27",
@@ -2533,68 +2696,32 @@
     ]
   },
   {
-    "id": 1739294,
-    "title": "Maaran",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
-    "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
-    "theatrical": false,
+    "id": 1538497,
+    "title": "Hexed",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yy8pf5z2NyuEFG5gCXPM7gjLkcm.jpg",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "theatrical": true,
     "videos": [
       {
-        "key": "ranFLVt6LTc",
-        "name": "Maaran | Official Trailer",
+        "key": "mtC4sjABZNw",
+        "name": "Teaser Trailer",
         "type": "Trailer"
-      },
-      {
-        "key": "2dZm1i5lAT4",
-        "name": "Maaran | Official Teaser",
-        "type": "Teaser"
       }
     ]
   },
   {
-    "id": 1153576,
-    "title": "Street Fighter",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m45xBFqUT4EYpb8eIbamPGK3qea.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "id": 1480503,
+    "title": "CoComelon: The Movie",
+    "release_date": "2027-02-19",
+    "poster": "https://image.tmdb.org/t/p/w500/dDYSKF9VWmcgOy2sruIJkHs5DDG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
+    "overview": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
     "theatrical": true,
     "videos": [
       {
-        "key": "Xt4X4FvXk2A",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "eGyyykgo6Qo",
-        "name": "Blanka vs. Ryu Special Look",
-        "type": "Teaser"
-      },
-      {
-        "key": "5tXleEhp9oY",
-        "name": "Zoom",
-        "type": "Teaser"
-      },
-      {
-        "key": "hwzW-MfZxGA",
-        "name": "Step into the ring. New Trailer drops TOMORROW.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "wbMNy_djxGk",
+        "key": "HGZZJClFIa0",
         "name": "Official Teaser",
         "type": "Teaser"
       }
@@ -2617,6 +2744,100 @@
     ]
   },
   {
+    "id": 1061798,
+    "title": "Jim Queen and the Quest for Chloroqueer",
+    "release_date": "2026-06-17",
+    "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
+    "overview": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "CHof1Bc8oeM",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 822653,
+    "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/g4kCd4rMuN7G3VQQDUT6mLbrBqQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xzm3RfWh932rS28WErNC3u8qzVm.jpg",
+    "overview": "After the events of Rebellion, the world appears to be in balance\u2014but that peace is fragile. As a new threat connected to Walpurgisnacht emerges, Homura Akemi is forced to face the consequences of her choices and question how far she is willing to go to protect Madoka.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "g0CsWEIb6D4",
+        "name": "Official Trailer 3 [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "3rdPRWNwJBM",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "CxTenVJOw_o",
+        "name": "Official Trailer: SIDE Homura [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "htNvpTfYMdk",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
+    "overview": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I. (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos' last chance to prove himself...or lose his magical hat!",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "CUnaaeoCqXQ",
+        "name": "New trailer for The Cat In The Hat?!?! Best day ever!",
+        "type": "Teaser"
+      },
+      {
+        "key": "JtpLhxp5t3o",
+        "name": "It's a vibe thing.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1155818,
+    "title": "Satluj",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "WtL3YbjUJN8",
+        "name": "ZEE5 Satluj",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -2629,168 +2850,6 @@
         "key": "cmjpadVj-Vk",
         "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1381071,
-    "title": "Godzilla Minus Zero",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "Xmy-Z3dHMd8",
-        "name": "Official Teaser [Subtitled]",
-        "type": "Teaser"
-      },
-      {
-        "key": "n-NDYWPXpKg",
-        "name": "First Look Teaser",
-        "type": "Teaser"
-      },
-      {
-        "key": "msIIHSrWjgo",
-        "name": "Title Reveal",
-        "type": "Teaser"
-      },
-      {
-        "key": "wDD2gTgxQJ8",
-        "name": "New Godzilla Film Announcement",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 920708,
-    "title": "V\u0101ran\u0101si",
-    "release_date": "2027-04-07",
-    "poster": "https://image.tmdb.org/t/p/w500/9XHgX5XEQt95nwZIlp2yiMaw65D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aCzuLjuc0AmmzzFD3wSgZUZK2EN.jpg",
-    "overview": "Follows Rudhra's perilous adventures as ancient Varanasi stands on the brink of catastrophe from a looming asteroid in 2027 CE, unfolding across multiple timelines and distant continents.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "odDvRxuP2wQ",
-        "name": "Official 1.43 Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "jDGETw3YAHc",
-        "name": "VARANASI to the WORLD",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1680084,
-    "title": "Popeye III: Requiem",
-    "release_date": "2026-07-05",
-    "poster": "https://image.tmdb.org/t/p/w500/6DHNS74iO33ZoKYsNzvugpoYGp2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8IVOqqWUiTJ2s44Avsgy87z1wJW.jpg",
-    "overview": "When a covert research team imprisons Popeye to harness his superhuman strength as a military weapon, their experiment spirals violently out of control. Transformed into an unstoppable force driven by rage, Popeye tears through the facility, leaving destruction in his wake. With time running out and casualties mounting, one scientist risks everything to stop the monster they created - before he reaches the outside world.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "WsyxtHHTWUc",
-        "name": "POPEYE 3: Requiem (2026) - Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1341138,
-    "title": "Spa Weekend",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/d2Ga7lZI4c19YGcIH09vj9mDZKU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
-    "overview": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "FUFyXtlXw7k",
-        "name": "Censored UK Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "p_LJgljyhfE",
-        "name": "UK Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "9p7j3UvpEQQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "-8BbY_JPjY8",
-        "name": "2 weeks until Spa Weekend hits cinemas!",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1451486,
-    "title": "Uyir",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sxs1ME8rwQIccp7SL37fRgt0sFH.jpg",
-    "overview": "Follows Ajeeb, a sub-inspector serving his probationary period at the Dharmadam Police Station in Kannur district, based on real incidents.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "DyTziQOTNK4",
-        "name": "UYiR Movie Official Trailer | M Padmakumar | Roshan Mathew | Santhosh Thrivikraman | Wow Cinemas",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1280015,
-    "title": "Sunny Dancer",
-    "release_date": "2026-08-12",
-    "poster": "https://image.tmdb.org/t/p/w500/yXdQX7wQSG1TZlGfaSujxazPPtM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
-    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "UQxRhHK_Bmw",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "qSXzu-juhOs",
-        "name": "This Film Is Called Sunny Dancer",
-        "type": "Teaser"
-      },
-      {
-        "key": "BNHQH3u8eTU",
-        "name": "Only In Cinemas August 14",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1432474,
-    "title": "Nimrods",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/tDTfqu5XJbtUwstRRnWaUcoHxM2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
-    "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year\u2019s Eve.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "5mtbOhpqroo",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "IgxC84cZR4A",
-        "name": "Teaser",
-        "type": "Teaser"
       }
     ]
   },
@@ -2811,64 +2870,6 @@
     ]
   },
   {
-    "id": 445466,
-    "title": "Idiots",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cWWKFcsW9Hi0bVPXTQGeYb2Upi8.jpg",
-    "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "UoAf0LNAn30",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "SbmR9Jy0vRQ",
-        "name": "Teaser 4K",
-        "type": "Teaser"
-      },
-      {
-        "key": "8MVqh5L93Bs",
-        "name": "Teaser Trailer",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1716842,
-    "title": "Latina",
-    "release_date": "2026-06-19",
-    "poster": "https://image.tmdb.org/t/p/w500/awm0GzYGa1uVAccRqHzNLAcRUZm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8VLpnkkW7q1v8Bcf9tiRb1WRKPF.jpg",
-    "overview": "A story about a mysterious woman who shakes up a seemingly ordinary boarding house. As she charms both the boys and girls, secrets unravel, relationships collide, and chaos takes over.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "INq74nrTqQE",
-        "name": "LATINA Official Trailer | World Premiere this June 19 on VMX",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1738738,
-    "title": "Discman",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/a4zgk6PNP9uJdSqg8xrt74VAXmP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e6OV6pjwqa7Lyrdp87xv2bBpfIe.jpg",
-    "overview": "A man goes through a neverending routine in order to abtain perfection.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "fSLBmwy-d3Q",
-        "name": "Discman - Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
@@ -2879,22 +2880,6 @@
     "videos": [
       {
         "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1475803,
-    "title": "Governor",
-    "release_date": "2026-06-12",
-    "poster": "https://image.tmdb.org/t/p/w500/Anukm4NH6MM025vUQ9ykpWQXnFn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lvqxVKCUbhH83skNczVK9xWb5t4.jpg",
-    "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "Mvm0bRY0Qyg",
         "name": "Official Trailer",
         "type": "Trailer"
       }
@@ -2938,43 +2923,6 @@
     ]
   },
   {
-    "id": 1288438,
-    "title": "Godzilla x Kong: Supernova",
-    "release_date": "2027-03-26",
-    "poster": "https://image.tmdb.org/t/p/w500/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gLjZC1YGcujC82DF5subtEXWg7F.jpg",
-    "overview": "As the sixth installment in the MonsterVerse film series, this movie will delve deeper into the delicate relationship of coexistence and trust between humans and prehistoric behemoths. Meanwhile, the earth-shaking monster storm triggered by the epic clash between Godzilla and Kong, the two guardians of Earth\u2019s ecological balance, will once again sweep across the big screen!",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "pa3nW0EYYcQ",
-        "name": "Now in Production",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 532652,
-    "title": "The Resurrection of the Christ: Part One",
-    "release_date": "2027-05-06",
-    "poster": "https://image.tmdb.org/t/p/w500/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uLCH0RWdJoj0GOoaJfsqpOCMODr.jpg",
-    "overview": "The first part of a two-part sequel to The Passion of the Christ. Plot TBA.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "-cwD-lYN2Bo",
-        "name": "coming to theaters Spring 2027.",
-        "type": "Teaser"
-      },
-      {
-        "key": "ga6BBdi6LEw",
-        "name": "Coming Soon",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -2991,18 +2939,18 @@
     ]
   },
   {
-    "id": 1503762,
-    "title": "Sense and Sensibility",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "id": 1288438,
+    "title": "Godzilla x Kong: Supernova",
+    "release_date": "2027-03-26",
+    "poster": "https://image.tmdb.org/t/p/w500/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gLjZC1YGcujC82DF5subtEXWg7F.jpg",
+    "overview": "As the sixth installment in the MonsterVerse film series, this movie will delve deeper into the delicate relationship of coexistence and trust between humans and prehistoric behemoths. Meanwhile, the earth-shaking monster storm triggered by the epic clash between Godzilla and Kong, the two guardians of Earth\u2019s ecological balance, will once again sweep across the big screen!",
     "theatrical": true,
     "videos": [
       {
-        "key": "mcrwcvad84U",
-        "name": "Official Trailer",
-        "type": "Trailer"
+        "key": "pa3nW0EYYcQ",
+        "name": "Now in Production",
+        "type": "Teaser"
       }
     ]
   },
@@ -3018,6 +2966,38 @@
       {
         "key": "wtUdmUTNbO4",
         "name": "Official Teaser Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1226699,
+    "title": "The Wrong Girls",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+    "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "zrcg8YHSys8",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1503762,
+    "title": "Sense and Sensibility",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "mcrwcvad84U",
+        "name": "Official Trailer",
         "type": "Trailer"
       }
     ]
@@ -3044,18 +3024,23 @@
     ]
   },
   {
-    "id": 1226699,
-    "title": "The Wrong Girls",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
-    "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+    "id": 532652,
+    "title": "The Resurrection of the Christ: Part One",
+    "release_date": "2027-05-06",
+    "poster": "https://image.tmdb.org/t/p/w500/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uLCH0RWdJoj0GOoaJfsqpOCMODr.jpg",
+    "overview": "The first part of a two-part sequel to The Passion of the Christ. Plot TBA.",
     "theatrical": true,
     "videos": [
       {
-        "key": "zrcg8YHSys8",
-        "name": "Official Trailer",
-        "type": "Trailer"
+        "key": "-cwD-lYN2Bo",
+        "name": "coming to theaters Spring 2027.",
+        "type": "Teaser"
+      },
+      {
+        "key": "ga6BBdi6LEw",
+        "name": "Coming Soon",
+        "type": "Teaser"
       }
     ]
   },
