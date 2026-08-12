@@ -651,8 +651,8 @@
         "type": "Trailer"
       },
       {
-        "key": "JlsxjIgPcNI",
-        "name": "The best sounds of summer",
+        "key": "iLESyR2S3tY",
+        "name": "These kids have no chill",
         "type": "Teaser"
       }
     ]
@@ -861,37 +861,6 @@
     ]
   },
   {
-    "id": 1185806,
-    "title": "PAW Patrol: The Dino Movie",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "xgI5iYmOf5Q",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "-AVNejpbBOo",
-        "name": "Dog Vision Trailer",
-        "type": "Teaser"
-      },
-      {
-        "key": "T7A6NtD4w8s",
-        "name": "Slide",
-        "type": "Teaser"
-      },
-      {
-        "key": "CZ9uBkTqN2Y",
-        "name": "Ready?",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1305672,
     "title": "I Know Who You Are",
     "release_date": "2026-07-02",
@@ -1090,6 +1059,11 @@
     "theatrical": true,
     "videos": [
       {
+        "key": "mYRc2Gl7geY",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
         "key": "R5jcEBVBEbQ",
         "name": "Official US Trailer [Subtitled]",
         "type": "Trailer"
@@ -1101,7 +1075,7 @@
       },
       {
         "key": "Vt7860xZFXk",
-        "name": "HOPE - Official Teaser - In Theaters Fall 2026",
+        "name": "Official Teaser",
         "type": "Teaser"
       }
     ]
@@ -2462,8 +2436,8 @@
         "type": "Trailer"
       },
       {
-        "key": "-8BbY_JPjY8",
-        "name": "2 weeks until Spa Weekend hits cinemas!",
+        "key": "_ZGsnS7W-Rg",
+        "name": "Do Something for Yourself This Summer.",
         "type": "Teaser"
       }
     ]
@@ -2808,6 +2782,37 @@
         "key": "cmjpadVj-Vk",
         "name": "Official Trailer",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "Xmy-Z3dHMd8",
+        "name": "Official Teaser [Subtitled]",
+        "type": "Teaser"
+      },
+      {
+        "key": "n-NDYWPXpKg",
+        "name": "First Look Teaser",
+        "type": "Teaser"
+      },
+      {
+        "key": "msIIHSrWjgo",
+        "name": "Title Reveal",
+        "type": "Teaser"
+      },
+      {
+        "key": "wDD2gTgxQJ8",
+        "name": "New Godzilla Film Announcement",
+        "type": "Teaser"
       }
     ]
   },
