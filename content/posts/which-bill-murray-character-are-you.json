@@ -1,0 +1,296 @@
+{
+  "slug": "which-bill-murray-character-are-you",
+  "title": "Which Bill Murray Character Are You, Deep Down?",
+  "dek": "One legendary deadpan, eight wildly different guys \u2014 take this and find out if you're a con-man patriarch, a time-loop weatherman, or something in between.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/6pcROMLzJr2Fj05AyTbbDSkBVtr.jpg",
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T19:34:07.218292+00:00",
+  "quiz": {
+    "intro": "No wrong answers here \u2014 just answer like the version of you that shows up when nobody's watching.",
+    "questions": [
+      {
+        "question": "Your day just fell apart \u2014 job, car, apartment, relationship, all of it. What's your next move?",
+        "answers": [
+          {
+            "text": "Turn it into a business opportunity nobody asked for.",
+            "result": "venkman"
+          },
+          {
+            "text": "Assume it'll happen again tomorrow anyway, so why panic.",
+            "result": "phil"
+          },
+          {
+            "text": "Sigh, pour a drink, and stare out a hotel window.",
+            "result": "bob"
+          },
+          {
+            "text": "Call a teenager I barely know for advice.",
+            "result": "herman"
+          }
+        ]
+      },
+      {
+        "question": "Someone half your age challenges you to a duel of wits. How do you respond?",
+        "answers": [
+          {
+            "text": "Get weirdly competitive about something trivial, like piano lessons.",
+            "result": "phil"
+          },
+          {
+            "text": "Let them win \u2014 I'm too tired for this.",
+            "result": "bob"
+          },
+          {
+            "text": "Take them seriously and mentor them out of pure loneliness.",
+            "result": "herman"
+          },
+          {
+            "text": "Con them, then feel a little bad, then not really.",
+            "result": "royal"
+          }
+        ]
+      },
+      {
+        "question": "Be honest \u2014 what's your biggest personal flaw?",
+        "answers": [
+          {
+            "text": "I've checked out of my own life and my marriage.",
+            "result": "bob"
+          },
+          {
+            "text": "I'm rich, disillusioned, and quietly desperate to be loved.",
+            "result": "herman"
+          },
+          {
+            "text": "I lie to the people who love me, repeatedly, for decades.",
+            "result": "royal"
+          },
+          {
+            "text": "I'm cold, greedy, and I've cut off my own family.",
+            "result": "frank"
+          }
+        ]
+      },
+      {
+        "question": "Pick a coping mechanism for feeling completely stuck in life.",
+        "answers": [
+          {
+            "text": "Buy a submarine, or just live vicariously through someone younger.",
+            "result": "herman"
+          },
+          {
+            "text": "Move back into a hotel and pretend nothing has changed.",
+            "result": "royal"
+          },
+          {
+            "text": "Work harder, drink more, feel nothing.",
+            "result": "frank"
+          },
+          {
+            "text": "Volunteer for something completely irrational just to feel alive.",
+            "result": "john"
+          }
+        ]
+      },
+      {
+        "question": "What's your love language, realistically?",
+        "answers": [
+          {
+            "text": "Showing up decades late with a big apology and bigger excuses.",
+            "result": "royal"
+          },
+          {
+            "text": "None, until three ghosts intervene.",
+            "result": "frank"
+          },
+          {
+            "text": "Cracking jokes until someone finally laughs and falls for it.",
+            "result": "john"
+          },
+          {
+            "text": "Adopting a stranger as my kid and hoping for the best.",
+            "result": "steve"
+          }
+        ]
+      },
+      {
+        "question": "How do you actually feel about authority?",
+        "answers": [
+          {
+            "text": "I am the authority, and I make everyone's life miserable with it.",
+            "result": "frank"
+          },
+          {
+            "text": "I get under my superior's skin on purpose, every single time.",
+            "result": "john"
+          },
+          {
+            "text": "I appoint myself captain of my own increasingly chaotic ship.",
+            "result": "steve"
+          },
+          {
+            "text": "I'll take the science seriously right up until it's inconvenient.",
+            "result": "venkman"
+          }
+        ]
+      },
+      {
+        "question": "Pick the redemption arc you secretly want.",
+        "answers": [
+          {
+            "text": "Accidentally becoming a leader I never wanted to be.",
+            "result": "john"
+          },
+          {
+            "text": "Finally facing the thing that took my best friend.",
+            "result": "steve"
+          },
+          {
+            "text": "None needed \u2014 I was right about the ghosts the whole time.",
+            "result": "venkman"
+          },
+          {
+            "text": "Becoming an actually good person after endlessly repeating my worst day.",
+            "result": "phil"
+          }
+        ]
+      },
+      {
+        "question": "What's your idea of a perfect adventure?",
+        "answers": [
+          {
+            "text": "Chartering a boat and a crew to hunt a possibly mythical shark.",
+            "result": "steve"
+          },
+          {
+            "text": "Hunting something supernatural for profit and fun.",
+            "result": "venkman"
+          },
+          {
+            "text": "Getting so good at one single day that I finally deserve to move on.",
+            "result": "phil"
+          },
+          {
+            "text": "Getting pleasantly lost somewhere I don't speak the language.",
+            "result": "bob"
+          }
+        ]
+      },
+      {
+        "question": "Last one \u2014 pick a drink order that says something about you.",
+        "answers": [
+          {
+            "text": "Whatever's free at the open bar I'm working.",
+            "result": "venkman"
+          },
+          {
+            "text": "The same drink, at the same bar, every single night \u2014 literally.",
+            "result": "phil"
+          },
+          {
+            "text": "A whiskey I'm contractually obligated to enjoy on camera.",
+            "result": "bob"
+          },
+          {
+            "text": "Champagne, alone, in a house full of people who don't get me.",
+            "result": "herman"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "venkman",
+        "name": "Peter Venkman",
+        "subtitle": "Ghostbusters (1984)",
+        "description": "You talk a big game and somehow always land on your feet. You're the one who turns a scientific disaster into a business plan, and honestly, the franchise rights alone will make you rich beyond your wildest dreams.",
+        "image": "https://image.tmdb.org/t/p/w780/6pcROMLzJr2Fj05AyTbbDSkBVtr.jpg"
+      },
+      {
+        "key": "phil",
+        "name": "Phil Connors",
+        "subtitle": "Groundhog Day (1993)",
+        "description": "You started out arrogant and more than a little insufferable, but repetition taught you something nobody could've told you the first time. You're proof that people actually can change \u2014 it just might take a few thousand tries.",
+        "image": "https://image.tmdb.org/t/p/w780/8B6Zo8q4KtUf6JuQMW2cyUdEWkM.jpg"
+      },
+      {
+        "key": "bob",
+        "name": "Bob Harris",
+        "subtitle": "Lost in Translation (2003)",
+        "description": "You're quietly exhausted by a life that looks great on paper, and it took a chance connection in a city you don't understand to remind you how to feel something again. You don't say much, but when you do, it lands.",
+        "image": "https://image.tmdb.org/t/p/w780/45He7gApNQyDbqCDjxew9BnHzjf.jpg"
+      },
+      {
+        "key": "herman",
+        "name": "Herman Blume",
+        "subtitle": "Rushmore (1998)",
+        "description": "You've got the money and none of the fulfillment, and somehow it took an overachieving teenager to remind you what ambition used to feel like. You want to be loved, not pitied \u2014 there's a difference, and you know it.",
+        "image": "https://image.tmdb.org/t/p/w780/m6AI69LyhJu4o7auQNTmjyMHBVT.jpg"
+      },
+      {
+        "key": "royal",
+        "name": "Royal Tenenbaum",
+        "subtitle": "The Royal Tenenbaums (2001)",
+        "description": "You're a shameless, lovable disaster who'd fake a terminal diagnosis just to get your family back in the same room. You know you've done wrong, and you're going to lie your way to fixing it anyway.",
+        "image": "https://image.tmdb.org/t/p/w780/w5TJK5cQU6g0Kka7ydQaqoWUmAS.jpg"
+      },
+      {
+        "key": "frank",
+        "name": "Frank Cross",
+        "subtitle": "Scrooged (1988)",
+        "description": "You've cut off everyone who ever loved you and you'd staple antlers to a mouse for good ratings. It's going to take three ghosts and one very bad Christmas Eve to remind you that you used to have a soul.",
+        "image": "https://image.tmdb.org/t/p/w780/7IjsKGIqZ4o8SIZaOxyXVSHRq97.jpg"
+      },
+      {
+        "key": "john",
+        "name": "John Winger",
+        "subtitle": "Stripes (1981)",
+        "description": "You lost your job, your car, your apartment, and your girlfriend in one day, and your solution was to enlist in the Army out of pure spite. Somehow you became the reluctant leader of a platoon of misfits anyway.",
+        "image": "https://image.tmdb.org/t/p/w780/1nKocafcPKEE4HV49D2eWdskBaX.jpg"
+      },
+      {
+        "key": "steve",
+        "name": "Steve Zissou",
+        "subtitle": "The Life Aquatic with Steve Zissou (2004)",
+        "description": "You're an eccentric captain chasing revenge on a shark that may or may not be real, all while trying to figure out fatherhood for the first time. Your crew doesn't always get you, but they show up anyway \u2014 and so does everyone else's popcorn.",
+        "image": "https://image.tmdb.org/t/p/w780/piPklfbMRK9JfriiwUPDkYTsS61.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Peter Venkman - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peter_Venkman"
+    },
+    {
+      "title": "Groundhog Day Ending Explained - Screen Rant",
+      "url": "https://screenrant.com/groundhog-day-ending-explained/"
+    },
+    {
+      "title": "Lost in Translation (2003) - IMDb",
+      "url": "https://www.imdb.com/title/tt0335266/"
+    },
+    {
+      "title": "Great Character: Herman Blume ('Rushmore') - Go Into The Story",
+      "url": "https://gointothestory.blcklst.com/great-character-herman-blume-rushmore-f2db2a10f592"
+    },
+    {
+      "title": "The Rushmore Academy: The Royal Tenenbaums - Royal Tenenbaum",
+      "url": "http://www.rushmoreacademy.com/academy/films/tenenbaums/familyalbum/royal.html"
+    },
+    {
+      "title": "Scrooged (Film) - TV Tropes",
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Film/Scrooged"
+    },
+    {
+      "title": "Stripes (film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stripes_(film)"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou - Disney Wiki",
+      "url": "https://disney.fandom.com/wiki/The_Life_Aquatic_with_Steve_Zissou"
+    }
+  ],
+  "related": []
+}
