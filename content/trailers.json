@@ -1893,7 +1893,7 @@
     "id": 1511675,
     "title": "Kingdom 5: The Clash of Souls",
     "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/3ktrtViH5CCN8YVjgsVa5rPoGPB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iSPPbrrkiiT2O8WkLjUL2YafEJw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cKLAotXdVF1CSjieKCn1O9CRX2Y.jpg",
     "overview": "Except for the state of Qin, the six rival states join forces to form an allied army led by military adviser Riboku. The allied army then targets Qin. Meanwhile, Shin of Qin jumps into the war that will determine the fate of Qin.",
     "theatrical": false,
@@ -2239,7 +2239,7 @@
     "id": 1122030,
     "title": "Alpha",
     "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jlwWG63Yud6q5Ofv4YWaLjzZoFH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
     "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
     "theatrical": true,
@@ -2530,6 +2530,37 @@
     ]
   },
   {
+    "id": 1705729,
+    "title": "Man of War",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "q0_t2HOsDsY",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "NoB63ZNLUow",
+        "name": "MAN OF WAR is \u201cguns ablaze from start to finish.\u201d \u2013 Kevin Film Reviews",
+        "type": "Teaser"
+      },
+      {
+        "key": "jD0uxIKsHms",
+        "name": "MAN OF WAR is \"Brutal, Tactical and Explosive.\" \u2013 Action Reloaded",
+        "type": "Teaser"
+      },
+      {
+        "key": "_ZPCkO5-a44",
+        "name": "ONE WEEK OUT.",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1400336,
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
@@ -2746,22 +2777,6 @@
       {
         "key": "IgxC84cZR4A",
         "name": "Teaser",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1484913,
-    "title": "Ikka",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
-    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "LEargi83ofQ",
-        "name": "First Look",
         "type": "Teaser"
       }
     ]
