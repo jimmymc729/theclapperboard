@@ -541,6 +541,11 @@
     "theatrical": true,
     "videos": [
       {
+        "key": "X1aFkAkFASk",
+        "name": "Special Look",
+        "type": "Trailer"
+      },
+      {
         "key": "irVNGjRFZGk",
         "name": "Official Trailer",
         "type": "Trailer"
@@ -553,11 +558,6 @@
       {
         "key": "kH1XlwHQv9o",
         "name": "The X-Men Will Return",
-        "type": "Teaser"
-      },
-      {
-        "key": "1clWprLC5Ak",
-        "name": "Thor Will Return",
         "type": "Teaser"
       }
     ]
@@ -583,7 +583,7 @@
     "title": "Camp Rock 3",
     "release_date": "2026-08-13",
     "poster": "https://image.tmdb.org/t/p/w500/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9rEeKxd5JdFD0tMeDtGD6eSltWw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIU5tUicaKXKKOmziCdstBCiG1z.jpg",
     "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
     "theatrical": false,
     "videos": [
@@ -669,6 +669,22 @@
         "key": "ndrOxfj-FGs",
         "name": "Ready Aim.....",
         "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1504358,
+    "title": "Don't Say Good Luck",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+    "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "bvWqHSFkO5s",
+        "name": "Official Trailer",
+        "type": "Trailer"
       }
     ]
   },
@@ -1211,6 +1227,22 @@
     ]
   },
   {
+    "id": 1444466,
+    "title": "Awarapan 2",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
+    "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "IQ7HkZ-Gun8",
+        "name": "Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1321008,
     "title": "Black Box",
     "release_date": "2026-07-07",
@@ -1556,7 +1588,7 @@
     "id": 1468683,
     "title": "Heartstopper Forever",
     "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/ch28kJu4pG2x07sN22valXvV3JY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mHt4cVaxU3Ms6OyP1olCJ2tFIY1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
     "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
     "theatrical": false,
@@ -1840,7 +1872,7 @@
     "id": 1213243,
     "title": "Toxic: A Fairy Tale For Grown-ups",
     "release_date": "2026-08-25",
-    "poster": "https://image.tmdb.org/t/p/w500/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
     "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
     "theatrical": true,
@@ -2571,10 +2603,26 @@
     ]
   },
   {
+    "id": 1361969,
+    "title": "All Night Wrong",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mimPRWki5EOJDRw7ZH24fYnHwaX.jpg",
+    "overview": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "3HmV37lxfbc",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 1280015,
     "title": "Sunny Dancer",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/yXdQX7wQSG1TZlGfaSujxazPPtM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
     "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
     "theatrical": true,
@@ -2697,22 +2745,6 @@
         "key": "nBjUq8xyjx8",
         "name": "Trapped in the frozen wilderness, her fight for survival begins.",
         "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1155818,
-    "title": "Satluj",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
-    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab\u2019s period of insurgency.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "WtL3YbjUJN8",
-        "name": "ZEE5 Satluj",
-        "type": "Trailer"
       }
     ]
   },
@@ -2875,37 +2907,6 @@
       {
         "key": "NIKfR_uF_d0",
         "name": "Teaser Trailer",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1705729,
-    "title": "Man of War",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
-    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "q0_t2HOsDsY",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "NoB63ZNLUow",
-        "name": "MAN OF WAR is \u201cguns ablaze from start to finish.\u201d \u2013 Kevin Film Reviews",
-        "type": "Teaser"
-      },
-      {
-        "key": "jD0uxIKsHms",
-        "name": "MAN OF WAR is \"Brutal, Tactical and Explosive.\" \u2013 Action Reloaded",
-        "type": "Teaser"
-      },
-      {
-        "key": "_ZPCkO5-a44",
-        "name": "ONE WEEK OUT.",
         "type": "Teaser"
       }
     ]
@@ -3129,27 +3130,6 @@
     ]
   },
   {
-    "id": 1280608,
-    "title": "Evil Dead Wrath",
-    "release_date": "2028-04-07",
-    "poster": "https://image.tmdb.org/t/p/w500/r10fSbmxDipJG6VOyt9nkX3zEbx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xkDrNYTcQgq6TFnx5mfQapMXmPA.jpg",
-    "overview": "Plot TBA. A prequel to the first film, set in 1972.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "kuo-9_g2KN0",
-        "name": "Evil Dead Wrath wraps filming",
-        "type": "Teaser"
-      },
-      {
-        "key": "LqeBxZZFx-M",
-        "name": "Evil Dead Wrath has begun its bloody production.",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1452168,
     "title": "Behemoth!",
     "release_date": "2026-12-04",
@@ -3220,9 +3200,9 @@
   },
   {
     "id": 1647603,
-    "title": "Ono Ghost Market",
+    "title": "Ghost Market",
     "release_date": "2028-03-10",
-    "poster": "https://image.tmdb.org/t/p/w500/6Yf4Yn1UaI3eJN6T14dvSluf56H.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yrArRw51BQMIy1y1z3w1XURA7V7.jpg",
     "backdrop": "",
     "overview": "Inspired by Asian myths about supernatural bazaars where the living & dead interact. Plot TBA.",
     "theatrical": true,
