@@ -535,7 +535,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -551,13 +551,13 @@
         "type": "Trailer"
       },
       {
-        "key": "399Ez7WHK5s",
-        "name": "The Wakandans and The Fantastic Four Will Return",
+        "key": "lqBdGDi3akg",
+        "name": "Get ready for Doomsday.",
         "type": "Teaser"
       },
       {
-        "key": "kH1XlwHQv9o",
-        "name": "The X-Men Will Return",
+        "key": "399Ez7WHK5s",
+        "name": "The Wakandans and The Fantastic Four Will Return",
         "type": "Teaser"
       }
     ]
@@ -1115,7 +1115,7 @@
     "id": 1204680,
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/AbQYEHieBJsMheLFKM02rFu0xnc.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
@@ -3114,17 +3114,22 @@
     ]
   },
   {
-    "id": 1458319,
-    "title": "How to Train Your Dragon 2",
-    "release_date": "2027-06-11",
-    "poster": "https://image.tmdb.org/t/p/w500/6VlnDSuTmBPW6a45Qxp5qeDINBq.jpg",
-    "backdrop": "",
-    "overview": "The second live-action adaptation of the animated trilogy. Plot TBA.",
+    "id": 1280608,
+    "title": "Evil Dead Wrath",
+    "release_date": "2028-04-07",
+    "poster": "https://image.tmdb.org/t/p/w500/r10fSbmxDipJG6VOyt9nkX3zEbx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xkDrNYTcQgq6TFnx5mfQapMXmPA.jpg",
+    "overview": "Plot TBA. A prequel to the first film, set in 1972.",
     "theatrical": true,
     "videos": [
       {
-        "key": "SarB5Zaq_lE",
-        "name": "How To Train Your Dragon 2 | In Theaters June 11, 2027",
+        "key": "kuo-9_g2KN0",
+        "name": "Evil Dead Wrath wraps filming",
+        "type": "Teaser"
+      },
+      {
+        "key": "LqeBxZZFx-M",
+        "name": "Evil Dead Wrath has begun its bloody production.",
         "type": "Teaser"
       }
     ]
