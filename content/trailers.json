@@ -1870,6 +1870,11 @@
         "key": "4fn4UcgzRhg",
         "name": "Official Trailer",
         "type": "Trailer"
+      },
+      {
+        "key": "nAkYQ6hoxw8",
+        "name": "The reactions are in\u2026",
+        "type": "Teaser"
       }
     ]
   },
@@ -2859,22 +2864,6 @@
     ]
   },
   {
-    "id": 1738437,
-    "title": "Moms Guardian",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/Eu0X3jllHZeg16ntHgaXYFNILY.jpg",
-    "backdrop": "",
-    "overview": "When the mom who abandoned her passes away, Victoria must confront her feelings about the situation when someone unexpected shows up. Her mom's guardian.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "2g_YZSpQ-XM",
-        "name": "Moms Guardian OFFICIAL TRAILER (2025)",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1497464,
     "title": "Gatto",
     "release_date": "2027-03-05",
@@ -3225,6 +3214,22 @@
       {
         "key": "gLgocvY-9rE",
         "name": "9.24.27",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
+    "id": 1647603,
+    "title": "Ono Ghost Market",
+    "release_date": "2028-03-10",
+    "poster": "https://image.tmdb.org/t/p/w500/6Yf4Yn1UaI3eJN6T14dvSluf56H.jpg",
+    "backdrop": "",
+    "overview": "Inspired by Asian myths about supernatural bazaars where the living & dead interact. Plot TBA.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "4PRdb3-0AyA",
+        "name": "Ghost Market, arriving in Spring 2028! \ud83d\udc7b #D23",
         "type": "Teaser"
       }
     ]
