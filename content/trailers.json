@@ -1432,22 +1432,6 @@
     ]
   },
   {
-    "id": 1472951,
-    "title": "Infiltrate",
-    "release_date": "2026-04-10",
-    "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cEvyR19pmQ2s3DE8mdyL0m2Lv2N.jpg",
-    "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she\u2019s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily\u2019s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "dzVz0KqqwGE",
-        "name": "Infiltrate | Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
     "id": 1724816,
     "title": "Helena",
     "release_date": "2026-07-03",
@@ -2671,6 +2655,22 @@
     ]
   },
   {
+    "id": 1148365,
+    "title": "Matchbox: The Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
     "id": 675871,
     "title": "Super Troopers 3",
     "release_date": "2026-08-07",
@@ -2792,6 +2792,32 @@
     ]
   },
   {
+    "id": 1440098,
+    "title": "Drawn Together",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/7HH4BtNwt7WYaBN5pwCv0cCww4z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1ewgN7tG15VPpYbW0CE3UCXabVD.jpg",
+    "overview": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "WlGzP8FvsfY",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "J_dWSteW_7Y",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "WIxUv1zSNU4",
+        "name": "Official Teaser",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -2850,6 +2876,27 @@
     ]
   },
   {
+    "id": 1659389,
+    "title": "One Piece Heroines",
+    "release_date": "2026-07-05",
+    "poster": "https://image.tmdb.org/t/p/w500/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+    "overview": "After failing to stop the thieves due to ill-fitting shoes, Nami storms into the shop where she bought them for a refund. However, the head designer offers to make her a new pair from scratch on one condition: she must walk in their upcoming fashion show.",
+    "theatrical": false,
+    "videos": [
+      {
+        "key": "TWMGQNQ-ywE",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer"
+      },
+      {
+        "key": "qWlvJPCWCg8",
+        "name": "OFFICIAL Teaser [Subtitled]",
+        "type": "Teaser"
+      }
+    ]
+  },
+  {
     "id": 964849,
     "title": "Nightborn",
     "release_date": "2026-07-31",
@@ -2878,43 +2925,6 @@
         "key": "cmjpadVj-Vk",
         "name": "Official Trailer",
         "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 880067,
-    "title": "Strung",
-    "release_date": "2026-05-27",
-    "poster": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3yQV8aUxMYeSCVF6R5Q6xcaMZsl.jpg",
-    "overview": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "DT_i0aq-vPs",
-        "name": "Official Trailer",
-        "type": "Trailer"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer"
-      },
-      {
-        "key": "9xnDvEJJlxE",
-        "name": "In Cinemas 8 October",
-        "type": "Teaser"
       }
     ]
   },
