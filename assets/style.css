@@ -305,14 +305,32 @@ a { color: inherit; }
    build_site.py for the reasoning. Fixed aspect-ratio box + object-fit
    means the image always frames consistently even if a future promo
    asset has slightly different source dimensions. flex-shrink: 0 keeps it
-   from getting squeezed as the text/button wrap on narrower screens. */
-.flickle-cta-image {
-  width: 150px;
+   from getting squeezed as the text/button wrap on narrower screens.
+
+   The wrap/img split exists for the hover-zoom: overflow:hidden lives on
+   the wrap (so a scaled-up image doesn't spill past its rounded corners),
+   while the scale transform lives on the img itself, triggered by
+   .flickle-cta:hover so hovering anywhere on the card — not just the
+   image — zooms it, matching the "whole card is clickable" affordance. */
+.flickle-cta-image-wrap {
+  width: 220px;
   aspect-ratio: 700 / 393;
-  object-fit: cover;
   border-radius: calc(var(--radius) - 6px);
+  overflow: hidden;
   flex-shrink: 0;
   display: block;
+}
+
+.flickle-cta-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.35s ease;
+}
+
+.flickle-cta:hover .flickle-cta-image {
+  transform: scale(1.08);
 }
 
 .flickle-cta-text {
@@ -450,32 +468,29 @@ a { color: inherit; }
   color: var(--accent);
 }
 
-/* Hero card: matches the full height of the compact item stack next to
-   it, title + number overlaid on a dark gradient scrim at the bottom.
+/* Hero card: pinned to a fixed height (roughly matching the 3-item stack's
+   natural height), title + number overlaid on a dark gradient scrim at the
+   bottom.
 
-   `.trending-hero-image`'s "height: 100%" alone doesn't reliably resolve —
-   percentage heights only work if EVERY ancestor in the chain has a
-   definite height, and `.trending-card` (its direct parent) never
-   declared one of its own; it just happened to get an implicit stretched
-   size as a grid item, which doesn't reliably propagate as a resolvable
-   percentage-height context to a nested child in every browser. In
-   practice this let a tall/portrait-ish source image render at its own
-   native aspect ratio instead of being cropped to match the small-card
-   stack's height, throwing off the whole grid row. Making `.trending-hero`
-   an explicit flex column with its own real height, and letting the image
-   container fill it via `flex: 1` instead of a percentage, sidesteps the
-   ambiguity entirely. */
+   This used to try to match the item stack's height dynamically — the
+   hero's height:100% (of a stretched grid cell) with the image filling it
+   via flex:1. That's a real CSS pattern, but it depends on the grid row's
+   auto-height resolving correctly through two layers of percentage/flex
+   fill, and in practice a portrait-oriented cover image (a tight headshot
+   crop rather than a landscape backdrop) broke that chain and rendered at
+   something close to its own native aspect ratio instead of being cropped
+   — a very tall hero image towering over the item stack next to it. A
+   flat, fixed height sidesteps that whole fragile resolution chain: no
+   matter what aspect ratio a cover image happens to have, object-fit:
+   cover always crops it to exactly this height, guaranteed. */
 .trending-hero {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
+  display: block;
 }
 
 .trending-hero-image {
   position: relative;
   width: 100%;
-  flex: 1;
-  min-height: 280px;
+  height: 380px;
 }
 
 .trending-hero-image img {
@@ -580,7 +595,7 @@ a { color: inherit; }
   .trending-grid {
     grid-template-columns: 1fr;
   }
-  .trending-hero-image { min-height: 220px; }
+  .trending-hero-image { height: 220px; }
   .trending-hero-title { font-size: 1.2rem; }
   .trending-items { flex-direction: column; }
 }
@@ -2216,7 +2231,7 @@ a.quiz-retake-btn {
   .list-item { padding: 40px 0; }
   .list-item-number { width: 40px; height: 40px; font-size: 1.15rem; }
   .flickle-cta { padding: 20px; }
-  .flickle-cta-image { width: 110px; }
+  .flickle-cta-image-wrap { width: 150px; }
   .flickle-cta-button { width: 100%; text-align: center; }
 }
 
