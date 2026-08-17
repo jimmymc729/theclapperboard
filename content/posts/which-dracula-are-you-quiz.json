@@ -1,0 +1,301 @@
+{
+  "slug": "which-dracula-are-you-quiz",
+  "title": "Which Screen Dracula Are You, Actually?",
+  "dek": "Eight actors, eight castles, eight completely different ways to ruin someone's night \u2014 pick your habits and we'll hand you your fangs.",
+  "category": "Games",
+  "cover_image": "https://image.tmdb.org/t/p/w780/lG24tPjxUOO9AGv0VkzaZBiM9zP.jpg",
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T22:53:09.942622+00:00",
+  "quiz": {
+    "intro": "No wrong answers here \u2014 just answer like the monster you truly are.",
+    "questions": [
+      {
+        "question": "Someone new walks into the room. What's your actual first move?",
+        "answers": [
+          {
+            "text": "I stare. I don't blink. I don't need to say anything yet.",
+            "result": "lugosi"
+          },
+          {
+            "text": "I circle them slowly like they're already mine.",
+            "result": "lee"
+          },
+          {
+            "text": "I make direct, aching eye contact like I've waited centuries for this.",
+            "result": "oldman"
+          },
+          {
+            "text": "I introduce myself with old-world charm and a kiss on the hand.",
+            "result": "langella"
+          }
+        ]
+      },
+      {
+        "question": "How do you handle rejection?",
+        "answers": [
+          {
+            "text": "My eyes go red and things get physical fast.",
+            "result": "lee"
+          },
+          {
+            "text": "I weep about it across three centuries of unresolved grief.",
+            "result": "oldman"
+          },
+          {
+            "text": "I take it personally but stay devastatingly charming about it.",
+            "result": "langella"
+          },
+          {
+            "text": "I retreat somewhere dark and get quietly, pitifully depressed.",
+            "result": "kinski"
+          }
+        ]
+      },
+      {
+        "question": "Pick your ideal home decor.",
+        "answers": [
+          {
+            "text": "Baroque gold everything, portraits of my dead wife everywhere.",
+            "result": "oldman"
+          },
+          {
+            "text": "Tasteful gothic elegance \u2014 think five-star haunted hotel.",
+            "result": "langella"
+          },
+          {
+            "text": "A crumbling, freezing, rat-infested castle. On purpose.",
+            "result": "kinski"
+          },
+          {
+            "text": "A literal war fortress with a throne carved from swords.",
+            "result": "evans"
+          }
+        ]
+      },
+      {
+        "question": "Your assistant/servant/sidekick messes up badly. What now?",
+        "answers": [
+          {
+            "text": "I forgive them smoothly \u2014 I need the help, and I'm gracious about it.",
+            "result": "langella"
+          },
+          {
+            "text": "I barely register it. I'm too consumed by my own misery.",
+            "result": "kinski"
+          },
+          {
+            "text": "Loyalty is earned in battle. They better prove themselves.",
+            "result": "evans"
+          },
+          {
+            "text": "I explode, guilt-trip them for centuries, then act like nothing happened.",
+            "result": "cage"
+          }
+        ]
+      },
+      {
+        "question": "What's your idea of a perfect date?",
+        "answers": [
+          {
+            "text": "Honestly? I don't think I know how to do this anymore.",
+            "result": "kinski"
+          },
+          {
+            "text": "Defending a castle together against overwhelming odds.",
+            "result": "evans"
+          },
+          {
+            "text": "Dramatic, chaotic, and somehow still about me the whole time.",
+            "result": "cage"
+          },
+          {
+            "text": "Something ridiculous that ends in both of us laughing.",
+            "result": "nielsen"
+          }
+        ]
+      },
+      {
+        "question": "Someone challenges your authority in front of others. Your move?",
+        "answers": [
+          {
+            "text": "I remind them, calmly, that I've conquered armies.",
+            "result": "evans"
+          },
+          {
+            "text": "I go absolutely feral about it, immediately, no chill whatsoever.",
+            "result": "cage"
+          },
+          {
+            "text": "I trip over a prop, everyone forgets what the argument even was.",
+            "result": "nielsen"
+          },
+          {
+            "text": "I fix them with a stare until they forget what they said.",
+            "result": "lugosi"
+          }
+        ]
+      },
+      {
+        "question": "Pick a soundtrack for your entrance.",
+        "answers": [
+          {
+            "text": "Something way too dramatic for the room, played way too loud.",
+            "result": "cage"
+          },
+          {
+            "text": "A kazoo. I want a kazoo.",
+            "result": "nielsen"
+          },
+          {
+            "text": "Total silence except for a single, unbearably slow line of dialogue.",
+            "result": "lugosi"
+          },
+          {
+            "text": "Something orchestral, aggressive, and a little bit terrifying.",
+            "result": "lee"
+          }
+        ]
+      },
+      {
+        "question": "How would your enemies describe you?",
+        "answers": [
+          {
+            "text": "A disaster. A lovable, incompetent disaster.",
+            "result": "nielsen"
+          },
+          {
+            "text": "Quiet. Hypnotic. Somehow more terrifying for saying almost nothing.",
+            "result": "lugosi"
+          },
+          {
+            "text": "A predator. Fast, physical, and genuinely frightening.",
+            "result": "lee"
+          },
+          {
+            "text": "Tragic. Almost sympathetic, if he weren't also a monster.",
+            "result": "oldman"
+          }
+        ]
+      },
+      {
+        "question": "What's your biggest weakness?",
+        "answers": [
+          {
+            "text": "My own theatrics. I love a slow reveal too much.",
+            "result": "lugosi"
+          },
+          {
+            "text": "My temper. I go from zero to violent instantly.",
+            "result": "lee"
+          },
+          {
+            "text": "I never got over my wife. Three hundred years later. Still not over it.",
+            "result": "oldman"
+          },
+          {
+            "text": "I fall in love too fast, too hard, every single time.",
+            "result": "langella"
+          }
+        ]
+      },
+      {
+        "question": "Last one \u2014 what's your go-to look?",
+        "answers": [
+          {
+            "text": "Blood-red contacts and just enough menace to be scary.",
+            "result": "lee"
+          },
+          {
+            "text": "Wild wigs, sunglasses, a whole different look every scene.",
+            "result": "oldman"
+          },
+          {
+            "text": "Dashing, romantic, borderline Byronic \u2014 Old Hollywood leading man.",
+            "result": "langella"
+          },
+          {
+            "text": "Bald, rat-like, deeply unsettling \u2014 beauty was never the point.",
+            "result": "kinski"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "key": "lugosi",
+        "name": "Bela Lugosi",
+        "subtitle": "Dracula (1931)",
+        "description": "You don't need to raise your voice or move fast \u2014 you just stare, and people simply do what you say. Lugosi's slow, hypnotic, Hungarian-accented Count basically invented the template every vampire since has been ripping off, and you know exactly how much power there is in doing less.",
+        "image": "https://image.tmdb.org/t/p/w780/lG24tPjxUOO9AGv0VkzaZBiM9zP.jpg"
+      },
+      {
+        "key": "lee",
+        "name": "Christopher Lee",
+        "subtitle": "Dracula / Horror of Dracula (1958)",
+        "description": "You're not subtle, and you don't want to be. Lee's Hammer-era Dracula traded Lugosi's hypnosis for red eyes, fangs, and pure physical menace, turning the Count into a genuinely dangerous predator rather than a polite houseguest \u2014 and honestly, that's you at a party too.",
+        "image": "https://image.tmdb.org/t/p/w780/vD6HYbaJQCWKSKIReGnZavQEzYA.jpg"
+      },
+      {
+        "key": "oldman",
+        "name": "Gary Oldman",
+        "subtitle": "Bram Stoker's Dracula (1992)",
+        "description": "You're the one crying in the bathroom at the wedding, and everyone knows it. Oldman's Dracula reframed the character as a tragic romantic wrecked by centuries of grief, wild transformations and all, and you feel every bit of that operatic heartbreak.",
+        "image": "https://image.tmdb.org/t/p/w780/tyBkBHKDrJyVUeCs550kMr61jnq.jpg"
+      },
+      {
+        "key": "langella",
+        "name": "Frank Langella",
+        "subtitle": "Dracula (1979)",
+        "description": "You walk into a room and it's basically over for everyone. Langella played the Count as a full gothic romantic leading man, seductive and genuinely swoon-worthy rather than purely frightening, and you carry that same devastating old-world charm.",
+        "image": "https://image.tmdb.org/t/p/w780/9aDnMjUHhfX0WaCicEaejdKgvlV.jpg"
+      },
+      {
+        "key": "kinski",
+        "name": "Klaus Kinski",
+        "subtitle": "Nosferatu the Vampyre (1979)",
+        "description": "You're not scary so much as deeply, unshakably sad, and somehow that's worse. Kinski's rat-like, hollow-eyed Count is one of the only Draculas you almost feel bad for \u2014 mournful and pathetic instead of predatory \u2014 and that quiet misery is very on-brand for you.",
+        "image": "https://image.tmdb.org/t/p/w780/uYfPaLfSM8iRUlS99JMu8J5Ibpw.jpg"
+      },
+      {
+        "key": "evans",
+        "name": "Luke Evans",
+        "subtitle": "Dracula Untold (2014)",
+        "description": "You'd burn the world down to protect your people, and you have the battle scars to prove it. This version reimagined the Count as Vlad Tepes, a warrior-king who is not a black or white creature of the night, he's a family man and benevolent ruler who will stop at nothing in order to protect his kingdom \u2014 a good soldier before he was ever a monster, just like you.",
+        "image": "https://image.tmdb.org/t/p/w780/f02FFv77Rh62633YEjimv7C6JM3.jpg"
+      },
+      {
+        "key": "cage",
+        "name": "Nicolas Cage",
+        "subtitle": "Renfield (2023)",
+        "description": "You're a lot. You know you're a lot. Cage's Dracula sips blood from a martini glass, guilt-trips his own familiar for centuries, and delivers a faux-aristocratic performance that sinks his acting teeth into the power of Dracula \u2014 unhinged, toxic, and never once boring, which is basically your whole personality.",
+        "image": "https://image.tmdb.org/t/p/w780/nBEFrdcVhwceGSFw83RksxY9Blg.jpg"
+      },
+      {
+        "key": "nielsen",
+        "name": "Leslie Nielsen",
+        "subtitle": "Dracula: Dead and Loving It (1995)",
+        "description": "You cannot take anything seriously, including your own doom, and that's exactly why people love you. Nielsen's full spoof-Dracula turned the gothic icon into pure slapstick, and you'd rather trip over your own cape than ever be genuinely scary.",
+        "image": "https://image.tmdb.org/t/p/w780/47HK3UNlIfLcS2C2pDIznSyUTsI.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Renfield Review: Nicolas Cage Plays a Stylishly Overwrought Dracula - Variety",
+      "url": "https://variety.com/2023/film/reviews/renfield-review-nicolas-cage-nicholas-hoult-awkwafina-dracula-1235578215/"
+    },
+    {
+      "title": "'Dracula Untold': Luke Evans Explains What Makes His Dracula Different - Screen Rant",
+      "url": "https://screenrant.com/dracula-untold-movie-luke-evans-interview/"
+    },
+    {
+      "title": "Dracula Untold | Dracula Wiki | Fandom",
+      "url": "https://dracula.fandom.com/wiki/Dracula_Untold"
+    },
+    {
+      "title": "Renfield Review: Nicolas Cage's Dracula Puts Blood into Dead Movie - Den of Geek",
+      "url": "https://www.denofgeek.com/movies/renfield-review-nicolas-cage-dracula/"
+    }
+  ],
+  "related": []
+}

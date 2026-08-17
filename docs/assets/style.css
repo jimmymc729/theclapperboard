@@ -274,7 +274,10 @@ a { color: inherit; }
   margin-left: 6px;
 }
 
-/* Flickle CTA */
+/* Flickle CTA — the whole card is an <a>, not just the button inside it
+   (see flickle_cta() in build_site.py), so it needs link resets (no
+   underline, inherit text color) plus its own hover treatment since the
+   button's hover no longer speaks for the full clickable area. */
 .flickle-cta {
   display: flex;
   align-items: center;
@@ -282,11 +285,19 @@ a { color: inherit; }
   gap: 20px;
   background: var(--text);
   color: #fff;
+  text-decoration: none;
   border-radius: var(--radius);
   padding: 20px 30px;
   margin: 44px 0;
   flex-wrap: wrap;
   box-shadow: var(--shadow-md);
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.flickle-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg, var(--shadow-md));
 }
 
 /* Real proof of the game (Tom Holland reacting + the actual clue-reveal
@@ -331,20 +342,18 @@ a { color: inherit; }
   font-size: 0.86rem;
 }
 
+/* No longer a link (the whole .flickle-cta card is), so no hover of its
+   own — the card-level hover above already covers that. */
 .flickle-cta-button {
   background: var(--accent);
   color: #fff;
-  text-decoration: none;
   padding: 12px 22px;
   border-radius: 999px;
   font-weight: 800;
   font-size: 0.95rem;
   white-space: nowrap;
-  transition: transform 0.15s ease;
   display: inline-block;
 }
-
-.flickle-cta-button:hover { transform: translateY(-1px) scale(1.02); }
 
 /* Homepage feed — the hero itself is styled as a slate card: a ruled
    info strip (PROD / SCENE / TAKE / DATE) sitting above the headline,
