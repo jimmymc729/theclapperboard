@@ -933,7 +933,7 @@ def render_trailer_page(t: dict) -> str:
     </div>
   </div>
 
-{flickle_cta("Now go prove it — play today's Flickle.")}
+{flickle_cta("Now go prove it — play today's Flickle.", big=True)}
 """
     return base_page(
         f"{t['title']} Trailer | {SITE['name']}",
