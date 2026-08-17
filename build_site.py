@@ -402,18 +402,25 @@ def flickle_cta(context: str = "") -> str:
     makes a good ad work. Uses an absolute production URL (same convention
     as content-embedded custom photos, see custom-photos/) rather than a
     root-relative path, since this is a single shared asset referenced from
-    every page depth rather than per-content data."""
+    every page depth rather than per-content data.
+
+    The whole card is a single <a> (not just the button) so the entire
+    image/headline/subtext area is clickable, not only the small button at
+    the end — a bigger, more forgiving click target converts better than
+    forcing someone to land precisely on the pill. The visual "button" is
+    now a <span> rather than a nested <a>, since nested links are invalid
+    HTML and browsers handle them inconsistently."""
     headline = context or f"Play today's {esc(SITE['flickle_name'])}."
     promo_url = f"{SITE['url']}/assets/flickle-cta-promo.jpg"
-    return f"""    <div class="flickle-cta">
+    return f"""    <a class="flickle-cta" href="{SITE['flickle_url']}" target="_blank" rel="noopener">
       <img class="flickle-cta-image" src="{promo_url}" alt="Flickle — every guess reveals new clues about today's mystery movie" loading="lazy">
       <div class="flickle-cta-text">
         <p class="flickle-cta-eyebrow">Think you know movies?</p>
         <p class="flickle-cta-headline">{headline}</p>
         <p class="flickle-cta-sub">{esc(SITE['flickle_tagline'])}</p>
       </div>
-      <a class="flickle-cta-button" href="{SITE['flickle_url']}" target="_blank" rel="noopener">Play {esc(SITE['flickle_name'])} →</a>
-    </div>
+      <span class="flickle-cta-button">Play {esc(SITE['flickle_name'])} →</span>
+    </a>
 """
 
 
