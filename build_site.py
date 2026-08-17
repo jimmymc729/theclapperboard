@@ -413,7 +413,9 @@ def flickle_cta(context: str = "") -> str:
     headline = context or f"Play today's {esc(SITE['flickle_name'])}."
     promo_url = f"{SITE['url']}/assets/flickle-cta-promo.jpg"
     return f"""    <a class="flickle-cta" href="{SITE['flickle_url']}" target="_blank" rel="noopener">
-      <img class="flickle-cta-image" src="{promo_url}" alt="Flickle — every guess reveals new clues about today's mystery movie" loading="lazy">
+      <div class="flickle-cta-image-wrap">
+        <img class="flickle-cta-image" src="{promo_url}" alt="Flickle — every guess reveals new clues about today's mystery movie" loading="lazy">
+      </div>
       <div class="flickle-cta-text">
         <p class="flickle-cta-eyebrow">Think you know movies?</p>
         <p class="flickle-cta-headline">{headline}</p>
