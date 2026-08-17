@@ -85,6 +85,11 @@ TMDB_BACKDROP_THUMB = "https://image.tmdb.org/t/p/w300"  # small, cheap to send 
 TMDB_POSTER_IMG = "https://image.tmdb.org/t/p/w500"
 
 MODEL = "claude-sonnet-5"
+# The backdrop picker (choose_backdrop_with_vision below) only has to look at a
+# handful of images and return a single number — real vision, but no research
+# or long-form writing — so it doesn't need Sonnet's cost. Haiku handles that
+# fine at a fraction of the price.
+VISION_MODEL = "claude-haiku-4-5-20251001"
 MAX_VISION_CANDIDATES = 6  # how many backdrop candidates to show Claude per lookup
 POSTS_PER_RUN = 2  # cap on how many new posts a single run will generate/spend API budget on
 
@@ -245,8 +250,11 @@ to the other categories/angles rather than padding with a movie that isn't actua
 or doesn't have a real trailer yet. In the instructions field, say explicitly that this is an \
 upcoming-movies piece so the writer knows to set "include_trailer": true on each item's movie \
 lookup (see the writing instructions for that field). Only ever use movies with a real, confirmed \
-release date and an actual trailer already out — never speculate about an \
-unannounced or rumored project.
+release date and an actual trailer already out — never speculate about an unannounced or rumored \
+project. Today's real date is {current_date} — only suggest movies you're confident haven't been \
+released as of that date yet (the writer will do a harder check against real search results \
+afterward, but don't hand them an idea already built around a stale premise, like a movie whose \
+well-known release window is obviously months before today).
 
 Return ONLY a JSON array, no prose, no markdown fences:
 [
@@ -281,6 +289,7 @@ def generate_new_topic_ideas(existing_titles: list, count: int) -> list:
         max_tokens=4096,
         system=TOPIC_BRAINSTORM_PROMPT.format(
             count=count,
+            current_date=datetime.now(timezone.utc).strftime("%B %d, %Y"),
             trending_subjects=", ".join(get_trending_subjects()) or "(none set)",
         ),
         messages=[{
@@ -503,7 +512,7 @@ def choose_backdrop_with_vision(candidates: list, movie_title: str, context_text
     try:
         client = anthropic.Anthropic()
         resp = client.messages.create(
-            model=MODEL,
+            model=VISION_MODEL,
             max_tokens=10,
             messages=[{"role": "user", "content": content}],
         )
@@ -682,6 +691,24 @@ released), add "include_trailer": true to that item's movie lookup so its offici
 embedded below the images. Don't add this for topics where a trailer isn't the point (e.g. a
 casting-history or behind-the-scenes post about an older film).
 
+CRITICAL for any "upcoming movies" topic: the user message tells you today's real date. Web search
+results about a movie's release are frequently written from BEFORE that movie actually came out —
+an article calling something "upcoming" or "hits theaters this December" was true when written, but
+if that December has already passed relative to TODAY'S actual date, the movie has already been
+released and is no longer upcoming, no matter how confidently your source phrases it. For every
+movie you're about to describe as upcoming/not-yet-released/coming soon, explicitly check its
+release date against today's date before writing a single word about it:
+- If the release date is confirmed to be AFTER today: fine to use anticipatory framing ("hits
+  theaters November 26", "is coming back", present/future tense).
+- If the release date has already passed: this movie is NOT upcoming. Either swap it out for a
+  genuinely still-unreleased movie (do another search if needed), or, if the topic is specifically
+  meant to look back at a recent release, rewrite that item in clearly past tense ("opened in
+  theaters on X and went on to do Y") — never describe an already-released movie using upcoming/
+  future-tense language just because an older source article does.
+This check matters more than almost anything else in this instruction set — a post confidently
+telling readers a movie is "coming soon" when it released months ago is an immediately obvious,
+credibility-destroying error the moment anyone checks, not a minor style slip.
+
 If the topic is a "guess the movie from emoji" format, use this item shape instead:
 
 {
@@ -777,9 +804,15 @@ def claude_generate(category: str, instructions: str) -> dict:
         system=SYSTEM_PROMPT,
         messages=[{
             "role": "user",
-            "content": f"Category: {category}\nTopic: {instructions}\n\nResearch it and return the JSON object now.",
+            # Today's real date is spelled out explicitly here (not just left
+            # implicit) because web search results skew toward whenever they
+            # were originally published, not today — without this, nothing
+            # grounds the model to notice a movie it's calling "upcoming"
+            # already came out months ago (see the CRITICAL date-check
+            # paragraph in SYSTEM_PROMPT, which this line exists to support).
+            "content": f"Today's real-world date is {datetime.now(timezone.utc).strftime('%B %d, %Y')}.\n\nCategory: {category}\nTopic: {instructions}\n\nResearch it and return the JSON object now.",
         }],
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 15}],
+        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 9}],
     )
     if resp.stop_reason == "max_tokens":
         raise ValueError(
