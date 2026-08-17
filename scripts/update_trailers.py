@@ -15,6 +15,13 @@ popular in theaters/upcoming on TMDB as of the most recent run — no
 history, no old trailers lingering indefinitely once a movie's release
 window has fully passed (see RECENT_WINDOW_DAYS below).
 
+Popularity decides which movies make the cut (plus the major-studio and
+upcoming reservations — see MIN_MAJOR_STUDIO/MIN_UPCOMING below), but NOT
+the display order: the output is sorted by trailer_published, the newest-
+dropped trailer's own publish date, so whatever trailer actually just came
+out surfaces at the top of the homepage shelf and "All" — not whichever
+blockbuster has been sitting at peak popularity for weeks.
+
 Usage:
     export TMDB_API_KEY=...
     python scripts/update_trailers.py
@@ -209,7 +216,16 @@ def movie_trailers(movie_id: int) -> list:
     candidates.sort(key=lambda v: (0 if v.get("official") else 1, 0 if v.get("type") == "Trailer" else 1))
 
     return [
-        {"key": v["key"], "name": v.get("name") or v["type"], "type": v["type"]}
+        {
+            "key": v["key"],
+            "name": v.get("name") or v["type"],
+            "type": v["type"],
+            # Kept on each video (not just used internally for sorting) so
+            # try_resolve() can find the single freshest published_at across
+            # a movie's whole video list — see "trailer_published" below,
+            # which is what the homepage/site ordering is actually keyed on.
+            "published_at": v.get("published_at") or "",
+        }
         for v in candidates[:MAX_VIDEOS_PER_MOVIE]
     ]
 
@@ -321,6 +337,15 @@ def main():
         if not is_upcoming(movie):
             theatrical = has_us_theatrical_release(movie_id)
 
+        # The single most-recently-published video across this movie's whole
+        # list (not necessarily videos[0] — that ordering is biased toward
+        # "official Trailer type" first, see movie_trailers()'s docstring,
+        # so it's not reliably the newest one). This is what "fresh trailers
+        # at the top" is actually keyed on below in main() — a movie whose
+        # trailer just dropped should surface immediately regardless of how
+        # popular the movie itself is.
+        trailer_published = max((v.get("published_at") or "" for v in videos), default="")
+
         return {
             "id": movie_id,
             "title": movie.get("title", ""),
@@ -329,6 +354,7 @@ def main():
             "backdrop": f"{TMDB_BACKDROP_IMG}{movie['backdrop_path']}" if movie.get("backdrop_path") else "",
             "overview": movie.get("overview", ""),
             "theatrical": theatrical,
+            "trailer_published": trailer_published,
             "videos": videos,
         }
 
@@ -380,12 +406,18 @@ def main():
             resolved[trailer["id"]] = trailer
 
     # The passes above are only about WHICH movies make the cut — the actual
-    # output order is re-sorted back by real TMDB popularity score, so "All"
-    # and the homepage shelf still read biggest/most-talked-about-first
-    # regardless of which pass happened to pick up a given movie.
+    # output order is by trailer_published (freshest-dropped trailer first),
+    # not popularity. That's a deliberate choice: with popularity as the sort
+    # key, a big blockbuster that's been popular for weeks would just camp at
+    # the top of "All" and the homepage shelf indefinitely, burying whatever
+    # actually just got added this run — the exact opposite of "fresh
+    # trailers at the top all the time." Popularity is still what decides
+    # WHICH movies make the cut (via popularity.desc discover ordering
+    # upstream); it's just no longer what decides the FINAL display order.
+    # popularity_score is kept only as a tiebreaker for same-day publishes.
     trailers = sorted(
         resolved.values(),
-        key=lambda t: popularity_score.get(t["id"], 0),
+        key=lambda t: (t.get("trailer_published", ""), popularity_score.get(t["id"], 0)),
         reverse=True,
     )
 
