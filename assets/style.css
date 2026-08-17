@@ -283,10 +283,30 @@ a { color: inherit; }
   background: var(--text);
   color: #fff;
   border-radius: var(--radius);
-  padding: 26px 30px;
+  padding: 20px 30px;
   margin: 44px 0;
   flex-wrap: wrap;
   box-shadow: var(--shadow-md);
+}
+
+/* Real proof of the game (Tom Holland reacting + the actual clue-reveal
+   UI) instead of the card being pure text — see flickle_cta() in
+   build_site.py for the reasoning. Fixed aspect-ratio box + object-fit
+   means the image always frames consistently even if a future promo
+   asset has slightly different source dimensions. flex-shrink: 0 keeps it
+   from getting squeezed as the text/button wrap on narrower screens. */
+.flickle-cta-image {
+  width: 150px;
+  aspect-ratio: 700 / 393;
+  object-fit: cover;
+  border-radius: calc(var(--radius) - 6px);
+  flex-shrink: 0;
+  display: block;
+}
+
+.flickle-cta-text {
+  flex: 1;
+  min-width: 180px;
 }
 
 .flickle-cta-eyebrow {
@@ -2187,6 +2207,7 @@ a.quiz-retake-btn {
   .list-item { padding: 40px 0; }
   .list-item-number { width: 40px; height: 40px; font-size: 1.15rem; }
   .flickle-cta { padding: 20px; }
+  .flickle-cta-image { width: 110px; }
   .flickle-cta-button { width: 100%; text-align: center; }
 }
 
