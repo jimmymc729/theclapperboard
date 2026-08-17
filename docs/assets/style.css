@@ -333,6 +333,36 @@ a { color: inherit; }
   transform: scale(1.08);
 }
 
+/* Big variant (see flickle_cta(big=True) in build_site.py) — used sparingly
+   (currently just the bottom-of-post CTA) rather than site-wide, so it
+   reads as a deliberate emphasis rather than the normal rhythm. Overrides
+   the compact side-by-side layout with a stacked one: full-width image on
+   top, the same eyebrow/headline/sub/button row underneath. padding: 0 on
+   the card itself (moved onto .flickle-cta-bottom-row instead) so the
+   image can run edge-to-edge under the card's own rounded corners rather
+   than sitting inset in a padded box. */
+.flickle-cta-big {
+  flex-direction: column;
+  align-items: stretch;
+  padding: 0;
+  overflow: hidden;
+}
+
+.flickle-cta-big .flickle-cta-image-wrap {
+  width: 100%;
+  aspect-ratio: 700 / 393;
+  border-radius: 0;
+}
+
+.flickle-cta-bottom-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 20px 30px;
+}
+
 .flickle-cta-text {
   flex: 1;
   min-width: 180px;
@@ -2233,6 +2263,13 @@ a.quiz-retake-btn {
   .flickle-cta { padding: 20px; }
   .flickle-cta-image-wrap { width: 150px; }
   .flickle-cta-button { width: 100%; text-align: center; }
+  /* Overrides ".flickle-cta { padding: 20px }" above for the big variant
+     specifically — it needs to stay at 0 so the image keeps running
+     edge-to-edge (see .flickle-cta-bottom-row for where that padding
+     moved to instead). Same selector specificity, so this only wins
+     because it comes later in the cascade — keep it below the line above. */
+  .flickle-cta-big { padding: 0; }
+  .flickle-cta-bottom-row { padding: 20px; }
 }
 
 @media (max-width: 420px) {
