@@ -389,8 +389,24 @@ def base_page(title: str, description: str, canonical_path: str, body: str, root
 
 
 def flickle_cta(context: str = "") -> str:
+    """This single component renders every Flickle CTA on the site (top and
+    bottom of posts, trailer pages, quiz results, homepage) — one shared
+    function, so a change here improves every page at once rather than
+    needing to be repeated per template.
+
+    It used to be pure text (eyebrow + headline + subtext + button), with
+    no visual proof of what Flickle actually looks like. A real promo still
+    (Tom Holland reacting to the game, the actual clue-reveal UI visible on
+    the phone) replaced that blank space — someone can now see the game
+    before ever clicking through, the same "show, don't tell" logic that
+    makes a good ad work. Uses an absolute production URL (same convention
+    as content-embedded custom photos, see custom-photos/) rather than a
+    root-relative path, since this is a single shared asset referenced from
+    every page depth rather than per-content data."""
     headline = context or f"Play today's {esc(SITE['flickle_name'])}."
+    promo_url = f"{SITE['url']}/assets/flickle-cta-promo.jpg"
     return f"""    <div class="flickle-cta">
+      <img class="flickle-cta-image" src="{promo_url}" alt="Flickle — every guess reveals new clues about today's mystery movie" loading="lazy">
       <div class="flickle-cta-text">
         <p class="flickle-cta-eyebrow">Think you know movies?</p>
         <p class="flickle-cta-headline">{headline}</p>
