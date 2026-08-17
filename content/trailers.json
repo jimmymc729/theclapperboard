@@ -252,6 +252,42 @@
     ]
   },
   {
+    "id": 192139,
+    "title": "The Brink of War",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pyOVG32JevYR0mltVlDvWwDL88F.jpg",
+    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+    "theatrical": true,
+    "trailer_published": "2026-08-14T17:00:08.000Z",
+    "videos": [
+      {
+        "key": "a-T0TlMN-RE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T21:15:27.000Z"
+      },
+      {
+        "key": "oI47vtf8nhU",
+        "name": "The Brink Of War Is In Theaters Today!",
+        "type": "Teaser",
+        "published_at": "2026-08-14T17:00:08.000Z"
+      },
+      {
+        "key": "1OXSMXfl8D4",
+        "name": "Is Peace A Fantasy?",
+        "type": "Teaser",
+        "published_at": "2026-08-07T15:00:24.000Z"
+      },
+      {
+        "key": "OsStvTUPZKo",
+        "name": "Will There Be Peace Or War?",
+        "type": "Teaser",
+        "published_at": "2026-07-31T15:00:03.000Z"
+      }
+    ]
+  },
+  {
     "id": 1244523,
     "title": "Beware Boi\u00fana",
     "release_date": "2026-10-02",
@@ -824,42 +860,6 @@
         "name": "Watch at Home",
         "type": "Teaser",
         "published_at": "2026-08-06T18:01:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 192139,
-    "title": "The Brink of War",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pyOVG32JevYR0mltVlDvWwDL88F.jpg",
-    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-    "theatrical": true,
-    "trailer_published": "2026-08-07T15:00:24.000Z",
-    "videos": [
-      {
-        "key": "a-T0TlMN-RE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T21:15:27.000Z"
-      },
-      {
-        "key": "1OXSMXfl8D4",
-        "name": "Is Peace A Fantasy?",
-        "type": "Teaser",
-        "published_at": "2026-08-07T15:00:24.000Z"
-      },
-      {
-        "key": "OsStvTUPZKo",
-        "name": "Will There Be Peace Or War?",
-        "type": "Teaser",
-        "published_at": "2026-07-31T15:00:03.000Z"
-      },
-      {
-        "key": "IuhCJaXlzEg",
-        "name": "In One Month",
-        "type": "Teaser",
-        "published_at": "2026-07-14T19:00:08.000Z"
       }
     ]
   },
@@ -2526,30 +2526,6 @@
     ]
   },
   {
-    "id": 1659389,
-    "title": "One Piece Heroines",
-    "release_date": "2026-07-05",
-    "poster": "https://image.tmdb.org/t/p/w500/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
-    "overview": "After failing to stop the thieves due to ill-fitting shoes, Nami storms into the shop where she bought them for a refund. However, the head designer offers to make her a new pair from scratch on one condition: she must walk in their upcoming fashion show.",
-    "theatrical": false,
-    "trailer_published": "2026-06-22T23:00:20.000Z",
-    "videos": [
-      {
-        "key": "TWMGQNQ-ywE",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-06-22T23:00:20.000Z"
-      },
-      {
-        "key": "qWlvJPCWCg8",
-        "name": "OFFICIAL Teaser [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2026-03-28T11:01:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1430698,
     "title": "The Bay",
     "release_date": "2026-07-17",
@@ -3518,6 +3494,24 @@
         "name": "Coming Soon",
         "type": "Teaser",
         "published_at": "2025-05-15T17:00:52.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1212489,
+    "title": "The Resurrection of the Christ: Part Two",
+    "release_date": "2028-05-25",
+    "poster": "https://image.tmdb.org/t/p/w500/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg",
+    "backdrop": "",
+    "overview": "The second part of a two-part sequel to The Passion of the Christ. Plot TBA.",
+    "theatrical": true,
+    "trailer_published": "2025-08-05T21:02:26.000Z",
+    "videos": [
+      {
+        "key": "-cwD-lYN2Bo",
+        "name": "THE RESURRECTION OF THE CHRIST Parts One and Two - coming to theaters Spring 2027.",
+        "type": "Teaser",
+        "published_at": "2025-08-05T21:02:26.000Z"
       }
     ]
   },
