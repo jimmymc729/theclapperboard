@@ -1604,7 +1604,7 @@
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ajjOGnLDkJZeZPZUtZGECAhlnVl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xKPKNJI93LO2QPlIMLM8mthlCPi.jpg",
     "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
     "theatrical": true,
     "videos": [
@@ -1942,27 +1942,6 @@
     ]
   },
   {
-    "id": 1213243,
-    "title": "Toxic: A Fairy Tale For Grown-ups",
-    "release_date": "2026-08-25",
-    "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
-    "theatrical": true,
-    "videos": [
-      {
-        "key": "JQ7pytcXahw",
-        "name": "Ladies & Ladies",
-        "type": "Teaser"
-      },
-      {
-        "key": "aF08WVSvCok",
-        "name": "Introducing Raya",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
     "id": 1732097,
     "title": "Euphoria: A Look Back",
     "release_date": "2026-07-24",
@@ -1995,32 +1974,6 @@
       {
         "key": "nAkYQ6hoxw8",
         "name": "The reactions are in\u2026",
-        "type": "Teaser"
-      }
-    ]
-  },
-  {
-    "id": 1586876,
-    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/2sapvk8OG1rmaS2PquLnfyoMvOS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6efIfUaOqYKKWI5sSCilvqLIpeL.jpg",
-    "overview": "Chiikawa and friends set off on a whimsical summer adventure to a mysterious island said to hide a long-lost mermaid secret. What starts as a fun getaway quickly turns into a heartwarming journey filled with surprises, gentle thrills, and adorable chaos. With sparkling seas, strange legends, and unforgettable encounters, the trio learns about courage, friendship, and the magic hidden in small moments.",
-    "theatrical": false,
-    "videos": [
-      {
-        "key": "bqN9wLOsKdM",
-        "name": "Teaser Trailer (Singapore)",
-        "type": "Teaser"
-      },
-      {
-        "key": "NPABya8j0zU",
-        "name": "Teaser Trailer (Malaysia)",
-        "type": "Teaser"
-      },
-      {
-        "key": "tJe_5rbUKnY",
-        "name": "Official Teaser Trailer (Malaysia)",
         "type": "Teaser"
       }
     ]
@@ -2752,6 +2705,53 @@
         "key": "WtL3YbjUJN8",
         "name": "ZEE5 Satluj",
         "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 718833,
+    "title": "Bokshi",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/9Loc2q3gO1HWolw0o6kLaMXrocS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
+    "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "2nKLfpXRuEM",
+        "name": "Bokshi \u2013 Official Teaser",
+        "type": "Trailer"
+      }
+    ]
+  },
+  {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
+    "overview": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I. (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos' last chance to prove himself...or lose his magical hat!",
+    "theatrical": true,
+    "videos": [
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer"
+      },
+      {
+        "key": "CUnaaeoCqXQ",
+        "name": "New trailer for The Cat In The Hat?!?! Best day ever!",
+        "type": "Teaser"
+      },
+      {
+        "key": "JtpLhxp5t3o",
+        "name": "It's a vibe thing.",
+        "type": "Teaser"
       }
     ]
   },
