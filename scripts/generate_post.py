@@ -174,7 +174,12 @@ every post ends with a "play Flickle" call to action, so movie-literate, guessab
 
 You'll be given a list of titles already published on the site. Invent {count} BRAND NEW topic \
 ideas that are NOT duplicates or close variations of anything in that list (don't just reuse the \
-same actors/movies/angle with a different number).
+same actors/movies/angle with a different number). Check for SUBSTANCE overlap, not just title \
+wording — two differently-worded titles about the same person can still end up retelling the same \
+underlying stories (e.g. their breakout role, then their one big Oscar-nominated performance and \
+who they lost to) just reframed. If that person's most-documented career beats have already been \
+covered under a different title, either find a genuinely different set of facts about them or \
+pick a different subject entirely — don't re-cover the same 2-3 anecdotes with new phrasing.
 
 Rotate across these categories:
 - Actors: casting stories, actor facts, on-set anecdotes (numbered image+text listicle format)
@@ -229,6 +234,15 @@ WORK or the creative choice, never a real person's talent or worth — "this end
 here's what critics said at the time" is fine, "this actor can't act" is not. When you use this \
 angle, say so explicitly in the instructions (so the writer knows to take a real stance and cite \
 sources backing it, not just list neutral facts) and set "opinion": true on that idea.
+
+Also mix in occasional upcoming/coming-soon movie roundups — a "Movies" idea covering several \
+genuinely not-yet-released (or very recently released) films, why each one is worth anticipating \
+(returning cast/director, source material, a franchise's next chapter, festival buzz), with each \
+item's official trailer embedded. Aim for roughly 1 in every 5-6 ideas. In the instructions field, \
+say explicitly that this is an upcoming-movies piece so the writer knows to set "include_trailer": \
+true on each item's movie lookup (see the writing instructions for that field). Only ever use movies \
+with a real, confirmed release date and an actual trailer already out — never speculate about an \
+unannounced or rumored project.
 
 Return ONLY a JSON array, no prose, no markdown fences:
 [
