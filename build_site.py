@@ -388,7 +388,7 @@ def base_page(title: str, description: str, canonical_path: str, body: str, root
 """
 
 
-def flickle_cta(context: str = "") -> str:
+def flickle_cta(context: str = "", big: bool = False) -> str:
     """This single component renders every Flickle CTA on the site (top and
     bottom of posts, trailer pages, quiz results, homepage) — one shared
     function, so a change here improves every page at once rather than
@@ -409,19 +409,41 @@ def flickle_cta(context: str = "") -> str:
     the end — a bigger, more forgiving click target converts better than
     forcing someone to land precisely on the pill. The visual "button" is
     now a <span> rather than a nested <a>, since nested links are invalid
-    HTML and browsers handle them inconsistently."""
+    HTML and browsers handle them inconsistently.
+
+    big=True swaps in a full-width-image variant (image spans the whole
+    card edge to edge, text/button row sits below it) instead of the
+    default compact side-by-side layout. Used sparingly (currently just the
+    bottom-of-post CTA — the "just finished reading" moment) rather than
+    everywhere, so it reads as a deliberate emphasis rather than the site's
+    normal rhythm. Both variants share the same eyebrow/headline/sub/button
+    markup and CSS classes — only the wrapping structure around the image
+    differs — so a copy or promo-asset change here still updates both at
+    once."""
     headline = context or f"Play today's {esc(SITE['flickle_name'])}."
     promo_url = f"{SITE['url']}/assets/flickle-cta-promo.jpg"
-    return f"""    <a class="flickle-cta" href="{SITE['flickle_url']}" target="_blank" rel="noopener">
-      <div class="flickle-cta-image-wrap">
+    image_html = f"""<div class="flickle-cta-image-wrap">
         <img class="flickle-cta-image" src="{promo_url}" alt="Flickle — every guess reveals new clues about today's mystery movie" loading="lazy">
-      </div>
-      <div class="flickle-cta-text">
+      </div>"""
+    text_and_button = f"""<div class="flickle-cta-text">
         <p class="flickle-cta-eyebrow">Think you know movies?</p>
         <p class="flickle-cta-headline">{headline}</p>
         <p class="flickle-cta-sub">{esc(SITE['flickle_tagline'])}</p>
       </div>
-      <span class="flickle-cta-button">Play {esc(SITE['flickle_name'])} →</span>
+      <span class="flickle-cta-button">Play {esc(SITE['flickle_name'])} →</span>"""
+
+    if big:
+        return f"""    <a class="flickle-cta flickle-cta-big" href="{SITE['flickle_url']}" target="_blank" rel="noopener">
+      {image_html}
+      <div class="flickle-cta-bottom-row">
+        {text_and_button}
+      </div>
+    </a>
+"""
+
+    return f"""    <a class="flickle-cta" href="{SITE['flickle_url']}" target="_blank" rel="noopener">
+      {image_html}
+      {text_and_button}
     </a>
 """
 
@@ -1385,7 +1407,7 @@ def render_post_page(p, posts_by_slug: dict) -> str:
 
 {complete_html}
 
-{flickle_cta("Now go prove it — play today's Flickle.")}
+{flickle_cta("Now go prove it — play today's Flickle.", big=True)}
 
 {reaction_strip(p['slug'])}
 
