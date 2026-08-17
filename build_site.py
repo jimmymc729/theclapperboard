@@ -1258,7 +1258,16 @@ def render_post_page(p, posts_by_slug: dict) -> str:
     elif p.get("year_guess"):
         items_html.append(render_year_guess(p["year_guess"], p["slug"], root, p["title"]))
     else:
-        for item in p.get("items", []):
+        # Each item's "number" field is written by generate_post.py at
+        # content-generation time (an LLM output, not something computed
+        # here) — a numbered list that skips or repeats a number is a real,
+        # visible bug that erodes trust the moment a reader notices it, and
+        # it HAS happened (a 7-item post that jumped straight from "4" to
+        # "6"). Renumbering sequentially at render time, right before
+        # dispatch, makes that class of bug structurally impossible from
+        # here on regardless of what the source JSON actually contains.
+        for idx, item in enumerate(p.get("items", []), start=1):
+            item["number"] = idx
             if "emoji" in item:
                 items_html.append(render_emoji_item(item, root, p["slug"], p["title"]))
             elif "quote" in item:
