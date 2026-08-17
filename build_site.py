@@ -600,6 +600,21 @@ def reaction_strip(slug: str, prompt: str = "React to this post") -> str:
 # Page builders
 # --------------------------------------------------------------------------
 
+def post_has_trailer(p) -> bool:
+    """A post genuinely "is trailer content" if it's not a Games post AND
+    any of its listicle items embeds a trailer via trailer_key — i.e. the
+    upcoming-movies-with-trailers content angle in generate_post.py, where
+    a real trailer is the point of the item. Excludes Games explicitly
+    because some guessing games (e.g. guess-the-movie-from-a-quote) also
+    embed a trailer_key per item as their own reveal/answer clip — a
+    completely different use of the same field, not "trailer content" in
+    the sense a visitor asking for more trailers means. Used to bias the
+    homepage's top trending slots — see render_home()."""
+    if p.get("category") == "Games":
+        return False
+    return any(item.get("trailer_key") for item in p.get("items", []))
+
+
 def trending_hero_card(p, root: str, number: int) -> str:
     """The big card in the top-left of the trending grid: image fills the
     whole card, headline + number sit on a dark gradient scrim over the
@@ -632,12 +647,37 @@ def trending_small_card(p, root: str, number: int) -> str:
 
 def render_home(posts, trailers: list, engagement: dict) -> str:
     root = ""
-    # The top hero+small-card treatment always stays newest-first — it's a
-    # fixed, prominent "what just happened" slot, not something a visitor
-    # toggles. The plain grid below it (everything else) is what the
-    # Newest/Trending tabs actually switch between; both tabs pull from the
-    # same "rest" set so nothing appears twice or disappears when switching.
-    trending, rest = posts[:4], posts[4:]
+    # The top hero+small-card treatment is a fixed, prominent slot, not
+    # something a visitor toggles. The plain grid below it (everything
+    # else) is what the Newest/Trending tabs actually switch between; both
+    # tabs pull from the same "rest" set so nothing appears twice or
+    # disappears when switching.
+    #
+    # The hero (slot 1) is always the single newest post — "what just
+    # happened" stays true regardless of content type. The 3 small-card
+    # slots used to just be the next 3 newest posts, which meant a run of
+    # quizzes/games could crowd out trailer-embedded content up here for
+    # days even while it kept publishing further down the feed. They now
+    # guarantee up to MIN_TRENDING_TRAILERS trailer posts (picking the
+    # newest ones), backfilling any remaining slots with the next-newest
+    # posts of any type — then re-sorting the chosen set back to
+    # newest-first so the slot order still reads as a coherent timeline.
+    MIN_TRENDING_TRAILERS = 2
+    hero_post = posts[0]
+    candidates = posts[1:]
+    small_cards_posts = [p for p in candidates if post_has_trailer(p)][:MIN_TRENDING_TRAILERS]
+    chosen_slugs = {hero_post["slug"]} | {p["slug"] for p in small_cards_posts}
+    for p in candidates:
+        if len(small_cards_posts) >= 3:
+            break
+        if p["slug"] in chosen_slugs:
+            continue
+        small_cards_posts.append(p)
+        chosen_slugs.add(p["slug"])
+    small_cards_posts.sort(key=lambda p: candidates.index(p))
+    trending = [hero_post] + small_cards_posts
+    trending_slugs = {p["slug"] for p in trending}
+    rest = [p for p in posts if p["slug"] not in trending_slugs]
     small_cards = "".join(trending_small_card(p, root, i + 2) for i, p in enumerate(trending[1:]))
     trending_html = (
         trending_hero_card(trending[0], root, 1)
