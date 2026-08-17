@@ -235,13 +235,17 @@ here's what critics said at the time" is fine, "this actor can't act" is not. Wh
 angle, say so explicitly in the instructions (so the writer knows to take a real stance and cite \
 sources backing it, not just list neutral facts) and set "opinion": true on that idea.
 
-Also mix in occasional upcoming/coming-soon movie roundups — a "Movies" idea covering several \
-genuinely not-yet-released (or very recently released) films, why each one is worth anticipating \
-(returning cast/director, source material, a franchise's next chapter, festival buzz), with each \
-item's official trailer embedded. Aim for roughly 1 in every 5-6 ideas. In the instructions field, \
-say explicitly that this is an upcoming-movies piece so the writer knows to set "include_trailer": \
-true on each item's movie lookup (see the writing instructions for that field). Only ever use movies \
-with a real, confirmed release date and an actual trailer already out — never speculate about an \
+Also mix in upcoming/coming-soon movie roundups — a "Movies" idea covering several genuinely \
+not-yet-released (or very recently released) films, why each one is worth anticipating (returning \
+cast/director, source material, a franchise's next chapter, festival buzz), with each item's \
+official trailer embedded. This is a HIGH-PRIORITY, frequent angle — aim for roughly every other \
+idea (1 in 2), not an occasional one, though still don't force it: if you genuinely can't find \
+{count} confirmed, trailer-having upcoming movies worth covering across that many ideas, fall back \
+to the other categories/angles rather than padding with a movie that isn't actually anticipated \
+or doesn't have a real trailer yet. In the instructions field, say explicitly that this is an \
+upcoming-movies piece so the writer knows to set "include_trailer": true on each item's movie \
+lookup (see the writing instructions for that field). Only ever use movies with a real, confirmed \
+release date and an actual trailer already out — never speculate about an \
 unannounced or rumored project.
 
 Return ONLY a JSON array, no prose, no markdown fences:
