@@ -1,5 +1,41 @@
 [
   {
+    "id": 1477712,
+    "title": "Ice Cream Man",
+    "release_date": "2026-08-03",
+    "poster": "https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "theatrical": true,
+    "trailer_published": "2026-08-17T18:07:25.000Z",
+    "videos": [
+      {
+        "key": "Cgw3zNmFtRo",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-30T13:00:23.000Z"
+      },
+      {
+        "key": "BjtVXWa3tWI",
+        "name": "Official Green Band Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T19:24:30.000Z"
+      },
+      {
+        "key": "SHxqHdBNm-w",
+        "name": "Official Red Band Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-03T13:00:27.000Z"
+      },
+      {
+        "key": "MowIcHLfp-k",
+        "name": "The only movie ticket you should be buying this week....",
+        "type": "Teaser",
+        "published_at": "2026-08-17T18:07:25.000Z"
+      }
+    ]
+  },
+  {
     "id": 1101383,
     "title": "The End of Oak Street",
     "release_date": "2026-08-14",
@@ -556,7 +592,7 @@
     "title": "Death Whisperer: Saming the Werebeast",
     "release_date": "2026-09-30",
     "poster": "https://image.tmdb.org/t/p/w500/tOhbvoTC10Nf9WTBI1EIwaXz9Et.jpg",
-    "backdrop": "",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8bEKkBsj0Xhpct20LFHXhKYO0Jb.jpg",
     "overview": "Set in 1968 in Kanchanaburi, Thailand, the story follows Yak, a soldier from the Black Tiger Division, sent on an urgent mission into the forest of Khao Khwang to find Thap, a missing military intelligence officer.",
     "theatrical": true,
     "trailer_published": "2026-08-13T09:00:10.000Z",
@@ -572,42 +608,6 @@
         "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
         "type": "Teaser",
         "published_at": "2026-07-29T10:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1477712,
-    "title": "Ice Cream Man",
-    "release_date": "2026-08-03",
-    "poster": "https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
-    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "theatrical": true,
-    "trailer_published": "2026-08-12T17:57:01.000Z",
-    "videos": [
-      {
-        "key": "Cgw3zNmFtRo",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-30T13:00:23.000Z"
-      },
-      {
-        "key": "BjtVXWa3tWI",
-        "name": "Official Green Band Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T19:24:30.000Z"
-      },
-      {
-        "key": "SHxqHdBNm-w",
-        "name": "Official Red Band Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-03T13:00:27.000Z"
-      },
-      {
-        "key": "N50oY4MMUOY",
-        "name": "traumatized",
-        "type": "Teaser",
-        "published_at": "2026-08-12T17:57:01.000Z"
       }
     ]
   },
@@ -954,6 +954,30 @@
     ]
   },
   {
+    "id": 1375441,
+    "title": "Primetime",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+    "theatrical": true,
+    "trailer_published": "2026-08-06T13:00:36.000Z",
+    "videos": [
+      {
+        "key": "5fHXyqQOKL8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-06T13:00:36.000Z"
+      },
+      {
+        "key": "Yrfrf53ttYY",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-05-27T13:00:08.000Z"
+      }
+    ]
+  },
+  {
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-06",
@@ -981,7 +1005,7 @@
     "id": 1315772,
     "title": "Minions & Monsters",
     "release_date": "2026-07-01",
-    "poster": "https://image.tmdb.org/t/p/w500/aTmwK4yKzM52spczHFeuWldfzo7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
     "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
     "theatrical": true,
@@ -1386,6 +1410,24 @@
     ]
   },
   {
+    "id": 1148365,
+    "title": "Matchbox: The Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-07-25T21:30:05.000Z",
+    "videos": [
+      {
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-25T21:30:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -1443,8 +1485,8 @@
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
     "overview": "Bryan, a medical courier, unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
     "theatrical": true,
     "trailer_published": "2026-07-23T13:00:24.000Z",
@@ -1466,6 +1508,42 @@
         "name": "In Cinemas and IMAX 17 September",
         "type": "Teaser",
         "published_at": "2026-07-04T12:00:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+    "theatrical": true,
+    "trailer_published": "2026-07-22T20:00:22.000Z",
+    "videos": [
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "YyJ9YER6cJg",
+        "name": "Can't keep it contained.",
+        "type": "Teaser",
+        "published_at": "2026-07-22T20:00:22.000Z"
+      },
+      {
+        "key": "z4BT5bpVl5s",
+        "name": "Official Trailer Tease",
+        "type": "Teaser",
+        "published_at": "2026-07-22T15:57:13.000Z"
+      },
+      {
+        "key": "6IxPD-jNdwM",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-04-22T19:01:13.000Z"
       }
     ]
   },
@@ -1734,30 +1812,6 @@
     ]
   },
   {
-    "id": 1397485,
-    "title": "Girls Like Girls",
-    "release_date": "2026-06-19",
-    "poster": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hSdK33Mjsdfb8TpoUTI3A3OE3RO.jpg",
-    "overview": "After her mother's passing, 17-year-old Coley navigates new feelings of intimacy with Sonya in rural Oregon, where both girls must overcome their mutual uncertainties and self-doubt to embrace their connection.",
-    "theatrical": true,
-    "trailer_published": "2026-07-17T19:01:12.000Z",
-    "videos": [
-      {
-        "key": "ZC1kEknG2ro",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-10T16:00:13.000Z"
-      },
-      {
-        "key": "KQCsTyrDsOk",
-        "name": "What She Actually Saw",
-        "type": "Teaser",
-        "published_at": "2026-07-17T19:01:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 950028,
     "title": "The Invite",
     "release_date": "2026-06-26",
@@ -1880,6 +1934,24 @@
         "name": "In Theaters August 28",
         "type": "Teaser",
         "published_at": "2026-06-08T19:54:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1715492,
+    "title": "Shipwrecked: Nightmare at Sea",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+    "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+    "theatrical": false,
+    "trailer_published": "2026-07-12T18:17:36.000Z",
+    "videos": [
+      {
+        "key": "eWPdwVtVx9Y",
+        "name": "Official Trailer: Shipwrecked: Nightmare at Sea",
+        "type": "Trailer",
+        "published_at": "2026-07-12T18:17:36.000Z"
       }
     ]
   },
@@ -2325,7 +2397,7 @@
     "id": 1444466,
     "title": "Awarapan 2",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lGQmw5eQJBZnytviCftSBOVlihw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
     "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
     "theatrical": true,
@@ -2448,6 +2520,24 @@
     ]
   },
   {
+    "id": 1122220,
+    "title": "Untitled Blair Witch Film",
+    "release_date": "2027-09-24",
+    "poster": "https://image.tmdb.org/t/p/w500/1mi6QRfUaSoe9pTvSY4L9AHdazh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3vvWLWzmBsjHxv8LfAdLiEMwHg0.jpg",
+    "overview": "A family goes on a camping trip and goes missing one by one after they hear strange noises in the forest.",
+    "theatrical": true,
+    "trailer_published": "2026-06-23T15:14:40.000Z",
+    "videos": [
+      {
+        "key": "gLgocvY-9rE",
+        "name": "9.24.27",
+        "type": "Teaser",
+        "published_at": "2026-06-23T15:14:40.000Z"
+      }
+    ]
+  },
+  {
     "id": 1465063,
     "title": "Forgotten Island",
     "release_date": "2026-09-25",
@@ -2522,6 +2612,30 @@
         "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e25\u0e31\u0e1a - Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-23T05:30:21.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1659389,
+    "title": "One Piece Heroines",
+    "release_date": "2026-07-05",
+    "poster": "https://image.tmdb.org/t/p/w500/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+    "overview": "After failing to stop the thieves due to ill-fitting shoes, Nami storms into the shop where she bought them for a refund. However, the head designer offers to make her a new pair from scratch on one condition: she must walk in their upcoming fashion show.",
+    "theatrical": false,
+    "trailer_published": "2026-06-22T23:00:20.000Z",
+    "videos": [
+      {
+        "key": "TWMGQNQ-ywE",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-06-22T23:00:20.000Z"
+      },
+      {
+        "key": "qWlvJPCWCg8",
+        "name": "OFFICIAL Teaser [Subtitled]",
+        "type": "Teaser",
+        "published_at": "2026-03-28T11:01:16.000Z"
       }
     ]
   },
@@ -3078,24 +3192,6 @@
     ]
   },
   {
-    "id": 1279493,
-    "title": "The Get Out",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
-    "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-    "theatrical": true,
-    "trailer_published": "2026-05-28T14:54:16.000Z",
-    "videos": [
-      {
-        "key": "oB6HNuKxLmo",
-        "name": "The Get Out | Official Trailer (HD) | Vertical",
-        "type": "Trailer",
-        "published_at": "2026-05-28T14:54:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1511675,
     "title": "Kingdom 5: The Clash of Souls",
     "release_date": "2026-07-17",
@@ -3128,42 +3224,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-21T14:59:43.000Z"
-      }
-    ]
-  },
-  {
-    "id": 880067,
-    "title": "Strung",
-    "release_date": "2026-05-27",
-    "poster": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3yQV8aUxMYeSCVF6R5Q6xcaMZsl.jpg",
-    "overview": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
-    "theatrical": false,
-    "trailer_published": "2026-05-20T16:29:46.000Z",
-    "videos": [
-      {
-        "key": "DT_i0aq-vPs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-20T16:29:46.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1397385,
-    "title": "Little Brother",
-    "release_date": "2026-06-18",
-    "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
-    "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
-    "theatrical": false,
-    "trailer_published": "2026-05-20T12:00:00.000Z",
-    "videos": [
-      {
-        "key": "bWtrFcerKE0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-20T12:00:00.000Z"
       }
     ]
   },
@@ -3254,30 +3314,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-05T13:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1284465,
-    "title": "The Death of Robin Hood",
-    "release_date": "2026-06-19",
-    "poster": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-    "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-    "theatrical": true,
-    "trailer_published": "2026-04-22T13:30:00.000Z",
-    "videos": [
-      {
-        "key": "tlSDDuWxO_0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-01-06T14:01:12.000Z"
-      },
-      {
-        "key": "GSfq5jq7ChQ",
-        "name": "Official Promo",
-        "type": "Teaser",
-        "published_at": "2026-04-22T13:30:00.000Z"
       }
     ]
   },
@@ -3456,24 +3492,6 @@
     ]
   },
   {
-    "id": 1227241,
-    "title": "Maa Inti Bangaram",
-    "release_date": "2026-06-18",
-    "poster": "https://image.tmdb.org/t/p/w500/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-    "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-    "theatrical": true,
-    "trailer_published": "2026-01-09T04:30:06.000Z",
-    "videos": [
-      {
-        "key": "vdTawCMwiQs",
-        "name": "Maa Inti Bangaaram Teaser Trailer | Samantha | Raj Nidimoru | Nandini | Diganth | Santhosh Narayanan",
-        "type": "Trailer",
-        "published_at": "2026-01-09T04:30:06.000Z"
-      }
-    ]
-  },
-  {
     "id": 532652,
     "title": "The Resurrection of the Christ: Part One",
     "release_date": "2027-05-06",
@@ -3591,7 +3609,7 @@
     "id": 718833,
     "title": "Bokshi",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/9Loc2q3gO1HWolw0o6kLaMXrocS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iHYu4aCDIjnt6aa5WmKZvmDPJvh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
     "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
     "theatrical": true,
