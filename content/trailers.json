@@ -1,5 +1,185 @@
 [
   {
+    "id": 1244523,
+    "title": "Beware Boi\u00fana",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T18:00:04.000Z",
+    "videos": [
+      {
+        "key": "4fn4UcgzRhg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-13T14:05:01.000Z"
+      },
+      {
+        "key": "rrmmrcrt1MQ",
+        "name": "Did you hear that?",
+        "type": "Teaser",
+        "published_at": "2026-08-18T18:00:04.000Z"
+      },
+      {
+        "key": "3oC9ql-ZjNo",
+        "name": "HER jungle. HER rules.",
+        "type": "Teaser",
+        "published_at": "2026-08-18T17:40:15.000Z"
+      },
+      {
+        "key": "nAkYQ6hoxw8",
+        "name": "The reactions are in\u2026",
+        "type": "Teaser",
+        "published_at": "2026-08-14T16:22:53.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1101412,
+    "title": "Fall 2: Deadpoint",
+    "release_date": "2026-09-02",
+    "poster": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T17:00:01.000Z",
+    "videos": [
+      {
+        "key": "Krs0VDIjhmE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-07-29T15:00:03.000Z"
+      },
+      {
+        "key": "Rsztt5qDj_A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-04T15:00:06.000Z"
+      },
+      {
+        "key": "DZjFQKsftRc",
+        "name": "There\u2019s no turning back.",
+        "type": "Teaser",
+        "published_at": "2026-08-18T17:00:01.000Z"
+      },
+      {
+        "key": "mMnzNU2Qq3A",
+        "name": "Hold to get through the scary part.",
+        "type": "Teaser",
+        "published_at": "2026-08-18T01:52:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1170608,
+    "title": "Dune: Part Three",
+    "release_date": "2026-12-15",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T16:00:22.000Z",
+    "videos": [
+      {
+        "key": "NdvqHc56lE0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-08T17:59:03.000Z"
+      },
+      {
+        "key": "3_9vCamtuPY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-17T16:19:02.000Z"
+      },
+      {
+        "key": "PaxCyyEp59M",
+        "name": "Dune Insider Screenings",
+        "type": "Teaser",
+        "published_at": "2026-08-18T16:00:22.000Z"
+      },
+      {
+        "key": "-hWl_vx6mpo",
+        "name": "For all he\u2019s done.",
+        "type": "Teaser",
+        "published_at": "2026-07-08T23:10:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T15:01:14.000Z",
+    "videos": [
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "t6lEtLIVSZA",
+        "name": "Diggin\u2019 in, one stop at a time.",
+        "type": "Teaser",
+        "published_at": "2026-08-18T15:01:14.000Z"
+      },
+      {
+        "key": "I1XXgud5ovA",
+        "name": "Give or take.",
+        "type": "Teaser",
+        "published_at": "2026-07-18T15:30:17.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
+    "overview": "Bryan, a medical courier, unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T14:19:36.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "3LSjlUrkIjg",
+        "name": "One month until Zach Cregger's Resident Evil crawls into cinemas September 18",
+        "type": "Teaser",
+        "published_at": "2026-08-18T14:19:36.000Z"
+      },
+      {
+        "key": "vjq7I-lNBSU",
+        "name": "In Cinemas and IMAX 17 September",
+        "type": "Teaser",
+        "published_at": "2026-07-04T12:00:19.000Z"
+      }
+    ]
+  },
+  {
     "id": 1477712,
     "title": "Ice Cream Man",
     "release_date": "2026-08-03",
@@ -138,10 +318,46 @@
     ]
   },
   {
+    "id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "theatrical": true,
+    "trailer_published": "2026-08-16T03:00:11.000Z",
+    "videos": [
+      {
+        "key": "P3uI5sLosKU",
+        "name": "Final Trailer (Peter\u2019s Journey)",
+        "type": "Trailer",
+        "published_at": "2026-07-21T16:00:31.000Z"
+      },
+      {
+        "key": "62bIsvRcPv0",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-17T18:58:31.000Z"
+      },
+      {
+        "key": "8TZMtslA3UY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T11:05:15.000Z"
+      },
+      {
+        "key": "In2VI_40YW0",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-08-16T03:00:11.000Z"
+      }
+    ]
+  },
+  {
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "theatrical": true,
@@ -210,42 +426,6 @@
     ]
   },
   {
-    "id": 969681,
-    "title": "Spider-Man: Brand New Day",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "theatrical": true,
-    "trailer_published": "2026-08-15T10:00:05.000Z",
-    "videos": [
-      {
-        "key": "P3uI5sLosKU",
-        "name": "Final Trailer (Peter\u2019s Journey)",
-        "type": "Trailer",
-        "published_at": "2026-07-21T16:00:31.000Z"
-      },
-      {
-        "key": "62bIsvRcPv0",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-17T18:58:31.000Z"
-      },
-      {
-        "key": "8TZMtslA3UY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-18T11:05:15.000Z"
-      },
-      {
-        "key": "iKsFWXCTb3Y",
-        "name": "The defining Spider-Man cinematic experience is the #1 movie in the WORLD",
-        "type": "Teaser",
-        "published_at": "2026-08-15T10:00:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
@@ -285,7 +465,7 @@
     "id": 1403836,
     "title": "The Bluey Movie",
     "release_date": "2027-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/uTgwBcdFYYYUKpu8DZnOVDEjjxc.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
     "overview": "Based on the Bluey series, The Bluey Movie takes place on an action-packed day when a big surprise changes everything for Bluey and her family.",
     "theatrical": true,
@@ -350,30 +530,6 @@
         "name": "Will There Be Peace Or War?",
         "type": "Teaser",
         "published_at": "2026-07-31T15:00:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1244523,
-    "title": "Beware Boi\u00fana",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
-    "theatrical": true,
-    "trailer_published": "2026-08-14T16:22:53.000Z",
-    "videos": [
-      {
-        "key": "4fn4UcgzRhg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-13T14:05:01.000Z"
-      },
-      {
-        "key": "nAkYQ6hoxw8",
-        "name": "The reactions are in\u2026",
-        "type": "Teaser",
-        "published_at": "2026-08-14T16:22:53.000Z"
       }
     ]
   },
@@ -562,7 +718,7 @@
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4PfWwT2ebFNVFCjLcr158YFAt7z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
     "trailer_published": "2026-08-13T16:00:17.000Z",
@@ -870,42 +1026,6 @@
     ]
   },
   {
-    "id": 1101412,
-    "title": "Fall 2: Deadpoint",
-    "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T19:27:18.000Z",
-    "videos": [
-      {
-        "key": "Krs0VDIjhmE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-07-29T15:00:03.000Z"
-      },
-      {
-        "key": "Rsztt5qDj_A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-04T15:00:06.000Z"
-      },
-      {
-        "key": "KN-nh6XamcU",
-        "name": "Forecast: 100% chance of falling.",
-        "type": "Teaser",
-        "published_at": "2026-08-06T19:27:18.000Z"
-      },
-      {
-        "key": "Mv18PgnqBUc",
-        "name": "Higher than your fears.",
-        "type": "Teaser",
-        "published_at": "2026-08-05T22:05:29.000Z"
-      }
-    ]
-  },
-  {
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
@@ -956,30 +1076,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-08-06T15:00:21.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1375441,
-    "title": "Primetime",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T13:00:36.000Z",
-    "videos": [
-      {
-        "key": "5fHXyqQOKL8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-06T13:00:36.000Z"
-      },
-      {
-        "key": "Yrfrf53ttYY",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-27T13:00:08.000Z"
       }
     ]
   },
@@ -1488,36 +1584,6 @@
     ]
   },
   {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
-    "overview": "Bryan, a medical courier, unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-07-23T13:00:24.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "vjq7I-lNBSU",
-        "name": "In Cinemas and IMAX 17 September",
-        "type": "Teaser",
-        "published_at": "2026-07-04T12:00:19.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -1716,42 +1782,6 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-07-18T15:30:17.000Z",
-    "videos": [
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "I1XXgud5ovA",
-        "name": "Give or take.",
-        "type": "Teaser",
-        "published_at": "2026-07-18T15:30:17.000Z"
-      },
-      {
-        "key": "1B09aaEq1Tk",
-        "name": "Most important thing we know.",
-        "type": "Teaser",
-        "published_at": "2026-07-17T18:00:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1476682,
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "release_date": "2026-07-10",
@@ -1822,7 +1852,7 @@
     "title": "The Invite",
     "release_date": "2026-06-26",
     "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
     "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
     "theatrical": true,
     "trailer_published": "2026-07-15T17:18:53.000Z",
@@ -1944,20 +1974,86 @@
     ]
   },
   {
-    "id": 1715492,
-    "title": "Shipwrecked: Nightmare at Sea",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
-    "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+    "id": 1705729,
+    "title": "Man of War",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
     "theatrical": false,
-    "trailer_published": "2026-07-12T18:17:36.000Z",
+    "trailer_published": "2026-07-10T15:46:16.000Z",
     "videos": [
       {
-        "key": "eWPdwVtVx9Y",
-        "name": "Official Trailer: Shipwrecked: Nightmare at Sea",
+        "key": "q0_t2HOsDsY",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-12T18:17:36.000Z"
+        "published_at": "2026-06-02T18:14:35.000Z"
+      },
+      {
+        "key": "NoB63ZNLUow",
+        "name": "MAN OF WAR is \u201cguns ablaze from start to finish.\u201d \u2013 Kevin Film Reviews",
+        "type": "Teaser",
+        "published_at": "2026-07-10T15:46:16.000Z"
+      },
+      {
+        "key": "jD0uxIKsHms",
+        "name": "MAN OF WAR is \"Brutal, Tactical and Explosive.\" \u2013 Action Reloaded",
+        "type": "Teaser",
+        "published_at": "2026-07-03T18:48:10.000Z"
+      },
+      {
+        "key": "_ZPCkO5-a44",
+        "name": "ONE WEEK OUT.",
+        "type": "Teaser",
+        "published_at": "2026-06-26T16:28:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1128204,
+    "title": "Feed",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/vXmIlirwmiTTpvNUFq1D8Sqgklz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+    "overview": "Five social media influencers spend a weekend at a forest retreat but inadvertently awaken and confront the world's first vampire.",
+    "theatrical": false,
+    "trailer_published": "2026-07-10T11:02:04.000Z",
+    "videos": [
+      {
+        "key": "ORFG_EWDkCY",
+        "name": "Feed | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-07-10T11:02:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 445466,
+    "title": "Idiots",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cWWKFcsW9Hi0bVPXTQGeYb2Upi8.jpg",
+    "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
+    "theatrical": true,
+    "trailer_published": "2026-07-09T15:00:31.000Z",
+    "videos": [
+      {
+        "key": "UoAf0LNAn30",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T15:00:31.000Z"
+      },
+      {
+        "key": "SbmR9Jy0vRQ",
+        "name": "Teaser 4K",
+        "type": "Teaser",
+        "published_at": "2026-04-23T14:03:13.000Z"
+      },
+      {
+        "key": "8MVqh5L93Bs",
+        "name": "Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-04-20T15:28:47.000Z"
       }
     ]
   },
@@ -2012,42 +2108,6 @@
         "name": "Wee Man Tank",
         "type": "Teaser",
         "published_at": "2026-07-08T11:30:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1170608,
-    "title": "Dune: Part Three",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "overview": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
-    "theatrical": true,
-    "trailer_published": "2026-07-08T23:10:00.000Z",
-    "videos": [
-      {
-        "key": "NdvqHc56lE0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-08T17:59:03.000Z"
-      },
-      {
-        "key": "3_9vCamtuPY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-17T16:19:02.000Z"
-      },
-      {
-        "key": "-hWl_vx6mpo",
-        "name": "For all he\u2019s done.",
-        "type": "Teaser",
-        "published_at": "2026-07-08T23:10:00.000Z"
-      },
-      {
-        "key": "bqwKY5DZay4",
-        "name": "What can be forgiven?",
-        "type": "Teaser",
-        "published_at": "2026-07-08T23:05:26.000Z"
       }
     ]
   },
@@ -2221,7 +2281,7 @@
   },
   {
     "id": 1213243,
-    "title": "Toxic: A Fairy Tale For Grown-ups",
+    "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
@@ -2403,7 +2463,7 @@
     "id": 1444466,
     "title": "Awarapan 2",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/lGQmw5eQJBZnytviCftSBOVlihw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
     "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
     "theatrical": true,
@@ -2664,20 +2724,20 @@
     ]
   },
   {
-    "id": 1305672,
-    "title": "I Know Who You Are",
-    "release_date": "2026-07-02",
-    "poster": "https://image.tmdb.org/t/p/w500/dzS3PxisVd9y9BrLPiFfA2MvcI8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
-    "overview": "On 1949 October 1, the day of the founding ceremony of the People's Republic of China, Xiao Dali enters the city and is reorganized as the director of the public security police station. He finds that primary school teacher Feng Jingbo is full of doubts. With the high vigilance of a soldier and the sense of responsibility of a public security official, Dali insists on partnering with Feng and becomes his neighbor. He then spends his whole life carrying out a nearly four-decade pursuit without regrets.",
-    "theatrical": true,
-    "trailer_published": "2026-06-21T07:24:39.000Z",
+    "id": 1507796,
+    "title": "On the Sea",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wdy7TUJom58vwIFpx0h5Z8pix3l.jpg",
+    "overview": "Jack has been married to Maggie for over half his life. He works as a Hand Raker on the mussel beds in North Wales alongside his younger brother, Dyfan, and Dyfan\u2019s three sons. Jack has always assumed that his own boy, Tom, will join the family business on leaving school but Tom\u2019s resistance to follow in his footsteps creates familial tension. Tensions are further inflamed by the arrival of an itinerant deckhand, Daniel, who makes known his feelings for Jack. In this remote, rural community where life revolves around Church and fishery, Jack is faced with an impossible dilemma. On The Sea is a beautiful, sensual and at times, tragic exploration of masculinity, place and desire.",
+    "theatrical": false,
+    "trailer_published": "2026-06-22T09:55:54.000Z",
     "videos": [
       {
-        "key": "Kpf7-Gqf25Q",
-        "name": "I KNOW WHO YOU ARE | ANZ TRAILER | 09 JULY",
+        "key": "od_S8t86F0M",
+        "name": "On The Sea UK trailer",
         "type": "Trailer",
-        "published_at": "2026-06-21T07:24:39.000Z"
+        "published_at": "2026-06-22T09:55:54.000Z"
       }
     ]
   },
@@ -2774,42 +2834,6 @@
         "name": "Aku Sebelum Aku | Teaser Resmi | Netflix",
         "type": "Teaser",
         "published_at": "2026-06-19T03:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1413976,
-    "title": "Citizen Vigilante",
-    "release_date": "2026-06-19",
-    "poster": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg",
-    "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
-    "theatrical": true,
-    "trailer_published": "2026-06-18T18:03:09.000Z",
-    "videos": [
-      {
-        "key": "fVxmjwaPEFU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-27T16:09:54.000Z"
-      },
-      {
-        "key": "0ww8snVKe0A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-29T13:00:04.000Z"
-      },
-      {
-        "key": "cKz2A-1qavo",
-        "name": "30 sec teaser v2",
-        "type": "Teaser",
-        "published_at": "2026-06-18T18:03:09.000Z"
-      },
-      {
-        "key": "7EhFMNCckeo",
-        "name": "Dark Knight",
-        "type": "Teaser",
-        "published_at": "2025-01-25T10:20:56.000Z"
       }
     ]
   },
@@ -3107,7 +3131,7 @@
     "videos": [
       {
         "key": "xxiHWdsM1rM",
-        "name": "LOCKBOX | Official Trailer",
+        "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-09T16:00:02.000Z"
       }
