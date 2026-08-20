@@ -1,5 +1,125 @@
 [
   {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T16:00:24.000Z",
+    "videos": [
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1101412,
+    "title": "Fall 2: Deadpoint",
+    "release_date": "2026-09-02",
+    "poster": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T16:00:16.000Z",
+    "videos": [
+      {
+        "key": "Krs0VDIjhmE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-07-29T15:00:03.000Z"
+      },
+      {
+        "key": "Rsztt5qDj_A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-04T15:00:06.000Z"
+      },
+      {
+        "key": "tlaZrwXGDh8",
+        "name": "Run, don\u2019t fall.",
+        "type": "Teaser",
+        "published_at": "2026-08-19T16:00:16.000Z"
+      },
+      {
+        "key": "DZjFQKsftRc",
+        "name": "There\u2019s no turning back.",
+        "type": "Teaser",
+        "published_at": "2026-08-18T17:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1213243,
+    "title": "Toxic: A Fairy Tale for Grown-ups",
+    "release_date": "2026-08-26",
+    "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T16:00:14.000Z",
+    "videos": [
+      {
+        "key": "EfluEyQ5QIA",
+        "name": "Official English Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:14.000Z"
+      },
+      {
+        "key": "aF08WVSvCok",
+        "name": "Introducing Raya",
+        "type": "Trailer",
+        "published_at": "2026-01-08T04:40:00.000Z"
+      },
+      {
+        "key": "JQ7pytcXahw",
+        "name": "Ladies & Ladies",
+        "type": "Teaser",
+        "published_at": "2026-07-01T06:03:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T12:30:06.000Z",
+    "videos": [
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "Prv_FLWLlq8",
+        "name": "Title Reveal",
+        "type": "Teaser",
+        "published_at": "2024-08-16T15:00:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1244523,
     "title": "Beware Boi\u00fana",
     "release_date": "2026-10-02",
@@ -32,42 +152,6 @@
         "name": "The reactions are in\u2026",
         "type": "Teaser",
         "published_at": "2026-08-14T16:22:53.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1101412,
-    "title": "Fall 2: Deadpoint",
-    "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T17:00:01.000Z",
-    "videos": [
-      {
-        "key": "Krs0VDIjhmE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-07-29T15:00:03.000Z"
-      },
-      {
-        "key": "Rsztt5qDj_A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-04T15:00:06.000Z"
-      },
-      {
-        "key": "DZjFQKsftRc",
-        "name": "There\u2019s no turning back.",
-        "type": "Teaser",
-        "published_at": "2026-08-18T17:00:01.000Z"
-      },
-      {
-        "key": "mMnzNU2Qq3A",
-        "name": "Hold to get through the scary part.",
-        "type": "Teaser",
-        "published_at": "2026-08-18T01:52:10.000Z"
       }
     ]
   },
@@ -144,6 +228,36 @@
     ]
   },
   {
+    "id": 1514026,
+    "title": "Buddy",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "overview": "Remember BUDDY\u2014the bright orange unicorn and star of that classic childrens' television show who brought joy and life lessons into your living room?  Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T15:00:02.000Z",
+    "videos": [
+      {
+        "key": "Pc9MbCNYn3k",
+        "name": "Official Teaser 3",
+        "type": "Teaser",
+        "published_at": "2026-08-18T15:00:02.000Z"
+      },
+      {
+        "key": "2sBRb7Mbg0A",
+        "name": "Official Teaser 2",
+        "type": "Teaser",
+        "published_at": "2026-07-21T14:59:39.000Z"
+      },
+      {
+        "key": "0mil0YgOtu8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-09T14:59:50.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -212,6 +326,42 @@
         "name": "A girls night and PRACTICAL MAGIC 2? The dream",
         "type": "Teaser",
         "published_at": "2026-08-18T13:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/mKEdYG9PxlVDHZYOhSwa9fFykAl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
+    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T11:59:29.000Z",
+    "videos": [
+      {
+        "key": "B6Z9MM1LhEA",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T11:47:00.000Z"
+      },
+      {
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T21:00:06.000Z"
+      },
+      {
+        "key": "aCaBKGuh-eQ",
+        "name": "In Cinemas Everywhere September 11",
+        "type": "Teaser",
+        "published_at": "2026-08-18T11:59:29.000Z"
+      },
+      {
+        "key": "CG1y0MAg-h0",
+        "name": "One Month",
+        "type": "Teaser",
+        "published_at": "2026-08-11T17:00:12.000Z"
       }
     ]
   },
@@ -288,6 +438,42 @@
     ]
   },
   {
+    "id": 1240889,
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "theatrical": true,
+    "trailer_published": "2026-08-17T16:55:23.000Z",
+    "videos": [
+      {
+        "key": "j9TsiTgYZGw",
+        "name": "Official Vertical Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-27T14:01:07.000Z"
+      },
+      {
+        "key": "dimCiC_hdoA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-27T14:00:01.000Z"
+      },
+      {
+        "key": "ksSRxDEZmW0",
+        "name": "At 96% on Rotten Tomatoes, CAMP MIASMA is the best reviewed horror film of the year.",
+        "type": "Teaser",
+        "published_at": "2026-08-17T16:55:23.000Z"
+      },
+      {
+        "key": "rp3jevFe2xA",
+        "name": "Fall into a world of desire and delirium.",
+        "type": "Teaser",
+        "published_at": "2026-08-15T17:00:32.000Z"
+      }
+    ]
+  },
+  {
     "id": 1263337,
     "title": "Heart of the Beast",
     "release_date": "2026-09-25",
@@ -314,6 +500,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-11T13:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1314826,
+    "title": "Yellow Eyes",
+    "release_date": "2026-08-18",
+    "poster": "https://image.tmdb.org/t/p/w500/kSewcfGO8FzVYnMGsIP6sHWviHT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2GmxXQK5CRVb5PhWrkuzPXB7hSA.jpg",
+    "overview": "A young couple inherits a house containing a mysterious relic that hosts the spirit of a powerful demon, and the wife of the man it possesses must find an exorcist to save him.",
+    "theatrical": false,
+    "trailer_published": "2026-08-16T10:53:11.000Z",
+    "videos": [
+      {
+        "key": "LaeA-hXwqPY",
+        "name": "Yellow Eyes | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-08-16T10:53:11.000Z"
       }
     ]
   },
@@ -358,7 +562,7 @@
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
     "trailer_published": "2026-08-16T03:00:11.000Z",
@@ -393,7 +597,7 @@
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/4zWwbVV31Qss578iJdVECyhMslB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "theatrical": true,
@@ -566,42 +770,6 @@
         "name": "Will There Be Peace Or War?",
         "type": "Teaser",
         "published_at": "2026-07-31T15:00:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1341138,
-    "title": "Spa Weekend",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/7LIP05jWWwLPObSOAVbX7xkWPQ0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
-    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves\u2014and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-    "theatrical": true,
-    "trailer_published": "2026-08-14T16:00:16.000Z",
-    "videos": [
-      {
-        "key": "FUFyXtlXw7k",
-        "name": "Censored UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T10:03:20.000Z"
-      },
-      {
-        "key": "p_LJgljyhfE",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T10:02:51.000Z"
-      },
-      {
-        "key": "9p7j3UvpEQQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-27T15:59:37.000Z"
-      },
-      {
-        "key": "Q3VDbfLUQqg",
-        "name": "One Week",
-        "type": "Teaser",
-        "published_at": "2026-08-14T16:00:16.000Z"
       }
     ]
   },
@@ -846,42 +1014,6 @@
     ]
   },
   {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
-    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
-    "theatrical": true,
-    "trailer_published": "2026-08-11T17:00:12.000Z",
-    "videos": [
-      {
-        "key": "B6Z9MM1LhEA",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T11:47:00.000Z"
-      },
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:00:06.000Z"
-      },
-      {
-        "key": "CG1y0MAg-h0",
-        "name": "One Month",
-        "type": "Teaser",
-        "published_at": "2026-08-11T17:00:12.000Z"
-      },
-      {
-        "key": "2ZfuX4IBTXM",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-04-13T21:10:29.000Z"
-      }
-    ]
-  },
-  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
@@ -1022,42 +1154,6 @@
         "name": "Watch at Home",
         "type": "Teaser",
         "published_at": "2026-08-06T18:01:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1240889,
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T19:00:49.000Z",
-    "videos": [
-      {
-        "key": "j9TsiTgYZGw",
-        "name": "Official Vertical Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-27T14:01:07.000Z"
-      },
-      {
-        "key": "dimCiC_hdoA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-27T14:00:01.000Z"
-      },
-      {
-        "key": "ieuTqT-oY-U",
-        "name": "Kiss your inhibitions goodbye.",
-        "type": "Teaser",
-        "published_at": "2026-08-06T19:00:49.000Z"
-      },
-      {
-        "key": "7mgPvX9iSgo",
-        "name": "Hannah Einbinder is Kris",
-        "type": "Teaser",
-        "published_at": "2026-07-31T15:00:11.000Z"
       }
     ]
   },
@@ -1512,24 +1608,6 @@
     ]
   },
   {
-    "id": 1148365,
-    "title": "Matchbox: The Movie",
-    "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-    "theatrical": true,
-    "trailer_published": "2026-07-25T21:30:05.000Z",
-    "videos": [
-      {
-        "key": "7xfqITrMDcI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-25T21:30:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -1884,6 +1962,42 @@
     ]
   },
   {
+    "id": 1341138,
+    "title": "Spa Weekend",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
+    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves\u2014and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+    "theatrical": true,
+    "trailer_published": "2026-07-15T16:00:37.000Z",
+    "videos": [
+      {
+        "key": "AhsA9ZqRAXQ",
+        "name": "Book Your Escape Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T16:00:37.000Z"
+      },
+      {
+        "key": "FUFyXtlXw7k",
+        "name": "Censored UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T10:03:20.000Z"
+      },
+      {
+        "key": "p_LJgljyhfE",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T10:02:51.000Z"
+      },
+      {
+        "key": "9p7j3UvpEQQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-27T15:59:37.000Z"
+      }
+    ]
+  },
+  {
     "id": 1732097,
     "title": "Euphoria: A Look Back",
     "release_date": "2026-07-24",
@@ -1974,42 +2088,6 @@
     ]
   },
   {
-    "id": 1705729,
-    "title": "Man of War",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
-    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-    "theatrical": false,
-    "trailer_published": "2026-07-10T15:46:16.000Z",
-    "videos": [
-      {
-        "key": "q0_t2HOsDsY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T18:14:35.000Z"
-      },
-      {
-        "key": "NoB63ZNLUow",
-        "name": "MAN OF WAR is \u201cguns ablaze from start to finish.\u201d \u2013 Kevin Film Reviews",
-        "type": "Teaser",
-        "published_at": "2026-07-10T15:46:16.000Z"
-      },
-      {
-        "key": "jD0uxIKsHms",
-        "name": "MAN OF WAR is \"Brutal, Tactical and Explosive.\" \u2013 Action Reloaded",
-        "type": "Teaser",
-        "published_at": "2026-07-03T18:48:10.000Z"
-      },
-      {
-        "key": "_ZPCkO5-a44",
-        "name": "ONE WEEK OUT.",
-        "type": "Teaser",
-        "published_at": "2026-06-26T16:28:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1128204,
     "title": "Feed",
     "release_date": "2026-08-14",
@@ -2024,36 +2102,6 @@
         "name": "Feed | Official Trailer | Horror Brains",
         "type": "Trailer",
         "published_at": "2026-07-10T11:02:04.000Z"
-      }
-    ]
-  },
-  {
-    "id": 445466,
-    "title": "Idiots",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cWWKFcsW9Hi0bVPXTQGeYb2Upi8.jpg",
-    "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
-    "theatrical": true,
-    "trailer_published": "2026-07-09T15:00:31.000Z",
-    "videos": [
-      {
-        "key": "UoAf0LNAn30",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-09T15:00:31.000Z"
-      },
-      {
-        "key": "SbmR9Jy0vRQ",
-        "name": "Teaser 4K",
-        "type": "Teaser",
-        "published_at": "2026-04-23T14:03:13.000Z"
-      },
-      {
-        "key": "8MVqh5L93Bs",
-        "name": "Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-04-20T15:28:47.000Z"
       }
     ]
   },
@@ -2276,30 +2324,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-01T20:12:58.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1213243,
-    "title": "Toxic: A Fairy Tale for Grown-ups",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
-    "theatrical": true,
-    "trailer_published": "2026-07-01T06:03:12.000Z",
-    "videos": [
-      {
-        "key": "JQ7pytcXahw",
-        "name": "Ladies & Ladies",
-        "type": "Teaser",
-        "published_at": "2026-07-01T06:03:12.000Z"
-      },
-      {
-        "key": "aF08WVSvCok",
-        "name": "Introducing Raya",
-        "type": "Teaser",
-        "published_at": "2026-01-08T04:40:00.000Z"
       }
     ]
   },
@@ -2532,6 +2556,42 @@
     ]
   },
   {
+    "id": 822653,
+    "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/g4kCd4rMuN7G3VQQDUT6mLbrBqQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xzm3RfWh932rS28WErNC3u8qzVm.jpg",
+    "overview": "After the events of Rebellion, the world appears to be in balance\u2014but that peace is fragile. As a new threat connected to Walpurgisnacht emerges, Homura Akemi is forced to face the consequences of her choices and question how far she is willing to go to protect Madoka.",
+    "theatrical": true,
+    "trailer_published": "2026-06-25T15:00:19.000Z",
+    "videos": [
+      {
+        "key": "g0CsWEIb6D4",
+        "name": "Official Trailer 3 [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-06-25T15:00:19.000Z"
+      },
+      {
+        "key": "3rdPRWNwJBM",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2025-07-15T12:45:25.000Z"
+      },
+      {
+        "key": "CxTenVJOw_o",
+        "name": "Official Trailer: SIDE Homura [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2024-11-01T09:05:00.000Z"
+      },
+      {
+        "key": "htNvpTfYMdk",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2024-09-16T04:27:25.000Z"
+      }
+    ]
+  },
+  {
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
@@ -2720,24 +2780,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-22T17:30:45.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1507796,
-    "title": "On the Sea",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wdy7TUJom58vwIFpx0h5Z8pix3l.jpg",
-    "overview": "Jack has been married to Maggie for over half his life. He works as a Hand Raker on the mussel beds in North Wales alongside his younger brother, Dyfan, and Dyfan\u2019s three sons. Jack has always assumed that his own boy, Tom, will join the family business on leaving school but Tom\u2019s resistance to follow in his footsteps creates familial tension. Tensions are further inflamed by the arrival of an itinerant deckhand, Daniel, who makes known his feelings for Jack. In this remote, rural community where life revolves around Church and fishery, Jack is faced with an impossible dilemma. On The Sea is a beautiful, sensual and at times, tragic exploration of masculinity, place and desire.",
-    "theatrical": false,
-    "trailer_published": "2026-06-22T09:55:54.000Z",
-    "videos": [
-      {
-        "key": "od_S8t86F0M",
-        "name": "On The Sea UK trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-22T09:55:54.000Z"
       }
     ]
   },
@@ -3102,24 +3144,6 @@
     ]
   },
   {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-06-09T16:00:21.000Z",
-    "videos": [
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      }
-    ]
-  },
-  {
     "id": 1500890,
     "title": "Lockbox",
     "release_date": "2026-07-03",
@@ -3276,24 +3300,6 @@
     ]
   },
   {
-    "id": 614945,
-    "title": "Voicemails for Isabelle",
-    "release_date": "2026-06-20",
-    "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-    "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-    "theatrical": true,
-    "trailer_published": "2026-05-19T16:10:00.000Z",
-    "videos": [
-      {
-        "key": "9mi3YVYm3ZU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-19T16:10:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1645603,
     "title": "Night of the Living Dead",
     "release_date": "2026-07-03",
@@ -3326,6 +3332,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-11T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1599668,
+    "title": "Landship",
+    "release_date": "2026-06-26",
+    "poster": "https://image.tmdb.org/t/p/w500/iYMX7oUGxHn6Z9pSqcAgl5r0E4N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jdb7kGp1UE1dot7rtCZlPuY4b6W.jpg",
+    "overview": "The Battle of Passchendaele, 1917. For three years the great war has been waging, and the two armies find themselves entrenched along the four-hundred-mile Western Front. At the start of a pivotal allied offensive to break the stalemate, the nine-man crew of a British MKIV Tank set out to destroy a series of heavily defended German bunkers.",
+    "theatrical": false,
+    "trailer_published": "2026-05-06T10:52:53.000Z",
+    "videos": [
+      {
+        "key": "tPFSsN-jz9s",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-06T10:52:53.000Z"
+      },
+      {
+        "key": "ALve3Nc5Nso",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2025-04-30T14:56:20.000Z"
+      },
+      {
+        "key": "nEWL2CVGN7M",
+        "name": "Teaser 2",
+        "type": "Teaser",
+        "published_at": "2024-08-21T15:31:35.000Z"
+      },
+      {
+        "key": "QxE3WDFWfqk",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2024-07-29T17:04:42.000Z"
       }
     ]
   },
