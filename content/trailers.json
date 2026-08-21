@@ -1,10 +1,82 @@
 [
   {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T22:00:27.000Z",
+    "videos": [
+      {
+        "key": "NNVKVal7kh8",
+        "name": "Tickets on Sale",
+        "type": "Trailer",
+        "published_at": "2026-08-12T16:00:21.000Z"
+      },
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "c1g5Q3Z5E6k",
+        "name": "The magic is in your hands. Conjure your Practical Magic 2 tickets.",
+        "type": "Teaser",
+        "published_at": "2026-08-20T22:00:27.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1244523,
+    "title": "Beware Boi\u00fana",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T21:45:24.000Z",
+    "videos": [
+      {
+        "key": "4fn4UcgzRhg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-13T14:05:01.000Z"
+      },
+      {
+        "key": "Vet5fESvTO8",
+        "name": "Ssssay her name. Say her name.",
+        "type": "Teaser",
+        "published_at": "2026-08-20T21:45:24.000Z"
+      },
+      {
+        "key": "rrmmrcrt1MQ",
+        "name": "Did you hear that?",
+        "type": "Teaser",
+        "published_at": "2026-08-18T18:00:04.000Z"
+      },
+      {
+        "key": "3oC9ql-ZjNo",
+        "name": "HER jungle. HER rules.",
+        "type": "Teaser",
+        "published_at": "2026-08-18T17:40:15.000Z"
+      }
+    ]
+  },
+  {
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "theatrical": true,
     "trailer_published": "2026-08-20T19:00:25.000Z",
@@ -108,6 +180,24 @@
     ]
   },
   {
+    "id": 1562642,
+    "title": "Ghost Soldier",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+    "overview": "Reclusive government asset Henry Fitzgerald is living off the grid in Wyoming, designing new systems for a weapons research agency. When a multi trillion dollar investment management firm begins employing corrupt police and foreign mercenaries to force farmers off their ranches, the Green Beret veteran decides to employ his weapon prototypes to assist his neighbors.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T14:03:57.000Z",
+    "videos": [
+      {
+        "key": "l0pTZqZWs-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-20T14:03:57.000Z"
+      }
+    ]
+  },
+  {
     "id": 1291595,
     "title": "Insidious: Out of the Further",
     "release_date": "2026-08-21",
@@ -144,42 +234,6 @@
     ]
   },
   {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T16:46:16.000Z",
-    "videos": [
-      {
-        "key": "NNVKVal7kh8",
-        "name": "Tickets on Sale",
-        "type": "Trailer",
-        "published_at": "2026-08-12T16:00:21.000Z"
-      },
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "RyudJc_xzOo",
-        "name": "Trust the process.",
-        "type": "Teaser",
-        "published_at": "2026-08-19T16:46:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -209,7 +263,7 @@
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city\u2019s underworld, only to learn that power always demands a price.",
+    "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "theatrical": true,
     "trailer_published": "2026-08-19T16:00:14.000Z",
     "videos": [
@@ -237,7 +291,7 @@
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
     "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
@@ -260,42 +314,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2024-08-16T15:00:09.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1244523,
-    "title": "Beware Boi\u00fana",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T18:00:04.000Z",
-    "videos": [
-      {
-        "key": "4fn4UcgzRhg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-13T14:05:01.000Z"
-      },
-      {
-        "key": "rrmmrcrt1MQ",
-        "name": "Did you hear that?",
-        "type": "Teaser",
-        "published_at": "2026-08-18T18:00:04.000Z"
-      },
-      {
-        "key": "3oC9ql-ZjNo",
-        "name": "HER jungle. HER rules.",
-        "type": "Teaser",
-        "published_at": "2026-08-18T17:40:15.000Z"
-      },
-      {
-        "key": "nAkYQ6hoxw8",
-        "name": "The reactions are in\u2026",
-        "type": "Teaser",
-        "published_at": "2026-08-14T16:22:53.000Z"
       }
     ]
   },
@@ -735,7 +753,7 @@
     "id": 1403836,
     "title": "The Bluey Movie",
     "release_date": "2027-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jIVdnOy2lSs9qabIVYBDIVxcyUa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
     "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
     "theatrical": true,
@@ -2015,7 +2033,7 @@
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
-    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves\u2014and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+    "overview": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
     "theatrical": true,
     "trailer_published": "2026-07-15T16:00:37.000Z",
     "videos": [
@@ -3068,42 +3086,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-15T13:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1117898,
-    "title": "The Cat in the Hat",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
-    "overview": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I. (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos' last chance to prove himself...or lose his magical hat!",
-    "theatrical": true,
-    "trailer_published": "2026-06-11T19:00:09.000Z",
-    "videos": [
-      {
-        "key": "HT5JAp5z0-o",
-        "name": "Official Trailer 3",
-        "type": "Trailer",
-        "published_at": "2026-06-09T13:30:12.000Z"
-      },
-      {
-        "key": "jz8pLlPhSeY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-07-01T16:00:29.000Z"
-      },
-      {
-        "key": "CUnaaeoCqXQ",
-        "name": "New trailer for The Cat In The Hat?!?! Best day ever!",
-        "type": "Teaser",
-        "published_at": "2026-06-11T19:00:09.000Z"
-      },
-      {
-        "key": "JtpLhxp5t3o",
-        "name": "It's a vibe thing.",
-        "type": "Teaser",
-        "published_at": "2026-06-09T19:25:31.000Z"
       }
     ]
   },
