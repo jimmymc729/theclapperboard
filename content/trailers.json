@@ -3,8 +3,8 @@
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "theatrical": true,
     "trailer_published": "2026-08-21T17:31:29.000Z",
@@ -180,6 +180,42 @@
     ]
   },
   {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T19:00:24.000Z",
+    "videos": [
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      },
+      {
+        "key": "vM7xEQ4l8MA",
+        "name": "1 Hour To Escape",
+        "type": "Teaser",
+        "published_at": "2026-08-20T19:00:24.000Z"
+      },
+      {
+        "key": "hIy01dVfjQw",
+        "name": "60 minutes is plenty of time",
+        "type": "Teaser",
+        "published_at": "2026-08-19T21:00:27.000Z"
+      }
+    ]
+  },
+  {
     "id": 1101412,
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
@@ -270,30 +306,6 @@
     ]
   },
   {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T16:00:24.000Z",
-    "videos": [
-      {
-        "key": "rN9F6-tbySY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:24.000Z"
-      },
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      }
-    ]
-  },
-  {
     "id": 1213243,
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
@@ -329,7 +341,7 @@
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue\u2019s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
+    "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland. Joined by hapless but loyal classmate Curtis, Prue risks it all as she navigates a world of bandits, talking animals and powerful figures driven by grief and ambition.",
     "theatrical": true,
     "trailer_published": "2026-08-19T12:30:06.000Z",
     "videos": [
@@ -675,7 +687,7 @@
     "id": 1314826,
     "title": "Yellow Eyes",
     "release_date": "2026-08-18",
-    "poster": "https://image.tmdb.org/t/p/w500/kSewcfGO8FzVYnMGsIP6sHWviHT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tdIqb0g8fimv2bXIEZdWu6Zfywt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2GmxXQK5CRVb5PhWrkuzPXB7hSA.jpg",
     "overview": "A young couple inherits a house containing a mysterious relic that hosts the spirit of a powerful demon, and the wife of the man it possesses must find an exorcist to save him.",
     "theatrical": false,
@@ -1704,6 +1716,24 @@
     ]
   },
   {
+    "id": 1621552,
+    "title": "Facing El Chapo",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+    "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+    "theatrical": false,
+    "trailer_published": "2026-07-26T05:51:44.000Z",
+    "videos": [
+      {
+        "key": "Rk0efhpa-5Y",
+        "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, No\u00e9 Hern\u00e1ndez \ud83d\udea8",
+        "type": "Trailer",
+        "published_at": "2026-07-26T05:51:44.000Z"
+      }
+    ]
+  },
+  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -1754,42 +1784,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-23T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
-    "theatrical": true,
-    "trailer_published": "2026-07-22T20:00:22.000Z",
-    "videos": [
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "YyJ9YER6cJg",
-        "name": "Can't keep it contained.",
-        "type": "Teaser",
-        "published_at": "2026-07-22T20:00:22.000Z"
-      },
-      {
-        "key": "z4BT5bpVl5s",
-        "name": "Official Trailer Tease",
-        "type": "Teaser",
-        "published_at": "2026-07-22T15:57:13.000Z"
-      },
-      {
-        "key": "6IxPD-jNdwM",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-04-22T19:01:13.000Z"
       }
     ]
   },
@@ -1888,7 +1882,7 @@
     "title": "All Night Wrong",
     "release_date": "2026-08-14",
     "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mimPRWki5EOJDRw7ZH24fYnHwaX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gKyw9EyAwsAoKUXTm1v6tCUz0v3.jpg",
     "overview": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
     "theatrical": true,
     "trailer_published": "2026-07-21T16:00:39.000Z",
@@ -2026,12 +2020,6 @@
     "trailer_published": "2026-07-17T22:18:48.000Z",
     "videos": [
       {
-        "key": "ORHBgSvX_24",
-        "name": "Borderline - Official Trailer | Starring Samara Weaving and Ray Nicholson | In theaters March 14",
-        "type": "Trailer",
-        "published_at": "2025-02-13T18:01:59.000Z"
-      },
-      {
         "key": "BGRbXKc64Jk",
         "name": "BORDERLINE - Official Trailer (2026)",
         "type": "Trailer",
@@ -2111,7 +2099,7 @@
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
-    "overview": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
+    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
     "theatrical": true,
     "trailer_published": "2026-07-15T16:00:37.000Z",
     "videos": [
@@ -2232,6 +2220,24 @@
     ]
   },
   {
+    "id": 1626188,
+    "title": "Novak Djokovic: The Wolf in Winter",
+    "release_date": "2026-08-20",
+    "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+    "overview": "Explore the extraordinary journey of tennis GOAT Novak Djokovic, who began playing on the hardscrabble courts of Serbia and rose to become the most accomplished champion in the history of men's tennis.",
+    "theatrical": false,
+    "trailer_published": "2026-07-14T12:59:54.000Z",
+    "videos": [
+      {
+        "key": "UQaKzMuyjlE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T12:59:54.000Z"
+      }
+    ]
+  },
+  {
     "id": 1491920,
     "title": "Kung Fu Soccer",
     "release_date": "2026-07-11",
@@ -2336,24 +2342,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-07-08T13:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1226699,
-    "title": "The Wrong Girls",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
-    "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-07-07T16:00:10.000Z",
-    "videos": [
-      {
-        "key": "zrcg8YHSys8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-07T16:00:10.000Z"
       }
     ]
   },
@@ -3251,7 +3239,7 @@
     "release_date": "2027-02-05",
     "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
-    "overview": "A madcap adventure filled with dinosaurs and lava that takes Manny, Sid, Diego, Ellie, Scrat and the herd through the uncharted regions of the dangerous Lost World.",
+    "overview": "This dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
     "theatrical": true,
     "trailer_published": "2026-06-04T16:00:18.000Z",
     "videos": [
