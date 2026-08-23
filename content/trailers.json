@@ -1,5 +1,149 @@
 [
   {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-08-22T17:00:16.000Z",
+    "videos": [
+      {
+        "key": "NNVKVal7kh8",
+        "name": "Tickets on Sale",
+        "type": "Trailer",
+        "published_at": "2026-08-12T16:00:21.000Z"
+      },
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "s7Iq_gwKNZw",
+        "name": "Magic isn\u2019t just what they do, it\u2019s who they are.",
+        "type": "Teaser",
+        "published_at": "2026-08-22T17:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1124142,
+    "title": "The Rivals of Amziah King",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
+    "theatrical": true,
+    "trailer_published": "2026-08-22T16:00:11.000Z",
+    "videos": [
+      {
+        "key": "GwSvAyaMGMo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-11T16:02:12.000Z"
+      },
+      {
+        "key": "TYxj-lYOxyY",
+        "name": "Now Playing Only in Theaters",
+        "type": "Teaser",
+        "published_at": "2026-08-22T16:00:11.000Z"
+      },
+      {
+        "key": "4laLp51eYLY",
+        "name": "Savor",
+        "type": "Teaser",
+        "published_at": "2026-08-13T17:41:30.000Z"
+      },
+      {
+        "key": "d95oHcmzd0M",
+        "name": "Hive",
+        "type": "Teaser",
+        "published_at": "2026-08-10T18:07:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-08-22T16:00:10.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "yyhVRuv2QCc",
+        "name": "Nature Vibes",
+        "type": "Teaser",
+        "published_at": "2026-08-22T16:00:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "theatrical": true,
+    "trailer_published": "2026-08-22T10:00:29.000Z",
+    "videos": [
+      {
+        "key": "gXjurDkYnEM",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T13:00:08.000Z"
+      },
+      {
+        "key": "jxU8FU3o75A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-14T02:39:28.000Z"
+      },
+      {
+        "key": "oMEyr4j7eP8",
+        "name": "I will not explain further.",
+        "type": "Teaser",
+        "published_at": "2026-08-22T10:00:29.000Z"
+      },
+      {
+        "key": "JYhNUDTPJ1E",
+        "name": "Nothing can prepare you\u2026",
+        "type": "Teaser",
+        "published_at": "2026-08-22T06:00:17.000Z"
+      }
+    ]
+  },
+  {
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
@@ -68,78 +212,6 @@
         "name": "Diggin\u2019 in, one stop at a time.",
         "type": "Teaser",
         "published_at": "2026-08-18T15:01:14.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1291595,
-    "title": "Insidious: Out of the Further",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "theatrical": true,
-    "trailer_published": "2026-08-21T09:30:25.000Z",
-    "videos": [
-      {
-        "key": "gXjurDkYnEM",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T13:00:08.000Z"
-      },
-      {
-        "key": "jxU8FU3o75A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-14T02:39:28.000Z"
-      },
-      {
-        "key": "jL3rGZmBi0U",
-        "name": "It's time to face your fears",
-        "type": "Teaser",
-        "published_at": "2026-08-21T09:30:25.000Z"
-      },
-      {
-        "key": "_x_g_WUiMI0",
-        "name": "Insidious: Out Of The Further is only in cinemas TOMORROW",
-        "type": "Teaser",
-        "published_at": "2026-08-20T10:55:42.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T22:00:27.000Z",
-    "videos": [
-      {
-        "key": "NNVKVal7kh8",
-        "name": "Tickets on Sale",
-        "type": "Trailer",
-        "published_at": "2026-08-12T16:00:21.000Z"
-      },
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "c1g5Q3Z5E6k",
-        "name": "The magic is in your hands. Conjure your Practical Magic 2 tickets.",
-        "type": "Teaser",
-        "published_at": "2026-08-20T22:00:27.000Z"
       }
     ]
   },
@@ -402,36 +474,6 @@
     ]
   },
   {
-    "id": 1514026,
-    "title": "Buddy",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "overview": "Remember BUDDY\u2014the bright orange unicorn and star of that classic childrens' television show who brought joy and life lessons into your living room?  Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T15:00:02.000Z",
-    "videos": [
-      {
-        "key": "Pc9MbCNYn3k",
-        "name": "Official Teaser 3",
-        "type": "Teaser",
-        "published_at": "2026-08-18T15:00:02.000Z"
-      },
-      {
-        "key": "2sBRb7Mbg0A",
-        "name": "Official Teaser 2",
-        "type": "Teaser",
-        "published_at": "2026-07-21T14:59:39.000Z"
-      },
-      {
-        "key": "0mil0YgOtu8",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-09T14:59:50.000Z"
-      }
-    ]
-  },
-  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -636,32 +678,20 @@
     ]
   },
   {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-08-17T13:01:28.000Z",
+    "id": 1538273,
+    "title": "Pyaar Prema Kalyanam",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+    "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+    "theatrical": false,
+    "trailer_published": "2026-08-17T14:09:05.000Z",
     "videos": [
       {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
+        "key": "lS7tNjHwT1o",
+        "name": "Pyaar Prema Kaadhal | Trailer HINDI",
         "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
+        "published_at": "2026-08-17T14:09:05.000Z"
       }
     ]
   },
@@ -813,7 +843,7 @@
     "id": 1403836,
     "title": "The Bluey Movie",
     "release_date": "2027-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/jIVdnOy2lSs9qabIVYBDIVxcyUa.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
     "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
     "theatrical": true,
@@ -990,42 +1020,6 @@
     ]
   },
   {
-    "id": 1124142,
-    "title": "The Rivals of Amziah King",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
-    "theatrical": true,
-    "trailer_published": "2026-08-13T17:41:30.000Z",
-    "videos": [
-      {
-        "key": "GwSvAyaMGMo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-11T16:02:12.000Z"
-      },
-      {
-        "key": "4laLp51eYLY",
-        "name": "Savor",
-        "type": "Teaser",
-        "published_at": "2026-08-13T17:41:30.000Z"
-      },
-      {
-        "key": "d95oHcmzd0M",
-        "name": "Hive",
-        "type": "Teaser",
-        "published_at": "2026-08-10T18:07:26.000Z"
-      },
-      {
-        "key": "ia2xOkOdv8s",
-        "name": "One Week",
-        "type": "Teaser",
-        "published_at": "2026-08-06T16:00:28.000Z"
-      }
-    ]
-  },
-  {
     "id": 1556321,
     "title": "Death Whisperer: Saming the Werebeast",
     "release_date": "2026-09-30",
@@ -1082,42 +1076,6 @@
         "name": "Meow Playing",
         "type": "Teaser",
         "published_at": "2026-08-07T17:00:20.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1280015,
-    "title": "Sunny Dancer",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
-    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
-    "theatrical": true,
-    "trailer_published": "2026-08-11T20:45:19.000Z",
-    "videos": [
-      {
-        "key": "-W_a2oCFNOY",
-        "name": "Official US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T20:45:19.000Z"
-      },
-      {
-        "key": "UQxRhHK_Bmw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-05T08:43:20.000Z"
-      },
-      {
-        "key": "N8UFyNj-u5Y",
-        "name": "Run Free",
-        "type": "Teaser",
-        "published_at": "2026-08-10T06:06:59.000Z"
-      },
-      {
-        "key": "Y6eQRGLlAaI",
-        "name": "Are They?!?",
-        "type": "Teaser",
-        "published_at": "2026-08-10T06:06:49.000Z"
       }
     ]
   },
@@ -1208,24 +1166,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-05-18T01:00:31.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1742283,
-    "title": "Tikus!",
-    "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/ArRSShLnQN9p73eZnN3EDwMxuh0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qh63SF4fr8iyOIFyElnx0GOtOP1.jpg",
-    "overview": "A group of people are marooned at an isolated wellness retreat because of floods. One by one each of them gets killed as it's slowly revealed there is a murderer among them.",
-    "theatrical": true,
-    "trailer_published": "2026-08-09T14:02:03.000Z",
-    "videos": [
-      {
-        "key": "zP-A0q7aVko",
-        "name": "TIKUS!  | Official Trailer | 4K",
-        "type": "Trailer",
-        "published_at": "2026-08-09T14:02:03.000Z"
       }
     ]
   },
@@ -1358,6 +1298,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-04T15:00:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1384216,
+    "title": "The Dog Stars",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+    "theatrical": true,
+    "trailer_published": "2026-08-04T13:00:22.000Z",
+    "videos": [
+      {
+        "key": "-xSxaE1ClEE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T16:00:06.000Z"
+      },
+      {
+        "key": "sVCrTJdNtSs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-08T16:00:16.000Z"
+      },
+      {
+        "key": "cmzVY1goqwQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T23:01:30.000Z"
+      },
+      {
+        "key": "ngOihJo65go",
+        "name": "Get Tickets Now",
+        "type": "Teaser",
+        "published_at": "2026-08-04T13:00:22.000Z"
       }
     ]
   },
@@ -1734,6 +1710,24 @@
     ]
   },
   {
+    "id": 1148365,
+    "title": "Matchbox: The Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-07-25T21:30:05.000Z",
+    "videos": [
+      {
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-25T21:30:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -1788,6 +1782,42 @@
     ]
   },
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+    "theatrical": true,
+    "trailer_published": "2026-07-22T20:00:22.000Z",
+    "videos": [
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "YyJ9YER6cJg",
+        "name": "Can't keep it contained.",
+        "type": "Teaser",
+        "published_at": "2026-07-22T20:00:22.000Z"
+      },
+      {
+        "key": "z4BT5bpVl5s",
+        "name": "Official Trailer Tease",
+        "type": "Teaser",
+        "published_at": "2026-07-22T15:57:13.000Z"
+      },
+      {
+        "key": "6IxPD-jNdwM",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-04-22T19:01:13.000Z"
+      }
+    ]
+  },
+  {
     "id": 1422011,
     "title": "It Ends",
     "release_date": "2026-08-21",
@@ -1802,30 +1832,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-22T16:00:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1517127,
-    "title": "Drifter",
-    "release_date": "2026-09-12",
-    "poster": "https://image.tmdb.org/t/p/w500/y0X3QA4iRr4FSlgwlrH1cWPGny6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/odyg60SdMa4lXG0pIX8bXDAuy8A.jpg",
-    "overview": "In a forgotten desert town, a solitary racetrack janitor with a gift for drifting is haunted by his tragic past. Given a single chance to compete at a pro drifting event, he discovers his raw talent is useless without the one thing he's always avoided: connection with others. Under a hardened mentor, he must learn to trust his found family and transform his untamed, lonely art into a dangerous dance of partnership, or be consumed and controlled by the past he's desperate to escape.",
-    "theatrical": true,
-    "trailer_published": "2026-07-22T14:00:05.000Z",
-    "videos": [
-      {
-        "key": "z8RljOVwFPY",
-        "name": "DRIFTER Trailer | TIFF 2026",
-        "type": "Trailer",
-        "published_at": "2026-07-22T14:00:05.000Z"
-      },
-      {
-        "key": "xeaikJ84fQY",
-        "name": "Drifter - Exclusive Promo - IGN Live 2026",
-        "type": "Teaser",
-        "published_at": "2026-06-06T23:38:29.000Z"
       }
     ]
   },
@@ -1874,24 +1880,6 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2025-12-04T20:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1361969,
-    "title": "All Night Wrong",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gKyw9EyAwsAoKUXTm1v6tCUz0v3.jpg",
-    "overview": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
-    "theatrical": true,
-    "trailer_published": "2026-07-21T16:00:39.000Z",
-    "videos": [
-      {
-        "key": "3HmV37lxfbc",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T16:00:39.000Z"
       }
     ]
   },
@@ -2058,6 +2046,24 @@
     ]
   },
   {
+    "id": 1510517,
+    "title": "Atlas King",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
+    "overview": "Ex-fighter returns from exile to bury his best friend and confront old rivalries. Reuniting with his godson, a streetwise enforcer entangled with a powerful crime syndicate, the two hatch a high-stakes heist in a desperate bid to escape the grip of a ruthless mob bos",
+    "theatrical": false,
+    "trailer_published": "2026-07-15T21:38:33.000Z",
+    "videos": [
+      {
+        "key": "RZ_3toFBlq4",
+        "name": "Atlas King Official Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2026-07-15T21:38:33.000Z"
+      }
+    ]
+  },
+  {
     "id": 950028,
     "title": "The Invite",
     "release_date": "2026-06-26",
@@ -2180,42 +2186,6 @@
         "name": "KATSEYE: WILD HEARTS Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-15T13:00:08.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1384216,
-    "title": "The Dog Stars",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "theatrical": true,
-    "trailer_published": "2026-07-14T16:00:06.000Z",
-    "videos": [
-      {
-        "key": "-xSxaE1ClEE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T16:00:06.000Z"
-      },
-      {
-        "key": "sVCrTJdNtSs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-08T16:00:16.000Z"
-      },
-      {
-        "key": "cmzVY1goqwQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T23:01:30.000Z"
-      },
-      {
-        "key": "h-AyrYcuL8U",
-        "name": "In Theaters August 28",
-        "type": "Teaser",
-        "published_at": "2026-06-08T19:54:02.000Z"
       }
     ]
   },
@@ -2874,6 +2844,30 @@
     ]
   },
   {
+    "id": 1659389,
+    "title": "One Piece Heroines",
+    "release_date": "2026-07-05",
+    "poster": "https://image.tmdb.org/t/p/w500/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+    "overview": "After failing to stop the thieves due to ill-fitting shoes, Nami storms into the shop where she bought them for a refund. However, the head designer offers to make her a new pair from scratch on one condition: she must walk in their upcoming fashion show.",
+    "theatrical": false,
+    "trailer_published": "2026-06-22T23:00:20.000Z",
+    "videos": [
+      {
+        "key": "TWMGQNQ-ywE",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-06-22T23:00:20.000Z"
+      },
+      {
+        "key": "qWlvJPCWCg8",
+        "name": "OFFICIAL Teaser [Subtitled]",
+        "type": "Teaser",
+        "published_at": "2026-03-28T11:01:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1430698,
     "title": "The Bay",
     "release_date": "2026-07-17",
@@ -2888,24 +2882,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-22T17:30:45.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1522333,
-    "title": "Carry On Jatta 4",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
-    "backdrop": "",
-    "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
-    "theatrical": false,
-    "trailer_published": "2026-06-21T05:30:03.000Z",
-    "videos": [
-      {
-        "key": "fsDBAr42UUg",
-        "name": "Carry On Jatta 4 (Trailer) Gippy Grewal | Binnu Dhillon | Sargun Mehta | Late Jaswinder Bhalla Ji",
-        "type": "Trailer",
-        "published_at": "2026-06-21T05:30:03.000Z"
       }
     ]
   },
@@ -3134,6 +3110,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-15T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
+    "overview": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I. (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos' last chance to prove himself...or lose his magical hat!",
+    "theatrical": true,
+    "trailer_published": "2026-06-11T19:00:09.000Z",
+    "videos": [
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer",
+        "published_at": "2026-06-09T13:30:12.000Z"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-07-01T16:00:29.000Z"
+      },
+      {
+        "key": "CUnaaeoCqXQ",
+        "name": "New trailer for The Cat In The Hat?!?! Best day ever!",
+        "type": "Teaser",
+        "published_at": "2026-06-11T19:00:09.000Z"
+      },
+      {
+        "key": "JtpLhxp5t3o",
+        "name": "It's a vibe thing.",
+        "type": "Teaser",
+        "published_at": "2026-06-09T19:25:31.000Z"
       }
     ]
   },
@@ -3546,24 +3558,6 @@
     ]
   },
   {
-    "id": 1484913,
-    "title": "Ikka",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
-    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way.",
-    "theatrical": false,
-    "trailer_published": "2026-02-03T11:38:55.000Z",
-    "videos": [
-      {
-        "key": "LEargi83ofQ",
-        "name": "First Look",
-        "type": "Teaser",
-        "published_at": "2026-02-03T11:38:55.000Z"
-      }
-    ]
-  },
-  {
     "id": 532652,
     "title": "The Resurrection of the Christ: Part One",
     "release_date": "2027-05-06",
@@ -3656,6 +3650,24 @@
         "name": "How To Train Your Dragon 2 | In Theaters June 11, 2027",
         "type": "Teaser",
         "published_at": "2025-04-04T03:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1169516,
+    "title": "Welcome To The Jungle",
+    "release_date": "2026-06-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+    "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+    "theatrical": false,
+    "trailer_published": "2025-02-04T08:30:45.000Z",
+    "videos": [
+      {
+        "key": "25l9MXYWxww",
+        "name": "Welcome To The Jungle (Teaser)",
+        "type": "Trailer",
+        "published_at": "2025-02-04T08:30:45.000Z"
       }
     ]
   },
