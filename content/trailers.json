@@ -840,24 +840,6 @@
     ]
   },
   {
-    "id": 1403836,
-    "title": "The Bluey Movie",
-    "release_date": "2027-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
-    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
-    "theatrical": true,
-    "trailer_published": "2026-08-15T03:26:36.000Z",
-    "videos": [
-      {
-        "key": "I0YWGgZBiYc",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-15T03:26:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -1076,6 +1058,42 @@
         "name": "Meow Playing",
         "type": "Teaser",
         "published_at": "2026-08-07T17:00:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1280015,
+    "title": "Sunny Dancer",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
+    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+    "theatrical": true,
+    "trailer_published": "2026-08-11T20:45:19.000Z",
+    "videos": [
+      {
+        "key": "-W_a2oCFNOY",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T20:45:19.000Z"
+      },
+      {
+        "key": "UQxRhHK_Bmw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-05T08:43:20.000Z"
+      },
+      {
+        "key": "N8UFyNj-u5Y",
+        "name": "Run Free",
+        "type": "Teaser",
+        "published_at": "2026-08-10T06:06:59.000Z"
+      },
+      {
+        "key": "Y6eQRGLlAaI",
+        "name": "Are They?!?",
+        "type": "Teaser",
+        "published_at": "2026-08-10T06:06:49.000Z"
       }
     ]
   },
@@ -2019,7 +2037,7 @@
     "id": 1232569,
     "title": "Pinocchio: Unstrung",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/r0hCOPsYHFc7qok51canND9TVoN.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
     "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
     "theatrical": true,
@@ -2222,24 +2240,6 @@
         "name": "Kung Fu Soccer\u300a\u529f\u592b\u5973\u8db3\u300b- Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-12T13:01:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1128204,
-    "title": "Feed",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/vXmIlirwmiTTpvNUFq1D8Sqgklz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
-    "overview": "Five social media influencers spend a weekend at a forest retreat but inadvertently awaken and confront the world's first vampire.",
-    "theatrical": false,
-    "trailer_published": "2026-07-10T11:02:04.000Z",
-    "videos": [
-      {
-        "key": "ORFG_EWDkCY",
-        "name": "Feed | Official Trailer | Horror Brains",
-        "type": "Trailer",
-        "published_at": "2026-07-10T11:02:04.000Z"
       }
     ]
   },
@@ -2589,7 +2589,7 @@
     "id": 1444466,
     "title": "Awarapan 2",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cSnB0iHrneOG7Ku2RKXJq3pjRYm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
     "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
     "theatrical": true,
@@ -3228,6 +3228,24 @@
     ]
   },
   {
+    "id": 1500890,
+    "title": "Lockbox",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/6feyDUp0QyOqukf2Hf9yXGLurD9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
+    "overview": "A woman puts her life on the line to protect her troubled, enigmatic cousin, Winthrop, who has been targeted and hunted by a powerful supernatural force.",
+    "theatrical": true,
+    "trailer_published": "2026-06-09T16:00:02.000Z",
+    "videos": [
+      {
+        "key": "xxiHWdsM1rM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1141970,
     "title": "Morte Cucina",
     "release_date": "2026-07-02",
@@ -3666,7 +3684,7 @@
       {
         "key": "25l9MXYWxww",
         "name": "Welcome To The Jungle (Teaser)",
-        "type": "Trailer",
+        "type": "Teaser",
         "published_at": "2025-02-04T08:30:45.000Z"
       }
     ]
