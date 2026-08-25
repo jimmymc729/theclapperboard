@@ -36,6 +36,42 @@
     ]
   },
   {
+    "id": 1185806,
+    "title": "PAW Patrol: The Dino Movie",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/uXT1Uwze8N1TcgqUIsYCqaEPKea.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "theatrical": true,
+    "trailer_published": "2026-08-24T11:00:00.000Z",
+    "videos": [
+      {
+        "key": "xgI5iYmOf5Q",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T13:00:02.000Z"
+      },
+      {
+        "key": "ZUxbGF-MRQE",
+        "name": "Best Marshall Moment",
+        "type": "Teaser",
+        "published_at": "2026-08-24T11:00:00.000Z"
+      },
+      {
+        "key": "GN9ynEUmZuk",
+        "name": "Daily Dose Of Rhubarb",
+        "type": "Teaser",
+        "published_at": "2026-08-14T14:00:04.000Z"
+      },
+      {
+        "key": "vq0sMP5DJXE",
+        "name": "Parents, it's a must!",
+        "type": "Teaser",
+        "published_at": "2026-08-13T22:11:17.000Z"
+      }
+    ]
+  },
+  {
     "id": 1124142,
     "title": "The Rivals of Amziah King",
     "release_date": "2026-08-14",
@@ -381,7 +417,7 @@
     "id": 1213243,
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6y5Y8l6mAc1FzU0rovUMVtbl4NE.jpg",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "theatrical": true,
@@ -747,7 +783,7 @@
     "id": 969681,
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/ghF1JYv7P5BgWHYfq9dqhqqNfz8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
@@ -928,7 +964,7 @@
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/155LhAj1BYgDM8mhWLViL3pjp1a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
     "trailer_published": "2026-08-14T15:00:08.000Z",
@@ -956,42 +992,6 @@
         "name": "End Summer With A Bang",
         "type": "Teaser",
         "published_at": "2026-08-11T13:00:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1185806,
-    "title": "PAW Patrol: The Dino Movie",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/uXT1Uwze8N1TcgqUIsYCqaEPKea.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-    "theatrical": true,
-    "trailer_published": "2026-08-14T14:00:04.000Z",
-    "videos": [
-      {
-        "key": "xgI5iYmOf5Q",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T13:00:02.000Z"
-      },
-      {
-        "key": "GN9ynEUmZuk",
-        "name": "Daily Dose Of Rhubarb",
-        "type": "Teaser",
-        "published_at": "2026-08-14T14:00:04.000Z"
-      },
-      {
-        "key": "vq0sMP5DJXE",
-        "name": "Parents, it's a must!",
-        "type": "Teaser",
-        "published_at": "2026-08-13T22:11:17.000Z"
-      },
-      {
-        "key": "A_4wyR43rvg",
-        "name": "Pups Save The Dinos",
-        "type": "Teaser",
-        "published_at": "2026-08-13T11:00:05.000Z"
       }
     ]
   },
@@ -2124,24 +2124,6 @@
     ]
   },
   {
-    "id": 860508,
-    "title": "The Whisper Man",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-    "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-    "theatrical": true,
-    "trailer_published": "2026-07-14T13:00:00.000Z",
-    "videos": [
-      {
-        "key": "ZHRR-1CKYIQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T13:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1626188,
     "title": "Novak Djokovic: The Wolf in Winter",
     "release_date": "2026-08-20",
@@ -2595,8 +2577,8 @@
     "id": 87513,
     "title": "Motor City",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/cWAVzTWm9xdc8skHH7h1vreUtcD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4klrlo6mJjUQbT8f2R7fOIHAU0L.jpg",
     "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
     "theatrical": true,
     "trailer_published": "2026-06-25T15:56:30.000Z",
@@ -3068,6 +3050,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-15T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1421594,
+    "title": "Inside the Trustor Scandal",
+    "release_date": "2026-08-05",
+    "poster": "https://image.tmdb.org/t/p/w500/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xLJgxU9hTga9tsFw960g1h1uDvx.jpg",
+    "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
+    "theatrical": false,
+    "trailer_published": "2026-06-12T07:00:00.000Z",
+    "videos": [
+      {
+        "key": "Ia_cAr_IM54",
+        "name": "Inside the Trustor Scandal | Official Clip | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-06-12T07:00:00.000Z"
       }
     ]
   },
