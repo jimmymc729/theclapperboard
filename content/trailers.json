@@ -1,5 +1,41 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-08-25T20:10:32.000Z",
+    "videos": [
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "ZXYUg9UAbCM",
+        "name": "Sweet, sweet, Maggie.",
+        "type": "Teaser",
+        "published_at": "2026-08-25T20:10:32.000Z"
+      },
+      {
+        "key": "NW2kkWnF_mA",
+        "name": "Let\u2019s break the ice.",
+        "type": "Teaser",
+        "published_at": "2026-08-21T17:00:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -7,14 +43,8 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
-    "trailer_published": "2026-08-24T17:30:24.000Z",
+    "trailer_published": "2026-08-25T17:00:23.000Z",
     "videos": [
-      {
-        "key": "NNVKVal7kh8",
-        "name": "Tickets on Sale",
-        "type": "Trailer",
-        "published_at": "2026-08-12T16:00:21.000Z"
-      },
       {
         "key": "Ho10_4IX1jE",
         "name": "Official Trailer",
@@ -28,10 +58,16 @@
         "published_at": "2026-04-20T16:01:08.000Z"
       },
       {
-        "key": "n0i3I_9Jk1A",
-        "name": "Owens family lore.",
+        "key": "dyYB6K3oRtw",
+        "name": "There\u2019s one thing we know for certain: their sisterhood has always been stronger than any magic.",
         "type": "Teaser",
-        "published_at": "2026-08-24T17:30:24.000Z"
+        "published_at": "2026-08-25T17:00:23.000Z"
+      },
+      {
+        "key": "mprgGOx3SMM",
+        "name": "In our Practical Magic Era. Who\u2019s with us?",
+        "type": "Teaser",
+        "published_at": "2026-08-25T16:30:01.000Z"
       }
     ]
   },
@@ -39,7 +75,7 @@
     "id": 1185806,
     "title": "PAW Patrol: The Dino Movie",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/uXT1Uwze8N1TcgqUIsYCqaEPKea.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
     "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
     "theatrical": true,
@@ -68,6 +104,30 @@
         "name": "Parents, it's a must!",
         "type": "Teaser",
         "published_at": "2026-08-13T22:11:17.000Z"
+      }
+    ]
+  },
+  {
+    "id": 718833,
+    "title": "Bokshi",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/iHYu4aCDIjnt6aa5WmKZvmDPJvh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
+    "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
+    "theatrical": true,
+    "trailer_published": "2026-08-23T20:14:42.000Z",
+    "videos": [
+      {
+        "key": "AU4hlB0ZdOE",
+        "name": "Bokshi - Official Trailer - In Cinemas 9 October, 2026",
+        "type": "Trailer",
+        "published_at": "2026-08-23T20:14:42.000Z"
+      },
+      {
+        "key": "2nKLfpXRuEM",
+        "name": "Bokshi \u2013 Official Teaser",
+        "type": "Teaser",
+        "published_at": "2024-12-22T05:36:58.000Z"
       }
     ]
   },
@@ -212,42 +272,6 @@
         "name": "The plan: VENGEANCE. You down?",
         "type": "Teaser",
         "published_at": "2026-08-21T17:31:29.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-08-21T17:00:34.000Z",
-    "videos": [
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "NW2kkWnF_mA",
-        "name": "Let\u2019s break the ice.",
-        "type": "Teaser",
-        "published_at": "2026-08-21T17:00:34.000Z"
-      },
-      {
-        "key": "t6lEtLIVSZA",
-        "name": "Diggin\u2019 in, one stop at a time.",
-        "type": "Teaser",
-        "published_at": "2026-08-18T15:01:14.000Z"
       }
     ]
   },
@@ -417,8 +441,8 @@
     "id": 1213243,
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6y5Y8l6mAc1FzU0rovUMVtbl4NE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "theatrical": true,
     "trailer_published": "2026-08-19T16:00:14.000Z",
@@ -888,29 +912,11 @@
     ]
   },
   {
-    "id": 1403836,
-    "title": "The Bluey Movie",
-    "release_date": "2027-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
-    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
-    "theatrical": true,
-    "trailer_published": "2026-08-15T03:26:36.000Z",
-    "videos": [
-      {
-        "key": "I0YWGgZBiYc",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-15T03:26:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
     "poster": "https://image.tmdb.org/t/p/w500/yrArRw51BQMIy1y1z3w1XURA7V7.jpg",
-    "backdrop": "",
+    "backdrop": "https://image.tmdb.org/t/p/w780/knZ9BM4H6tqCU29au61kkYPMwVk.jpg",
     "overview": "Hidden away in a remote location on Oahu's North Shore is 'Ono Market, a plate lunch shop that serves lost spirits, stuck between life and death. The living have never set foot in this place - until a food-loving, would-be content creator named Kyle blunders in, eats a mixed plate for the dead, and accidentally turns himself into a half-ghost. To get back to normal, he'll have to deal with paranormal deliveries, long hours in a haunted kitchen, and scariest of all... his own family.",
     "theatrical": true,
     "trailer_published": "2026-08-15T03:04:26.000Z",
@@ -1398,6 +1404,30 @@
     ]
   },
   {
+    "id": 1633056,
+    "title": "All Wishes Come True!",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
+    "overview": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals.",
+    "theatrical": true,
+    "trailer_published": "2026-08-04T09:04:04.000Z",
+    "videos": [
+      {
+        "key": "mvpFrJ5O2Ww",
+        "name": "International Ultimate Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-04T09:04:04.000Z"
+      },
+      {
+        "key": "D89LhXn03bg",
+        "name": "International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-07-17T10:05:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -1600,9 +1630,9 @@
     "title": "The Last Sunrise",
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
     "overview": "Ry, a college student with a chronic illness escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-    "theatrical": true,
+    "theatrical": false,
     "trailer_published": "2026-07-28T13:59:57.000Z",
     "videos": [
       {
@@ -2124,6 +2154,42 @@
     ]
   },
   {
+    "id": 860508,
+    "title": "The Whisper Man",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+    "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+    "theatrical": true,
+    "trailer_published": "2026-07-14T13:00:00.000Z",
+    "videos": [
+      {
+        "key": "ZHRR-1CKYIQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1137844,
+    "title": "Mayday",
+    "release_date": "2026-09-03",
+    "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
+    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+    "theatrical": true,
+    "trailer_published": "2026-07-14T12:59:55.000Z",
+    "videos": [
+      {
+        "key": "om5Un9X720M",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T12:59:55.000Z"
+      }
+    ]
+  },
+  {
     "id": 1626188,
     "title": "Novak Djokovic: The Wolf in Winter",
     "release_date": "2026-08-20",
@@ -2178,6 +2244,60 @@
     ]
   },
   {
+    "id": 1705729,
+    "title": "Man of War",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
+    "theatrical": false,
+    "trailer_published": "2026-07-10T15:46:16.000Z",
+    "videos": [
+      {
+        "key": "q0_t2HOsDsY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T18:14:35.000Z"
+      },
+      {
+        "key": "NoB63ZNLUow",
+        "name": "MAN OF WAR is \u201cguns ablaze from start to finish.\u201d \u2013 Kevin Film Reviews",
+        "type": "Teaser",
+        "published_at": "2026-07-10T15:46:16.000Z"
+      },
+      {
+        "key": "jD0uxIKsHms",
+        "name": "MAN OF WAR is \"Brutal, Tactical and Explosive.\" \u2013 Action Reloaded",
+        "type": "Teaser",
+        "published_at": "2026-07-03T18:48:10.000Z"
+      },
+      {
+        "key": "_ZPCkO5-a44",
+        "name": "ONE WEEK OUT.",
+        "type": "Teaser",
+        "published_at": "2026-06-26T16:28:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1514682,
+    "title": "Above & Below",
+    "release_date": "2026-07-29",
+    "poster": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+    "overview": "A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.",
+    "theatrical": true,
+    "trailer_published": "2026-07-09T16:00:33.000Z",
+    "videos": [
+      {
+        "key": "18wdUGRPUY4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T16:00:33.000Z"
+      }
+    ]
+  },
+  {
     "id": 1698575,
     "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
     "release_date": "2026-07-30",
@@ -2192,6 +2312,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-09T14:59:54.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1724072,
+    "title": "Of Womb",
+    "release_date": "2026-08-15",
+    "poster": "https://image.tmdb.org/t/p/w500/kvLE9UNJLWJu5D2dzbGYWrUJNy2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cX0fBWx15UHMJSsVpyVbjOzmjx8.jpg",
+    "overview": "Evading the hard truth of their religious matriarch\u2019s death, three sisters gestate dark ecstasies of faith and folk horror. Blessed be Mother.",
+    "theatrical": false,
+    "trailer_published": "2026-07-09T10:00:18.000Z",
+    "videos": [
+      {
+        "key": "ioeJyYUUWvU",
+        "name": "Of Womb | Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T10:00:18.000Z"
       }
     ]
   },
@@ -2252,24 +2390,6 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2025-02-13T12:59:27.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1620682,
-    "title": "Love in Slow Motion",
-    "release_date": "2026-07-23",
-    "poster": "https://image.tmdb.org/t/p/w500/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg",
-    "overview": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels \u2014 because who knew true love could be hiding in the friend zone?",
-    "theatrical": false,
-    "trailer_published": "2026-07-07T08:00:00.000Z",
-    "videos": [
-      {
-        "key": "oCg2wXznjLo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-07T08:00:00.000Z"
       }
     ]
   },
@@ -2578,7 +2698,7 @@
     "title": "Motor City",
     "release_date": "2026-07-24",
     "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4klrlo6mJjUQbT8f2R7fOIHAU0L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cYEu96qXUFilbHPw7yP3qi0SQle.jpg",
     "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
     "theatrical": true,
     "trailer_published": "2026-06-25T15:56:30.000Z",
@@ -2637,7 +2757,7 @@
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ztypMQi2Ql2NLhfKxIjUHs4o8b7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
@@ -2826,24 +2946,6 @@
     ]
   },
   {
-    "id": 1522333,
-    "title": "Carry On Jatta 4",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
-    "backdrop": "",
-    "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
-    "theatrical": false,
-    "trailer_published": "2026-06-21T05:30:03.000Z",
-    "videos": [
-      {
-        "key": "fsDBAr42UUg",
-        "name": "Carry On Jatta 4 (Trailer) Gippy Grewal | Binnu Dhillon | Sargun Mehta | Late Jaswinder Bhalla Ji",
-        "type": "Trailer",
-        "published_at": "2026-06-21T05:30:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1723013,
     "title": "Hibla 2",
     "release_date": "2026-06-30",
@@ -2858,30 +2960,6 @@
         "name": "HIBLA 2 Official Trailer | VMX | June 30 | #MargaretDiaz #AliyaRaymundo",
         "type": "Trailer",
         "published_at": "2026-06-19T12:54:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1711175,
-    "title": "Summerween",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/oCsyamu5ixofd3yyK9gD7pGfCiF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/25N840Us9DC7JY6WSxKCsHSjDsu.jpg",
-    "overview": "A former circus clown escapes a mental institution on the tenth anniversary of his first kills. Now, as unsuspecting high schoolers throw a Summerween party at the clown\u2019s abandoned mansion, a police officer and father to one of the party goers must rescue his daughter before the clown kills again.",
-    "theatrical": false,
-    "trailer_published": "2026-06-19T04:40:50.000Z",
-    "videos": [
-      {
-        "key": "PNBLN4Pl3q4",
-        "name": "Summerween | Official Trailer | The Asylum Movie Channel",
-        "type": "Trailer",
-        "published_at": "2026-06-18T17:40:02.000Z"
-      },
-      {
-        "key": "KYi2iCjUXJs",
-        "name": "Summerween | Official Trailer | Horror Brains",
-        "type": "Trailer",
-        "published_at": "2026-06-19T04:40:50.000Z"
       }
     ]
   },
@@ -3168,24 +3246,6 @@
     ]
   },
   {
-    "id": 1719326,
-    "title": "The Cheating Wife",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/3KVI4XvSTnGeUf5UriMN12uw4qj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yUO84rpkNb4pSM9Ehh3sZYkaorP.jpg",
-    "overview": "Two widows who find solace in each other and eventually fall in love. But when one of their supposedly dead husbands returns home blind, they are forced to hide their forbidden affair, testing the limits of love and loyalty.",
-    "theatrical": false,
-    "trailer_published": "2026-06-10T11:00:06.000Z",
-    "videos": [
-      {
-        "key": "fNQ4JayA8e4",
-        "name": "\ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddd6\ud835\udddb\ud835\uddd8\ud835\uddd4\ud835\udde7\ud835\udddc\ud835\udde1\ud835\uddda \ud835\uddea\ud835\udddc\ud835\uddd9\ud835\uddd8 Official Trailer | World Premiere this \ud835\udddd\ud835\udde8\ud835\udde1\ud835\uddd8 \ud835\udfee\ud835\udff2 only on VMX!",
-        "type": "Trailer",
-        "published_at": "2026-06-10T11:00:06.000Z"
-      }
-    ]
-  },
-  {
     "id": 1141970,
     "title": "Morte Cucina",
     "release_date": "2026-07-02",
@@ -3224,6 +3284,24 @@
         "name": "In Theaters in 2026",
         "type": "Teaser",
         "published_at": "2024-11-08T19:39:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1742499,
+    "title": "People & Things",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/6FHWBTINIKTxIUQCF4hotgzaOnR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/avCtN97VAOjUGqwRgGKq17ARnVB.jpg",
+    "overview": "A group of twenty-somethings navigate heartache, burnout and digital gloom as they search for meaning, connection and themselves in modern day Los Angeles.",
+    "theatrical": true,
+    "trailer_published": "2026-06-04T01:30:03.000Z",
+    "videos": [
+      {
+        "key": "dK2Q1St_gH4",
+        "name": "People & Things - Official Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2026-06-04T01:30:03.000Z"
       }
     ]
   },
@@ -3294,24 +3372,6 @@
     ]
   },
   {
-    "id": 1594914,
-    "title": "Lucky Strike",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
-    "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-    "theatrical": true,
-    "trailer_published": "2026-05-21T14:59:43.000Z",
-    "videos": [
-      {
-        "key": "vtEnjikCXyA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-21T14:59:43.000Z"
-      }
-    ]
-  },
-  {
     "id": 1628071,
     "title": "Ip Man: Kung Fu Legend",
     "release_date": "2026-07-22",
@@ -3362,42 +3422,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-11T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1599668,
-    "title": "Landship",
-    "release_date": "2026-06-26",
-    "poster": "https://image.tmdb.org/t/p/w500/iYMX7oUGxHn6Z9pSqcAgl5r0E4N.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jdb7kGp1UE1dot7rtCZlPuY4b6W.jpg",
-    "overview": "The Battle of Passchendaele, 1917. For three years the great war has been waging, and the two armies find themselves entrenched along the four-hundred-mile Western Front. At the start of a pivotal allied offensive to break the stalemate, the nine-man crew of a British MKIV Tank set out to destroy a series of heavily defended German bunkers.",
-    "theatrical": false,
-    "trailer_published": "2026-05-06T10:52:53.000Z",
-    "videos": [
-      {
-        "key": "tPFSsN-jz9s",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-06T10:52:53.000Z"
-      },
-      {
-        "key": "ALve3Nc5Nso",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2025-04-30T14:56:20.000Z"
-      },
-      {
-        "key": "nEWL2CVGN7M",
-        "name": "Teaser 2",
-        "type": "Teaser",
-        "published_at": "2024-08-21T15:31:35.000Z"
-      },
-      {
-        "key": "QxE3WDFWfqk",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2024-07-29T17:04:42.000Z"
       }
     ]
   },
@@ -3632,24 +3656,6 @@
         "name": "How To Train Your Dragon 2 | In Theaters June 11, 2027",
         "type": "Teaser",
         "published_at": "2025-04-04T03:00:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 718833,
-    "title": "Bokshi",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/iHYu4aCDIjnt6aa5WmKZvmDPJvh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
-    "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
-    "theatrical": true,
-    "trailer_published": "2024-12-22T05:36:58.000Z",
-    "videos": [
-      {
-        "key": "2nKLfpXRuEM",
-        "name": "Bokshi \u2013 Official Teaser",
-        "type": "Trailer",
-        "published_at": "2024-12-22T05:36:58.000Z"
       }
     ]
   },
