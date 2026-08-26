@@ -72,6 +72,30 @@
     ]
   },
   {
+    "id": 1422011,
+    "title": "It Ends",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+    "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
+    "theatrical": true,
+    "trailer_published": "2026-08-25T16:00:37.000Z",
+    "videos": [
+      {
+        "key": "9k7jckaHeuA",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-25T16:00:37.000Z"
+      },
+      {
+        "key": "zFszhQLMNXU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:07.000Z"
+      }
+    ]
+  },
+  {
     "id": 1185806,
     "title": "PAW Patrol: The Dino Movie",
     "release_date": "2026-08-14",
@@ -439,7 +463,7 @@
   },
   {
     "id": 1213243,
-    "title": "Toxic: A Fairy Tale for Grown-ups",
+    "title": "Toxic : A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
@@ -1296,6 +1320,30 @@
     ]
   },
   {
+    "id": 1375441,
+    "title": "Primetime",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+    "theatrical": true,
+    "trailer_published": "2026-08-06T13:00:36.000Z",
+    "videos": [
+      {
+        "key": "5fHXyqQOKL8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-06T13:00:36.000Z"
+      },
+      {
+        "key": "Yrfrf53ttYY",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-05-27T13:00:08.000Z"
+      }
+    ]
+  },
+  {
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-06",
@@ -1316,6 +1364,24 @@
         "name": "Official Trailer [ENG DUB]",
         "type": "Trailer",
         "published_at": "2026-08-05T16:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1739186,
+    "title": "Untold: The Testimony of Vince Young",
+    "release_date": "2026-08-25",
+    "poster": "https://image.tmdb.org/t/p/w500/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg",
+    "overview": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed.",
+    "theatrical": false,
+    "trailer_published": "2026-08-05T16:00:00.000Z",
+    "videos": [
+      {
+        "key": "aVXvS3XzzHI",
+        "name": "Untold: The Testimony of Vince Young | Official Trailer | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:00:00.000Z"
       }
     ]
   },
@@ -1341,7 +1407,7 @@
     "id": 1384216,
     "title": "The Dog Stars",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yQBfTOqJdS4SMayBIcaXw2JUnI9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
     "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
     "theatrical": true,
@@ -1400,30 +1466,6 @@
         "name": "Official Teaser Trailer (Malaysia)",
         "type": "Teaser",
         "published_at": "2026-07-30T10:00:27.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1633056,
-    "title": "All Wishes Come True!",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
-    "overview": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals.",
-    "theatrical": true,
-    "trailer_published": "2026-08-04T09:04:04.000Z",
-    "videos": [
-      {
-        "key": "mvpFrJ5O2Ww",
-        "name": "International Ultimate Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-04T09:04:04.000Z"
-      },
-      {
-        "key": "D89LhXn03bg",
-        "name": "International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-17T10:05:00.000Z"
       }
     ]
   },
@@ -1629,9 +1671,9 @@
     "id": 1516698,
     "title": "The Last Sunrise",
     "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
-    "overview": "Ry, a college student with a chronic illness escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+    "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
+    "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
     "theatrical": false,
     "trailer_published": "2026-07-28T13:59:57.000Z",
     "videos": [
@@ -1688,6 +1730,36 @@
         "name": "Buy or Rent Aug 4",
         "type": "Teaser",
         "published_at": "2026-07-27T16:00:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1284046,
+    "title": "Onslaught",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "theatrical": true,
+    "trailer_published": "2026-07-27T13:07:12.000Z",
+    "videos": [
+      {
+        "key": "AMLCbpM1fRQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-07-27T13:07:12.000Z"
+      },
+      {
+        "key": "06hhVL13HEw",
+        "name": "Official Trailer (4K)",
+        "type": "Trailer",
+        "published_at": "2026-06-02T18:39:53.000Z"
+      },
+      {
+        "key": "L24CYVpQ-LI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:00:08.000Z"
       }
     ]
   },
@@ -1814,24 +1886,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-04-22T19:01:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1422011,
-    "title": "It Ends",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
-    "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
-    "theatrical": true,
-    "trailer_published": "2026-07-22T16:00:07.000Z",
-    "videos": [
-      {
-        "key": "zFszhQLMNXU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:07.000Z"
       }
     ]
   },
@@ -2064,6 +2118,30 @@
     ]
   },
   {
+    "id": 977942,
+    "title": "The Uprising",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
+    "overview": "Set against the true events of the uprising that helped inspire the legend of Robin Hood, a humble peasant forms an army of the people to face King Richard II's might in a fight for justice.",
+    "theatrical": true,
+    "trailer_published": "2026-07-16T17:02:51.000Z",
+    "videos": [
+      {
+        "key": "lyhCxZN4Ro8",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T17:02:51.000Z"
+      },
+      {
+        "key": "ZVkrhHebz1Q",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T15:00:03.000Z"
+      }
+    ]
+  },
+  {
     "id": 1510517,
     "title": "Atlas King",
     "release_date": "2026-08-21",
@@ -2208,24 +2286,6 @@
     ]
   },
   {
-    "id": 1715492,
-    "title": "Shipwrecked: Nightmare at Sea",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
-    "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
-    "theatrical": false,
-    "trailer_published": "2026-07-12T18:17:36.000Z",
-    "videos": [
-      {
-        "key": "eWPdwVtVx9Y",
-        "name": "Official Trailer: Shipwrecked: Nightmare at Sea",
-        "type": "Trailer",
-        "published_at": "2026-07-12T18:17:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1491920,
     "title": "Kung Fu Soccer",
     "release_date": "2026-07-11",
@@ -2312,24 +2372,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-09T14:59:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1724072,
-    "title": "Of Womb",
-    "release_date": "2026-08-15",
-    "poster": "https://image.tmdb.org/t/p/w500/kvLE9UNJLWJu5D2dzbGYWrUJNy2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cX0fBWx15UHMJSsVpyVbjOzmjx8.jpg",
-    "overview": "Evading the hard truth of their religious matriarch\u2019s death, three sisters gestate dark ecstasies of faith and folk horror. Blessed be Mother.",
-    "theatrical": false,
-    "trailer_published": "2026-07-09T10:00:18.000Z",
-    "videos": [
-      {
-        "key": "ioeJyYUUWvU",
-        "name": "Of Womb | Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-09T10:00:18.000Z"
       }
     ]
   },
@@ -2698,7 +2740,7 @@
     "title": "Motor City",
     "release_date": "2026-07-24",
     "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cYEu96qXUFilbHPw7yP3qi0SQle.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nfOkjHv00NbRbKpurrsAjrkEhDq.jpg",
     "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
     "theatrical": true,
     "trailer_published": "2026-06-25T15:56:30.000Z",
@@ -2982,6 +3024,30 @@
     ]
   },
   {
+    "id": 1187326,
+    "title": "Tad and The Magic Lamp",
+    "release_date": "2026-08-26",
+    "poster": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
+    "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
+    "theatrical": false,
+    "trailer_published": "2026-06-18T14:14:24.000Z",
+    "videos": [
+      {
+        "key": "8-Bjo_rXCkM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-18T14:14:24.000Z"
+      },
+      {
+        "key": "L9d1Ax3g6a8",
+        "name": "Tad and his friends are back! Don't miss the trailer for Tad and the Magic Lamp TOMORROW.",
+        "type": "Teaser",
+        "published_at": "2026-06-17T17:05:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1656220,
     "title": "23 000 Lives",
     "release_date": "2026-07-17",
@@ -3132,24 +3198,6 @@
     ]
   },
   {
-    "id": 1421594,
-    "title": "Inside the Trustor Scandal",
-    "release_date": "2026-08-05",
-    "poster": "https://image.tmdb.org/t/p/w500/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xLJgxU9hTga9tsFw960g1h1uDvx.jpg",
-    "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
-    "theatrical": false,
-    "trailer_published": "2026-06-12T07:00:00.000Z",
-    "videos": [
-      {
-        "key": "Ia_cAr_IM54",
-        "name": "Inside the Trustor Scandal | Official Clip | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-06-12T07:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1117898,
     "title": "The Cat in the Hat",
     "release_date": "2026-11-06",
@@ -3204,24 +3252,6 @@
     ]
   },
   {
-    "id": 1596260,
-    "title": "Night Nurse",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dcJFy0rtVZp4LqPw1aqyxa046VP.jpg",
-    "overview": "As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient.",
-    "theatrical": true,
-    "trailer_published": "2026-06-11T15:00:15.000Z",
-    "videos": [
-      {
-        "key": "JP8Xj5_6VSE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T15:00:15.000Z"
-      }
-    ]
-  },
-  {
     "id": 1432474,
     "title": "Nimrods",
     "release_date": "2026-08-14",
@@ -3242,6 +3272,24 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2025-09-05T15:16:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1500890,
+    "title": "Lockbox",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/6feyDUp0QyOqukf2Hf9yXGLurD9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
+    "overview": "A woman puts her life on the line to protect her troubled, enigmatic cousin, Winthrop, who has been targeted and hunted by a powerful supernatural force.",
+    "theatrical": true,
+    "trailer_published": "2026-06-09T16:00:02.000Z",
+    "videos": [
+      {
+        "key": "xxiHWdsM1rM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:02.000Z"
       }
     ]
   },
@@ -3288,24 +3336,6 @@
     ]
   },
   {
-    "id": 1742499,
-    "title": "People & Things",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/6FHWBTINIKTxIUQCF4hotgzaOnR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/avCtN97VAOjUGqwRgGKq17ARnVB.jpg",
-    "overview": "A group of twenty-somethings navigate heartache, burnout and digital gloom as they search for meaning, connection and themselves in modern day Los Angeles.",
-    "theatrical": true,
-    "trailer_published": "2026-06-04T01:30:03.000Z",
-    "videos": [
-      {
-        "key": "dK2Q1St_gH4",
-        "name": "People & Things - Official Trailer (2026)",
-        "type": "Trailer",
-        "published_at": "2026-06-04T01:30:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1280608,
     "title": "Evil Dead Wrath",
     "release_date": "2028-04-07",
@@ -3333,7 +3363,7 @@
     "id": 1437511,
     "title": "How to Rob a Bank",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8sMzu56Nok5WlEXCRdflEgshYQO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
     "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
     "theatrical": true,
