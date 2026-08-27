@@ -1,5 +1,65 @@
 [
   {
+    "id": 1101412,
+    "title": "Fall 2: Deadpoint",
+    "release_date": "2026-09-02",
+    "poster": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T12:02:57.000Z",
+    "videos": [
+      {
+        "key": "Krs0VDIjhmE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-07-29T15:00:03.000Z"
+      },
+      {
+        "key": "Rsztt5qDj_A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-04T15:00:06.000Z"
+      },
+      {
+        "key": "FEedno5zWIc",
+        "name": "Only In UK Cinemas From September 9",
+        "type": "Teaser",
+        "published_at": "2026-08-27T12:02:57.000Z"
+      },
+      {
+        "key": "iUJ1jxoJ8gY",
+        "name": "Only In UK Cinemas From September 9",
+        "type": "Teaser",
+        "published_at": "2026-08-27T12:01:17.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1122030,
+    "title": "Alpha",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+    "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T08:30:00.000Z",
+    "videos": [
+      {
+        "key": "YP1uSAggr6Y",
+        "name": "ALPHA Official Trailer | Alia Bhatt, Sharvari, Anil Kapoor, Bobby Deol | Shiv Rawail | Netflix India",
+        "type": "Trailer",
+        "published_at": "2026-08-27T08:30:00.000Z"
+      },
+      {
+        "key": "8zqfxQcz7kM",
+        "name": "Title Announcement",
+        "type": "Teaser",
+        "published_at": "2024-07-05T05:30:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1483525,
     "title": "Possible Love",
     "release_date": "2026-10-23",
@@ -11,7 +71,7 @@
     "videos": [
       {
         "key": "zd3qXH9qN70",
-        "name": "Official Trailer",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-08-26T23:00:01.000Z"
       }
@@ -87,7 +147,7 @@
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
@@ -123,7 +183,7 @@
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/mSeGcWakOmhPd1n0QcinqIIUu1B.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zUaTMxLOuW4wdaFYhRVJbO6W8Sy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "theatrical": true,
@@ -456,38 +516,38 @@
     ]
   },
   {
-    "id": 1244523,
-    "title": "Beware Boi\u00fana",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
+    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
     "theatrical": true,
-    "trailer_published": "2026-08-20T21:45:24.000Z",
+    "trailer_published": "2026-08-21T22:00:38.000Z",
     "videos": [
       {
-        "key": "4fn4UcgzRhg",
-        "name": "Official Trailer",
+        "key": "B6Z9MM1LhEA",
+        "name": "UK Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-13T14:05:01.000Z"
+        "published_at": "2026-08-05T11:47:00.000Z"
       },
       {
-        "key": "Vet5fESvTO8",
-        "name": "Ssssay her name. Say her name.",
-        "type": "Teaser",
-        "published_at": "2026-08-20T21:45:24.000Z"
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T21:00:06.000Z"
       },
       {
-        "key": "rrmmrcrt1MQ",
-        "name": "Did you hear that?",
+        "key": "9NX2F52kFwU",
+        "name": "The Clock Is Ticking",
         "type": "Teaser",
-        "published_at": "2026-08-18T18:00:04.000Z"
+        "published_at": "2026-08-21T22:00:38.000Z"
       },
       {
-        "key": "3oC9ql-ZjNo",
-        "name": "HER jungle. HER rules.",
+        "key": "_uL9atyhRGQ",
+        "name": "Looking For My Next Movie To Watch",
         "type": "Teaser",
-        "published_at": "2026-08-18T17:40:15.000Z"
+        "published_at": "2026-08-20T22:00:17.000Z"
       }
     ]
   },
@@ -524,42 +584,6 @@
         "name": "60 minutes is plenty of time",
         "type": "Teaser",
         "published_at": "2026-08-19T21:00:27.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1101412,
-    "title": "Fall 2: Deadpoint",
-    "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T17:17:32.000Z",
-    "videos": [
-      {
-        "key": "Krs0VDIjhmE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-07-29T15:00:03.000Z"
-      },
-      {
-        "key": "Rsztt5qDj_A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-04T15:00:06.000Z"
-      },
-      {
-        "key": "wD79N4SSPV8",
-        "name": "The ground looks nice.",
-        "type": "Teaser",
-        "published_at": "2026-08-20T17:17:32.000Z"
-      },
-      {
-        "key": "tlaZrwXGDh8",
-        "name": "Run, don\u2019t fall.",
-        "type": "Teaser",
-        "published_at": "2026-08-19T16:00:16.000Z"
       }
     ]
   },
@@ -714,6 +738,42 @@
     ]
   },
   {
+    "id": 192139,
+    "title": "The Brink of War",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pyOVG32JevYR0mltVlDvWwDL88F.jpg",
+    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T22:00:18.000Z",
+    "videos": [
+      {
+        "key": "a-T0TlMN-RE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T21:15:27.000Z"
+      },
+      {
+        "key": "mOmU9rmjETg",
+        "name": "What Critics Are Saying About The Brink Of War",
+        "type": "Teaser",
+        "published_at": "2026-08-18T22:00:18.000Z"
+      },
+      {
+        "key": "oI47vtf8nhU",
+        "name": "The Brink Of War Is In Theaters Today!",
+        "type": "Teaser",
+        "published_at": "2026-08-14T17:00:08.000Z"
+      },
+      {
+        "key": "1OXSMXfl8D4",
+        "name": "Is Peace A Fantasy?",
+        "type": "Teaser",
+        "published_at": "2026-08-07T15:00:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-15",
@@ -816,38 +876,26 @@
     ]
   },
   {
-    "id": 1377237,
-    "title": "Runner",
+    "id": 1447853,
+    "title": "Oasis: Don't Look Back in Anger",
     "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
-    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+    "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
     "theatrical": true,
-    "trailer_published": "2026-08-18T11:59:29.000Z",
+    "trailer_published": "2026-08-18T13:00:35.000Z",
     "videos": [
       {
-        "key": "B6Z9MM1LhEA",
-        "name": "UK Trailer",
+        "key": "6z_0B_lyRTo",
+        "name": "Official Documentary Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-05T11:47:00.000Z"
+        "published_at": "2026-08-18T13:00:35.000Z"
       },
       {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:00:06.000Z"
-      },
-      {
-        "key": "aCaBKGuh-eQ",
-        "name": "In Cinemas Everywhere September 11",
+        "key": "drszHQJtR7o",
+        "name": "Official Documentary Teaser",
         "type": "Teaser",
-        "published_at": "2026-08-18T11:59:29.000Z"
-      },
-      {
-        "key": "CG1y0MAg-h0",
-        "name": "One Month",
-        "type": "Teaser",
-        "published_at": "2026-08-11T17:00:12.000Z"
+        "published_at": "2026-07-04T14:59:06.000Z"
       }
     ]
   },
@@ -952,7 +1000,7 @@
     "title": "LEGO Disney Princess: Magical Mayhem",
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iyJc33L3SCOkNrt7lTHITcZtGkx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kBrBcgdite6vpa6VkYEcjZuof7z.jpg",
     "overview": "During a heavy rainstorm, the Princess characters and their sidekick friends take in animals in need while enjoying a cozy day in their castle. But when the animals run amok, chaos erupts. Sleuthing reveals a mischievous villain behind it all, and with teamwork, quick thinking, and help from an unexpected friend, the Princess characters must restore order and save their home.",
     "theatrical": false,
     "trailer_published": "2026-08-17T13:00:13.000Z",
@@ -1110,47 +1158,11 @@
     ]
   },
   {
-    "id": 192139,
-    "title": "The Brink of War",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pyOVG32JevYR0mltVlDvWwDL88F.jpg",
-    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-    "theatrical": true,
-    "trailer_published": "2026-08-14T17:00:08.000Z",
-    "videos": [
-      {
-        "key": "a-T0TlMN-RE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T21:15:27.000Z"
-      },
-      {
-        "key": "oI47vtf8nhU",
-        "name": "The Brink Of War Is In Theaters Today!",
-        "type": "Teaser",
-        "published_at": "2026-08-14T17:00:08.000Z"
-      },
-      {
-        "key": "1OXSMXfl8D4",
-        "name": "Is Peace A Fantasy?",
-        "type": "Teaser",
-        "published_at": "2026-08-07T15:00:24.000Z"
-      },
-      {
-        "key": "OsStvTUPZKo",
-        "name": "Will There Be Peace Or War?",
-        "type": "Teaser",
-        "published_at": "2026-07-31T15:00:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1204680,
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
     "trailer_published": "2026-08-14T15:00:08.000Z",
@@ -1256,42 +1268,6 @@
         "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
         "type": "Teaser",
         "published_at": "2026-07-29T10:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1280015,
-    "title": "Sunny Dancer",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
-    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
-    "theatrical": true,
-    "trailer_published": "2026-08-11T20:45:19.000Z",
-    "videos": [
-      {
-        "key": "-W_a2oCFNOY",
-        "name": "Official US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T20:45:19.000Z"
-      },
-      {
-        "key": "UQxRhHK_Bmw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-05T08:43:20.000Z"
-      },
-      {
-        "key": "N8UFyNj-u5Y",
-        "name": "Run Free",
-        "type": "Teaser",
-        "published_at": "2026-08-10T06:06:59.000Z"
-      },
-      {
-        "key": "Y6eQRGLlAaI",
-        "name": "Are They?!?",
-        "type": "Teaser",
-        "published_at": "2026-08-10T06:06:49.000Z"
       }
     ]
   },
@@ -1471,37 +1447,13 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
-    "trailer_published": "2026-08-05T16:00:23.000Z",
+    "trailer_published": "2026-08-05T16:00:16.000Z",
     "videos": [
-      {
-        "key": "le2W_fB_4KY",
-        "name": "UK Official Trailer [ENG DUB]",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:00:23.000Z"
-      },
       {
         "key": "74nF-FWAS6M",
-        "name": "Official Trailer [ENG DUB]",
+        "name": "Official Trailer (English)",
         "type": "Trailer",
         "published_at": "2026-08-05T16:00:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1739186,
-    "title": "Untold: The Testimony of Vince Young",
-    "release_date": "2026-08-25",
-    "poster": "https://image.tmdb.org/t/p/w500/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg",
-    "overview": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed.",
-    "theatrical": false,
-    "trailer_published": "2026-08-05T16:00:00.000Z",
-    "videos": [
-      {
-        "key": "aVXvS3XzzHI",
-        "name": "Untold: The Testimony of Vince Young | Official Trailer | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:00:00.000Z"
       }
     ]
   },
@@ -1509,7 +1461,7 @@
     "id": 1078446,
     "title": "Violent Night 2",
     "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/wKgTxSjVZBjtTzK1wEXkLffaWC1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uvYnQE4I40J5vtj2acWYWSlv672.jpg",
     "overview": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he\u2019ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
     "theatrical": true,
@@ -1610,30 +1562,6 @@
         "name": "Snowball",
         "type": "Teaser",
         "published_at": "2026-08-02T17:00:30.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1478476,
-    "title": "Keu Bole Biplobi, Keu Bole Dakat",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cKh6CWjtaSEqaHvPOjmkdxPBFFN.jpg",
-    "overview": "A biopic of Ananta Singha. Some calls him dacoit, some calls him a rebellion. This adaptation gives the viewer a chance to know him as a whole, a person and as a revolutionary communist leader.",
-    "theatrical": false,
-    "trailer_published": "2026-08-02T13:25:06.000Z",
-    "videos": [
-      {
-        "key": "Kc_cmgRDTy4",
-        "name": "Keu Bole Biplobi Keu Bole Dakat Official Trailer | Nandy Movies | Jeet | Tota | Pathikrrit",
-        "type": "Trailer",
-        "published_at": "2026-08-02T13:25:06.000Z"
-      },
-      {
-        "key": "h-lME59Bth8",
-        "name": "Keu Bole Biplobi Keu Bole Dakat | Official Teaser | Jeet | Tota Roy Chowdhary | Pathikrrit Basu",
-        "type": "Teaser",
-        "published_at": "2026-03-19T07:57:18.000Z"
       }
     ]
   },
@@ -1792,7 +1720,7 @@
     "title": "The Last Sunrise",
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
     "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
     "theatrical": false,
     "trailer_published": "2026-07-28T13:59:57.000Z",
@@ -2028,6 +1956,24 @@
     ]
   },
   {
+    "id": 1728056,
+    "title": "Big Chicken: A Fast Food Conspiracy",
+    "release_date": "2026-08-05",
+    "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+    "overview": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving \u2014 and industry behind it.",
+    "theatrical": false,
+    "trailer_published": "2026-07-22T09:00:00.000Z",
+    "videos": [
+      {
+        "key": "7sGkQM6TyQU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T09:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1493400,
     "title": "Camp Rock 3",
     "release_date": "2026-08-13",
@@ -2176,6 +2122,12 @@
     "trailer_published": "2026-07-17T19:39:07.000Z",
     "videos": [
       {
+        "key": "Y4lZewE6JMI",
+        "name": "Pinocchio: Unstrung (2026) - Official Trailer | Horror | Robert Englund, Richard Brake",
+        "type": "Trailer",
+        "published_at": "2026-07-02T15:55:24.000Z"
+      },
+      {
         "key": "Xt3zQ8v2pzk",
         "name": "Official Trailer",
         "type": "Trailer",
@@ -2186,12 +2138,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-17T19:39:07.000Z"
-      },
-      {
-        "key": "mmWcqwR5yX0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-09T15:57:33.000Z"
       }
     ]
   },
@@ -2342,6 +2288,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-14T12:59:54.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1715492,
+    "title": "Shipwrecked: Nightmare at Sea",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+    "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+    "theatrical": false,
+    "trailer_published": "2026-07-12T18:17:36.000Z",
+    "videos": [
+      {
+        "key": "eWPdwVtVx9Y",
+        "name": "Official Trailer: Shipwrecked: Nightmare at Sea",
+        "type": "Trailer",
+        "published_at": "2026-07-12T18:17:36.000Z"
       }
     ]
   },
@@ -2754,6 +2718,30 @@
     ]
   },
   {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-06-29T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -2823,7 +2811,7 @@
     "id": 87513,
     "title": "Motor City",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/cWAVzTWm9xdc8skHH7h1vreUtcD.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
     "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
     "theatrical": true,
@@ -2885,7 +2873,7 @@
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/ztypMQi2Ql2NLhfKxIjUHs4o8b7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "overview": "A story of love, family, and sisterhood based on Jane Austen\u2019s Sense and Sensibility.",
     "theatrical": true,
     "trailer_published": "2026-06-25T12:26:01.000Z",
     "videos": [
@@ -3692,24 +3680,6 @@
         "name": "How To Train Your Dragon 2 | In Theaters June 11, 2027",
         "type": "Teaser",
         "published_at": "2025-04-04T03:00:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1122030,
-    "title": "Alpha",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-    "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-    "theatrical": true,
-    "trailer_published": "2024-07-05T05:30:09.000Z",
-    "videos": [
-      {
-        "key": "8zqfxQcz7kM",
-        "name": "Title Announcement",
-        "type": "Teaser",
-        "published_at": "2024-07-05T05:30:09.000Z"
       }
     ]
   },
