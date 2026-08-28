@@ -1,5 +1,131 @@
 [
   {
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T22:00:07.000Z",
+    "videos": [
+      {
+        "key": "B6Z9MM1LhEA",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T11:47:00.000Z"
+      },
+      {
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T21:00:06.000Z"
+      },
+      {
+        "key": "2skVB3s5u5s",
+        "name": "One mission. No time to stop.",
+        "type": "Teaser",
+        "published_at": "2026-08-27T22:00:07.000Z"
+      },
+      {
+        "key": "9NX2F52kFwU",
+        "name": "The Clock Is Ticking",
+        "type": "Teaser",
+        "published_at": "2026-08-21T22:00:38.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T18:30:35.000Z",
+    "videos": [
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "40QiEMZL3zg",
+        "name": "It\u2019s all under control. John Goodman is President Compson.",
+        "type": "Teaser",
+        "published_at": "2026-08-27T18:30:35.000Z"
+      },
+      {
+        "key": "ZXYUg9UAbCM",
+        "name": "Sweet, sweet, Maggie.",
+        "type": "Teaser",
+        "published_at": "2026-08-25T20:10:32.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T16:30:32.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "lm6HrF-xul0",
+        "name": "Just gonna leave this here\u2026",
+        "type": "Teaser",
+        "published_at": "2026-08-27T16:30:32.000Z"
+      },
+      {
+        "key": "ep8wo-rHzY0",
+        "name": "Is there a spell to make Mercury retrograde easier?",
+        "type": "Teaser",
+        "published_at": "2026-08-26T18:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1492640,
+    "title": "UNABOMBER",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/kiw6z3e0vhWd0uSH45BgNtWNqcJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l9ZVNjEmjCliCKnBWtVJmuGFHMb.jpg",
+    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "B3tR6qQjbgI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-27T14:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1101412,
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
@@ -56,6 +182,42 @@
         "name": "Title Announcement",
         "type": "Teaser",
         "published_at": "2024-07-05T05:30:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1288059,
+    "title": "I Want Your Sex",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xKPKNJI93LO2QPlIMLM8mthlCPi.jpg",
+    "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T07:53:10.000Z",
+    "videos": [
+      {
+        "key": "q5oWCPS3akw",
+        "name": "Official Trailer (4K)",
+        "type": "Trailer",
+        "published_at": "2026-06-16T13:52:01.000Z"
+      },
+      {
+        "key": "kjkTmTmC1iA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T16:01:52.000Z"
+      },
+      {
+        "key": "4mU_Em55z2A",
+        "name": "In UK cinemas tomorrow.",
+        "type": "Teaser",
+        "published_at": "2026-08-27T07:53:10.000Z"
+      },
+      {
+        "key": "hs2NY9ONaZw",
+        "name": "You know you want it.",
+        "type": "Teaser",
+        "published_at": "2026-08-26T09:16:53.000Z"
       }
     ]
   },
@@ -144,42 +306,6 @@
     ]
   },
   {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T18:00:05.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "ep8wo-rHzY0",
-        "name": "Is there a spell to make Mercury retrograde easier?",
-        "type": "Teaser",
-        "published_at": "2026-08-26T18:00:05.000Z"
-      },
-      {
-        "key": "dyYB6K3oRtw",
-        "name": "There\u2019s one thing we know for certain: their sisterhood has always been stronger than any magic.",
-        "type": "Teaser",
-        "published_at": "2026-08-25T17:00:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -194,78 +320,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-26T13:59:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1288059,
-    "title": "I Want Your Sex",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xKPKNJI93LO2QPlIMLM8mthlCPi.jpg",
-    "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T09:16:53.000Z",
-    "videos": [
-      {
-        "key": "q5oWCPS3akw",
-        "name": "Official Trailer (4K)",
-        "type": "Trailer",
-        "published_at": "2026-06-16T13:52:01.000Z"
-      },
-      {
-        "key": "kjkTmTmC1iA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T16:01:52.000Z"
-      },
-      {
-        "key": "hs2NY9ONaZw",
-        "name": "You know you want it.",
-        "type": "Teaser",
-        "published_at": "2026-08-26T09:16:53.000Z"
-      },
-      {
-        "key": "MbVviJB11rI",
-        "name": "In cinemas Friday.",
-        "type": "Teaser",
-        "published_at": "2026-08-24T14:12:17.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-08-25T20:10:32.000Z",
-    "videos": [
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "ZXYUg9UAbCM",
-        "name": "Sweet, sweet, Maggie.",
-        "type": "Teaser",
-        "published_at": "2026-08-25T20:10:32.000Z"
-      },
-      {
-        "key": "NW2kkWnF_mA",
-        "name": "Let\u2019s break the ice.",
-        "type": "Teaser",
-        "published_at": "2026-08-21T17:00:34.000Z"
       }
     ]
   },
@@ -302,6 +356,42 @@
         "name": "these kids have zero chill",
         "type": "Teaser",
         "published_at": "2026-08-25T17:55:40.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-08-25T16:09:56.000Z",
+    "videos": [
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "wr1XCDrHqYM",
+        "name": "\"Something Magical\"",
+        "type": "Teaser",
+        "published_at": "2026-08-25T16:09:56.000Z"
+      },
+      {
+        "key": "hN3lP4Fx1qg",
+        "name": "Soar into Wildwood",
+        "type": "Teaser",
+        "published_at": "2026-08-22T16:00:15.000Z"
       }
     ]
   },
@@ -516,42 +606,6 @@
     ]
   },
   {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
-    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
-    "theatrical": true,
-    "trailer_published": "2026-08-21T22:00:38.000Z",
-    "videos": [
-      {
-        "key": "B6Z9MM1LhEA",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T11:47:00.000Z"
-      },
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:00:06.000Z"
-      },
-      {
-        "key": "9NX2F52kFwU",
-        "name": "The Clock Is Ticking",
-        "type": "Teaser",
-        "published_at": "2026-08-21T22:00:38.000Z"
-      },
-      {
-        "key": "_uL9atyhRGQ",
-        "name": "Looking For My Next Movie To Watch",
-        "type": "Teaser",
-        "published_at": "2026-08-20T22:00:17.000Z"
-      }
-    ]
-  },
-  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -708,36 +762,6 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T12:30:06.000Z",
-    "videos": [
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "Prv_FLWLlq8",
-        "name": "Title Reveal",
-        "type": "Teaser",
-        "published_at": "2024-08-16T15:00:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 192139,
     "title": "The Brink of War",
     "release_date": "2026-08-14",
@@ -876,26 +900,38 @@
     ]
   },
   {
-    "id": 1447853,
-    "title": "Oasis: Don't Look Back in Anger",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+    "id": 1380417,
+    "title": "By Any Means",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+    "overview": "A young Black FBI agent is sent into 1960s Mississippi to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, he finds himself pulled into a deadly hunt where justice and vengeance begin to blur.",
     "theatrical": true,
-    "trailer_published": "2026-08-18T13:00:35.000Z",
+    "trailer_published": "2026-08-17T22:58:28.000Z",
     "videos": [
       {
-        "key": "6z_0B_lyRTo",
-        "name": "Official Documentary Trailer",
+        "key": "fvnyrBnUx4E",
+        "name": "Final Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-18T13:00:35.000Z"
+        "published_at": "2026-08-12T14:00:18.000Z"
       },
       {
-        "key": "drszHQJtR7o",
-        "name": "Official Documentary Teaser",
+        "key": "ej8pjisr0Pc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-03T13:00:38.000Z"
+      },
+      {
+        "key": "v2r-T3r2R_o",
+        "name": "This your sign to lock in, by any means.",
         "type": "Teaser",
-        "published_at": "2026-07-04T14:59:06.000Z"
+        "published_at": "2026-08-17T22:58:28.000Z"
+      },
+      {
+        "key": "zP7sUzNRzJY",
+        "name": "The system was broken, so the FBI hired the mob to solve a murder by any means.",
+        "type": "Teaser",
+        "published_at": "2026-08-05T17:18:01.000Z"
       }
     ]
   },
@@ -1956,24 +1992,6 @@
     ]
   },
   {
-    "id": 1728056,
-    "title": "Big Chicken: A Fast Food Conspiracy",
-    "release_date": "2026-08-05",
-    "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
-    "overview": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving \u2014 and industry behind it.",
-    "theatrical": false,
-    "trailer_published": "2026-07-22T09:00:00.000Z",
-    "videos": [
-      {
-        "key": "7sGkQM6TyQU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T09:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1493400,
     "title": "Camp Rock 3",
     "release_date": "2026-08-13",
@@ -2146,8 +2164,8 @@
     "title": "The Uprising",
     "release_date": "2026-09-10",
     "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
-    "overview": "Set against the true events of the uprising that helped inspire the legend of Robin Hood, a humble peasant forms an army of the people to face King Richard II's might in a fight for justice.",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
     "trailer_published": "2026-07-16T17:02:51.000Z",
     "videos": [
@@ -2260,9 +2278,9 @@
     "title": "The Whisper Man",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wHWJ1d9hqZ2iY0057xoLm3I3m8r.jpg",
     "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-    "theatrical": true,
+    "theatrical": false,
     "trailer_published": "2026-07-14T13:00:00.000Z",
     "videos": [
       {
@@ -2565,7 +2583,7 @@
     "id": 1698863,
     "title": "The Odyssey",
     "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/uEFU8pd2lVWpnHOUqhQE0WdPKEt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
     "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
     "theatrical": false,
@@ -2811,7 +2829,7 @@
     "id": 87513,
     "title": "Motor City",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
     "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
     "theatrical": true,
@@ -2838,7 +2856,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/g4kCd4rMuN7G3VQQDUT6mLbrBqQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xzm3RfWh932rS28WErNC3u8qzVm.jpg",
     "overview": "After the events of Rebellion, the world appears to be in balance\u2014but that peace is fragile. As a new threat connected to Walpurgisnacht emerges, Homura Akemi is forced to face the consequences of her choices and question how far she is willing to go to protect Madoka.",
-    "theatrical": true,
+    "theatrical": false,
     "trailer_published": "2026-06-25T15:00:19.000Z",
     "videos": [
       {
@@ -2871,7 +2889,7 @@
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/ztypMQi2Ql2NLhfKxIjUHs4o8b7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
     "overview": "A story of love, family, and sisterhood based on Jane Austen\u2019s Sense and Sensibility.",
     "theatrical": true,
@@ -3514,7 +3532,7 @@
     "title": "Sonic the Hedgehog 4",
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AsVFiOj8p0KERLZRRz58mZv4zsq.jpg",
     "overview": "Sonic the Hedgehog, joined by a new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
