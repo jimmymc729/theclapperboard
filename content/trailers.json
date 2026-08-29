@@ -1,5 +1,41 @@
 [
   {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-08-28T16:30:31.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "QvHdrH9IjTw",
+        "name": "Tag your coven to bring to theater to see Practical Magic 2",
+        "type": "Teaser",
+        "published_at": "2026-08-28T16:30:31.000Z"
+      },
+      {
+        "key": "lm6HrF-xul0",
+        "name": "Just gonna leave this here\u2026",
+        "type": "Teaser",
+        "published_at": "2026-08-27T16:30:32.000Z"
+      }
+    ]
+  },
+  {
     "id": 1288059,
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
@@ -108,38 +144,38 @@
     ]
   },
   {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "id": 1204680,
+    "title": "Coyote vs. Acme",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
-    "trailer_published": "2026-08-27T16:30:32.000Z",
+    "trailer_published": "2026-08-27T14:22:04.000Z",
     "videos": [
       {
-        "key": "Ho10_4IX1jE",
+        "key": "kMsiD1Nky5I",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:26.000Z"
+      },
+      {
+        "key": "H-43VeYGiPM",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
+        "published_at": "2026-04-22T12:55:32.000Z"
       },
       {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "lm6HrF-xul0",
-        "name": "Just gonna leave this here\u2026",
+        "key": "7wrdvTn9jcc",
+        "name": "ACME: We Create The Impossible",
         "type": "Teaser",
-        "published_at": "2026-08-27T16:30:32.000Z"
+        "published_at": "2026-08-27T14:22:04.000Z"
       },
       {
-        "key": "ep8wo-rHzY0",
-        "name": "Is there a spell to make Mercury retrograde easier?",
+        "key": "tyQBh0vKUtw",
+        "name": "Detonator Injury?",
         "type": "Teaser",
-        "published_at": "2026-08-26T18:00:05.000Z"
+        "published_at": "2026-08-17T13:45:33.000Z"
       }
     ]
   },
@@ -243,8 +279,8 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/hJWEeZOeV2hajzRURGlkwOlzEOF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wHJkY5VaQhqZLqA8QJmBVD3SlLP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
     "trailer_published": "2026-08-26T21:00:09.000Z",
@@ -630,6 +666,24 @@
     ]
   },
   {
+    "id": 1654516,
+    "title": "Babita Singh Reporting",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
+    "overview": "People-pleasing cop Baby accepts a fake charge to get leave for her sister-in-law\u2019s baby shower in Rewa. There, she reunites with her childhood friend Bansi, who is murdered that very night. Defying dismissive in-laws, an indifferent husband and an apathetic local police force, she secretly investigates the murder, uncovering family betrayals while finding her own voice, courage and place as a real cop.",
+    "theatrical": false,
+    "trailer_published": "2026-08-21T04:30:34.000Z",
+    "videos": [
+      {
+        "key": "XXzW4rjidqg",
+        "name": "Babita Singh Reporting - Official Trailer | Prime Video India",
+        "type": "Trailer",
+        "published_at": "2026-08-21T04:30:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -861,7 +915,7 @@
     "id": 1514026,
     "title": "Buddy",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/szMG36D2cIxeQ7i5zRQbq0DnNDe.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
     "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
     "theatrical": true,
@@ -1182,42 +1236,6 @@
     ]
   },
   {
-    "id": 1204680,
-    "title": "Coyote vs. Acme",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "theatrical": true,
-    "trailer_published": "2026-08-14T15:00:08.000Z",
-    "videos": [
-      {
-        "key": "kMsiD1Nky5I",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:26.000Z"
-      },
-      {
-        "key": "H-43VeYGiPM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-22T12:55:32.000Z"
-      },
-      {
-        "key": "Fncl62R3PMM",
-        "name": "An Absolute Blast",
-        "type": "Teaser",
-        "published_at": "2026-08-14T15:00:08.000Z"
-      },
-      {
-        "key": "F-PGig35gk4",
-        "name": "End Summer With A Bang",
-        "type": "Teaser",
-        "published_at": "2026-08-11T13:00:38.000Z"
-      }
-    ]
-  },
-  {
     "id": 1508168,
     "title": "Bethlehem Kudumba Unit",
     "release_date": "2026-08-21",
@@ -1482,24 +1500,6 @@
     ]
   },
   {
-    "id": 656908,
-    "title": "Ramayana",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "theatrical": true,
-    "trailer_published": "2026-08-05T16:00:16.000Z",
-    "videos": [
-      {
-        "key": "74nF-FWAS6M",
-        "name": "Official Trailer (English)",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1078446,
     "title": "Violent Night 2",
     "release_date": "2026-12-04",
@@ -1604,6 +1604,24 @@
         "name": "Snowball",
         "type": "Teaser",
         "published_at": "2026-08-02T17:00:30.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1471168,
+    "title": "Barreda",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
+    "overview": "A fictionalized drama film based on one of the most shocking crimes in Argentina's history. In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
+    "theatrical": false,
+    "trailer_published": "2026-07-30T14:00:54.000Z",
+    "videos": [
+      {
+        "key": "6Otcjy6Vp3A",
+        "name": "Barreda - Tr\u00e1iler Oficial I Prime Video",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:54.000Z"
       }
     ]
   },
@@ -1762,7 +1780,7 @@
     "title": "The Last Sunrise",
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
     "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
     "theatrical": false,
     "trailer_published": "2026-07-28T13:59:57.000Z",
@@ -1890,24 +1908,6 @@
     ]
   },
   {
-    "id": 1148365,
-    "title": "Matchbox: The Movie",
-    "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-    "theatrical": true,
-    "trailer_published": "2026-07-25T21:30:05.000Z",
-    "videos": [
-      {
-        "key": "7xfqITrMDcI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-25T21:30:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -1958,30 +1958,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-23T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1693400,
-    "title": "Ghost: 2 Big to Rig",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
-    "overview": "Captured live over the course of GHOST\u2019s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX\u00ae in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
-    "theatrical": true,
-    "trailer_published": "2026-07-23T13:00:06.000Z",
-    "videos": [
-      {
-        "key": "Gp4a9EF_7Js",
-        "name": "Ghost: 2 Big To Rig | Official Film Trailer | Haunting Cinemas & IMAX\u00ae Worldwide August 26",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:06.000Z"
-      },
-      {
-        "key": "Ne_yAwZyZkc",
-        "name": "\ud83c\udf7f",
-        "type": "Teaser",
-        "published_at": "2026-05-12T13:05:49.000Z"
       }
     ]
   },
@@ -2178,29 +2154,11 @@
     ]
   },
   {
-    "id": 1510517,
-    "title": "Atlas King",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
-    "overview": "Ex-fighter returns from exile to bury his best friend and confront old rivalries. Reuniting with his godson, a streetwise enforcer entangled with a powerful crime syndicate, the two hatch a high-stakes heist in a desperate bid to escape the grip of a ruthless mob bos",
-    "theatrical": false,
-    "trailer_published": "2026-07-15T21:38:33.000Z",
-    "videos": [
-      {
-        "key": "RZ_3toFBlq4",
-        "name": "Atlas King Official Trailer (2026)",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:38:33.000Z"
-      }
-    ]
-  },
-  {
     "id": 1341138,
     "title": "Spa Weekend",
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/7LIP05jWWwLPObSOAVbX7xkWPQ0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
     "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
     "theatrical": true,
     "trailer_published": "2026-07-15T16:00:37.000Z",
@@ -2228,6 +2186,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-27T15:59:37.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1732097,
+    "title": "Euphoria: A Look Back",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
+    "overview": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
+    "theatrical": false,
+    "trailer_published": "2026-07-15T15:00:04.000Z",
+    "videos": [
+      {
+        "key": "H0V8fgGlqIU",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T15:00:04.000Z"
       }
     ]
   },
@@ -2318,6 +2294,24 @@
         "name": "Kung Fu Soccer\u300a\u529f\u592b\u5973\u8db3\u300b- Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-12T13:01:54.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1607634,
+    "title": "Anbe Diana",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
+    "overview": "Follows the chaotic love story between a Telugu boy in Perambur and an Anglo Indian girl.",
+    "theatrical": false,
+    "trailer_published": "2026-07-11T11:30:02.000Z",
+    "videos": [
+      {
+        "key": "gcXw7BMSfIQ",
+        "name": "Anbe Diana Trailer | Pari Elavazhagan, Ramya Ranganathan, Roja | Bharath Sankar",
+        "type": "Trailer",
+        "published_at": "2026-07-11T11:30:02.000Z"
       }
     ]
   },
@@ -2708,30 +2702,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-29T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1300926,
-    "title": "The Angry Birds Movie 3",
-    "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
-    "theatrical": true,
-    "trailer_published": "2026-06-29T13:00:01.000Z",
-    "videos": [
-      {
-        "key": "a9DB_aUMzME",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T13:00:01.000Z"
-      },
-      {
-        "key": "8_nX4qQU1Wc",
-        "name": "NOW IN PRODUCTION!",
-        "type": "Teaser",
-        "published_at": "2024-06-06T14:30:02.000Z"
       }
     ]
   },
@@ -3189,7 +3159,7 @@
     "id": 1468683,
     "title": "Heartstopper Forever",
     "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/mHt4cVaxU3Ms6OyP1olCJ2tFIY1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
     "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
     "theatrical": false,
@@ -3266,42 +3236,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-15T13:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1117898,
-    "title": "The Cat in the Hat",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
-    "overview": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I. (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos' last chance to prove himself...or lose his magical hat!",
-    "theatrical": true,
-    "trailer_published": "2026-06-11T19:00:09.000Z",
-    "videos": [
-      {
-        "key": "HT5JAp5z0-o",
-        "name": "Official Trailer 3",
-        "type": "Trailer",
-        "published_at": "2026-06-09T13:30:12.000Z"
-      },
-      {
-        "key": "jz8pLlPhSeY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-07-01T16:00:29.000Z"
-      },
-      {
-        "key": "CUnaaeoCqXQ",
-        "name": "New trailer for The Cat In The Hat?!?! Best day ever!",
-        "type": "Teaser",
-        "published_at": "2026-06-11T19:00:09.000Z"
-      },
-      {
-        "key": "JtpLhxp5t3o",
-        "name": "It's a vibe thing.",
-        "type": "Teaser",
-        "published_at": "2026-06-09T19:25:31.000Z"
       }
     ]
   },
@@ -3440,6 +3374,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-11T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1428766,
+    "title": "Penny Lane Is Dead",
+    "release_date": "2026-07-20",
+    "poster": "https://image.tmdb.org/t/p/w500/ipAyHghFvnelEVHRMsUnsRXUwO4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
+    "overview": "Set in 1986, during a scorching Aussie summer, three best friends' celebration at a beach house turns into a blood-soaked fight for survival when a prank goes horribly wrong.",
+    "theatrical": false,
+    "trailer_published": "2026-05-07T00:02:03.000Z",
+    "videos": [
+      {
+        "key": "Pb1BPtBTIwQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-07T00:02:03.000Z"
       }
     ]
   },
@@ -3674,6 +3626,24 @@
         "name": "How To Train Your Dragon 2 | In Theaters June 11, 2027",
         "type": "Teaser",
         "published_at": "2025-04-04T03:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1318304,
+    "title": "Once More",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nO6FYYAH71vOk6MKNiYzY3akBdM.jpg",
+    "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn\u2019t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
+    "theatrical": false,
+    "trailer_published": "2024-10-05T11:30:17.000Z",
+    "videos": [
+      {
+        "key": "l_fh0c3WEVM",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2024-10-05T11:30:17.000Z"
       }
     ]
   },
