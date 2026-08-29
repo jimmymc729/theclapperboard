@@ -144,6 +144,24 @@
     ]
   },
   {
+    "id": 1492640,
+    "title": "UNABOMBER",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/AefQPbjomZ9ZsNgARUiO9PcOBqx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l9ZVNjEmjCliCKnBWtVJmuGFHMb.jpg",
+    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "B3tR6qQjbgI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-27T14:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1101412,
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
@@ -225,7 +243,7 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hJWEeZOeV2hajzRURGlkwOlzEOF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wHJkY5VaQhqZLqA8QJmBVD3SlLP.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
@@ -255,7 +273,7 @@
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-26",
-    "poster": "https://image.tmdb.org/t/p/w500/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ykYf5bcUahZeQC52cP8DJF0MgOs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2wUHJOhtKdeCF36pRCk34jGGhYP.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -843,7 +861,7 @@
     "id": 1514026,
     "title": "Buddy",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/szMG36D2cIxeQ7i5zRQbq0DnNDe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
     "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
     "theatrical": true,
@@ -1024,7 +1042,7 @@
     "title": "Yellow Eyes",
     "release_date": "2026-08-18",
     "poster": "https://image.tmdb.org/t/p/w500/tdIqb0g8fimv2bXIEZdWu6Zfywt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2GmxXQK5CRVb5PhWrkuzPXB7hSA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x9aPgQNnMYp7S0cJ24pJ0ck0sqw.jpg",
     "overview": "A young couple inherits a house containing a mysterious relic that hosts the spirit of a powerful demon, and the wife of the man it possesses must find an exorcist to save him.",
     "theatrical": false,
     "trailer_published": "2026-08-16T10:53:11.000Z",
@@ -1042,7 +1060,7 @@
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
     "trailer_published": "2026-08-16T03:00:11.000Z",
@@ -1404,6 +1422,24 @@
     ]
   },
   {
+    "id": 1631807,
+    "title": "The Secret Woman",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+    "overview": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
+    "theatrical": false,
+    "trailer_published": "2026-08-07T07:00:00.000Z",
+    "videos": [
+      {
+        "key": "FldeGkt4e4k",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-07T07:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1480503,
     "title": "CoComelon: The Movie",
     "release_date": "2027-02-19",
@@ -1726,7 +1762,7 @@
     "title": "The Last Sunrise",
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
     "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
     "theatrical": false,
     "trailer_published": "2026-07-28T13:59:57.000Z",
@@ -2196,24 +2232,6 @@
     ]
   },
   {
-    "id": 1732097,
-    "title": "Euphoria: A Look Back",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
-    "overview": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
-    "theatrical": false,
-    "trailer_published": "2026-07-15T15:00:04.000Z",
-    "videos": [
-      {
-        "key": "H0V8fgGlqIU",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T15:00:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 1616131,
     "title": "A Child of My Own",
     "release_date": "2026-08-07",
@@ -2542,7 +2560,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-03",
     "poster": "https://image.tmdb.org/t/p/w500/uEFU8pd2lVWpnHOUqhQE0WdPKEt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
     "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
     "theatrical": false,
     "trailer_published": "2026-07-01T20:12:58.000Z",
@@ -3050,24 +3068,6 @@
         "name": "The Outer Threat | Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-22T17:05:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1507796,
-    "title": "On the Sea",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wdy7TUJom58vwIFpx0h5Z8pix3l.jpg",
-    "overview": "Jack has been married to Maggie for over half his life. He works as a Hand Raker on the mussel beds in North Wales alongside his younger brother, Dyfan, and Dyfan\u2019s three sons. Jack has always assumed that his own boy, Tom, will join the family business on leaving school but Tom\u2019s resistance to follow in his footsteps creates familial tension. Tensions are further inflamed by the arrival of an itinerant deckhand, Daniel, who makes known his feelings for Jack. In this remote, rural community where life revolves around Church and fishery, Jack is faced with an impossible dilemma. On The Sea is a beautiful, sensual and at times, tragic exploration of masculinity, place and desire.",
-    "theatrical": false,
-    "trailer_published": "2026-06-22T09:55:54.000Z",
-    "videos": [
-      {
-        "key": "od_S8t86F0M",
-        "name": "On The Sea UK trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-22T09:55:54.000Z"
       }
     ]
   },
