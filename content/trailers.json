@@ -1,5 +1,41 @@
 [
   {
+    "id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "theatrical": true,
+    "trailer_published": "2026-08-30T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "gXjurDkYnEM",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T13:00:08.000Z"
+      },
+      {
+        "key": "jxU8FU3o75A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-14T02:39:28.000Z"
+      },
+      {
+        "key": "JR3qaSl5gVs",
+        "name": "Claustrophobia: intense fear of confined spaces",
+        "type": "Teaser",
+        "published_at": "2026-08-30T10:00:00.000Z"
+      },
+      {
+        "key": "Wy7ouyxM-mo",
+        "name": "Put your headphones on and feel the further around you",
+        "type": "Teaser",
+        "published_at": "2026-08-28T10:59:35.000Z"
+      }
+    ]
+  },
+  {
     "id": 1736095,
     "title": "Days of Thunder 2",
     "release_date": "2028-06-02",
@@ -21,7 +57,7 @@
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
@@ -126,6 +162,42 @@
     ]
   },
   {
+    "id": 1477712,
+    "title": "Ice Cream Man",
+    "release_date": "2026-08-03",
+    "poster": "https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T21:57:03.000Z",
+    "videos": [
+      {
+        "key": "Cgw3zNmFtRo",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-30T13:00:23.000Z"
+      },
+      {
+        "key": "BjtVXWa3tWI",
+        "name": "Official Green Band Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T19:24:30.000Z"
+      },
+      {
+        "key": "SHxqHdBNm-w",
+        "name": "Official Red Band Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-03T13:00:27.000Z"
+      },
+      {
+        "key": "tTM-Yg6pGTI",
+        "name": "No breathers. No breaks. Just wall-to-wall carnage.",
+        "type": "Teaser",
+        "published_at": "2026-08-27T21:57:03.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -194,24 +266,6 @@
         "name": "Detonator Injury?",
         "type": "Teaser",
         "published_at": "2026-08-17T13:45:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1492640,
-    "title": "UNABOMBER",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/AefQPbjomZ9ZsNgARUiO9PcOBqx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l9ZVNjEmjCliCKnBWtVJmuGFHMb.jpg",
-    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-    "theatrical": true,
-    "trailer_published": "2026-08-27T14:00:00.000Z",
-    "videos": [
-      {
-        "key": "B3tR6qQjbgI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-27T14:00:00.000Z"
       }
     ]
   },
@@ -299,7 +353,7 @@
     "videos": [
       {
         "key": "YP1uSAggr6Y",
-        "name": "ALPHA Official Trailer | Alia Bhatt, Sharvari, Anil Kapoor, Bobby Deol | Shiv Rawail | Netflix India",
+        "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-08-27T08:30:00.000Z"
       },
@@ -363,7 +417,7 @@
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-26",
-    "poster": "https://image.tmdb.org/t/p/w500/ykYf5bcUahZeQC52cP8DJF0MgOs.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2wUHJOhtKdeCF36pRCk34jGGhYP.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -434,42 +488,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-26T13:59:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1477712,
-    "title": "Ice Cream Man",
-    "release_date": "2026-08-03",
-    "poster": "https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
-    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "theatrical": true,
-    "trailer_published": "2026-08-25T17:55:40.000Z",
-    "videos": [
-      {
-        "key": "Cgw3zNmFtRo",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-30T13:00:23.000Z"
-      },
-      {
-        "key": "BjtVXWa3tWI",
-        "name": "Official Green Band Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T19:24:30.000Z"
-      },
-      {
-        "key": "SHxqHdBNm-w",
-        "name": "Official Red Band Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-03T13:00:27.000Z"
-      },
-      {
-        "key": "G6yQiMIZkKU",
-        "name": "these kids have zero chill",
-        "type": "Teaser",
-        "published_at": "2026-08-25T17:55:40.000Z"
       }
     ]
   },
@@ -648,42 +666,6 @@
     ]
   },
   {
-    "id": 1291595,
-    "title": "Insidious: Out of the Further",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "theatrical": true,
-    "trailer_published": "2026-08-22T10:00:29.000Z",
-    "videos": [
-      {
-        "key": "gXjurDkYnEM",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T13:00:08.000Z"
-      },
-      {
-        "key": "jxU8FU3o75A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-14T02:39:28.000Z"
-      },
-      {
-        "key": "oMEyr4j7eP8",
-        "name": "I will not explain further.",
-        "type": "Teaser",
-        "published_at": "2026-08-22T10:00:29.000Z"
-      },
-      {
-        "key": "JYhNUDTPJ1E",
-        "name": "Nothing can prepare you\u2026",
-        "type": "Teaser",
-        "published_at": "2026-08-22T06:00:17.000Z"
-      }
-    ]
-  },
-  {
     "id": 1654516,
     "title": "Babita Singh Reporting",
     "release_date": "2026-08-28",
@@ -734,6 +716,42 @@
         "name": "60 minutes is plenty of time",
         "type": "Teaser",
         "published_at": "2026-08-19T21:00:27.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1368337,
+    "title": "The Odyssey",
+    "release_date": "2026-07-17",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T17:05:04.000Z",
+    "videos": [
+      {
+        "key": "AyIZ9tiiN8I",
+        "name": "Official Countdown Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-01T12:30:05.000Z"
+      },
+      {
+        "key": "f_bKjZeJBBI",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-05T04:10:02.000Z"
+      },
+      {
+        "key": "Mzw2ttJD2qQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-12-22T14:00:04.000Z"
+      },
+      {
+        "key": "aUWTVfwdm-c",
+        "name": "The EPIC journey of The Odyssey will be back in IMAX this FRIDAY",
+        "type": "Teaser",
+        "published_at": "2026-08-20T17:05:04.000Z"
       }
     ]
   },
@@ -824,6 +842,72 @@
         "name": "Red Flags",
         "type": "Teaser",
         "published_at": "2026-08-13T19:00:34.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1213243,
+    "title": "Toxic: A Fairy Tale for Grown-ups",
+    "release_date": "2026-08-26",
+    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+    "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T16:00:14.000Z",
+    "videos": [
+      {
+        "key": "EfluEyQ5QIA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:14.000Z"
+      },
+      {
+        "key": "aF08WVSvCok",
+        "name": "Introducing Raya",
+        "type": "Trailer",
+        "published_at": "2026-01-08T04:40:00.000Z"
+      },
+      {
+        "key": "JQ7pytcXahw",
+        "name": "Ladies & Ladies",
+        "type": "Teaser",
+        "published_at": "2026-07-01T06:03:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1433367,
+    "title": "One Night Only",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T15:05:46.000Z",
+    "videos": [
+      {
+        "key": "lDsAVq9lo9g",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-28T17:27:23.000Z"
+      },
+      {
+        "key": "AvKoSR3O4NQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-10T23:02:23.000Z"
+      },
+      {
+        "key": "JRG244IfrRE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-29T15:00:06.000Z"
+      },
+      {
+        "key": "GBM1hs2EbI8",
+        "name": "Your camera roll from one unforgettable night",
+        "type": "Teaser",
+        "published_at": "2026-08-19T15:05:46.000Z"
       }
     ]
   },
@@ -962,30 +1046,6 @@
         "name": "In Cinemas and IMAX 17 September",
         "type": "Teaser",
         "published_at": "2026-07-04T12:00:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1447853,
-    "title": "Oasis: Don't Look Back in Anger",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T13:00:35.000Z",
-    "videos": [
-      {
-        "key": "6z_0B_lyRTo",
-        "name": "Official Documentary Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-18T13:00:35.000Z"
-      },
-      {
-        "key": "drszHQJtR7o",
-        "name": "Official Documentary Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-04T14:59:06.000Z"
       }
     ]
   },
@@ -1158,42 +1218,6 @@
     ]
   },
   {
-    "id": 1433367,
-    "title": "One Night Only",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "theatrical": true,
-    "trailer_published": "2026-08-15T15:05:23.000Z",
-    "videos": [
-      {
-        "key": "lDsAVq9lo9g",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-28T17:27:23.000Z"
-      },
-      {
-        "key": "AvKoSR3O4NQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-10T23:02:23.000Z"
-      },
-      {
-        "key": "JRG244IfrRE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-29T15:00:06.000Z"
-      },
-      {
-        "key": "g9hqtoBA15g",
-        "name": "The countdown to ONE NIGHT ONLY has begun...",
-        "type": "Teaser",
-        "published_at": "2026-08-15T15:05:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
@@ -1251,7 +1275,7 @@
     "id": 1508168,
     "title": "Bethlehem Kudumba Unit",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/35ugTVgk8UpGSgTPUFD1CEOooIe.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
     "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
     "theatrical": false,
@@ -1262,42 +1286,6 @@
         "name": "Bethlehem Kudumba Unit Official Trailer | Girish AD | Nivin Pauly | Mamitha Baiju | Bhavana Studios",
         "type": "Trailer",
         "published_at": "2026-08-14T11:30:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1368337,
-    "title": "The Odyssey",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "theatrical": true,
-    "trailer_published": "2026-08-13T18:05:01.000Z",
-    "videos": [
-      {
-        "key": "AyIZ9tiiN8I",
-        "name": "Official Countdown Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-01T12:30:05.000Z"
-      },
-      {
-        "key": "f_bKjZeJBBI",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-05T04:10:02.000Z"
-      },
-      {
-        "key": "Mzw2ttJD2qQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-12-22T14:00:04.000Z"
-      },
-      {
-        "key": "uZR0s1THqg0",
-        "name": "The Odyssey has officially reached $1B worldwide",
-        "type": "Teaser",
-        "published_at": "2026-08-13T18:05:01.000Z"
       }
     ]
   },
@@ -1508,6 +1496,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-05-27T13:00:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1739186,
+    "title": "Untold: The Testimony of Vince Young",
+    "release_date": "2026-08-25",
+    "poster": "https://image.tmdb.org/t/p/w500/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg",
+    "overview": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed.",
+    "theatrical": false,
+    "trailer_published": "2026-08-05T16:00:00.000Z",
+    "videos": [
+      {
+        "key": "aVXvS3XzzHI",
+        "name": "Untold: The Testimony of Vince Young | Official Trailer | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:00:00.000Z"
       }
     ]
   },
@@ -1920,6 +1926,24 @@
     ]
   },
   {
+    "id": 1148365,
+    "title": "Matchbox: The Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-07-25T21:30:05.000Z",
+    "videos": [
+      {
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-25T21:30:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -2130,24 +2154,6 @@
     ]
   },
   {
-    "id": 1510517,
-    "title": "Atlas King",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
-    "overview": "Ex-fighter returns from exile to bury his best friend and confront old rivalries. Reuniting with his godson, a streetwise enforcer entangled with a powerful crime syndicate, the two hatch a high-stakes heist in a desperate bid to escape the grip of a ruthless mob bos",
-    "theatrical": false,
-    "trailer_published": "2026-07-15T21:38:33.000Z",
-    "videos": [
-      {
-        "key": "RZ_3toFBlq4",
-        "name": "Atlas King Official Trailer (2026)",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:38:33.000Z"
-      }
-    ]
-  },
-  {
     "id": 1341138,
     "title": "Spa Weekend",
     "release_date": "2026-08-21",
@@ -2297,7 +2303,7 @@
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
-    "overview": "Follows the chaotic love story between a Telugu boy in Perambur and an Anglo Indian girl.",
+    "overview": "Set in Perambur, a local Telugu youth falls for an Anglo-Indian girl, sparking a chaotic and humorous clash of cultures between their families.",
     "theatrical": false,
     "trailer_published": "2026-07-11T11:30:02.000Z",
     "videos": [
@@ -2831,7 +2837,7 @@
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
-    "overview": "A story of love, family, and sisterhood based on Jane Austen\u2019s Sense and Sensibility.",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-06-25T12:26:01.000Z",
     "videos": [
@@ -3432,6 +3438,24 @@
     ]
   },
   {
+    "id": 1656018,
+    "title": "Michael Jackson: A Life in Music",
+    "release_date": "2026-09-29",
+    "poster": "https://image.tmdb.org/t/p/w500/aekwk423LleTvQDV9t2Z0NLG0PO.jpg",
+    "backdrop": "",
+    "overview": "The legendary journey of Michael Jackson, from his early days with the Jackson 5 to his breakthrough albums and live concerts.",
+    "theatrical": true,
+    "trailer_published": "2026-03-22T14:49:54.000Z",
+    "videos": [
+      {
+        "key": "hCcfGQYLFLc",
+        "name": "Michael Jackson: A Life in Music - Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-03-22T14:49:54.000Z"
+      }
+    ]
+  },
+  {
     "id": 1401586,
     "title": "Sonic the Hedgehog 4",
     "release_date": "2027-03-19",
@@ -3488,24 +3512,6 @@
         "name": "Trapped in the frozen wilderness, her fight for survival begins.",
         "type": "Teaser",
         "published_at": "2026-02-24T17:15:04.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1484913,
-    "title": "Ikka",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
-    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way.",
-    "theatrical": false,
-    "trailer_published": "2026-02-03T11:38:55.000Z",
-    "videos": [
-      {
-        "key": "LEargi83ofQ",
-        "name": "First Look",
-        "type": "Teaser",
-        "published_at": "2026-02-03T11:38:55.000Z"
       }
     ]
   },
