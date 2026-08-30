@@ -1,5 +1,23 @@
 [
   {
+    "id": 1736095,
+    "title": "Days of Thunder 2",
+    "release_date": "2028-06-02",
+    "poster": "https://image.tmdb.org/t/p/w500/xVT7gq3tIhZXu4hAmTXLVRU4B01.jpg",
+    "backdrop": "",
+    "overview": "The sequel to the 1990 film. Plot TBA.",
+    "theatrical": true,
+    "trailer_published": "2026-08-29T17:18:15.000Z",
+    "videos": [
+      {
+        "key": "A8c3JUSs788",
+        "name": "Days Of Thunder 2 | First Teaser | Coming to GSC starting 1 June 2028",
+        "type": "Teaser",
+        "published_at": "2026-08-29T17:18:15.000Z"
+      }
+    ]
+  },
+  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -76,7 +94,7 @@
     "title": "Runner",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "theatrical": true,
     "trailer_published": "2026-08-27T22:00:07.000Z",
@@ -198,6 +216,42 @@
     ]
   },
   {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T12:05:10.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "7puqoDIPJKU",
+        "name": "Chill Bro",
+        "type": "Teaser",
+        "published_at": "2026-08-27T12:05:10.000Z"
+      }
+    ]
+  },
+  {
     "id": 1101412,
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
@@ -279,7 +333,7 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
@@ -369,7 +423,7 @@
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/wlb6vunPuBjboYnmy4r3NlKZWji.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zUaTMxLOuW4wdaFYhRVJbO6W8Sy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "theatrical": true,
@@ -594,42 +648,6 @@
     ]
   },
   {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-08-22T16:00:10.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "yyhVRuv2QCc",
-        "name": "Nature Vibes",
-        "type": "Teaser",
-        "published_at": "2026-08-22T16:00:10.000Z"
-      }
-    ]
-  },
-  {
     "id": 1291595,
     "title": "Insidious: Out of the Further",
     "release_date": "2026-08-21",
@@ -810,36 +828,6 @@
     ]
   },
   {
-    "id": 1213243,
-    "title": "Toxic: A Fairy Tale for Grown-ups",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T16:00:14.000Z",
-    "videos": [
-      {
-        "key": "EfluEyQ5QIA",
-        "name": "Official English Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:14.000Z"
-      },
-      {
-        "key": "aF08WVSvCok",
-        "name": "Introducing Raya",
-        "type": "Trailer",
-        "published_at": "2026-01-08T04:40:00.000Z"
-      },
-      {
-        "key": "JQ7pytcXahw",
-        "name": "Ladies & Ladies",
-        "type": "Teaser",
-        "published_at": "2026-07-01T06:03:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 192139,
     "title": "The Brink of War",
     "release_date": "2026-08-14",
@@ -974,6 +962,30 @@
         "name": "In Cinemas and IMAX 17 September",
         "type": "Teaser",
         "published_at": "2026-07-04T12:00:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1447853,
+    "title": "Oasis: Don't Look Back in Anger",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T13:00:35.000Z",
+    "videos": [
+      {
+        "key": "6z_0B_lyRTo",
+        "name": "Official Documentary Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-18T13:00:35.000Z"
+      },
+      {
+        "key": "drszHQJtR7o",
+        "name": "Official Documentary Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-04T14:59:06.000Z"
       }
     ]
   },
@@ -1239,7 +1251,7 @@
     "id": 1508168,
     "title": "Bethlehem Kudumba Unit",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/35ugTVgk8UpGSgTPUFD1CEOooIe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
     "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
     "theatrical": false,
@@ -2046,42 +2058,6 @@
     ]
   },
   {
-    "id": 1202033,
-    "title": "Enola Holmes 3",
-    "release_date": "2026-07-01",
-    "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
-    "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-    "theatrical": false,
-    "trailer_published": "2026-07-19T12:00:26.000Z",
-    "videos": [
-      {
-        "key": "n_pEJjq-9xQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-09T12:00:01.000Z"
-      },
-      {
-        "key": "kxjVfmXV2EM",
-        "name": "Maybe tomorrow",
-        "type": "Teaser",
-        "published_at": "2026-07-19T12:00:26.000Z"
-      },
-      {
-        "key": "9k-PMvouHZ0",
-        "name": "can't stop thinking about this",
-        "type": "Teaser",
-        "published_at": "2026-07-15T13:00:12.000Z"
-      },
-      {
-        "key": "g1fq327snPU",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-27T12:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1727780,
     "title": "Borderline",
     "release_date": "2026-07-17",
@@ -2150,6 +2126,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-16T15:00:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1510517,
+    "title": "Atlas King",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
+    "overview": "Ex-fighter returns from exile to bury his best friend and confront old rivalries. Reuniting with his godson, a streetwise enforcer entangled with a powerful crime syndicate, the two hatch a high-stakes heist in a desperate bid to escape the grip of a ruthless mob bos",
+    "theatrical": false,
+    "trailer_published": "2026-07-15T21:38:33.000Z",
+    "videos": [
+      {
+        "key": "RZ_3toFBlq4",
+        "name": "Atlas King Official Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2026-07-15T21:38:33.000Z"
       }
     ]
   },
@@ -3038,24 +3032,6 @@
         "name": "The Outer Threat | Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-22T17:05:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1723013,
-    "title": "Hibla 2",
-    "release_date": "2026-06-30",
-    "poster": "https://image.tmdb.org/t/p/w500/drDsk2ES8YvWFwgWaY9foKaE5xv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oZJQZQ8BHgeq5YHcAbshMlmJvWX.jpg",
-    "overview": "Two VMX queens, Aliya Raymundo and Margaret Diaz, play reunited childhood friends who share a memorable past and a complicated present: one is a liberated city girl, the other a sheltered country virgin, and both are surrounded by men eager to get a taste of their youth.",
-    "theatrical": false,
-    "trailer_published": "2026-06-19T12:54:36.000Z",
-    "videos": [
-      {
-        "key": "YAQ1BUumPzY",
-        "name": "HIBLA 2 Official Trailer | VMX | June 30 | #MargaretDiaz #AliyaRaymundo",
-        "type": "Trailer",
-        "published_at": "2026-06-19T12:54:36.000Z"
       }
     ]
   },
