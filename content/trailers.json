@@ -1,5 +1,41 @@
 [
   {
+    "id": 1384216,
+    "title": "The Dog Stars",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+    "theatrical": true,
+    "trailer_published": "2026-08-30T10:00:19.000Z",
+    "videos": [
+      {
+        "key": "-xSxaE1ClEE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T16:00:06.000Z"
+      },
+      {
+        "key": "sVCrTJdNtSs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-08T16:00:16.000Z"
+      },
+      {
+        "key": "cmzVY1goqwQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T23:01:30.000Z"
+      },
+      {
+        "key": "SHXuKACgKQA",
+        "name": "Who We Are Lite",
+        "type": "Teaser",
+        "published_at": "2026-08-30T10:00:19.000Z"
+      }
+    ]
+  },
+  {
     "id": 1291595,
     "title": "Insidious: Out of the Further",
     "release_date": "2026-08-21",
@@ -47,9 +83,75 @@
     "videos": [
       {
         "key": "A8c3JUSs788",
-        "name": "Days Of Thunder 2 | First Teaser | Coming to GSC starting 1 June 2028",
+        "name": "First Teaser",
         "type": "Teaser",
         "published_at": "2026-08-29T17:18:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/obsM8IyBz3jn8hbru8V5btBRSBk.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-08-29T17:05:01.000Z",
+    "videos": [
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "pBypFuz1WNQ",
+        "name": "You need your bestie by your side through everything",
+        "type": "Teaser",
+        "published_at": "2026-08-29T17:05:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
+    "overview": "Bryan, a medical courier, unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-08-29T01:00:04.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "cPAANOxtJr8",
+        "name": "Experience a new vision of evil.",
+        "type": "Teaser",
+        "published_at": "2026-08-29T01:00:04.000Z"
+      },
+      {
+        "key": "3LSjlUrkIjg",
+        "name": "One month until Zach Cregger's Resident Evil crawls into cinemas September 18",
+        "type": "Teaser",
+        "published_at": "2026-08-18T14:19:36.000Z"
       }
     ]
   },
@@ -552,6 +654,42 @@
     ]
   },
   {
+    "id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "theatrical": true,
+    "trailer_published": "2026-08-25T02:30:19.000Z",
+    "videos": [
+      {
+        "key": "P3uI5sLosKU",
+        "name": "Final Trailer (Peter\u2019s Journey)",
+        "type": "Trailer",
+        "published_at": "2026-07-21T16:00:31.000Z"
+      },
+      {
+        "key": "62bIsvRcPv0",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-17T18:58:31.000Z"
+      },
+      {
+        "key": "8TZMtslA3UY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T11:05:15.000Z"
+      },
+      {
+        "key": "PGL_1onLHlg",
+        "name": "See Spider-Man: Brand New Day\u2026again.",
+        "type": "Teaser",
+        "published_at": "2026-08-25T02:30:19.000Z"
+      }
+    ]
+  },
+  {
     "id": 1729723,
     "title": "Yellow Mirror",
     "release_date": "2026-08-26",
@@ -849,7 +987,7 @@
     "id": 1213243,
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "theatrical": true,
@@ -1014,42 +1152,6 @@
     ]
   },
   {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
-    "overview": "Bryan, a medical courier, unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T14:19:36.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "3LSjlUrkIjg",
-        "name": "One month until Zach Cregger's Resident Evil crawls into cinemas September 18",
-        "type": "Teaser",
-        "published_at": "2026-08-18T14:19:36.000Z"
-      },
-      {
-        "key": "vjq7I-lNBSU",
-        "name": "In Cinemas and IMAX 17 September",
-        "type": "Teaser",
-        "published_at": "2026-07-04T12:00:19.000Z"
-      }
-    ]
-  },
-  {
     "id": 1101383,
     "title": "The End of Oak Street",
     "release_date": "2026-08-14",
@@ -1182,42 +1284,6 @@
     ]
   },
   {
-    "id": 969681,
-    "title": "Spider-Man: Brand New Day",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "theatrical": true,
-    "trailer_published": "2026-08-16T03:00:11.000Z",
-    "videos": [
-      {
-        "key": "P3uI5sLosKU",
-        "name": "Final Trailer (Peter\u2019s Journey)",
-        "type": "Trailer",
-        "published_at": "2026-07-21T16:00:31.000Z"
-      },
-      {
-        "key": "62bIsvRcPv0",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-17T18:58:31.000Z"
-      },
-      {
-        "key": "8TZMtslA3UY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-18T11:05:15.000Z"
-      },
-      {
-        "key": "In2VI_40YW0",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-08-16T03:00:11.000Z"
-      }
-    ]
-  },
-  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
@@ -1276,7 +1342,7 @@
     "title": "Bethlehem Kudumba Unit",
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
     "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
     "theatrical": false,
     "trailer_published": "2026-08-14T11:30:13.000Z",
@@ -1476,30 +1542,6 @@
     ]
   },
   {
-    "id": 1375441,
-    "title": "Primetime",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T13:00:36.000Z",
-    "videos": [
-      {
-        "key": "5fHXyqQOKL8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-06T13:00:36.000Z"
-      },
-      {
-        "key": "Yrfrf53ttYY",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-27T13:00:08.000Z"
-      }
-    ]
-  },
-  {
     "id": 1739186,
     "title": "Untold: The Testimony of Vince Young",
     "release_date": "2026-08-25",
@@ -1532,42 +1574,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-04T15:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1384216,
-    "title": "The Dog Stars",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "theatrical": true,
-    "trailer_published": "2026-08-04T13:00:22.000Z",
-    "videos": [
-      {
-        "key": "-xSxaE1ClEE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T16:00:06.000Z"
-      },
-      {
-        "key": "sVCrTJdNtSs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-08T16:00:16.000Z"
-      },
-      {
-        "key": "cmzVY1goqwQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T23:01:30.000Z"
-      },
-      {
-        "key": "ngOihJo65go",
-        "name": "Get Tickets Now",
-        "type": "Teaser",
-        "published_at": "2026-08-04T13:00:22.000Z"
       }
     ]
   },
@@ -1630,7 +1636,7 @@
     "title": "Barreda",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
     "overview": "A fictionalized drama film based on one of the most shocking crimes in Argentina's history. In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
     "theatrical": false,
     "trailer_published": "2026-07-30T14:00:54.000Z",
@@ -2154,6 +2160,24 @@
     ]
   },
   {
+    "id": 1294189,
+    "title": "The Mongoose",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+    "theatrical": true,
+    "trailer_published": "2026-07-15T17:00:06.000Z",
+    "videos": [
+      {
+        "key": "aHrMFtt40_Q",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T17:00:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1341138,
     "title": "Spa Weekend",
     "release_date": "2026-08-21",
@@ -2230,7 +2254,7 @@
     "title": "The Whisper Man",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
     "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
     "theatrical": false,
     "trailer_published": "2026-07-14T13:00:00.000Z",
@@ -2496,24 +2520,6 @@
     ]
   },
   {
-    "id": 964849,
-    "title": "Nightborn",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/e9ALgOANOJbcFpw84MbafK3xvD2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
-    "overview": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
-    "theatrical": false,
-    "trailer_published": "2026-07-06T19:08:20.000Z",
-    "videos": [
-      {
-        "key": "dWePsu_Kd9c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-06T19:08:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1308767,
     "title": "Young Washington",
     "release_date": "2026-07-03",
@@ -2553,7 +2559,7 @@
     "id": 1698863,
     "title": "The Odyssey",
     "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/uEFU8pd2lVWpnHOUqhQE0WdPKEt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
     "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
     "theatrical": false,
@@ -2776,7 +2782,7 @@
     "title": "Motor City",
     "release_date": "2026-07-24",
     "poster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4klrlo6mJjUQbT8f2R7fOIHAU0L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
     "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
     "theatrical": true,
     "trailer_published": "2026-06-25T15:56:30.000Z",
@@ -2900,30 +2906,6 @@
         "name": "9.24.27",
         "type": "Teaser",
         "published_at": "2026-06-23T15:14:40.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/obsM8IyBz3jn8hbru8V5btBRSBk.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-06-23T13:00:21.000Z",
-    "videos": [
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
       }
     ]
   },
@@ -3512,6 +3494,24 @@
         "name": "Trapped in the frozen wilderness, her fight for survival begins.",
         "type": "Teaser",
         "published_at": "2026-02-24T17:15:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1484913,
+    "title": "Ikka",
+    "release_date": "2026-07-10",
+    "poster": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way.",
+    "theatrical": false,
+    "trailer_published": "2026-02-03T11:38:55.000Z",
+    "videos": [
+      {
+        "key": "LEargi83ofQ",
+        "name": "First Look",
+        "type": "Teaser",
+        "published_at": "2026-02-03T11:38:55.000Z"
       }
     ]
   },
