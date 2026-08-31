@@ -300,6 +300,42 @@
     ]
   },
   {
+    "id": 843352,
+    "title": "Legend of the White Dragon",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T19:21:54.000Z",
+    "videos": [
+      {
+        "key": "TJ5bCaaGIx4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-07T17:02:16.000Z"
+      },
+      {
+        "key": "T40arNVCAjA",
+        "name": "The wait is almost over. Legend Of The White Dragon hits theaters TOMORROW!",
+        "type": "Teaser",
+        "published_at": "2026-08-27T19:21:54.000Z"
+      },
+      {
+        "key": "qlyZZe0Dpjs",
+        "name": "Jenna R Frank has a special message for you.",
+        "type": "Teaser",
+        "published_at": "2026-08-25T21:03:56.000Z"
+      },
+      {
+        "key": "j6eEXn8T8xY",
+        "name": "ONE WEEK until the White Dragon rises.",
+        "type": "Teaser",
+        "published_at": "2026-08-21T16:18:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -368,6 +404,24 @@
         "name": "Detonator Injury?",
         "type": "Teaser",
         "published_at": "2026-08-17T13:45:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1492640,
+    "title": "Unabomber",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/AefQPbjomZ9ZsNgARUiO9PcOBqx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l9ZVNjEmjCliCKnBWtVJmuGFHMb.jpg",
+    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "B3tR6qQjbgI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-27T14:00:00.000Z"
       }
     ]
   },
@@ -543,7 +597,7 @@
     "id": 1288445,
     "title": "Mutiny",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "theatrical": true,
@@ -987,7 +1041,7 @@
     "id": 1213243,
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "theatrical": true,
@@ -1148,6 +1202,30 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-09T14:59:50.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1447853,
+    "title": "Oasis: Don't Look Back in Anger",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T13:00:35.000Z",
+    "videos": [
+      {
+        "key": "6z_0B_lyRTo",
+        "name": "Official Documentary Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-18T13:00:35.000Z"
+      },
+      {
+        "key": "drszHQJtR7o",
+        "name": "Official Documentary Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-04T14:59:06.000Z"
       }
     ]
   },
@@ -1338,24 +1416,6 @@
     ]
   },
   {
-    "id": 1508168,
-    "title": "Bethlehem Kudumba Unit",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-    "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-    "theatrical": false,
-    "trailer_published": "2026-08-14T11:30:13.000Z",
-    "videos": [
-      {
-        "key": "fk0JHh1P9H0",
-        "name": "Bethlehem Kudumba Unit Official Trailer | Girish AD | Nivin Pauly | Mamitha Baiju | Bhavana Studios",
-        "type": "Trailer",
-        "published_at": "2026-08-14T11:30:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1556321,
     "title": "Death Whisperer: Saming the Werebeast",
     "release_date": "2026-09-30",
@@ -1542,20 +1602,26 @@
     ]
   },
   {
-    "id": 1739186,
-    "title": "Untold: The Testimony of Vince Young",
-    "release_date": "2026-08-25",
-    "poster": "https://image.tmdb.org/t/p/w500/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg",
-    "overview": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed.",
-    "theatrical": false,
-    "trailer_published": "2026-08-05T16:00:00.000Z",
+    "id": 1375441,
+    "title": "Primetime",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+    "theatrical": true,
+    "trailer_published": "2026-08-06T13:00:36.000Z",
     "videos": [
       {
-        "key": "aVXvS3XzzHI",
-        "name": "Untold: The Testimony of Vince Young | Official Trailer | Netflix",
+        "key": "5fHXyqQOKL8",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-05T16:00:00.000Z"
+        "published_at": "2026-08-06T13:00:36.000Z"
+      },
+      {
+        "key": "Yrfrf53ttYY",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-05-27T13:00:08.000Z"
       }
     ]
   },
@@ -1604,6 +1670,30 @@
         "name": "Official Teaser Trailer (Malaysia)",
         "type": "Teaser",
         "published_at": "2026-07-30T10:00:27.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1633056,
+    "title": "All Wishes Come True!",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
+    "overview": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals.",
+    "theatrical": true,
+    "trailer_published": "2026-08-04T09:04:04.000Z",
+    "videos": [
+      {
+        "key": "mvpFrJ5O2Ww",
+        "name": "International Ultimate Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-04T09:04:04.000Z"
+      },
+      {
+        "key": "D89LhXn03bg",
+        "name": "International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-07-17T10:05:00.000Z"
       }
     ]
   },
@@ -1932,24 +2022,6 @@
     ]
   },
   {
-    "id": 1148365,
-    "title": "Matchbox: The Movie",
-    "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-    "theatrical": true,
-    "trailer_published": "2026-07-25T21:30:05.000Z",
-    "videos": [
-      {
-        "key": "7xfqITrMDcI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-25T21:30:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -2000,6 +2072,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-23T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1693400,
+    "title": "Ghost: 2 Big to Rig",
+    "release_date": "2026-08-26",
+    "poster": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
+    "overview": "Captured live over the course of GHOST\u2019s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX\u00ae in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
+    "theatrical": true,
+    "trailer_published": "2026-07-23T13:00:06.000Z",
+    "videos": [
+      {
+        "key": "Gp4a9EF_7Js",
+        "name": "Ghost: 2 Big To Rig | Official Film Trailer | Haunting Cinemas & IMAX\u00ae Worldwide August 26",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:06.000Z"
+      },
+      {
+        "key": "Ne_yAwZyZkc",
+        "name": "\ud83c\udf7f",
+        "type": "Teaser",
+        "published_at": "2026-05-12T13:05:49.000Z"
       }
     ]
   },
@@ -2141,7 +2237,7 @@
     "release_date": "2026-09-10",
     "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
+    "overview": "The leader of a ferocious rebellion against the tyranny of King Richard II forms an army of the people to face the King\u2019s might in a fight for justice.",
     "theatrical": true,
     "trailer_published": "2026-07-16T17:02:51.000Z",
     "videos": [
@@ -2214,24 +2310,6 @@
     ]
   },
   {
-    "id": 1732097,
-    "title": "Euphoria: A Look Back",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
-    "overview": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
-    "theatrical": false,
-    "trailer_published": "2026-07-15T15:00:04.000Z",
-    "videos": [
-      {
-        "key": "H0V8fgGlqIU",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T15:00:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 1616131,
     "title": "A Child of My Own",
     "release_date": "2026-08-07",
@@ -2282,24 +2360,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-14T12:59:55.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1626188,
-    "title": "Novak Djokovic: The Wolf in Winter",
-    "release_date": "2026-08-20",
-    "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
-    "overview": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
-    "theatrical": false,
-    "trailer_published": "2026-07-14T12:59:54.000Z",
-    "videos": [
-      {
-        "key": "UQaKzMuyjlE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T12:59:54.000Z"
       }
     ]
   },
@@ -2680,7 +2740,7 @@
     "title": "The Devil's Mouth",
     "release_date": "2026-07-29",
     "poster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
     "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
     "theatrical": false,
     "trailer_published": "2026-06-29T15:59:58.000Z",
@@ -2708,6 +2768,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-29T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-06-29T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
       }
     ]
   },
@@ -2924,24 +3008,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-23T13:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1616268,
-    "title": "Aroopi",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nMQMfDBmjDn9jsXVXagGwUBWUSs.jpg",
-    "overview": "A vengeful Yakshini, once sealed inside a doll at the Aryanattu estate, is accidentally unleashed by two thieves. When a brutal murder draws Niranjan, the last surviving heir of the lineage, back to his ancestral home, he must confront an ancient curse and the dark secrets surrounding his family's past.",
-    "theatrical": false,
-    "trailer_published": "2026-06-23T12:30:06.000Z",
-    "videos": [
-      {
-        "key": "8CsDfDLqCDA",
-        "name": "Aroopi Official Trailer | Abhilash Warrier | Vysakh Ravi | Neha Chawla | Joy Mathew | Gopi Sundar",
-        "type": "Trailer",
-        "published_at": "2026-06-23T12:30:06.000Z"
       }
     ]
   },
@@ -3416,24 +3482,6 @@
         "name": "Infiltrate | Official Trailer",
         "type": "Trailer",
         "published_at": "2026-03-26T16:36:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1656018,
-    "title": "Michael Jackson: A Life in Music",
-    "release_date": "2026-09-29",
-    "poster": "https://image.tmdb.org/t/p/w500/aekwk423LleTvQDV9t2Z0NLG0PO.jpg",
-    "backdrop": "",
-    "overview": "The legendary journey of Michael Jackson, from his early days with the Jackson 5 to his breakthrough albums and live concerts.",
-    "theatrical": true,
-    "trailer_published": "2026-03-22T14:49:54.000Z",
-    "videos": [
-      {
-        "key": "hCcfGQYLFLc",
-        "name": "Michael Jackson: A Life in Music - Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-03-22T14:49:54.000Z"
       }
     ]
   },
