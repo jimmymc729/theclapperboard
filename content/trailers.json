@@ -1,5 +1,41 @@
 [
   {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-08-31T13:31:33.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "h2jxPHX3QlE",
+        "name": "Strength",
+        "type": "Teaser",
+        "published_at": "2026-08-31T13:31:33.000Z"
+      }
+    ]
+  },
+  {
     "id": 1384216,
     "title": "The Dog Stars",
     "release_date": "2026-08-28",
@@ -375,7 +411,7 @@
     "id": 1204680,
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
@@ -409,9 +445,9 @@
   },
   {
     "id": 1492640,
-    "title": "Unabomber",
+    "title": "UNABOMBER",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/AefQPbjomZ9ZsNgARUiO9PcOBqx.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pa7FRGX738X6jasMdUQTkkmGbfS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l9ZVNjEmjCliCKnBWtVJmuGFHMb.jpg",
     "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
     "theatrical": true,
@@ -422,42 +458,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-27T14:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-08-27T12:05:10.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "7puqoDIPJKU",
-        "name": "Chill Bro",
-        "type": "Teaser",
-        "published_at": "2026-08-27T12:05:10.000Z"
       }
     ]
   },
@@ -494,30 +494,6 @@
         "name": "Only In UK Cinemas From September 9",
         "type": "Teaser",
         "published_at": "2026-08-27T12:01:17.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1122030,
-    "title": "Alpha",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-    "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-    "theatrical": true,
-    "trailer_published": "2026-08-27T08:30:00.000Z",
-    "videos": [
-      {
-        "key": "YP1uSAggr6Y",
-        "name": "Official Trailer [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-08-27T08:30:00.000Z"
-      },
-      {
-        "key": "8zqfxQcz7kM",
-        "name": "Title Announcement",
-        "type": "Teaser",
-        "published_at": "2024-07-05T05:30:09.000Z"
       }
     ]
   },
@@ -1226,6 +1202,42 @@
         "name": "Official Documentary Teaser",
         "type": "Teaser",
         "published_at": "2026-07-04T14:59:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1380417,
+    "title": "By Any Means",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+    "overview": "A young Black FBI agent is sent into 1960s Mississippi to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, he finds himself pulled into a deadly hunt where justice and vengeance begin to blur.",
+    "theatrical": true,
+    "trailer_published": "2026-08-17T22:58:28.000Z",
+    "videos": [
+      {
+        "key": "fvnyrBnUx4E",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-12T14:00:18.000Z"
+      },
+      {
+        "key": "ej8pjisr0Pc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-03T13:00:38.000Z"
+      },
+      {
+        "key": "v2r-T3r2R_o",
+        "name": "This your sign to lock in, by any means.",
+        "type": "Teaser",
+        "published_at": "2026-08-17T22:58:28.000Z"
+      },
+      {
+        "key": "zP7sUzNRzJY",
+        "name": "The system was broken, so the FBI hired the mob to solve a murder by any means.",
+        "type": "Teaser",
+        "published_at": "2026-08-05T17:18:01.000Z"
       }
     ]
   },
@@ -2007,7 +2019,7 @@
     "id": 1621552,
     "title": "Facing El Chapo",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/z8eF0ACFFKtIZ4pUeo02PCzxRVO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
     "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
     "theatrical": false,
@@ -2018,6 +2030,24 @@
         "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, No\u00e9 Hern\u00e1ndez \ud83d\udea8",
         "type": "Trailer",
         "published_at": "2026-07-26T05:51:44.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1148365,
+    "title": "Matchbox: The Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-07-25T21:30:05.000Z",
+    "videos": [
+      {
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-25T21:30:05.000Z"
       }
     ]
   },
@@ -2364,6 +2394,24 @@
     ]
   },
   {
+    "id": 1626188,
+    "title": "Novak Djokovic: The Wolf in Winter",
+    "release_date": "2026-08-20",
+    "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+    "overview": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
+    "theatrical": false,
+    "trailer_published": "2026-07-14T12:59:54.000Z",
+    "videos": [
+      {
+        "key": "UQaKzMuyjlE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T12:59:54.000Z"
+      }
+    ]
+  },
+  {
     "id": 1491920,
     "title": "Kung Fu Soccer",
     "release_date": "2026-07-11",
@@ -2432,6 +2480,24 @@
         "name": "ONE WEEK OUT.",
         "type": "Teaser",
         "published_at": "2026-06-26T16:28:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1198654,
+    "title": "Bad Apples",
+    "release_date": "2025-10-25",
+    "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+    "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
+    "theatrical": false,
+    "trailer_published": "2026-07-09T16:33:32.000Z",
+    "videos": [
+      {
+        "key": "4nhu80EmVQE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T16:33:32.000Z"
       }
     ]
   },
@@ -2576,42 +2642,6 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2025-02-13T12:59:27.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1308767,
-    "title": "Young Washington",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-    "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-    "theatrical": true,
-    "trailer_published": "2026-07-06T17:30:22.000Z",
-    "videos": [
-      {
-        "key": "LJek-kc384w",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T21:03:41.000Z"
-      },
-      {
-        "key": "_Q3WkycWjLc",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2025-10-13T13:00:07.000Z"
-      },
-      {
-        "key": "7ZdiadB5vpc",
-        "name": "The #1 Action Movie in America!",
-        "type": "Teaser",
-        "published_at": "2026-07-06T17:30:22.000Z"
-      },
-      {
-        "key": "ndrOxfj-FGs",
-        "name": "Ready Aim.....",
-        "type": "Teaser",
-        "published_at": "2026-07-04T17:00:04.000Z"
       }
     ]
   },
@@ -3012,6 +3042,24 @@
     ]
   },
   {
+    "id": 1616268,
+    "title": "Aroopi",
+    "release_date": "2026-07-03",
+    "poster": "https://image.tmdb.org/t/p/w500/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nMQMfDBmjDn9jsXVXagGwUBWUSs.jpg",
+    "overview": "A vengeful Yakshini, once sealed inside a doll at the Aryanattu estate, is accidentally unleashed by two thieves. When a brutal murder draws Niranjan, the last surviving heir of the lineage, back to his ancestral home, he must confront an ancient curse and the dark secrets surrounding his family's past.",
+    "theatrical": false,
+    "trailer_published": "2026-06-23T12:30:06.000Z",
+    "videos": [
+      {
+        "key": "8CsDfDLqCDA",
+        "name": "Aroopi Official Trailer | Abhilash Warrier | Vysakh Ravi | Neha Chawla | Joy Mathew | Gopi Sundar",
+        "type": "Trailer",
+        "published_at": "2026-06-23T12:30:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1712439,
     "title": "Behind the Screens",
     "release_date": "2026-07-23",
@@ -3050,24 +3098,6 @@
         "name": "OFFICIAL Teaser [Subtitled]",
         "type": "Teaser",
         "published_at": "2026-03-28T11:01:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1430698,
-    "title": "The Bay",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
-    "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
-    "theatrical": false,
-    "trailer_published": "2026-06-22T17:30:45.000Z",
-    "videos": [
-      {
-        "key": "aqRoxJdq1i4",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-22T17:30:45.000Z"
       }
     ]
   },
@@ -3146,24 +3176,6 @@
         "name": "I,Nobody Trailer - Malayalam| Prithviraj Sukumaran| Parvathy Thiruvothu| Nisam Basheer| Jakes Bejoy",
         "type": "Trailer",
         "published_at": "2026-06-18T11:30:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1656220,
-    "title": "23 000 Lives",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
-    "overview": "A group of young people sets sail for the Mediterranean to save the lives of refugees \u2014 a mission that puts their ideas of law and justice to the test.",
-    "theatrical": false,
-    "trailer_published": "2026-06-18T09:00:00.000Z",
-    "videos": [
-      {
-        "key": "89dugTvBEWw",
-        "name": "Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-06-18T09:00:00.000Z"
       }
     ]
   },
@@ -3284,24 +3296,6 @@
         "name": "Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-06-11T16:01:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1141970,
-    "title": "Morte Cucina",
-    "release_date": "2026-07-02",
-    "poster": "https://image.tmdb.org/t/p/w500/xlPJ8Wp9mm10bWmKdydkuOyxrHU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vElyR7rR3EOAmW3ZeLOdGhFWaeu.jpg",
-    "overview": "Sao, a talented cook, accidentally meets the man who took advantage of her in the past. She sets her revenge plan in motion using her cooking skill to achieve a rather unexpected result.",
-    "theatrical": false,
-    "trailer_published": "2026-06-05T05:00:03.000Z",
-    "videos": [
-      {
-        "key": "TR9uva-Ym8o",
-        "name": "\u0e04\u0e23\u0e31\u0e27\u0e2a\u0e32\u0e27 Morte Cucina l Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-05T05:00:03.000Z"
       }
     ]
   },
