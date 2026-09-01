@@ -1,5 +1,113 @@
 [
   {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "overview": "Bryan, a medical courier, unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T09:30:23.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "lY-QnOqp9k0",
+        "name": "Consider this your warning: Zach Cregger's Resident Evil tickets are on sale now",
+        "type": "Teaser",
+        "published_at": "2026-09-01T09:30:23.000Z"
+      },
+      {
+        "key": "X1oG2k1Qlrs",
+        "name": "In Cinemas SEPT 16",
+        "type": "Teaser",
+        "published_at": "2026-09-01T00:46:51.000Z"
+      }
+    ]
+  },
+  {
+    "id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T09:00:19.000Z",
+    "videos": [
+      {
+        "key": "P3uI5sLosKU",
+        "name": "Final Trailer (Peter\u2019s Journey)",
+        "type": "Trailer",
+        "published_at": "2026-07-21T16:00:31.000Z"
+      },
+      {
+        "key": "62bIsvRcPv0",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-17T18:58:31.000Z"
+      },
+      {
+        "key": "8TZMtslA3UY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T11:05:15.000Z"
+      },
+      {
+        "key": "iFuTq7S4vRk",
+        "name": "See it Again",
+        "type": "Teaser",
+        "published_at": "2026-09-01T09:00:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-08-31T18:00:32.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "R3WHfBdaGpo",
+        "name": "Time to have some fun.",
+        "type": "Teaser",
+        "published_at": "2026-08-31T18:00:32.000Z"
+      },
+      {
+        "key": "bnq1YHl7yMg",
+        "name": "You heard them.",
+        "type": "Teaser",
+        "published_at": "2026-08-31T17:14:39.000Z"
+      }
+    ]
+  },
+  {
     "id": 1263337,
     "title": "Heart of the Beast",
     "release_date": "2026-09-25",
@@ -36,6 +144,42 @@
     ]
   },
   {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wHJkY5VaQhqZLqA8QJmBVD3SlLP.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-08-31T11:05:33.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "8ALwIBaEJ_I",
+        "name": "In Cinemas 8 October",
+        "type": "Teaser",
+        "published_at": "2026-08-25T06:59:32.000Z"
+      }
+    ]
+  },
+  {
     "id": 1384216,
     "title": "The Dog Stars",
     "release_date": "2026-08-28",
@@ -43,7 +187,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
     "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
     "theatrical": true,
-    "trailer_published": "2026-08-30T10:00:19.000Z",
+    "trailer_published": "2026-08-31T07:00:19.000Z",
     "videos": [
       {
         "key": "-xSxaE1ClEE",
@@ -64,10 +208,10 @@
         "published_at": "2026-04-16T23:01:30.000Z"
       },
       {
-        "key": "SHXuKACgKQA",
-        "name": "Who We Are Lite",
+        "key": "fJqRs26wlk4",
+        "name": "Legend Lite",
         "type": "Teaser",
-        "published_at": "2026-08-30T10:00:19.000Z"
+        "published_at": "2026-08-31T07:00:19.000Z"
       }
     ]
   },
@@ -156,74 +300,38 @@
     ]
   },
   {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
-    "overview": "Bryan, a medical courier, unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "id": 843352,
+    "title": "Legend of the White Dragon",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
     "theatrical": true,
-    "trailer_published": "2026-08-29T01:00:04.000Z",
+    "trailer_published": "2026-08-28T21:00:18.000Z",
     "videos": [
       {
-        "key": "mNd1gb19A-c",
+        "key": "TJ5bCaaGIx4",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
+        "published_at": "2026-07-07T17:02:16.000Z"
       },
       {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "cPAANOxtJr8",
-        "name": "Experience a new vision of evil.",
+        "key": "1kuCIcqv_sw",
+        "name": "Happy Power Rangers Day!",
         "type": "Teaser",
-        "published_at": "2026-08-29T01:00:04.000Z"
+        "published_at": "2026-08-28T21:00:18.000Z"
       },
       {
-        "key": "3LSjlUrkIjg",
-        "name": "One month until Zach Cregger's Resident Evil crawls into cinemas September 18",
+        "key": "T40arNVCAjA",
+        "name": "The wait is almost over. Legend Of The White Dragon hits theaters TOMORROW!",
         "type": "Teaser",
-        "published_at": "2026-08-18T14:19:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-08-28T16:30:31.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
+        "published_at": "2026-08-27T19:21:54.000Z"
       },
       {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "QvHdrH9IjTw",
-        "name": "Tag your coven to bring to theater to see Practical Magic 2",
+        "key": "qlyZZe0Dpjs",
+        "name": "Jenna R Frank has a special message for you.",
         "type": "Teaser",
-        "published_at": "2026-08-28T16:30:31.000Z"
-      },
-      {
-        "key": "lm6HrF-xul0",
-        "name": "Just gonna leave this here\u2026",
-        "type": "Teaser",
-        "published_at": "2026-08-27T16:30:32.000Z"
+        "published_at": "2026-08-25T21:03:56.000Z"
       }
     ]
   },
@@ -332,42 +440,6 @@
         "name": "No breathers. No breaks. Just wall-to-wall carnage.",
         "type": "Teaser",
         "published_at": "2026-08-27T21:57:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 843352,
-    "title": "Legend of the White Dragon",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
-    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
-    "theatrical": true,
-    "trailer_published": "2026-08-27T19:21:54.000Z",
-    "videos": [
-      {
-        "key": "TJ5bCaaGIx4",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-07T17:02:16.000Z"
-      },
-      {
-        "key": "T40arNVCAjA",
-        "name": "The wait is almost over. Legend Of The White Dragon hits theaters TOMORROW!",
-        "type": "Teaser",
-        "published_at": "2026-08-27T19:21:54.000Z"
-      },
-      {
-        "key": "qlyZZe0Dpjs",
-        "name": "Jenna R Frank has a special message for you.",
-        "type": "Teaser",
-        "published_at": "2026-08-25T21:03:56.000Z"
-      },
-      {
-        "key": "j6eEXn8T8xY",
-        "name": "ONE WEEK until the White Dragon rises.",
-        "type": "Teaser",
-        "published_at": "2026-08-21T16:18:24.000Z"
       }
     ]
   },
@@ -516,36 +588,6 @@
     ]
   },
   {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T21:00:09.000Z",
-    "videos": [
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "9xnDvEJJlxE",
-        "name": "In Cinemas 8 October",
-        "type": "Teaser",
-        "published_at": "2026-07-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-26",
@@ -606,6 +648,30 @@
     ]
   },
   {
+    "id": 1228834,
+    "title": "The Fix",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T14:07:41.000Z",
+    "videos": [
+      {
+        "key": "l5Luvr9TRRc",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T14:07:41.000Z"
+      },
+      {
+        "key": "NYC0v8xqQdM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T17:02:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -620,6 +686,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-26T13:59:48.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1096831,
+    "title": "Maserati: The Brothers",
+    "release_date": "2026-10-15",
+    "poster": "https://image.tmdb.org/t/p/w500/gea9QG89U94JQQUJElNg1cKo3M0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2DFlJCi9QtRQSVcNdnPvOvLcH0A.jpg",
+    "overview": "Chronicles the Maserati family's journey, from its founding in 1914 to becoming a renowned Italian luxury car manufacturer, alongside rivals Ferrari and Lamborghini.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T01:36:29.000Z",
+    "videos": [
+      {
+        "key": "xm5D-ArgVsg",
+        "name": "Maserati: The Brothers | Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T01:36:29.000Z"
       }
     ]
   },
@@ -680,42 +764,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-22T16:00:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 969681,
-    "title": "Spider-Man: Brand New Day",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "theatrical": true,
-    "trailer_published": "2026-08-25T02:30:19.000Z",
-    "videos": [
-      {
-        "key": "P3uI5sLosKU",
-        "name": "Final Trailer (Peter\u2019s Journey)",
-        "type": "Trailer",
-        "published_at": "2026-07-21T16:00:31.000Z"
-      },
-      {
-        "key": "62bIsvRcPv0",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-17T18:58:31.000Z"
-      },
-      {
-        "key": "8TZMtslA3UY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-18T11:05:15.000Z"
-      },
-      {
-        "key": "PGL_1onLHlg",
-        "name": "See Spider-Man: Brand New Day\u2026again.",
-        "type": "Teaser",
-        "published_at": "2026-08-25T02:30:19.000Z"
       }
     ]
   },
@@ -1431,9 +1479,9 @@
     "id": 1556321,
     "title": "Death Whisperer: Saming the Werebeast",
     "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/tOhbvoTC10Nf9WTBI1EIwaXz9Et.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8bEKkBsj0Xhpct20LFHXhKYO0Jb.jpg",
-    "overview": "Set in 1968 in Kanchanaburi, Thailand, the story follows Yak, a soldier from the Black Tiger Division, sent on an urgent mission into the forest of Khao Khwang to find Thap, a missing military intelligence officer.",
+    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
+    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
     "theatrical": true,
     "trailer_published": "2026-08-13T09:00:10.000Z",
     "videos": [
@@ -1448,6 +1496,42 @@
         "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
         "type": "Teaser",
         "published_at": "2026-07-29T10:00:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1280015,
+    "title": "Sunny Dancer",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
+    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+    "theatrical": true,
+    "trailer_published": "2026-08-11T20:45:19.000Z",
+    "videos": [
+      {
+        "key": "-W_a2oCFNOY",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T20:45:19.000Z"
+      },
+      {
+        "key": "UQxRhHK_Bmw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-05T08:43:20.000Z"
+      },
+      {
+        "key": "N8UFyNj-u5Y",
+        "name": "Run Free",
+        "type": "Teaser",
+        "published_at": "2026-08-10T06:06:59.000Z"
+      },
+      {
+        "key": "Y6eQRGLlAaI",
+        "name": "Are They?!?",
+        "type": "Teaser",
+        "published_at": "2026-08-10T06:06:49.000Z"
       }
     ]
   },
@@ -1509,7 +1593,7 @@
     "id": 1058424,
     "title": "Hope",
     "release_date": "2026-09-07",
-    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "theatrical": true,
@@ -1634,6 +1718,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-05-27T13:00:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 656908,
+    "title": "Ramayana",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "theatrical": true,
+    "trailer_published": "2026-08-05T16:00:16.000Z",
+    "videos": [
+      {
+        "key": "74nF-FWAS6M",
+        "name": "Official Trailer (English)",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:00:16.000Z"
       }
     ]
   },
@@ -1998,24 +2100,6 @@
     ]
   },
   {
-    "id": 1751002,
-    "title": "Juvenescence",
-    "release_date": "2026-09-17",
-    "poster": "https://image.tmdb.org/t/p/w500/xkdFPRMctxLPJuQ3DAYBASn0C9L.jpg",
-    "backdrop": "",
-    "overview": "An Australian coming of age comedy follows four teenagers navigating their final days at Edgewater High and all that comes with it.",
-    "theatrical": true,
-    "trailer_published": "2026-07-26T06:57:57.000Z",
-    "videos": [
-      {
-        "key": "0HR7pfHXuDg",
-        "name": "Juvenescence (2026) | Official 4K Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-26T06:57:57.000Z"
-      }
-    ]
-  },
-  {
     "id": 1621552,
     "title": "Facing El Chapo",
     "release_date": "2026-08-21",
@@ -2030,24 +2114,6 @@
         "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, No\u00e9 Hern\u00e1ndez \ud83d\udea8",
         "type": "Trailer",
         "published_at": "2026-07-26T05:51:44.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1148365,
-    "title": "Matchbox: The Movie",
-    "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-    "theatrical": true,
-    "trailer_published": "2026-07-25T21:30:05.000Z",
-    "videos": [
-      {
-        "key": "7xfqITrMDcI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-25T21:30:05.000Z"
       }
     ]
   },
@@ -2267,7 +2333,7 @@
     "release_date": "2026-09-10",
     "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-    "overview": "The leader of a ferocious rebellion against the tyranny of King Richard II forms an army of the people to face the King\u2019s might in a fight for justice.",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
     "trailer_published": "2026-07-16T17:02:51.000Z",
     "videos": [
@@ -2307,8 +2373,8 @@
     "id": 1341138,
     "title": "Spa Weekend",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/7LIP05jWWwLPObSOAVbX7xkWPQ0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
     "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
     "theatrical": true,
     "trailer_published": "2026-07-15T16:00:37.000Z",
@@ -2394,24 +2460,6 @@
     ]
   },
   {
-    "id": 1626188,
-    "title": "Novak Djokovic: The Wolf in Winter",
-    "release_date": "2026-08-20",
-    "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
-    "overview": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
-    "theatrical": false,
-    "trailer_published": "2026-07-14T12:59:54.000Z",
-    "videos": [
-      {
-        "key": "UQaKzMuyjlE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T12:59:54.000Z"
-      }
-    ]
-  },
-  {
     "id": 1491920,
     "title": "Kung Fu Soccer",
     "release_date": "2026-07-11",
@@ -2444,42 +2492,6 @@
         "name": "Anbe Diana Trailer | Pari Elavazhagan, Ramya Ranganathan, Roja | Bharath Sankar",
         "type": "Trailer",
         "published_at": "2026-07-11T11:30:02.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1705729,
-    "title": "Man of War",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
-    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-    "theatrical": false,
-    "trailer_published": "2026-07-10T15:46:16.000Z",
-    "videos": [
-      {
-        "key": "q0_t2HOsDsY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T18:14:35.000Z"
-      },
-      {
-        "key": "NoB63ZNLUow",
-        "name": "MAN OF WAR is \u201cguns ablaze from start to finish.\u201d \u2013 Kevin Film Reviews",
-        "type": "Teaser",
-        "published_at": "2026-07-10T15:46:16.000Z"
-      },
-      {
-        "key": "jD0uxIKsHms",
-        "name": "MAN OF WAR is \"Brutal, Tactical and Explosive.\" \u2013 Action Reloaded",
-        "type": "Teaser",
-        "published_at": "2026-07-03T18:48:10.000Z"
-      },
-      {
-        "key": "_ZPCkO5-a44",
-        "name": "ONE WEEK OUT.",
-        "type": "Teaser",
-        "published_at": "2026-06-26T16:28:09.000Z"
       }
     ]
   },
@@ -3042,24 +3054,6 @@
     ]
   },
   {
-    "id": 1616268,
-    "title": "Aroopi",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nMQMfDBmjDn9jsXVXagGwUBWUSs.jpg",
-    "overview": "A vengeful Yakshini, once sealed inside a doll at the Aryanattu estate, is accidentally unleashed by two thieves. When a brutal murder draws Niranjan, the last surviving heir of the lineage, back to his ancestral home, he must confront an ancient curse and the dark secrets surrounding his family's past.",
-    "theatrical": false,
-    "trailer_published": "2026-06-23T12:30:06.000Z",
-    "videos": [
-      {
-        "key": "8CsDfDLqCDA",
-        "name": "Aroopi Official Trailer | Abhilash Warrier | Vysakh Ravi | Neha Chawla | Joy Mathew | Gopi Sundar",
-        "type": "Trailer",
-        "published_at": "2026-06-23T12:30:06.000Z"
-      }
-    ]
-  },
-  {
     "id": 1712439,
     "title": "Behind the Screens",
     "release_date": "2026-07-23",
@@ -3183,7 +3177,7 @@
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
@@ -3278,6 +3272,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-15T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1421594,
+    "title": "Inside the Trustor Scandal",
+    "release_date": "2026-08-05",
+    "poster": "https://image.tmdb.org/t/p/w500/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xLJgxU9hTga9tsFw960g1h1uDvx.jpg",
+    "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
+    "theatrical": false,
+    "trailer_published": "2026-06-12T07:00:00.000Z",
+    "videos": [
+      {
+        "key": "Ia_cAr_IM54",
+        "name": "Inside the Trustor Scandal | Official Clip | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-06-12T07:00:00.000Z"
       }
     ]
   },
