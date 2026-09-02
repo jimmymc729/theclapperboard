@@ -1,5 +1,41 @@
 [
   {
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m45xBFqUT4EYpb8eIbamPGK3qea.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T16:00:13.000Z",
+    "videos": [
+      {
+        "key": "U6sbm1OaJb8",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-01T16:00:13.000Z"
+      },
+      {
+        "key": "Xt4X4FvXk2A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T13:00:08.000Z"
+      },
+      {
+        "key": "eGyyykgo6Qo",
+        "name": "Blanka vs. Ryu Special Look",
+        "type": "Teaser",
+        "published_at": "2026-07-30T13:00:02.000Z"
+      },
+      {
+        "key": "5tXleEhp9oY",
+        "name": "Zoom",
+        "type": "Teaser",
+        "published_at": "2026-05-24T11:00:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -7,7 +43,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "overview": "Bryan, a medical courier, unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "theatrical": true,
-    "trailer_published": "2026-09-01T09:30:23.000Z",
+    "trailer_published": "2026-09-01T14:22:17.000Z",
     "videos": [
       {
         "key": "mNd1gb19A-c",
@@ -22,16 +58,52 @@
         "published_at": "2026-04-30T12:59:32.000Z"
       },
       {
-        "key": "lY-QnOqp9k0",
-        "name": "Consider this your warning: Zach Cregger's Resident Evil tickets are on sale now",
+        "key": "CYWosV-0v4g",
+        "name": "30\" Video 'Experience'",
         "type": "Teaser",
-        "published_at": "2026-09-01T09:30:23.000Z"
+        "published_at": "2026-09-01T14:22:17.000Z"
       },
       {
-        "key": "X1oG2k1Qlrs",
-        "name": "In Cinemas SEPT 16",
+        "key": "v4Wtn0-xbEM",
+        "name": "7\" Teaser",
         "type": "Teaser",
-        "published_at": "2026-09-01T00:46:51.000Z"
+        "published_at": "2026-09-01T14:17:50.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T11:00:02.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "GjHIKD8BNn4",
+        "name": "Lee Pace has us under his spell in PRACTICAL MAGIC 2",
+        "type": "Teaser",
+        "published_at": "2026-09-01T11:00:02.000Z"
+      },
+      {
+        "key": "R3WHfBdaGpo",
+        "name": "Time to have some fun.",
+        "type": "Teaser",
+        "published_at": "2026-08-31T18:00:32.000Z"
       }
     ]
   },
@@ -40,7 +112,7 @@
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
     "trailer_published": "2026-09-01T09:00:19.000Z",
@@ -68,42 +140,6 @@
         "name": "See it Again",
         "type": "Teaser",
         "published_at": "2026-09-01T09:00:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-08-31T18:00:32.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "R3WHfBdaGpo",
-        "name": "Time to have some fun.",
-        "type": "Teaser",
-        "published_at": "2026-08-31T18:00:32.000Z"
-      },
-      {
-        "key": "bnq1YHl7yMg",
-        "name": "You heard them.",
-        "type": "Teaser",
-        "published_at": "2026-08-31T17:14:39.000Z"
       }
     ]
   },
@@ -782,6 +818,24 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-08-24T18:00:49.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1739202,
+    "title": "Untold Raygun: Breaking Badly",
+    "release_date": "2026-09-01",
+    "poster": "https://image.tmdb.org/t/p/w500/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
+    "overview": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun\u2019s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
+    "theatrical": false,
+    "trailer_published": "2026-08-24T16:30:00.000Z",
+    "videos": [
+      {
+        "key": "OCZg5l9BfRg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-24T16:30:00.000Z"
       }
     ]
   },
@@ -1500,6 +1554,24 @@
     ]
   },
   {
+    "id": 1480574,
+    "title": "Just Play Dead",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
+    "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
+    "theatrical": true,
+    "trailer_published": "2026-08-12T16:54:48.000Z",
+    "videos": [
+      {
+        "key": "LlAajeOoFBo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-12T16:54:48.000Z"
+      }
+    ]
+  },
+  {
     "id": 1280015,
     "title": "Sunny Dancer",
     "release_date": "2026-09-18",
@@ -1854,42 +1926,6 @@
     ]
   },
   {
-    "id": 1153576,
-    "title": "Street Fighter",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m45xBFqUT4EYpb8eIbamPGK3qea.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "theatrical": true,
-    "trailer_published": "2026-07-30T13:00:02.000Z",
-    "videos": [
-      {
-        "key": "Xt4X4FvXk2A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T13:00:08.000Z"
-      },
-      {
-        "key": "eGyyykgo6Qo",
-        "name": "Blanka vs. Ryu Special Look",
-        "type": "Teaser",
-        "published_at": "2026-07-30T13:00:02.000Z"
-      },
-      {
-        "key": "5tXleEhp9oY",
-        "name": "Zoom",
-        "type": "Teaser",
-        "published_at": "2026-05-24T11:00:05.000Z"
-      },
-      {
-        "key": "hwzW-MfZxGA",
-        "name": "Step into the ring. New Trailer drops TOMORROW.",
-        "type": "Teaser",
-        "published_at": "2026-04-15T13:00:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1679730,
     "title": "THE RIBBON HERO",
     "release_date": "2026-08-07",
@@ -2173,7 +2209,7 @@
   },
   {
     "id": 1693400,
-    "title": "Ghost: 2 Big to Rig",
+    "title": "2 Big to Rig",
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
@@ -2352,6 +2388,24 @@
     ]
   },
   {
+    "id": 1386315,
+    "title": "The Runner",
+    "release_date": "2026-09-02",
+    "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "overview": "A high-powered attorney must race through London, following the cryptic commands of a mysterious caller, as she fights against time to save her abducted son.",
+    "theatrical": false,
+    "trailer_published": "2026-07-16T15:00:28.000Z",
+    "videos": [
+      {
+        "key": "zz4rsZLcauY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T15:00:28.000Z"
+      }
+    ]
+  },
+  {
     "id": 1294189,
     "title": "The Mongoose",
     "release_date": "2026-10-30",
@@ -2402,6 +2456,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-27T15:59:37.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1732097,
+    "title": "Euphoria: A Look Back",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
+    "overview": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
+    "theatrical": false,
+    "trailer_published": "2026-07-15T15:00:04.000Z",
+    "videos": [
+      {
+        "key": "H0V8fgGlqIU",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T15:00:04.000Z"
       }
     ]
   },
@@ -2616,6 +2688,24 @@
     ]
   },
   {
+    "id": 1226699,
+    "title": "The Wrong Girls",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+    "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-07-07T16:00:10.000Z",
+    "videos": [
+      {
+        "key": "zrcg8YHSys8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-07T16:00:10.000Z"
+      }
+    ]
+  },
+  {
     "id": 980431,
     "title": "Avatar Aang: The Last Airbender",
     "release_date": "2026-07-24",
@@ -2654,24 +2744,6 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2025-02-13T12:59:27.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1698863,
-    "title": "The Odyssey",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
-    "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
-    "theatrical": false,
-    "trailer_published": "2026-07-01T20:12:58.000Z",
-    "videos": [
-      {
-        "key": "wD5w48WT3uo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-01T20:12:58.000Z"
       }
     ]
   },
@@ -2738,24 +2810,6 @@
         "name": "LENIN Trailer - Akhil Akkineni | Bhagyashri Borse | Thaman S | Murali Kishor | July 10th",
         "type": "Trailer",
         "published_at": "2026-06-30T13:44:32.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1509599,
-    "title": "Gatta Kusthi 2",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
-    "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
-    "theatrical": false,
-    "trailer_published": "2026-06-30T04:30:38.000Z",
-    "videos": [
-      {
-        "key": "KZ4W78J_PrM",
-        "name": "Gatta Kusthi 2 | Official Trailer | Releasing at PVR INOX on July 3!",
-        "type": "Trailer",
-        "published_at": "2026-06-30T04:30:38.000Z"
       }
     ]
   },
@@ -2967,7 +3021,7 @@
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bXRoEdk3zmkS4LfKu9cRBGbvI6o.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
@@ -2978,24 +3032,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-25T12:26:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1724816,
-    "title": "Helena",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/mcPq30k75P3kXQDF66NutDyEh64.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3Pg7gwfVqHkXwFgMgSLD3kdW3z2.jpg",
-    "overview": "Helena, the only hilot in a small town who secretly has affairs with her patients' husbands. After a pregnant patient dies upon discovering Helena's affair with her own husband, the enraged townsfolk turn against her.",
-    "theatrical": false,
-    "trailer_published": "2026-06-25T09:56:02.000Z",
-    "videos": [
-      {
-        "key": "yPZU0t7WDm8",
-        "name": "'HELENA' Official Trailer | VMX Crush JENN ROSA",
-        "type": "Trailer",
-        "published_at": "2026-06-25T09:56:02.000Z"
       }
     ]
   },
@@ -3378,24 +3414,6 @@
     ]
   },
   {
-    "id": 1645603,
-    "title": "Night of the Living Dead",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
-    "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
-    "theatrical": false,
-    "trailer_published": "2026-05-16T11:29:33.000Z",
-    "videos": [
-      {
-        "key": "3ZfsKIKtYaA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-16T11:29:33.000Z"
-      }
-    ]
-  },
-  {
     "id": 949838,
     "title": "72 HOURS",
     "release_date": "2026-07-20",
@@ -3626,24 +3644,6 @@
         "name": "Now in Production",
         "type": "Teaser",
         "published_at": "2025-05-09T16:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1424435,
-    "title": "Wings of Dread",
-    "release_date": "2026-07-03",
-    "poster": "https://image.tmdb.org/t/p/w500/iCnTJwkAMwIvaZgwpPHJJHfV0Er.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m0joYYat6anzyIaJ6B4CQnTMjti.jpg",
-    "overview": "Air police officer Gu Chaoyang encounters a hijacking crisis on his flight back to China. With his extremely high professional ethics, he fights desperately to stop the hijacker, and a life-and-death struggle that takes place at an altitude of ten thousand meters begins.",
-    "theatrical": false,
-    "trailer_published": "2025-04-27T02:38:49.000Z",
-    "videos": [
-      {
-        "key": "9AhPB0dgito",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2025-04-27T02:38:49.000Z"
       }
     ]
   },
