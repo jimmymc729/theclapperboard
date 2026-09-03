@@ -1,37 +1,103 @@
 [
   {
-    "id": 1244523,
-    "title": "Beware Boi\u00fana",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yMFUD7P43VYkFZDCwKlQe6NTHu1.jpg",
-    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
+    "id": 1400336,
+    "title": "Focker-in-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
     "theatrical": true,
-    "trailer_published": "2026-09-02T19:32:44.000Z",
+    "trailer_published": "2026-09-03T13:03:32.000Z",
     "videos": [
       {
-        "key": "4fn4UcgzRhg",
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-13T14:05:01.000Z"
+        "published_at": "2026-04-16T00:27:51.000Z"
       },
       {
-        "key": "pwXrrrGIeUk",
-        "name": "Grab onto something.",
+        "key": "DqcnBiYO7_A",
+        "name": "Trailer Tomorrow",
         "type": "Teaser",
-        "published_at": "2026-09-02T19:32:44.000Z"
+        "published_at": "2026-04-14T15:16:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-09-02T20:00:15.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
       },
       {
-        "key": "qQ8jZHojioM",
-        "name": "Humans are her favorite snack.",
-        "type": "Teaser",
-        "published_at": "2026-09-02T17:16:23.000Z"
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
       },
       {
-        "key": "Vet5fESvTO8",
-        "name": "Ssssay her name. Say her name.",
+        "key": "08M1NTemKSU",
+        "name": "Grab your umbrella and fly to the theater!",
         "type": "Teaser",
-        "published_at": "2026-08-20T21:45:24.000Z"
+        "published_at": "2026-09-02T20:00:15.000Z"
+      },
+      {
+        "key": "GjHIKD8BNn4",
+        "name": "Lee Pace has us under his spell in PRACTICAL MAGIC 2",
+        "type": "Teaser",
+        "published_at": "2026-09-01T11:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-02T17:07:07.000Z",
+    "videos": [
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "YbFvSQo8RiA",
+        "name": "Locking in",
+        "type": "Teaser",
+        "published_at": "2026-09-02T17:07:07.000Z"
+      },
+      {
+        "key": "3qIaCVJ9b0k",
+        "name": "Every introverted friend needs their extroverted friend",
+        "type": "Teaser",
+        "published_at": "2026-09-01T17:01:45.000Z"
       }
     ]
   },
@@ -108,6 +174,42 @@
     ]
   },
   {
+    "id": 843352,
+    "title": "Legend of the White Dragon",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T21:23:15.000Z",
+    "videos": [
+      {
+        "key": "TJ5bCaaGIx4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-07T17:02:16.000Z"
+      },
+      {
+        "key": "1iyMrYA4pBo",
+        "name": "This is what legends are made of.",
+        "type": "Teaser",
+        "published_at": "2026-09-01T21:23:15.000Z"
+      },
+      {
+        "key": "1kuCIcqv_sw",
+        "name": "Happy Power Rangers Day!",
+        "type": "Teaser",
+        "published_at": "2026-08-28T21:00:18.000Z"
+      },
+      {
+        "key": "T40arNVCAjA",
+        "name": "The wait is almost over. Legend Of The White Dragon hits theaters TOMORROW!",
+        "type": "Teaser",
+        "published_at": "2026-08-27T19:21:54.000Z"
+      }
+    ]
+  },
+  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
@@ -144,47 +246,11 @@
     ]
   },
   {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T11:00:02.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "GjHIKD8BNn4",
-        "name": "Lee Pace has us under his spell in PRACTICAL MAGIC 2",
-        "type": "Teaser",
-        "published_at": "2026-09-01T11:00:02.000Z"
-      },
-      {
-        "key": "R3WHfBdaGpo",
-        "name": "Time to have some fun.",
-        "type": "Teaser",
-        "published_at": "2026-08-31T18:00:32.000Z"
-      }
-    ]
-  },
-  {
     "id": 969681,
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
     "trailer_published": "2026-09-01T09:00:19.000Z",
@@ -255,7 +321,7 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
@@ -378,72 +444,6 @@
     ]
   },
   {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-08-29T17:05:01.000Z",
-    "videos": [
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
-      },
-      {
-        "key": "pBypFuz1WNQ",
-        "name": "You need your bestie by your side through everything",
-        "type": "Teaser",
-        "published_at": "2026-08-29T17:05:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 843352,
-    "title": "Legend of the White Dragon",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
-    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
-    "theatrical": true,
-    "trailer_published": "2026-08-28T21:00:18.000Z",
-    "videos": [
-      {
-        "key": "TJ5bCaaGIx4",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-07T17:02:16.000Z"
-      },
-      {
-        "key": "1kuCIcqv_sw",
-        "name": "Happy Power Rangers Day!",
-        "type": "Teaser",
-        "published_at": "2026-08-28T21:00:18.000Z"
-      },
-      {
-        "key": "T40arNVCAjA",
-        "name": "The wait is almost over. Legend Of The White Dragon hits theaters TOMORROW!",
-        "type": "Teaser",
-        "published_at": "2026-08-27T19:21:54.000Z"
-      },
-      {
-        "key": "qlyZZe0Dpjs",
-        "name": "Jenna R Frank has a special message for you.",
-        "type": "Teaser",
-        "published_at": "2026-08-25T21:03:56.000Z"
-      }
-    ]
-  },
-  {
     "id": 1288059,
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
@@ -485,7 +485,7 @@
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
     "theatrical": true,
     "trailer_published": "2026-08-27T22:00:07.000Z",
     "videos": [
@@ -930,6 +930,24 @@
     ]
   },
   {
+    "id": 1654516,
+    "title": "Babita Singh Reporting",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
+    "overview": "People-pleasing cop Baby accepts a fake charge to get leave for her sister-in-law\u2019s baby shower in Rewa. There, she reunites with her childhood friend Bansi, who is murdered that very night. Defying dismissive in-laws, an indifferent husband and an apathetic local police force, she secretly investigates the murder, uncovering family betrayals while finding her own voice, courage and place as a real cop.",
+    "theatrical": false,
+    "trailer_published": "2026-08-21T04:30:34.000Z",
+    "videos": [
+      {
+        "key": "XXzW4rjidqg",
+        "name": "Babita Singh Reporting - Official Trailer | Prime Video India",
+        "type": "Trailer",
+        "published_at": "2026-08-21T04:30:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -1095,7 +1113,7 @@
     "id": 1213243,
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "theatrical": true,
@@ -1194,6 +1212,24 @@
     ]
   },
   {
+    "id": 1361982,
+    "title": "The Room Below",
+    "release_date": "2026-09-01",
+    "poster": "https://image.tmdb.org/t/p/w500/nnQ9kmxEr332OSYhVcQqIsHgXI3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5zGpKdXLGFYFqX0we1blyFiH3J1.jpg",
+    "overview": "After losing her son to cancer, a grieving mother living with a mysterious creature in her home befriends another boy to replace her dead son. But when a retired detective begins investigating the child's disappearance, her carefully constructed world starts to unravel.",
+    "theatrical": false,
+    "trailer_published": "2026-08-18T18:49:21.000Z",
+    "videos": [
+      {
+        "key": "VrkUcEx-2l8",
+        "name": "THE ROOM BELOW - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-18T18:49:21.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-15",
@@ -1237,7 +1273,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
     "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
     "theatrical": true,
-    "trailer_published": "2026-08-18T15:00:02.000Z",
+    "trailer_published": "2026-08-18T15:53:44.000Z",
     "videos": [
       {
         "key": "Pc9MbCNYn3k",
@@ -1256,6 +1292,12 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-09T14:59:50.000Z"
+      },
+      {
+        "key": "O1fNEHX9tSM",
+        "name": "BUDDY Official Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2026-08-18T15:53:44.000Z"
       }
     ]
   },
@@ -1524,6 +1566,24 @@
     ]
   },
   {
+    "id": 1731694,
+    "title": "LEGO Star Wars: The Mandalorian",
+    "release_date": "2026-09-02",
+    "poster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
+    "overview": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+    "theatrical": false,
+    "trailer_published": "2026-08-14T17:15:33.000Z",
+    "videos": [
+      {
+        "key": "NEqBkXeEpkk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-14T17:15:33.000Z"
+      }
+    ]
+  },
+  {
     "id": 1556321,
     "title": "Death Whisperer: Saming the Werebeast",
     "release_date": "2026-09-30",
@@ -1562,42 +1622,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-12T16:54:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1280015,
-    "title": "Sunny Dancer",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
-    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
-    "theatrical": true,
-    "trailer_published": "2026-08-11T20:45:19.000Z",
-    "videos": [
-      {
-        "key": "-W_a2oCFNOY",
-        "name": "Official US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T20:45:19.000Z"
-      },
-      {
-        "key": "UQxRhHK_Bmw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-05T08:43:20.000Z"
-      },
-      {
-        "key": "N8UFyNj-u5Y",
-        "name": "Run Free",
-        "type": "Teaser",
-        "published_at": "2026-08-10T06:06:59.000Z"
-      },
-      {
-        "key": "Y6eQRGLlAaI",
-        "name": "Are They?!?",
-        "type": "Teaser",
-        "published_at": "2026-08-10T06:06:49.000Z"
       }
     ]
   },
@@ -1658,8 +1682,8 @@
   {
     "id": 1058424,
     "title": "Hope",
-    "release_date": "2026-09-07",
-    "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "theatrical": true,
@@ -1749,7 +1773,7 @@
     "id": 1462861,
     "title": "Spider Island",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/4Cg83AAcqQLqAbtyCegirUHqKQi.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5JfVDRXXWw9iF1UERjd4QTdlCow.jpg",
     "overview": "A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders.",
     "theatrical": false,
@@ -1778,6 +1802,30 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-08-07T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1750516,
+    "title": "Pallaburusu",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/w2HSqxbdgkN6d6Rg5HvCUaMpG7x.jpg",
+    "overview": "A 70 year old widower asks his son to buy him a toothbrush for his toothache. When the son fails to do this simple errand, their already strained father-son relationship becomes comically worse through a series of escalating events.",
+    "theatrical": false,
+    "trailer_published": "2026-08-07T03:52:19.000Z",
+    "videos": [
+      {
+        "key": "kXTdgb6QrsY",
+        "name": "Pallaburusu Official Trailer | Annapurna Studios | EPIC Studios | Uday Chauhan | Pawan CH",
+        "type": "Trailer",
+        "published_at": "2026-08-07T03:52:19.000Z"
+      },
+      {
+        "key": "BnoxTrChKAY",
+        "name": "Pallaburusu Teaser | Annapurna Studios | EPIC Studios | Uday Chauhan | Pawan CH",
+        "type": "Teaser",
+        "published_at": "2026-07-29T10:36:28.000Z"
       }
     ]
   },
@@ -2494,7 +2542,7 @@
     "title": "The Runner",
     "release_date": "2026-09-02",
     "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
     "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
     "theatrical": false,
     "trailer_published": "2026-07-16T15:00:28.000Z",
@@ -2654,11 +2702,11 @@
   {
     "id": 1198654,
     "title": "Bad Apples",
-    "release_date": "2025-10-25",
+    "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
     "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
-    "theatrical": false,
+    "theatrical": true,
     "trailer_published": "2026-07-09T16:33:32.000Z",
     "videos": [
       {
@@ -2952,6 +3000,30 @@
     ]
   },
   {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-06-29T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3228,24 +3300,6 @@
     ]
   },
   {
-    "id": 1339676,
-    "title": "I, Nobody",
-    "release_date": "2026-07-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zNvSWIvca6aA0eq63JqzVvagqLI.jpg",
-    "overview": "Rajeevan, an ordinary government employee, witnesses something he was never meant to see and is thrust into the centre of a serious crime. Branded a troublemaker and hunted by the system, he must protect his family while fighting to survive against forces far beyond his control.",
-    "theatrical": false,
-    "trailer_published": "2026-06-18T11:30:07.000Z",
-    "videos": [
-      {
-        "key": "NA_7tmxv4_c",
-        "name": "I,Nobody Trailer - Malayalam| Prithviraj Sukumaran| Parvathy Thiruvothu| Nisam Basheer| Jakes Bejoy",
-        "type": "Trailer",
-        "published_at": "2026-06-18T11:30:07.000Z"
-      }
-    ]
-  },
-  {
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
@@ -3344,24 +3398,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-15T13:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1421594,
-    "title": "Inside the Trustor Scandal",
-    "release_date": "2026-08-05",
-    "poster": "https://image.tmdb.org/t/p/w500/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xLJgxU9hTga9tsFw960g1h1uDvx.jpg",
-    "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
-    "theatrical": false,
-    "trailer_published": "2026-06-12T07:00:00.000Z",
-    "videos": [
-      {
-        "key": "Ia_cAr_IM54",
-        "name": "Inside the Trustor Scandal | Official Clip | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-06-12T07:00:00.000Z"
       }
     ]
   },
@@ -3486,30 +3522,6 @@
     ]
   },
   {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
-    "theatrical": true,
-    "trailer_published": "2026-04-16T00:27:51.000Z",
-    "videos": [
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "DqcnBiYO7_A",
-        "name": "Trailer Tomorrow",
-        "type": "Teaser",
-        "published_at": "2026-04-14T15:16:11.000Z"
-      }
-    ]
-  },
-  {
     "id": 1472951,
     "title": "Infiltrate",
     "release_date": "2026-04-10",
@@ -3584,24 +3596,6 @@
         "name": "Trapped in the frozen wilderness, her fight for survival begins.",
         "type": "Teaser",
         "published_at": "2026-02-24T17:15:04.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1484913,
-    "title": "Ikka",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
-    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way.",
-    "theatrical": false,
-    "trailer_published": "2026-02-03T11:38:55.000Z",
-    "videos": [
-      {
-        "key": "LEargi83ofQ",
-        "name": "First Look",
-        "type": "Teaser",
-        "published_at": "2026-02-03T11:38:55.000Z"
       }
     ]
   },
