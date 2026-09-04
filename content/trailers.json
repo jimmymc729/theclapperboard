@@ -22,7 +22,7 @@
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
     "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
     "theatrical": true,
     "trailer_published": "2026-09-03T13:03:32.000Z",
@@ -84,30 +84,6 @@
     ]
   },
   {
-    "id": 1422041,
-    "title": "La bola negra",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/oNvDkdJ0Ykx4sOrcxsFtE6LoOS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "theatrical": true,
-    "trailer_published": "2026-09-02T23:50:29.000Z",
-    "videos": [
-      {
-        "key": "IRHtqjHYPew",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-01T14:00:00.000Z"
-      },
-      {
-        "key": "mWuNv_I1h6U",
-        "name": "BIFF2026 Trailer | \ube14\ub799 \ubcfc La Bola Negra | \ud50c\ub798\uc2dc \ud3ec\uc6cc\ub4dc",
-        "type": "Trailer",
-        "published_at": "2026-09-02T23:50:29.000Z"
-      }
-    ]
-  },
-  {
     "id": 1465063,
     "title": "Forgotten Island",
     "release_date": "2026-09-25",
@@ -148,7 +124,7 @@
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
     "poster": "https://image.tmdb.org/t/p/w500/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aBtS3yCWReAen3OefxBXedbArFI.jpg",
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "theatrical": true,
     "trailer_published": "2026-09-02T17:00:01.000Z",
@@ -212,6 +188,24 @@
         "name": "Exemption Night",
         "type": "Teaser",
         "published_at": "2026-09-02T13:05:14.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1532610,
+    "title": "Ink",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gcFPbkzLcoHv2TgwXr39NF8kRFh.jpg",
+    "overview": "A group of misfits and visionaries had an idea for a new kind of news - one that would give the people what they want, and would change the face of the world we live in today.",
+    "theatrical": true,
+    "trailer_published": "2026-09-02T13:00:31.000Z",
+    "videos": [
+      {
+        "key": "_LE1L4Huyys",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-02T13:00:31.000Z"
       }
     ]
   },
@@ -320,6 +314,24 @@
         "name": "Zoom",
         "type": "Teaser",
         "published_at": "2026-05-24T11:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1422041,
+    "title": "La bola negra",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/oNvDkdJ0Ykx4sOrcxsFtE6LoOS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "IRHtqjHYPew",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-01T14:00:00.000Z"
       }
     ]
   },
@@ -436,7 +448,7 @@
     "title": "The Dog Stars",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
     "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
     "theatrical": true,
     "trailer_published": "2026-08-31T07:00:19.000Z",
@@ -738,30 +750,6 @@
     ]
   },
   {
-    "id": 1228834,
-    "title": "The Fix",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T14:07:41.000Z",
-    "videos": [
-      {
-        "key": "l5Luvr9TRRc",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T14:07:41.000Z"
-      },
-      {
-        "key": "NYC0v8xqQdM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T17:02:01.000Z"
-      }
-    ]
-  },
-  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -776,6 +764,60 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-26T13:59:48.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1477104,
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/izLG3cxbG89nK75OHyd1zvjR7n8.jpg",
+    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T12:00:27.000Z",
+    "videos": [
+      {
+        "key": "daZMq0AyOMc",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T12:00:27.000Z"
+      },
+      {
+        "key": "T3K2uKvi_0s",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-06-24T13:00:32.000Z"
+      },
+      {
+        "key": "UZ46Smi6mOw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T17:00:48.000Z"
+      },
+      {
+        "key": "Cok148lEKPM",
+        "name": "Movie Teaser",
+        "type": "Teaser",
+        "published_at": "2025-10-30T17:01:31.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437981,
+    "title": "Coward",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/AjgJ4yHrkQjKtl48E8X2VwxB78D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/doSQ4GYJrhDMd5GRneDG9i9UImJ.jpg",
+    "overview": "Pierre, a young Belgian soldier, wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
+    "theatrical": true,
+    "trailer_published": "2026-08-25T17:41:17.000Z",
+    "videos": [
+      {
+        "key": "vyRlBGfVlvQ",
+        "name": "Coward | Official Trailer | BIL | Lumi\u00e8re",
+        "type": "Trailer",
+        "published_at": "2026-08-25T17:41:17.000Z"
       }
     ]
   },
@@ -840,29 +882,11 @@
     ]
   },
   {
-    "id": 1355228,
-    "title": "Gandhari",
-    "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-    "theatrical": false,
-    "trailer_published": "2026-08-25T10:38:05.000Z",
-    "videos": [
-      {
-        "key": "TRyBiPD1bUc",
-        "name": "GANDHARI - OFFICIAL TRAILER | KANIKA DHILLON | TAPSEE PANNU",
-        "type": "Trailer",
-        "published_at": "2026-08-25T10:38:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1729723,
     "title": "Yellow Mirror",
     "release_date": "2026-08-26",
     "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qKdkPfBASoy7dmOEklAeAtNHXm9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
     "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
     "theatrical": false,
     "trailer_published": "2026-08-24T18:00:49.000Z",
@@ -986,24 +1010,6 @@
         "name": "Hive",
         "type": "Teaser",
         "published_at": "2026-08-10T18:07:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1654516,
-    "title": "Babita Singh Reporting",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
-    "overview": "People-pleasing cop Baby accepts a fake charge to get leave for her sister-in-law\u2019s baby shower in Rewa. There, she reunites with her childhood friend Bansi, who is murdered that very night. Defying dismissive in-laws, an indifferent husband and an apathetic local police force, she secretly investigates the murder, uncovering family betrayals while finding her own voice, courage and place as a real cop.",
-    "theatrical": false,
-    "trailer_published": "2026-08-21T04:30:34.000Z",
-    "videos": [
-      {
-        "key": "XXzW4rjidqg",
-        "name": "Babita Singh Reporting - Official Trailer | Prime Video India",
-        "type": "Trailer",
-        "published_at": "2026-08-21T04:30:34.000Z"
       }
     ]
   },
@@ -1232,24 +1238,6 @@
         "name": "Is Peace A Fantasy?",
         "type": "Teaser",
         "published_at": "2026-08-07T15:00:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1361982,
-    "title": "The Room Below",
-    "release_date": "2026-09-01",
-    "poster": "https://image.tmdb.org/t/p/w500/nnQ9kmxEr332OSYhVcQqIsHgXI3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5zGpKdXLGFYFqX0we1blyFiH3J1.jpg",
-    "overview": "After losing her son to cancer, a grieving mother living with a mysterious creature in her home befriends another boy to replace her dead son. But when a retired detective begins investigating the child's disappearance, her carefully constructed world starts to unravel.",
-    "theatrical": false,
-    "trailer_published": "2026-08-18T18:49:21.000Z",
-    "videos": [
-      {
-        "key": "VrkUcEx-2l8",
-        "name": "THE ROOM BELOW - Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-18T18:49:21.000Z"
       }
     ]
   },
@@ -1572,6 +1560,24 @@
     ]
   },
   {
+    "id": 1403836,
+    "title": "The Bluey Movie",
+    "release_date": "2027-08-06",
+    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
+    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
+    "theatrical": true,
+    "trailer_published": "2026-08-15T03:26:36.000Z",
+    "videos": [
+      {
+        "key": "I0YWGgZBiYc",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-08-15T03:26:36.000Z"
+      }
+    ]
+  },
+  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -1646,6 +1652,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-12T16:54:48.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1280015,
+    "title": "Sunny Dancer",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hRsl1RMijpUCtLH3nZzRMnTjFYl.jpg",
+    "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+    "theatrical": true,
+    "trailer_published": "2026-08-11T20:45:19.000Z",
+    "videos": [
+      {
+        "key": "-W_a2oCFNOY",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T20:45:19.000Z"
+      },
+      {
+        "key": "UQxRhHK_Bmw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-05T08:43:20.000Z"
+      },
+      {
+        "key": "N8UFyNj-u5Y",
+        "name": "Run Free",
+        "type": "Teaser",
+        "published_at": "2026-08-10T06:06:59.000Z"
+      },
+      {
+        "key": "Y6eQRGLlAaI",
+        "name": "Are They?!?",
+        "type": "Teaser",
+        "published_at": "2026-08-10T06:06:49.000Z"
       }
     ]
   },
@@ -1826,30 +1868,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-08-07T07:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1750516,
-    "title": "Pallaburusu",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/w2HSqxbdgkN6d6Rg5HvCUaMpG7x.jpg",
-    "overview": "A 70 year old widower asks his son to buy him a toothbrush for his toothache. When the son fails to do this simple errand, their already strained father-son relationship becomes comically worse through a series of escalating events.",
-    "theatrical": false,
-    "trailer_published": "2026-08-07T03:52:19.000Z",
-    "videos": [
-      {
-        "key": "kXTdgb6QrsY",
-        "name": "Pallaburusu Official Trailer | Annapurna Studios | EPIC Studios | Uday Chauhan | Pawan CH",
-        "type": "Trailer",
-        "published_at": "2026-08-07T03:52:19.000Z"
-      },
-      {
-        "key": "BnoxTrChKAY",
-        "name": "Pallaburusu Teaser | Annapurna Studios | EPIC Studios | Uday Chauhan | Pawan CH",
-        "type": "Teaser",
-        "published_at": "2026-07-29T10:36:28.000Z"
       }
     ]
   },
@@ -2316,6 +2334,24 @@
     ]
   },
   {
+    "id": 1148365,
+    "title": "Matchbox: The Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-07-25T21:30:05.000Z",
+    "videos": [
+      {
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-25T21:30:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1212763,
     "title": "Evil Dead Burn",
     "release_date": "2026-07-10",
@@ -2716,7 +2752,7 @@
     "title": "Mayday",
     "release_date": "2026-09-03",
     "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
     "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
     "theatrical": false,
     "trailer_published": "2026-07-14T12:59:55.000Z",
@@ -2744,24 +2780,6 @@
         "name": "Kung Fu Soccer\u300a\u529f\u592b\u5973\u8db3\u300b- Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-12T13:01:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1607634,
-    "title": "Anbe Diana",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
-    "overview": "Set in Perambur, a local Telugu youth falls for an Anglo-Indian girl, sparking a chaotic and humorous clash of cultures between their families.",
-    "theatrical": false,
-    "trailer_published": "2026-07-11T11:30:02.000Z",
-    "videos": [
-      {
-        "key": "gcXw7BMSfIQ",
-        "name": "Anbe Diana Trailer | Pari Elavazhagan, Ramya Ranganathan, Roja | Bharath Sankar",
-        "type": "Trailer",
-        "published_at": "2026-07-11T11:30:02.000Z"
       }
     ]
   },
@@ -3051,7 +3069,7 @@
     "id": 1300926,
     "title": "The Angry Birds Movie 3",
     "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/80CqYcCvlVXQWvALCUBueP5FWvt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
     "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
     "theatrical": true,
