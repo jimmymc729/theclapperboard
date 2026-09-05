@@ -1,5 +1,41 @@
 [
   {
+    "id": 1384216,
+    "title": "The Dog Stars",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+    "theatrical": true,
+    "trailer_published": "2026-09-04T04:00:16.000Z",
+    "videos": [
+      {
+        "key": "-xSxaE1ClEE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T16:00:06.000Z"
+      },
+      {
+        "key": "sVCrTJdNtSs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-08T16:00:16.000Z"
+      },
+      {
+        "key": "cmzVY1goqwQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T23:01:30.000Z"
+      },
+      {
+        "key": "AdQE5Yxt6tg",
+        "name": "IMAX Event",
+        "type": "Teaser",
+        "published_at": "2026-09-04T04:00:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1479832,
     "title": "DC",
     "release_date": "2026-08-07",
@@ -14,6 +50,42 @@
         "name": "DC \u2013 Trailer | Watch Now ONLY on Sun NXT | Lokesh | Anirudh | Arun | Wamiqa",
         "type": "Trailer",
         "published_at": "2026-09-03T18:30:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-03T16:05:41.000Z",
+    "videos": [
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "4nOsPFIlQvk",
+        "name": "Normal sibling relationships",
+        "type": "Teaser",
+        "published_at": "2026-09-03T16:05:41.000Z"
+      },
+      {
+        "key": "YbFvSQo8RiA",
+        "name": "Locking in",
+        "type": "Teaser",
+        "published_at": "2026-09-02T17:07:07.000Z"
       }
     ]
   },
@@ -84,42 +156,6 @@
     ]
   },
   {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-02T17:07:07.000Z",
-    "videos": [
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
-      },
-      {
-        "key": "YbFvSQo8RiA",
-        "name": "Locking in",
-        "type": "Teaser",
-        "published_at": "2026-09-02T17:07:07.000Z"
-      },
-      {
-        "key": "3qIaCVJ9b0k",
-        "name": "Every introverted friend needs their extroverted friend",
-        "type": "Teaser",
-        "published_at": "2026-09-01T17:01:45.000Z"
-      }
-    ]
-  },
-  {
     "id": 1101412,
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
@@ -156,6 +192,36 @@
     ]
   },
   {
+    "id": 1452168,
+    "title": "Behemoth!",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gI3s8kkXsG0VHkpWjtZBKOz6sOk.jpg",
+    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-02T14:15:15.000Z",
+    "videos": [
+      {
+        "key": "xOiIgN2n2v8",
+        "name": "London Film Festival",
+        "type": "Teaser",
+        "published_at": "2026-09-02T14:15:15.000Z"
+      },
+      {
+        "key": "nlHocRZln8c",
+        "name": "NYFF Announcement",
+        "type": "Teaser",
+        "published_at": "2026-07-28T15:09:54.000Z"
+      },
+      {
+        "key": "TrMGdrCJ5Ck",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-14T13:00:12.000Z"
+      }
+    ]
+  },
+  {
     "id": 1433367,
     "title": "One Night Only",
     "release_date": "2026-08-07",
@@ -188,24 +254,6 @@
         "name": "Exemption Night",
         "type": "Teaser",
         "published_at": "2026-09-02T13:05:14.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1532610,
-    "title": "Ink",
-    "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gcFPbkzLcoHv2TgwXr39NF8kRFh.jpg",
-    "overview": "A group of misfits and visionaries had an idea for a new kind of news - one that would give the people what they want, and would change the face of the world we live in today.",
-    "theatrical": true,
-    "trailer_published": "2026-09-02T13:00:31.000Z",
-    "videos": [
-      {
-        "key": "_LE1L4Huyys",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-02T13:00:31.000Z"
       }
     ]
   },
@@ -440,42 +488,6 @@
         "name": "In Cinemas 8 October",
         "type": "Teaser",
         "published_at": "2026-08-25T06:59:32.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1384216,
-    "title": "The Dog Stars",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "theatrical": true,
-    "trailer_published": "2026-08-31T07:00:19.000Z",
-    "videos": [
-      {
-        "key": "-xSxaE1ClEE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T16:00:06.000Z"
-      },
-      {
-        "key": "sVCrTJdNtSs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-08T16:00:16.000Z"
-      },
-      {
-        "key": "cmzVY1goqwQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T23:01:30.000Z"
-      },
-      {
-        "key": "fJqRs26wlk4",
-        "name": "Legend Lite",
-        "type": "Teaser",
-        "published_at": "2026-08-31T07:00:19.000Z"
       }
     ]
   },
@@ -746,6 +758,30 @@
         "name": "\u201cDie Hard on the high seas.\u201d",
         "type": "Teaser",
         "published_at": "2026-08-26T18:51:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1228834,
+    "title": "The Fix",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T14:07:41.000Z",
+    "videos": [
+      {
+        "key": "l5Luvr9TRRc",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T14:07:41.000Z"
+      },
+      {
+        "key": "NYC0v8xqQdM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T17:02:01.000Z"
       }
     ]
   },
@@ -1054,7 +1090,7 @@
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "trailer_published": "2026-08-20T17:05:04.000Z",
@@ -1179,7 +1215,7 @@
     "id": 1213243,
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "theatrical": true,
@@ -1413,7 +1449,7 @@
     "id": 1752159,
     "title": "Turning Point: Generation 9/11",
     "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/6DVDbbneXuhFHmqGvTVko2sVz0o.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
     "overview": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
     "theatrical": false,
@@ -1695,7 +1731,7 @@
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/d4nhnyzauV6j4IcCJvd6rbzN4b4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
     "overview": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "theatrical": true,
@@ -2192,30 +2228,6 @@
         "name": "One. Last. Game. The final countdown begins.",
         "type": "Teaser",
         "published_at": "2026-07-29T01:00:14.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1452168,
-    "title": "Behemoth!",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gI3s8kkXsG0VHkpWjtZBKOz6sOk.jpg",
-    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
-    "theatrical": true,
-    "trailer_published": "2026-07-28T15:09:54.000Z",
-    "videos": [
-      {
-        "key": "nlHocRZln8c",
-        "name": "NYFF Announcement",
-        "type": "Teaser",
-        "published_at": "2026-07-28T15:09:54.000Z"
-      },
-      {
-        "key": "TrMGdrCJ5Ck",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-14T13:00:12.000Z"
       }
     ]
   },
@@ -2752,7 +2764,7 @@
     "title": "Mayday",
     "release_date": "2026-09-03",
     "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
     "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
     "theatrical": false,
     "trailer_published": "2026-07-14T12:59:55.000Z",
