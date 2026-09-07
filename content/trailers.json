@@ -7,7 +7,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
-    "trailer_published": "2026-09-05T20:00:02.000Z",
+    "trailer_published": "2026-09-06T16:30:32.000Z",
     "videos": [
       {
         "key": "Ho10_4IX1jE",
@@ -22,16 +22,16 @@
         "published_at": "2026-04-20T16:01:08.000Z"
       },
       {
-        "key": "1tVwec-A_XI",
-        "name": "The reviews are in: audiences are under the spell of Practical Magic 2.",
+        "key": "vlpg5WAg12U",
+        "name": "Gilly, she's still the spontaneous one.",
         "type": "Teaser",
-        "published_at": "2026-09-05T20:00:02.000Z"
+        "published_at": "2026-09-06T16:30:32.000Z"
       },
       {
-        "key": "w8Wr-pAjWzk",
-        "name": "The apple doesn\u2019t fall far from the tree.",
+        "key": "t5MpkTaNiC8",
+        "name": "Magic is in her past, but her past won\u2019t be silenced.",
         "type": "Teaser",
-        "published_at": "2026-09-05T17:00:34.000Z"
+        "published_at": "2026-09-06T16:00:10.000Z"
       }
     ]
   },
@@ -250,7 +250,7 @@
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
     "poster": "https://image.tmdb.org/t/p/w500/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aBtS3yCWReAen3OefxBXedbArFI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "theatrical": true,
     "trailer_published": "2026-09-02T17:00:01.000Z",
@@ -410,42 +410,6 @@
         "name": "Zoom",
         "type": "Teaser",
         "published_at": "2026-05-24T11:00:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1108427,
-    "title": "Moana",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T14:00:10.000Z",
-    "videos": [
-      {
-        "key": "EEz5xbzYPKI",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T16:01:25.000Z"
-      },
-      {
-        "key": "n7f6hlKsxxo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-23T16:00:07.000Z"
-      },
-      {
-        "key": "ib8ZqtBg0qU",
-        "name": "Be The First To Watch At Home",
-        "type": "Teaser",
-        "published_at": "2026-09-01T14:00:10.000Z"
-      },
-      {
-        "key": "w_MhwUwNuKU",
-        "name": "destination: Motunui",
-        "type": "Teaser",
-        "published_at": "2026-07-29T16:00:04.000Z"
       }
     ]
   },
@@ -724,7 +688,7 @@
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
     "trailer_published": "2026-08-27T14:22:04.000Z",
@@ -1409,7 +1373,7 @@
     "release_date": "2026-09-04",
     "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
-    "overview": "A young Black FBI agent is sent into 1960s Mississippi to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, he finds himself pulled into a deadly hunt where justice and vengeance begin to blur.",
+    "overview": "In 1960s Mississippi, young Black FBI agent Wayne Strider is sent to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, Strider finds himself pulled into a deadly hunt where the lines of justice and vengeance begin to blur.",
     "theatrical": true,
     "trailer_published": "2026-08-17T22:58:28.000Z",
     "videos": [
@@ -1638,6 +1602,42 @@
     ]
   },
   {
+    "id": 1058424,
+    "title": "Hope",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "theatrical": true,
+    "trailer_published": "2026-08-14T12:30:11.000Z",
+    "videos": [
+      {
+        "key": "OFaJzL83y0Q",
+        "name": "HOPE Official English Trailer (2026) | Sci-fi Action Thriller Movie | Coming to Indian Cinemas",
+        "type": "Trailer",
+        "published_at": "2026-08-14T12:30:11.000Z"
+      },
+      {
+        "key": "mYRc2Gl7geY",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-10T13:00:31.000Z"
+      },
+      {
+        "key": "R5jcEBVBEbQ",
+        "name": "Official US Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-07-09T14:00:20.000Z"
+      },
+      {
+        "key": "ODnHr2Emnf0",
+        "name": "International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-05-17T23:00:39.000Z"
+      }
+    ]
+  },
+  {
     "id": 1748841,
     "title": "Dark Hollow",
     "release_date": "2026-09-04",
@@ -1724,42 +1724,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-06-23T14:01:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1058424,
-    "title": "Hope",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "theatrical": true,
-    "trailer_published": "2026-08-10T13:00:31.000Z",
-    "videos": [
-      {
-        "key": "mYRc2Gl7geY",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-10T13:00:31.000Z"
-      },
-      {
-        "key": "R5jcEBVBEbQ",
-        "name": "Official US Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-09T14:00:20.000Z"
-      },
-      {
-        "key": "ODnHr2Emnf0",
-        "name": "International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-05-17T23:00:39.000Z"
-      },
-      {
-        "key": "Vt7860xZFXk",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-18T01:00:31.000Z"
       }
     ]
   },
@@ -2349,7 +2313,7 @@
     "id": 1530121,
     "title": "The Girl in the River",
     "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/jjTMUmxP3Wu1RRUqvBLGSLcYaee.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
     "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
     "theatrical": true,
@@ -2709,8 +2673,8 @@
     "id": 1137844,
     "title": "Mayday",
     "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5N456LS26jNCKYMcJWbEeDsvKWf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
     "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
     "theatrical": false,
     "trailer_published": "2026-07-14T12:59:55.000Z",
@@ -3056,6 +3020,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-29T12:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1444466,
+    "title": "Awarapan 2",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dLw4YK72fW4dF82nnLFDbeXotSX.jpg",
+    "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
+    "theatrical": true,
+    "trailer_published": "2026-06-29T05:34:34.000Z",
+    "videos": [
+      {
+        "key": "IQ7HkZ-Gun8",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2026-06-29T05:34:34.000Z"
       }
     ]
   },
