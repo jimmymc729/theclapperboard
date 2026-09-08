@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": 1765072,
+    "title": "You Can See Everything",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "theatrical": true,
+    "trailer_published": "2026-09-07T00:30:04.000Z",
+    "videos": [
+      {
+        "key": "GGJSRFWALTI",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-07T00:30:04.000Z"
+      }
+    ]
+  },
+  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -112,7 +130,7 @@
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-09-04T18:30:49.000Z",
@@ -237,7 +255,7 @@
     "id": 1400336,
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
     "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
     "theatrical": true,
@@ -278,6 +296,42 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-03T10:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1244523,
+    "title": "Beware Boi\u00fana",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yMFUD7P43VYkFZDCwKlQe6NTHu1.jpg",
+    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
+    "theatrical": true,
+    "trailer_published": "2026-09-02T19:32:44.000Z",
+    "videos": [
+      {
+        "key": "4fn4UcgzRhg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-13T14:05:01.000Z"
+      },
+      {
+        "key": "pwXrrrGIeUk",
+        "name": "Grab onto something.",
+        "type": "Teaser",
+        "published_at": "2026-09-02T19:32:44.000Z"
+      },
+      {
+        "key": "qQ8jZHojioM",
+        "name": "Humans are her favorite snack.",
+        "type": "Teaser",
+        "published_at": "2026-09-02T17:16:23.000Z"
+      },
+      {
+        "key": "Vet5fESvTO8",
+        "name": "Ssssay her name. Say her name.",
+        "type": "Teaser",
+        "published_at": "2026-08-20T21:45:24.000Z"
       }
     ]
   },
@@ -348,10 +402,28 @@
     ]
   },
   {
+    "id": 1532610,
+    "title": "Ink",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yV5ybC6HHzUYCEogtFzOeUvxRYt.jpg",
+    "overview": "A group of misfits and visionaries had an idea for a new kind of news - one that would give the people what they want, and would change the face of the world we live in today.",
+    "theatrical": true,
+    "trailer_published": "2026-09-02T13:00:31.000Z",
+    "videos": [
+      {
+        "key": "_LE1L4Huyys",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-02T13:00:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/d4nhnyzauV6j4IcCJvd6rbzN4b4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
     "overview": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "theatrical": true,
@@ -558,24 +630,6 @@
     ]
   },
   {
-    "id": 1736095,
-    "title": "Days of Thunder 2",
-    "release_date": "2028-06-02",
-    "poster": "https://image.tmdb.org/t/p/w500/xVT7gq3tIhZXu4hAmTXLVRU4B01.jpg",
-    "backdrop": "",
-    "overview": "The sequel to the 1990 film. Plot TBA.",
-    "theatrical": true,
-    "trailer_published": "2026-08-29T17:18:15.000Z",
-    "videos": [
-      {
-        "key": "A8c3JUSs788",
-        "name": "First Teaser",
-        "type": "Teaser",
-        "published_at": "2026-08-29T17:18:15.000Z"
-      }
-    ]
-  },
-  {
     "id": 1288059,
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
@@ -616,7 +670,7 @@
     "title": "Runner",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
     "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
     "theatrical": true,
     "trailer_published": "2026-08-27T22:00:07.000Z",
@@ -1026,6 +1080,24 @@
     ]
   },
   {
+    "id": 1654516,
+    "title": "Babita Singh Reporting",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
+    "overview": "People-pleasing cop Baby accepts a fake charge to get leave for her sister-in-law\u2019s baby shower in Rewa. There, she reunites with her childhood friend Bansi, who is murdered that very night. Defying dismissive in-laws, an indifferent husband and an apathetic local police force, she secretly investigates the murder, uncovering family betrayals while finding her own voice, courage and place as a real cop.",
+    "theatrical": false,
+    "trailer_published": "2026-08-21T04:30:34.000Z",
+    "videos": [
+      {
+        "key": "XXzW4rjidqg",
+        "name": "Babita Singh Reporting - Official Trailer | Prime Video India",
+        "type": "Trailer",
+        "published_at": "2026-08-21T04:30:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -1328,7 +1400,7 @@
   {
     "id": 1447853,
     "title": "Oasis: Don't Look Back in Anger",
-    "release_date": "2026-09-11",
+    "release_date": "2026-09-09",
     "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
     "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
@@ -1620,6 +1692,24 @@
     ]
   },
   {
+    "id": 1364401,
+    "title": "Come with Me",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vBLVwTwtAquT9G6k2oBuj9wThA6.jpg",
+    "overview": "Working-class Simon Ward's life unravels after a traumatic home invasion, mounting problems at work and the loss of his best friend. Falling under the influence of rhetoric-spewing radio host Dalton Kirby, Simon spirals into a violent attempt to correct the injustice he believes surrounds him.",
+    "theatrical": true,
+    "trailer_published": "2026-08-14T03:52:27.000Z",
+    "videos": [
+      {
+        "key": "Mrml6hR4XT4",
+        "name": "Come With Me | Trailer (HD) | Vertical",
+        "type": "Trailer",
+        "published_at": "2026-08-14T03:52:27.000Z"
+      }
+    ]
+  },
+  {
     "id": 1748841,
     "title": "Dark Hollow",
     "release_date": "2026-09-04",
@@ -1666,7 +1756,7 @@
     "title": "Just Play Dead",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
     "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
     "theatrical": true,
     "trailer_published": "2026-08-12T16:54:48.000Z",
@@ -1992,30 +2082,6 @@
     ]
   },
   {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
-    "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-08-02T17:00:30.000Z",
-    "videos": [
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "G4JYnTeSFik",
-        "name": "Snowball",
-        "type": "Teaser",
-        "published_at": "2026-08-02T17:00:30.000Z"
-      }
-    ]
-  },
-  {
     "id": 1471168,
     "title": "Barreda",
     "release_date": "2026-08-28",
@@ -2102,24 +2168,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-28T13:59:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": 621304,
-    "title": "Children of Blood and Bone",
-    "release_date": "2027-01-15",
-    "poster": "https://image.tmdb.org/t/p/w500/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iJHHwaFZumvMLx96apZPNhhIb1A.jpg",
-    "overview": "In the world of Or\u00efsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
-    "theatrical": true,
-    "trailer_published": "2026-07-28T13:00:12.000Z",
-    "videos": [
-      {
-        "key": "HnWvg90lQt8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-28T13:00:12.000Z"
       }
     ]
   },
@@ -2396,54 +2444,18 @@
   {
     "id": 1709391,
     "title": "Hanuman Ansh",
-    "release_date": "2026-08-07",
+    "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/as2Y3zGUa2IUS3uAx2sh6Ano3es.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tKYOK8iMxkhJhug3LJ2yvC5QY8M.jpg",
     "overview": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings, becoming Hanuman Ansh, Neem Karoli Baba.",
-    "theatrical": false,
+    "theatrical": true,
     "trailer_published": "2026-07-18T05:41:06.000Z",
     "videos": [
       {
         "key": "YpGhCA2X3gU",
-        "name": "Hanuman Ansh | Official Trailer | Shobhinaw Satyaa | Vishal Chaturvedi | In Cinemas 31st July 2026",
-        "type": "Trailer",
-        "published_at": "2026-07-18T05:41:06.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1476682,
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "release_date": "2026-07-10",
-    "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
-    "overview": "Small-town Kansas hairdresser Gail Daughtry's fianc\u00e9 uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-    "theatrical": true,
-    "trailer_published": "2026-07-18T01:05:33.000Z",
-    "videos": [
-      {
-        "key": "GEbaLieo_Kw",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-05-27T18:04:44.000Z"
-      },
-      {
-        "key": "dUOkit_2Cr0",
-        "name": "John Slattery",
-        "type": "Teaser",
-        "published_at": "2026-07-18T01:05:33.000Z"
-      },
-      {
-        "key": "Mc3QVc-eyT0",
-        "name": "Paparazzi",
-        "type": "Teaser",
-        "published_at": "2026-07-18T01:04:54.000Z"
-      },
-      {
-        "key": "a6_jCsGAYRM",
-        "name": "Franchise",
-        "type": "Teaser",
-        "published_at": "2026-07-18T01:03:45.000Z"
+        "published_at": "2026-07-18T05:41:06.000Z"
       }
     ]
   },
@@ -2656,7 +2668,7 @@
     "title": "Mayday",
     "release_date": "2026-09-03",
     "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
     "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
     "theatrical": false,
     "trailer_published": "2026-07-14T12:59:55.000Z",
@@ -3458,24 +3470,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-05T13:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1472951,
-    "title": "Infiltrate",
-    "release_date": "2026-04-10",
-    "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cEvyR19pmQ2s3DE8mdyL0m2Lv2N.jpg",
-    "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she\u2019s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily\u2019s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-    "theatrical": false,
-    "trailer_published": "2026-03-26T16:36:57.000Z",
-    "videos": [
-      {
-        "key": "dzVz0KqqwGE",
-        "name": "Infiltrate | Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-26T16:36:57.000Z"
       }
     ]
   },
