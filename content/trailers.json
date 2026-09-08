@@ -1,5 +1,77 @@
 [
   {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-09-07T17:00:13.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "xRurGLtCy0I",
+        "name": "Must be the season of getting tickets for Practical Magic 2",
+        "type": "Teaser",
+        "published_at": "2026-09-07T17:00:13.000Z"
+      },
+      {
+        "key": "vlpg5WAg12U",
+        "name": "Gilly, she's still the spontaneous one.",
+        "type": "Teaser",
+        "published_at": "2026-09-06T16:30:32.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-07T13:31:06.000Z",
+    "videos": [
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "preleEhDdq0",
+        "name": "Dreams",
+        "type": "Teaser",
+        "published_at": "2026-09-07T13:31:06.000Z"
+      },
+      {
+        "key": "4nOsPFIlQvk",
+        "name": "Normal sibling relationships",
+        "type": "Teaser",
+        "published_at": "2026-09-03T16:05:41.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -50,42 +122,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-07T00:30:04.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-09-06T16:30:32.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "vlpg5WAg12U",
-        "name": "Gilly, she's still the spontaneous one.",
-        "type": "Teaser",
-        "published_at": "2026-09-06T16:30:32.000Z"
-      },
-      {
-        "key": "t5MpkTaNiC8",
-        "name": "Magic is in her past, but her past won\u2019t be silenced.",
-        "type": "Teaser",
-        "published_at": "2026-09-06T16:00:10.000Z"
       }
     ]
   },
@@ -162,6 +198,42 @@
     ]
   },
   {
+    "id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "theatrical": true,
+    "trailer_published": "2026-09-04T09:00:11.000Z",
+    "videos": [
+      {
+        "key": "gXjurDkYnEM",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T13:00:08.000Z"
+      },
+      {
+        "key": "jxU8FU3o75A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-14T02:39:28.000Z"
+      },
+      {
+        "key": "x17kM6xmSpU",
+        "name": "Analog Horror",
+        "type": "Teaser",
+        "published_at": "2026-09-04T09:00:11.000Z"
+      },
+      {
+        "key": "JR3qaSl5gVs",
+        "name": "Claustrophobia: intense fear of confined spaces",
+        "type": "Teaser",
+        "published_at": "2026-08-30T10:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1384216,
     "title": "The Dog Stars",
     "release_date": "2026-08-28",
@@ -198,65 +270,11 @@
     ]
   },
   {
-    "id": 1479832,
-    "title": "DC",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/cB6ZAWK70cR5HVnGK6BaCr8W4FH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
-    "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-    "theatrical": true,
-    "trailer_published": "2026-09-03T18:30:26.000Z",
-    "videos": [
-      {
-        "key": "4WuvS-w3J10",
-        "name": "DC \u2013 Trailer | Watch Now ONLY on Sun NXT | Lokesh | Anirudh | Arun | Wamiqa",
-        "type": "Trailer",
-        "published_at": "2026-09-03T18:30:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-03T16:05:41.000Z",
-    "videos": [
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
-      },
-      {
-        "key": "4nOsPFIlQvk",
-        "name": "Normal sibling relationships",
-        "type": "Teaser",
-        "published_at": "2026-09-03T16:05:41.000Z"
-      },
-      {
-        "key": "YbFvSQo8RiA",
-        "name": "Locking in",
-        "type": "Teaser",
-        "published_at": "2026-09-02T17:07:07.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400336,
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
     "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
     "theatrical": true,
     "trailer_published": "2026-09-03T13:03:32.000Z",
@@ -300,6 +318,42 @@
     ]
   },
   {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-09-03T07:00:16.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "sc2U3K_22Qo",
+        "name": "In Cinemas 8 October",
+        "type": "Teaser",
+        "published_at": "2026-09-03T07:00:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1244523,
     "title": "Beware Boi\u00fana",
     "release_date": "2026-10-02",
@@ -339,7 +393,7 @@
     "id": 1101412,
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "theatrical": true,
@@ -425,7 +479,7 @@
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-    "overview": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "theatrical": true,
     "trailer_published": "2026-09-02T09:30:20.000Z",
     "videos": [
@@ -482,6 +536,30 @@
         "name": "Zoom",
         "type": "Teaser",
         "published_at": "2026-05-24T11:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1422041,
+    "title": "La bola negra",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/oNvDkdJ0Ykx4sOrcxsFtE6LoOS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T14:15:09.000Z",
+    "videos": [
+      {
+        "key": "Yn-UxPIwTsU",
+        "name": "LA BOLA NEGRA | OFFICIAL TRAILER | IN CINEMAS NOVEMBER 6 | Altitude Films",
+        "type": "Trailer",
+        "published_at": "2026-09-01T14:15:09.000Z"
+      },
+      {
+        "key": "IRHtqjHYPew",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-01T14:00:00.000Z"
       }
     ]
   },
@@ -558,78 +636,6 @@
     ]
   },
   {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-08-31T11:05:33.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "8ALwIBaEJ_I",
-        "name": "In Cinemas 8 October",
-        "type": "Teaser",
-        "published_at": "2026-08-25T06:59:32.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1291595,
-    "title": "Insidious: Out of the Further",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "theatrical": true,
-    "trailer_published": "2026-08-30T10:00:00.000Z",
-    "videos": [
-      {
-        "key": "gXjurDkYnEM",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T13:00:08.000Z"
-      },
-      {
-        "key": "jxU8FU3o75A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-14T02:39:28.000Z"
-      },
-      {
-        "key": "JR3qaSl5gVs",
-        "name": "Claustrophobia: intense fear of confined spaces",
-        "type": "Teaser",
-        "published_at": "2026-08-30T10:00:00.000Z"
-      },
-      {
-        "key": "Wy7ouyxM-mo",
-        "name": "Put your headphones on and feel the further around you",
-        "type": "Teaser",
-        "published_at": "2026-08-28T10:59:35.000Z"
-      }
-    ]
-  },
-  {
     "id": 1288059,
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
@@ -668,9 +674,9 @@
   {
     "id": 1377237,
     "title": "Runner",
-    "release_date": "2026-09-11",
+    "release_date": "2026-09-07",
     "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
     "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
     "theatrical": true,
     "trailer_published": "2026-08-27T22:00:07.000Z",
@@ -892,7 +898,7 @@
     "title": "Coward",
     "release_date": "2026-12-25",
     "poster": "https://image.tmdb.org/t/p/w500/AjgJ4yHrkQjKtl48E8X2VwxB78D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/doSQ4GYJrhDMd5GRneDG9i9UImJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
     "overview": "Pierre, a young Belgian soldier, wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
     "theatrical": true,
     "trailer_published": "2026-08-25T17:41:17.000Z",
@@ -1080,24 +1086,6 @@
     ]
   },
   {
-    "id": 1654516,
-    "title": "Babita Singh Reporting",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/t8DWZvl10Bhl1k39GPAHvxPOjr.jpg",
-    "overview": "People-pleasing cop Baby accepts a fake charge to get leave for her sister-in-law\u2019s baby shower in Rewa. There, she reunites with her childhood friend Bansi, who is murdered that very night. Defying dismissive in-laws, an indifferent husband and an apathetic local police force, she secretly investigates the murder, uncovering family betrayals while finding her own voice, courage and place as a real cop.",
-    "theatrical": false,
-    "trailer_published": "2026-08-21T04:30:34.000Z",
-    "videos": [
-      {
-        "key": "XXzW4rjidqg",
-        "name": "Babita Singh Reporting - Official Trailer | Prime Video India",
-        "type": "Trailer",
-        "published_at": "2026-08-21T04:30:34.000Z"
-      }
-    ]
-  },
-  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -1220,6 +1208,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1545484,
+    "title": "Deathwoods",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/3MUGLE5YkmkUuKYgQFHExM3c8dg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/CDNG41GshX6Ifv7mXriG6ixScL.jpg",
+    "overview": "A weekend of camping intended to break Scott out of his post breakup depression, quickly turns  into a weekend of bloodshed, as his friends are picked off one by one by the urban legend that haunts the  woods surrounding the small town of Old Hickory, Tennessee.",
+    "theatrical": false,
+    "trailer_published": "2026-08-20T12:25:22.000Z",
+    "videos": [
+      {
+        "key": "HFINU11OWH8",
+        "name": "Deathwoods | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-08-20T12:25:22.000Z"
+      },
+      {
+        "key": "kqVqp1rS-Cc",
+        "name": "DEATHWOODS (2025) Official Horror Teaser Trailer | Felissa Rose, LC Holt | Brutal Slasher",
+        "type": "Teaser",
+        "published_at": "2025-04-22T16:00:06.000Z"
       }
     ]
   },
@@ -1425,7 +1437,7 @@
     "id": 1380417,
     "title": "By Any Means",
     "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/33wobiMyK5L99htHYjlZ1YAeK2F.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
     "overview": "In 1960s Mississippi, young Black FBI agent Wayne Strider is sent to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, Strider finds himself pulled into a deadly hunt where the lines of justice and vengeance begin to blur.",
     "theatrical": true,
@@ -1515,7 +1527,7 @@
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
     "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
     "theatrical": true,
@@ -1678,16 +1690,16 @@
         "published_at": "2026-08-10T13:00:31.000Z"
       },
       {
+        "key": "-QQtzvfguDQ",
+        "name": "Hope - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T14:01:03.000Z"
+      },
+      {
         "key": "R5jcEBVBEbQ",
         "name": "Official US Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-07-09T14:00:20.000Z"
-      },
-      {
-        "key": "ODnHr2Emnf0",
-        "name": "International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-05-17T23:00:39.000Z"
       }
     ]
   },
@@ -2219,7 +2231,7 @@
       },
       {
         "key": "06hhVL13HEw",
-        "name": "Official Trailer (4K)",
+        "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-02T18:39:53.000Z"
       },
@@ -2246,6 +2258,24 @@
         "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, No\u00e9 Hern\u00e1ndez \ud83d\udea8",
         "type": "Trailer",
         "published_at": "2026-07-26T05:51:44.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1148365,
+    "title": "Matchbox the Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-07-25T21:30:05.000Z",
+    "videos": [
+      {
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-25T21:30:05.000Z"
       }
     ]
   },
@@ -2354,24 +2384,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-22T16:01:49.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1512967,
-    "title": "Dirt in Your Face",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/bmQpbvagU9TC2vTt7rlcdfNAwRT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n7vcP4MxhCodbpeBwdl7a3LxNI3.jpg",
-    "overview": "In the summer of 1987, Estonia languishes under Soviet rule, stifling free expression. 17-year-old Mihkel, a rebellious musician, and his rival Hendrik learn of a Finnish talent scout visiting Estonia. To impress him, they must journey to a distant rock festival on the other side of the country. They assemble a group, including Mihkel's secret love Liisa. Amid rivalry and chaos, they navigate challenges, discovering their true selves along the way.",
-    "theatrical": true,
-    "trailer_published": "2026-07-21T21:02:17.000Z",
-    "videos": [
-      {
-        "key": "bEZfKIjyOjo",
-        "name": "M\u00e4ngufilm \"Musta pori n\u00e4kku\" treiler / \"Dirt In Your Face\" trailer - kinodes 16. oktoober 2026",
-        "type": "Trailer",
-        "published_at": "2026-07-21T21:02:17.000Z"
       }
     ]
   },
@@ -3000,6 +3012,30 @@
     ]
   },
   {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-06-29T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3014,24 +3050,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-29T12:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1444466,
-    "title": "Awarapan 2",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dLw4YK72fW4dF82nnLFDbeXotSX.jpg",
-    "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
-    "theatrical": true,
-    "trailer_published": "2026-06-29T05:34:34.000Z",
-    "videos": [
-      {
-        "key": "IQ7HkZ-Gun8",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-29T05:34:34.000Z"
       }
     ]
   },
@@ -3234,6 +3252,24 @@
     ]
   },
   {
+    "id": 1507796,
+    "title": "On the Sea",
+    "release_date": "2026-07-24",
+    "poster": "https://image.tmdb.org/t/p/w500/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wdy7TUJom58vwIFpx0h5Z8pix3l.jpg",
+    "overview": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
+    "theatrical": false,
+    "trailer_published": "2026-06-22T09:55:54.000Z",
+    "videos": [
+      {
+        "key": "od_S8t86F0M",
+        "name": "On The Sea UK trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-22T09:55:54.000Z"
+      }
+    ]
+  },
+  {
     "id": 1303331,
     "title": "Dhamaal 4",
     "release_date": "2026-09-04",
@@ -3252,20 +3288,20 @@
     ]
   },
   {
-    "id": 1616674,
-    "title": "Me Before Me",
-    "release_date": "2026-07-16",
-    "poster": "https://image.tmdb.org/t/p/w500/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg",
-    "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth \u2014 not trophies \u2014 might finally set him free.",
-    "theatrical": false,
-    "trailer_published": "2026-06-19T03:00:00.000Z",
+    "id": 1538497,
+    "title": "Hexed",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "theatrical": true,
+    "trailer_published": "2026-06-16T16:01:06.000Z",
     "videos": [
       {
-        "key": "3niHaoJ_MzQ",
-        "name": "Aku Sebelum Aku | Teaser Resmi | Netflix",
-        "type": "Teaser",
-        "published_at": "2026-06-19T03:00:00.000Z"
+        "key": "mtC4sjABZNw",
+        "name": "Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-16T16:01:06.000Z"
       }
     ]
   },
@@ -3506,24 +3542,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-03-19T13:00:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1667533,
-    "title": "Transylvania Tapes",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/8fPtQU7czxd3AbqVKeTZ3vm7X4u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4Y5bkKykMkMWGPHsT1cYIPHRxGO.jpg",
-    "overview": "In 1997, Romanian actress Silvia Enescu mysteriously disappeared while searching for family property in Transylvania. All she left behind were a collection of home movies: the TRANSYLVANIA TAPES. Now, Silvia's daughter Mara travels from Los Angeles to Romania to discover what happened to her mother. With the help of her cameraman friend Dylan, Mara documents her journey, which takes her from the streets of Bucharest to the medieval town of Sighisoara, deep in the heart of Transylvania. Unearthing the truth about her mother comes at a terrible price, as Mara must escape an ancient family curse.",
-    "theatrical": true,
-    "trailer_published": "2026-02-27T01:15:21.000Z",
-    "videos": [
-      {
-        "key": "OUwzk56-JFg",
-        "name": "Transylvania Tapes Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-02-27T01:15:21.000Z"
       }
     ]
   },
