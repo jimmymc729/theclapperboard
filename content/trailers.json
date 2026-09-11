@@ -108,6 +108,42 @@
     ]
   },
   {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
+    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T15:05:34.000Z",
+    "videos": [
+      {
+        "key": "Vuv0kqGWjno",
+        "name": "Main Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T15:00:03.000Z"
+      },
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer",
+        "published_at": "2026-06-09T13:30:12.000Z"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-07-01T16:00:29.000Z"
+      },
+      {
+        "key": "M-tUqroTdQc",
+        "name": "Main Trailer",
+        "type": "Teaser",
+        "published_at": "2026-09-10T15:05:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 1291595,
     "title": "Insidious: Out of the Further",
     "release_date": "2026-08-21",
@@ -148,7 +184,7 @@
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
     "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "theatrical": true,
     "trailer_published": "2026-09-09T06:57:23.000Z",
@@ -360,42 +396,6 @@
     ]
   },
   {
-    "id": 1477104,
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/izLG3cxbG89nK75OHyd1zvjR7n8.jpg",
-    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
-    "theatrical": true,
-    "trailer_published": "2026-09-07T16:09:17.000Z",
-    "videos": [
-      {
-        "key": "daZMq0AyOMc",
-        "name": "Official US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T12:00:27.000Z"
-      },
-      {
-        "key": "T3K2uKvi_0s",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-06-24T13:00:32.000Z"
-      },
-      {
-        "key": "UZ46Smi6mOw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-18T17:00:48.000Z"
-      },
-      {
-        "key": "QjhNZT_1EvY",
-        "name": "Everyone's favorite lamb, Timmy!",
-        "type": "Teaser",
-        "published_at": "2026-09-07T16:09:17.000Z"
-      }
-    ]
-  },
-  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -518,6 +518,42 @@
         "name": "IMAX Event",
         "type": "Teaser",
         "published_at": "2026-09-04T04:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1712451,
+    "title": "Resident Dead",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
+    "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
+    "theatrical": false,
+    "trailer_published": "2026-09-03T22:19:26.000Z",
+    "videos": [
+      {
+        "key": "M1vupS1Tzfg",
+        "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
+        "type": "Trailer",
+        "published_at": "2026-09-03T22:19:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1762506,
+    "title": "Band of Brothers: Legacy",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+    "overview": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
+    "theatrical": false,
+    "trailer_published": "2026-09-03T17:07:20.000Z",
+    "videos": [
+      {
+        "key": "IjLg0X59fMA",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T17:07:20.000Z"
       }
     ]
   },
@@ -885,7 +921,7 @@
     "id": 1204680,
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
@@ -1032,24 +1068,6 @@
     ]
   },
   {
-    "id": 1437981,
-    "title": "Coward",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/zygWvA3i0ji1tOfjT2va8mRP6rN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
-    "overview": "Pierre, a young Belgian soldier, wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
-    "theatrical": true,
-    "trailer_published": "2026-08-25T17:41:17.000Z",
-    "videos": [
-      {
-        "key": "vyRlBGfVlvQ",
-        "name": "Coward | Official Trailer | BIL | Lumi\u00e8re",
-        "type": "Trailer",
-        "published_at": "2026-08-25T17:41:17.000Z"
-      }
-    ]
-  },
-  {
     "id": 1422011,
     "title": "It Ends",
     "release_date": "2026-08-21",
@@ -1160,6 +1178,24 @@
         "name": "Parents, it's a must!",
         "type": "Teaser",
         "published_at": "2026-08-13T22:11:17.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1365884,
+    "title": "Call My Agent! The Movie",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/blh99dDTXa0Gpiuws2BoVyas8Pp.jpg",
+    "overview": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or worse.",
+    "theatrical": false,
+    "trailer_published": "2026-08-24T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "01PX2jZNW5A",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-24T10:00:00.000Z"
       }
     ]
   },
@@ -1784,24 +1820,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-14T17:15:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1364401,
-    "title": "Come with Me",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vBLVwTwtAquT9G6k2oBuj9wThA6.jpg",
-    "overview": "Working-class Simon Ward's life unravels after a traumatic home invasion, mounting problems at work and the loss of his best friend. Falling under the influence of rhetoric-spewing radio host Dalton Kirby, Simon spirals into a violent attempt to correct the injustice he believes surrounds him.",
-    "theatrical": true,
-    "trailer_published": "2026-08-14T03:52:27.000Z",
-    "videos": [
-      {
-        "key": "Mrml6hR4XT4",
-        "name": "Come With Me | Trailer (HD) | Vertical",
-        "type": "Trailer",
-        "published_at": "2026-08-14T03:52:27.000Z"
       }
     ]
   },
@@ -2793,7 +2811,7 @@
     "id": 1198654,
     "title": "Bad Apples",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
     "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
     "theatrical": true,
@@ -3044,30 +3062,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-29T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1300926,
-    "title": "The Angry Birds Movie 3",
-    "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
-    "theatrical": true,
-    "trailer_published": "2026-06-29T13:00:01.000Z",
-    "videos": [
-      {
-        "key": "a9DB_aUMzME",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T13:00:01.000Z"
-      },
-      {
-        "key": "8_nX4qQU1Wc",
-        "name": "NOW IN PRODUCTION!",
-        "type": "Teaser",
-        "published_at": "2024-06-06T14:30:02.000Z"
       }
     ]
   },
