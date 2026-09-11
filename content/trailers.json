@@ -7,7 +7,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
-    "trailer_published": "2026-09-09T13:00:03.000Z",
+    "trailer_published": "2026-09-10T19:30:10.000Z",
     "videos": [
       {
         "key": "job8V254NAE",
@@ -28,10 +28,118 @@
         "published_at": "2026-06-23T16:00:07.000Z"
       },
       {
-        "key": "aXFbS7OhsHA",
-        "name": "The man with the facts. Riz Ahmed is Dr. Ganesh.",
+        "key": "h05uz_cCua4",
+        "name": "No doubt about it.",
         "type": "Teaser",
-        "published_at": "2026-09-04T18:30:49.000Z"
+        "published_at": "2026-09-10T19:30:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T16:00:23.000Z",
+    "videos": [
+      {
+        "key": "Dw-5ZGapGTQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-10T16:00:23.000Z"
+      },
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      },
+      {
+        "key": "vM7xEQ4l8MA",
+        "name": "1 Hour To Escape",
+        "type": "Teaser",
+        "published_at": "2026-08-20T19:00:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T16:00:10.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "pLEZ1QgzT5M",
+        "name": "We\u2019ve waited such a long time for this.",
+        "type": "Teaser",
+        "published_at": "2026-09-10T16:00:10.000Z"
+      },
+      {
+        "key": "_5W-mPM49K0",
+        "name": "Have you summoned your tickets yet?",
+        "type": "Teaser",
+        "published_at": "2026-09-08T21:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T02:00:15.000Z",
+    "videos": [
+      {
+        "key": "gXjurDkYnEM",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T13:00:08.000Z"
+      },
+      {
+        "key": "jxU8FU3o75A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-14T02:39:28.000Z"
+      },
+      {
+        "key": "DtIG4BPnfDs",
+        "name": "Quiet On The Creek",
+        "type": "Teaser",
+        "published_at": "2026-09-10T02:00:15.000Z"
+      },
+      {
+        "key": "x17kM6xmSpU",
+        "name": "Analog Horror",
+        "type": "Teaser",
+        "published_at": "2026-09-04T09:00:11.000Z"
       }
     ]
   },
@@ -68,42 +176,6 @@
         "name": "Only In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-09-09T06:57:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-09-08T21:00:05.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "_5W-mPM49K0",
-        "name": "Have you summoned your tickets yet?",
-        "type": "Teaser",
-        "published_at": "2026-09-08T21:00:05.000Z"
-      },
-      {
-        "key": "GxGm8GNnTg8",
-        "name": "Obsessed with Sandra Bullock in PRACTICAL MAGIC 2",
-        "type": "Teaser",
-        "published_at": "2026-09-08T19:00:01.000Z"
       }
     ]
   },
@@ -255,7 +327,7 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
@@ -284,6 +356,42 @@
         "name": "One month until the reckoning arrives.",
         "type": "Teaser",
         "published_at": "2026-09-07T23:00:38.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1477104,
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/izLG3cxbG89nK75OHyd1zvjR7n8.jpg",
+    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+    "theatrical": true,
+    "trailer_published": "2026-09-07T16:09:17.000Z",
+    "videos": [
+      {
+        "key": "daZMq0AyOMc",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T12:00:27.000Z"
+      },
+      {
+        "key": "T3K2uKvi_0s",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-06-24T13:00:32.000Z"
+      },
+      {
+        "key": "UZ46Smi6mOw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T17:00:48.000Z"
+      },
+      {
+        "key": "QjhNZT_1EvY",
+        "name": "Everyone's favorite lamb, Timmy!",
+        "type": "Teaser",
+        "published_at": "2026-09-07T16:09:17.000Z"
       }
     ]
   },
@@ -326,11 +434,11 @@
   {
     "id": 1765072,
     "title": "You Can See Everything",
-    "release_date": "2026-09-06",
+    "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-    "theatrical": false,
+    "theatrical": true,
     "trailer_published": "2026-09-07T00:30:04.000Z",
     "videos": [
       {
@@ -378,47 +486,11 @@
     ]
   },
   {
-    "id": 1291595,
-    "title": "Insidious: Out of the Further",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "theatrical": true,
-    "trailer_published": "2026-09-04T09:00:11.000Z",
-    "videos": [
-      {
-        "key": "gXjurDkYnEM",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T13:00:08.000Z"
-      },
-      {
-        "key": "jxU8FU3o75A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-14T02:39:28.000Z"
-      },
-      {
-        "key": "x17kM6xmSpU",
-        "name": "Analog Horror",
-        "type": "Teaser",
-        "published_at": "2026-09-04T09:00:11.000Z"
-      },
-      {
-        "key": "JR3qaSl5gVs",
-        "name": "Claustrophobia: intense fear of confined spaces",
-        "type": "Teaser",
-        "published_at": "2026-08-30T10:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1384216,
     "title": "The Dog Stars",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
     "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
     "theatrical": true,
     "trailer_published": "2026-09-04T04:00:16.000Z",
@@ -446,6 +518,42 @@
         "name": "IMAX Event",
         "type": "Teaser",
         "published_at": "2026-09-04T04:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1058424,
+    "title": "Hope",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "theatrical": true,
+    "trailer_published": "2026-09-03T15:23:25.000Z",
+    "videos": [
+      {
+        "key": "OFaJzL83y0Q",
+        "name": "Official English Trailer [Dubbed]",
+        "type": "Trailer",
+        "published_at": "2026-08-14T12:30:11.000Z"
+      },
+      {
+        "key": "R5jcEBVBEbQ",
+        "name": "Official US Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-07-09T14:00:20.000Z"
+      },
+      {
+        "key": "ODnHr2Emnf0",
+        "name": "International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-05-17T23:00:39.000Z"
+      },
+      {
+        "key": "Ls-wVxqGge4",
+        "name": "In Theaters September 9",
+        "type": "Teaser",
+        "published_at": "2026-09-03T15:23:25.000Z"
       }
     ]
   },
@@ -485,13 +593,13 @@
     "release_date": "2026-08-07",
     "poster": "https://image.tmdb.org/t/p/w500/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg",
-    "overview": "Follows a Rayalaseema youth named Kanakaraju whose life upends when a vessel from Korea brings a spirit that possesses him, transforming him into Korean Kanakaraju.",
+    "overview": "Possessed by a Korean spirit, Kanakaraju must navigate his new supernatural identity to protect his family and solve the spirit's murder.",
     "theatrical": true,
     "trailer_published": "2026-09-03T10:30:00.000Z",
     "videos": [
       {
         "key": "kq0X2owCVKw",
-        "name": "Official Trailer [Subtitled]",
+        "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-09-03T10:30:00.000Z"
       }
@@ -590,30 +698,6 @@
         "name": "Zoom",
         "type": "Teaser",
         "published_at": "2026-05-24T11:00:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1422041,
-    "title": "La bola negra",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T14:15:09.000Z",
-    "videos": [
-      {
-        "key": "Yn-UxPIwTsU",
-        "name": "LA BOLA NEGRA | OFFICIAL TRAILER | IN CINEMAS NOVEMBER 6 | Altitude Films",
-        "type": "Trailer",
-        "published_at": "2026-09-01T14:15:09.000Z"
-      },
-      {
-        "key": "IRHtqjHYPew",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-01T14:00:00.000Z"
       }
     ]
   },
@@ -840,7 +924,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/1TD0FKAFBUZNjLLPT4884rLXTAb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/y0EQJl8cHM62jzN1qbWD5Av5DGG.jpg",
     "overview": "A director wanted to produce a fiction film about mining issues with local citizens, but because the story did not match reality, the local citizens decided to go home",
-    "theatrical": true,
+    "theatrical": false,
     "trailer_published": "2026-08-27T08:50:05.000Z",
     "videos": [
       {
@@ -1136,42 +1220,6 @@
         "name": "Hive",
         "type": "Teaser",
         "published_at": "2026-08-10T18:07:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T19:00:24.000Z",
-    "videos": [
-      {
-        "key": "rN9F6-tbySY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:24.000Z"
-      },
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      },
-      {
-        "key": "vM7xEQ4l8MA",
-        "name": "1 Hour To Escape",
-        "type": "Teaser",
-        "published_at": "2026-08-20T19:00:24.000Z"
-      },
-      {
-        "key": "hIy01dVfjQw",
-        "name": "60 minutes is plenty of time",
-        "type": "Teaser",
-        "published_at": "2026-08-19T21:00:27.000Z"
       }
     ]
   },
@@ -1740,42 +1788,6 @@
     ]
   },
   {
-    "id": 1058424,
-    "title": "Hope",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "theatrical": true,
-    "trailer_published": "2026-08-14T12:30:11.000Z",
-    "videos": [
-      {
-        "key": "OFaJzL83y0Q",
-        "name": "HOPE Official English Trailer (2026) | Sci-fi Action Thriller Movie | Coming to Indian Cinemas",
-        "type": "Trailer",
-        "published_at": "2026-08-14T12:30:11.000Z"
-      },
-      {
-        "key": "mYRc2Gl7geY",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-10T13:00:31.000Z"
-      },
-      {
-        "key": "-QQtzvfguDQ",
-        "name": "Hope - Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-09T14:01:03.000Z"
-      },
-      {
-        "key": "R5jcEBVBEbQ",
-        "name": "Official US Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-09T14:00:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1364401,
     "title": "Come with Me",
     "release_date": "2026-09-04",
@@ -1908,29 +1920,11 @@
     ]
   },
   {
-    "id": 1381273,
-    "title": "Paper Tiger",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1VhgzeA0tBbd7GtAw1d2nL3UUBk.jpg",
-    "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
-    "theatrical": true,
-    "trailer_published": "2026-08-10T16:00:22.000Z",
-    "videos": [
-      {
-        "key": "ldCb77jXIsM",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-10T16:00:22.000Z"
-      }
-    ]
-  },
-  {
     "id": 1408162,
     "title": "Vishwanath & Sons",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/hM2i0iNc8vtos61wDBgbCSg5w3x.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mHTkvCDHIazVnmO3FborbN2j9t5.jpg",
     "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
     "theatrical": false,
     "trailer_published": "2026-08-10T04:31:28.000Z",
@@ -2037,7 +2031,7 @@
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
     "theatrical": true,
@@ -2343,8 +2337,8 @@
     "id": 1148365,
     "title": "Matchbox the Movie",
     "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oOI92vnBIWFuMCUNqPWvoU1l6ri.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
     "theatrical": true,
     "trailer_published": "2026-07-25T21:30:05.000Z",
@@ -3054,6 +3048,30 @@
     ]
   },
   {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet\u2026 surviving fatherhood while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-06-29T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3611,7 +3629,7 @@
     "release_date": "2027-03-26",
     "poster": "https://image.tmdb.org/t/p/w500/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gLjZC1YGcujC82DF5subtEXWg7F.jpg",
-    "overview": "As the sixth installment in the MonsterVerse film series, this movie will delve deeper into the delicate relationship of coexistence and trust between humans and prehistoric behemoths. Meanwhile, the earth-shaking monster storm triggered by the epic clash between Godzilla and Kong, the two guardians of Earth\u2019s ecological balance, will once again sweep across the big screen!",
+    "overview": "Features several new human characters alongside the beloved and iconic Titans Godzilla and Kong as they face off against a cataclysmic world-ending threat.",
     "theatrical": true,
     "trailer_published": "2025-05-09T16:00:12.000Z",
     "videos": [
