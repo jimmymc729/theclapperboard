@@ -1,5 +1,59 @@
 [
   {
+    "id": 1318467,
+    "title": "The Last Kiss",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A8qiGvOJxFucIJzJfjv73i0egUW.jpg",
+    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+    "theatrical": true,
+    "trailer_published": "2026-09-12T11:48:47.000Z",
+    "videos": [
+      {
+        "key": "1245wHbUCEM",
+        "name": "The Last Kiss | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-09-12T11:48:47.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-09-12T09:30:16.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "9Gnh6q5xwwc",
+        "name": "You don't need to ask me twice.",
+        "type": "Teaser",
+        "published_at": "2026-09-12T09:30:16.000Z"
+      },
+      {
+        "key": "PhUiuA5X4fM",
+        "name": "Better find some ammo.",
+        "type": "Teaser",
+        "published_at": "2026-09-07T08:37:49.000Z"
+      }
+    ]
+  },
+  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -136,7 +190,7 @@
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-09-10T19:30:10.000Z",
@@ -164,6 +218,42 @@
         "name": "No doubt about it.",
         "type": "Teaser",
         "published_at": "2026-09-10T19:30:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1477104,
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/izLG3cxbG89nK75OHyd1zvjR7n8.jpg",
+    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T19:09:04.000Z",
+    "videos": [
+      {
+        "key": "daZMq0AyOMc",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T12:00:27.000Z"
+      },
+      {
+        "key": "T3K2uKvi_0s",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-06-24T13:00:32.000Z"
+      },
+      {
+        "key": "UZ46Smi6mOw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T17:00:48.000Z"
+      },
+      {
+        "key": "tOJC0eaRHhU",
+        "name": "Never a dull day on this farm.",
+        "type": "Teaser",
+        "published_at": "2026-09-10T19:09:04.000Z"
       }
     ]
   },
@@ -370,7 +460,7 @@
     "title": "Artificial",
     "release_date": "2026-12-25",
     "poster": "https://image.tmdb.org/t/p/w500/q3EYu8yrLqhDCkKp2MGlx3ZHJmj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/or81MQagASpU9WeLxEA3GuG3iFk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o7oOpgyxMN5SGzxjrzJ93ZyOk9T.jpg",
     "overview": "Described as a comedic drama set in the world of artificial intelligence, around the period at OpenAI in 2023 that saw CEO Sam Altman fired and rehired in a matter of days.",
     "theatrical": true,
     "trailer_published": "2026-09-08T15:00:25.000Z",
@@ -452,78 +542,6 @@
         "name": "One month until the reckoning arrives.",
         "type": "Teaser",
         "published_at": "2026-09-07T23:00:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1477104,
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/izLG3cxbG89nK75OHyd1zvjR7n8.jpg",
-    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
-    "theatrical": true,
-    "trailer_published": "2026-09-07T16:09:17.000Z",
-    "videos": [
-      {
-        "key": "daZMq0AyOMc",
-        "name": "Official US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T12:00:27.000Z"
-      },
-      {
-        "key": "T3K2uKvi_0s",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-06-24T13:00:32.000Z"
-      },
-      {
-        "key": "UZ46Smi6mOw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-18T17:00:48.000Z"
-      },
-      {
-        "key": "QjhNZT_1EvY",
-        "name": "Everyone's favorite lamb, Timmy!",
-        "type": "Teaser",
-        "published_at": "2026-09-07T16:09:17.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-09-07T08:37:49.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "PhUiuA5X4fM",
-        "name": "Better find some ammo.",
-        "type": "Teaser",
-        "published_at": "2026-09-07T08:37:49.000Z"
-      },
-      {
-        "key": "Q_wggwcvFgM",
-        "name": "In Cinemas SEPT 16",
-        "type": "Teaser",
-        "published_at": "2026-09-02T07:59:21.000Z"
       }
     ]
   },
@@ -636,6 +654,24 @@
     ]
   },
   {
+    "id": 1479832,
+    "title": "DC",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/cB6ZAWK70cR5HVnGK6BaCr8W4FH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+    "overview": "Rebel Devadas (\u0daf\u0dda\u0dc0\u0dca\u0daf\u0dcf\u0dc3\u0dca) joins forces with Chandra (\u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dcf) in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+    "theatrical": true,
+    "trailer_published": "2026-09-03T18:30:26.000Z",
+    "videos": [
+      {
+        "key": "4WuvS-w3J10",
+        "name": "DC \u2013 Trailer | Watch Now ONLY on Sun NXT | Lokesh | Anirudh | Arun | Wamiqa",
+        "type": "Trailer",
+        "published_at": "2026-09-03T18:30:26.000Z"
+      }
+    ]
+  },
+  {
     "id": 1762506,
     "title": "Band of Brothers: Legacy",
     "release_date": "2026-09-09",
@@ -658,7 +694,7 @@
     "title": "Hope",
     "release_date": "2026-09-09",
     "poster": "https://image.tmdb.org/t/p/w500/h39KOfADZB5I7JzNh9ih9GbZdoK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "theatrical": true,
     "trailer_published": "2026-09-03T15:23:25.000Z",
@@ -716,24 +752,6 @@
         "name": "Trailer Tomorrow",
         "type": "Teaser",
         "published_at": "2026-04-14T15:16:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1423253,
-    "title": "Korean Kanakaraju",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg",
-    "overview": "Possessed by a Korean spirit, Kanakaraju must navigate his new supernatural identity to protect his family and solve the spirit's murder.",
-    "theatrical": true,
-    "trailer_published": "2026-09-03T10:30:00.000Z",
-    "videos": [
-      {
-        "key": "kq0X2owCVKw",
-        "name": "Official Trailer [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-09-03T10:30:00.000Z"
       }
     ]
   },
@@ -995,27 +1013,9 @@
     "videos": [
       {
         "key": "VSN8YM6urHo",
-        "name": "Official Trailer",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-08-27T13:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1756952,
-    "title": "Behind The Sins",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/1TD0FKAFBUZNjLLPT4884rLXTAb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y0EQJl8cHM62jzN1qbWD5Av5DGG.jpg",
-    "overview": "A director wanted to produce a fiction film about mining issues with local citizens, but because the story did not match reality, the local citizens decided to go home",
-    "theatrical": false,
-    "trailer_published": "2026-08-27T08:50:05.000Z",
-    "videos": [
-      {
-        "key": "kuqiUs7cVsE",
-        "name": "BEHIND THE SINS TRAILER",
-        "type": "Trailer",
-        "published_at": "2026-08-27T08:50:05.000Z"
       }
     ]
   },
@@ -1116,26 +1116,38 @@
     ]
   },
   {
-    "id": 1422011,
-    "title": "It Ends",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
-    "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
-    "trailer_published": "2026-08-25T16:00:37.000Z",
+    "trailer_published": "2026-08-25T16:09:56.000Z",
     "videos": [
       {
-        "key": "9k7jckaHeuA",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-25T16:00:37.000Z"
-      },
-      {
-        "key": "zFszhQLMNXU",
+        "key": "dtr5JL1zkiM",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-22T16:00:07.000Z"
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "wr1XCDrHqYM",
+        "name": "\"Something Magical\"",
+        "type": "Teaser",
+        "published_at": "2026-08-25T16:09:56.000Z"
+      },
+      {
+        "key": "hN3lP4Fx1qg",
+        "name": "Soar into Wildwood",
+        "type": "Teaser",
+        "published_at": "2026-08-22T16:00:15.000Z"
       }
     ]
   },
@@ -1272,11 +1284,47 @@
     ]
   },
   {
+    "id": 1124142,
+    "title": "The Rivals of Amziah King",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
+    "theatrical": true,
+    "trailer_published": "2026-08-22T16:00:11.000Z",
+    "videos": [
+      {
+        "key": "GwSvAyaMGMo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-11T16:02:12.000Z"
+      },
+      {
+        "key": "TYxj-lYOxyY",
+        "name": "Now Playing Only in Theaters",
+        "type": "Teaser",
+        "published_at": "2026-08-22T16:00:11.000Z"
+      },
+      {
+        "key": "4laLp51eYLY",
+        "name": "Savor",
+        "type": "Teaser",
+        "published_at": "2026-08-13T17:41:30.000Z"
+      },
+      {
+        "key": "d95oHcmzd0M",
+        "name": "Hive",
+        "type": "Teaser",
+        "published_at": "2026-08-10T18:07:26.000Z"
+      }
+    ]
+  },
+  {
     "id": 1368337,
     "title": "The Odyssey",
     "release_date": "2026-07-17",
     "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "theatrical": true,
     "trailer_published": "2026-08-20T17:05:04.000Z",
@@ -1696,8 +1744,8 @@
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
     "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
-    "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "overview": "Handed the reins to resurrect a dying slasher franchise, an enthusiastic young director visits the original film's reclusive star, only to be dragged into a blood-soaked world of obsession, desire, and delirium.",
     "theatrical": true,
     "trailer_published": "2026-08-17T16:55:23.000Z",
     "videos": [
@@ -2496,24 +2544,6 @@
     ]
   },
   {
-    "id": 1490260,
-    "title": "Whitmer Thomas: Terminal Crew of Dudes",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/rPNtLjfJ6txQF0q53qzF2mRfu1v.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kEhHDIBzN72wcsHI7J7NQgf6Css.jpg",
-    "overview": "Comedian, musician, and actor Whitmer Thomas digs into his small-town Alabama upbringing and his ongoing quest to be cool.",
-    "theatrical": false,
-    "trailer_published": "2026-07-22T16:01:49.000Z",
-    "videos": [
-      {
-        "key": "8dYHRyOtVBs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:01:49.000Z"
-      }
-    ]
-  },
-  {
     "id": 1493400,
     "title": "Camp Rock 3",
     "release_date": "2026-08-13",
@@ -3190,7 +3220,7 @@
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oUcOngCWc6hFDmxufNBeIawkv9a.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-06-25T12:26:01.000Z",
@@ -3348,36 +3378,6 @@
     ]
   },
   {
-    "id": 421892,
-    "title": "Shrek 5",
-    "release_date": "2027-06-30",
-    "poster": "https://image.tmdb.org/t/p/w500/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
-    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure, this time in the magical city of Further Further Away.",
-    "theatrical": true,
-    "trailer_published": "2026-06-16T15:00:03.000Z",
-    "videos": [
-      {
-        "key": "Swiz1XyfhcI",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-16T15:00:03.000Z"
-      },
-      {
-        "key": "KbiwL74KyJQ",
-        "name": "Cast Announcement",
-        "type": "Teaser",
-        "published_at": "2025-02-27T16:01:18.000Z"
-      },
-      {
-        "key": "BhCSpmVOGow",
-        "name": "Not too Far, Far Away\u2026",
-        "type": "Teaser",
-        "published_at": "2024-07-12T17:30:01.000Z"
-      }
-    ]
-  },
-  {
     "id": 1659155,
     "title": "The Truthers",
     "release_date": "2026-07-24",
@@ -3530,6 +3530,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-05T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1542187,
+    "title": "Varavu",
+    "release_date": "2026-07-16",
+    "poster": "https://image.tmdb.org/t/p/w500/6sjawSVPrR5liK2iy543k7J33G4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/321ed6TvXWw5Y6SRcFF2DuAgpjC.jpg",
+    "overview": "A family falls victim to the powerful elite in a small town. One man's return forces a confrontation that will expose decades of lies and corruption",
+    "theatrical": false,
+    "trailer_published": "2026-05-01T02:30:03.000Z",
+    "videos": [
+      {
+        "key": "aQ7tTufi63s",
+        "name": "VARAVU - Trailer | Joju George | Arjun Ashokan | Shaji Kailas | Olga Productions",
+        "type": "Trailer",
+        "published_at": "2026-05-01T02:30:03.000Z"
       }
     ]
   },
