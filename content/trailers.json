@@ -1,5 +1,137 @@
 [
   {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-09-11T19:00:24.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "7k5oMk0Rcz4",
+        "name": "There's extra special magic here.",
+        "type": "Teaser",
+        "published_at": "2026-09-11T19:00:24.000Z"
+      },
+      {
+        "key": "pLEZ1QgzT5M",
+        "name": "We've waited such a long time for this.",
+        "type": "Teaser",
+        "published_at": "2026-09-10T16:00:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1198654,
+    "title": "Bad Apples",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
+    "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
+    "theatrical": true,
+    "trailer_published": "2026-09-11T16:00:37.000Z",
+    "videos": [
+      {
+        "key": "4nhu80EmVQE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T16:33:32.000Z"
+      },
+      {
+        "key": "lnu03Et8TJ0",
+        "name": "Going the extra mile for your child\u2019s education: Ashton Brooke.",
+        "type": "Teaser",
+        "published_at": "2026-09-11T16:00:37.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-07",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+    "theatrical": true,
+    "trailer_published": "2026-09-11T15:00:26.000Z",
+    "videos": [
+      {
+        "key": "B6Z9MM1LhEA",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T11:47:00.000Z"
+      },
+      {
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T21:00:06.000Z"
+      },
+      {
+        "key": "Mzovog2buxQ",
+        "name": "A life is on the line. The delivery is underway.",
+        "type": "Teaser",
+        "published_at": "2026-09-11T15:00:26.000Z"
+      },
+      {
+        "key": "JS6R1k96blU",
+        "name": "Tomorrow, the race to save a life begins.",
+        "type": "Teaser",
+        "published_at": "2026-09-10T13:00:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-11T08:46:33.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "-be_YhGqqYc",
+        "name": "Nothing is what it seems.",
+        "type": "Teaser",
+        "published_at": "2026-09-11T08:46:33.000Z"
+      },
+      {
+        "key": "mH_VNUZifRA",
+        "name": "One month until the secrets start to surface",
+        "type": "Teaser",
+        "published_at": "2026-09-02T09:30:20.000Z"
+      },
+      {
+        "key": "wbMNy_djxGk",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-04-27T21:05:40.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -68,78 +200,6 @@
         "name": "1 Hour To Escape",
         "type": "Teaser",
         "published_at": "2026-08-20T19:00:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-09-10T16:00:10.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "pLEZ1QgzT5M",
-        "name": "We\u2019ve waited such a long time for this.",
-        "type": "Teaser",
-        "published_at": "2026-09-10T16:00:10.000Z"
-      },
-      {
-        "key": "_5W-mPM49K0",
-        "name": "Have you summoned your tickets yet?",
-        "type": "Teaser",
-        "published_at": "2026-09-08T21:00:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1117898,
-    "title": "The Cat in the Hat",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
-    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-10T15:05:34.000Z",
-    "videos": [
-      {
-        "key": "Vuv0kqGWjno",
-        "name": "Main Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T15:00:03.000Z"
-      },
-      {
-        "key": "HT5JAp5z0-o",
-        "name": "Official Trailer 3",
-        "type": "Trailer",
-        "published_at": "2026-06-09T13:30:12.000Z"
-      },
-      {
-        "key": "jz8pLlPhSeY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-07-01T16:00:29.000Z"
-      },
-      {
-        "key": "M-tUqroTdQc",
-        "name": "Main Trailer",
-        "type": "Teaser",
-        "published_at": "2026-09-10T15:05:34.000Z"
       }
     ]
   },
@@ -396,6 +456,42 @@
     ]
   },
   {
+    "id": 1477104,
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/izLG3cxbG89nK75OHyd1zvjR7n8.jpg",
+    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+    "theatrical": true,
+    "trailer_published": "2026-09-07T16:09:17.000Z",
+    "videos": [
+      {
+        "key": "daZMq0AyOMc",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T12:00:27.000Z"
+      },
+      {
+        "key": "T3K2uKvi_0s",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-06-24T13:00:32.000Z"
+      },
+      {
+        "key": "UZ46Smi6mOw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T17:00:48.000Z"
+      },
+      {
+        "key": "QjhNZT_1EvY",
+        "name": "Everyone's favorite lamb, Timmy!",
+        "type": "Teaser",
+        "published_at": "2026-09-07T16:09:17.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -561,7 +657,7 @@
     "id": 1058424,
     "title": "Hope",
     "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/h39KOfADZB5I7JzNh9ih9GbZdoK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "theatrical": true,
@@ -668,36 +764,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-14T13:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-02T09:30:20.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "mH_VNUZifRA",
-        "name": "One month until the secrets start to surface",
-        "type": "Teaser",
-        "published_at": "2026-09-02T09:30:20.000Z"
-      },
-      {
-        "key": "wbMNy_djxGk",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-04-27T21:05:40.000Z"
       }
     ]
   },
@@ -815,7 +881,7 @@
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
-    "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+    "overview": "When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.",
     "theatrical": true,
     "trailer_published": "2026-08-28T09:23:07.000Z",
     "videos": [
@@ -842,42 +908,6 @@
         "name": "In UK cinemas tomorrow.",
         "type": "Teaser",
         "published_at": "2026-08-27T07:53:10.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-07",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
-    "theatrical": true,
-    "trailer_published": "2026-08-27T22:00:07.000Z",
-    "videos": [
-      {
-        "key": "B6Z9MM1LhEA",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T11:47:00.000Z"
-      },
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:00:06.000Z"
-      },
-      {
-        "key": "2skVB3s5u5s",
-        "name": "One mission. No time to stop.",
-        "type": "Teaser",
-        "published_at": "2026-08-27T22:00:07.000Z"
-      },
-      {
-        "key": "9NX2F52kFwU",
-        "name": "The Clock Is Ticking",
-        "type": "Teaser",
-        "published_at": "2026-08-21T22:00:38.000Z"
       }
     ]
   },
@@ -950,6 +980,24 @@
         "name": "Detonator Injury?",
         "type": "Teaser",
         "published_at": "2026-08-17T13:45:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1558568,
+    "title": "Go Team!",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+    "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse \u2014 then they learn about the layoffs.",
+    "theatrical": false,
+    "trailer_published": "2026-08-27T13:00:00.000Z",
+    "videos": [
+      {
+        "key": "VSN8YM6urHo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-27T13:00:00.000Z"
       }
     ]
   },
@@ -1186,7 +1234,7 @@
     "title": "Call My Agent! The Movie",
     "release_date": "2026-09-10",
     "poster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/blh99dDTXa0Gpiuws2BoVyas8Pp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
     "overview": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or worse.",
     "theatrical": false,
     "trailer_published": "2026-08-24T10:00:00.000Z",
@@ -1220,42 +1268,6 @@
         "name": "Bokshi \u2013 Official Teaser",
         "type": "Teaser",
         "published_at": "2024-12-22T05:36:58.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1124142,
-    "title": "The Rivals of Amziah King",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
-    "theatrical": true,
-    "trailer_published": "2026-08-22T16:00:11.000Z",
-    "videos": [
-      {
-        "key": "GwSvAyaMGMo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-11T16:02:12.000Z"
-      },
-      {
-        "key": "TYxj-lYOxyY",
-        "name": "Now Playing Only in Theaters",
-        "type": "Teaser",
-        "published_at": "2026-08-22T16:00:11.000Z"
-      },
-      {
-        "key": "4laLp51eYLY",
-        "name": "Savor",
-        "type": "Teaser",
-        "published_at": "2026-08-13T17:41:30.000Z"
-      },
-      {
-        "key": "d95oHcmzd0M",
-        "name": "Hive",
-        "type": "Teaser",
-        "published_at": "2026-08-10T18:07:26.000Z"
       }
     ]
   },
@@ -1942,7 +1954,7 @@
     "title": "Vishwanath & Sons",
     "release_date": "2026-08-14",
     "poster": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mHTkvCDHIazVnmO3FborbN2j9t5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
     "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
     "theatrical": false,
     "trailer_published": "2026-08-10T04:31:28.000Z",
@@ -2435,7 +2447,7 @@
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
     "trailer_published": "2026-07-22T20:00:22.000Z",
     "videos": [
@@ -2507,7 +2519,7 @@
     "release_date": "2026-08-13",
     "poster": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
-    "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+    "overview": "When pop group Connect 3 returns to Camp Rock to search for an opening act for their reunion tour, rising tensions and fierce competition among campers test old friendships and spark unexpected romances.",
     "theatrical": false,
     "trailer_published": "2026-07-21T16:10:29.000Z",
     "videos": [
@@ -2804,24 +2816,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-14T12:59:55.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1198654,
-    "title": "Bad Apples",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
-    "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
-    "theatrical": true,
-    "trailer_published": "2026-07-09T16:33:32.000Z",
-    "videos": [
-      {
-        "key": "4nhu80EmVQE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-09T16:33:32.000Z"
       }
     ]
   },
@@ -3286,7 +3280,7 @@
     "title": "On the Sea",
     "release_date": "2026-07-24",
     "poster": "https://image.tmdb.org/t/p/w500/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wdy7TUJom58vwIFpx0h5Z8pix3l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
     "overview": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
     "theatrical": false,
     "trailer_published": "2026-06-22T09:55:54.000Z",
