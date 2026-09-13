@@ -1,5 +1,71 @@
 [
   {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-09-12T18:00:40.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "-UXkq27Wnys",
+        "name": "Cast by fate, tested by time, and never broken. Tell your sisters to get tickets!",
+        "type": "Teaser",
+        "published_at": "2026-09-12T18:00:40.000Z"
+      },
+      {
+        "key": "7k5oMk0Rcz4",
+        "name": "There's extra special magic here.",
+        "type": "Teaser",
+        "published_at": "2026-09-11T19:00:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1198654,
+    "title": "Bad Apples",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
+    "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
+    "theatrical": true,
+    "trailer_published": "2026-09-12T16:00:24.000Z",
+    "videos": [
+      {
+        "key": "4nhu80EmVQE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T16:33:32.000Z"
+      },
+      {
+        "key": "TkNGg8NU9Fo",
+        "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
+        "type": "Teaser",
+        "published_at": "2026-09-12T16:00:24.000Z"
+      },
+      {
+        "key": "lnu03Et8TJ0",
+        "name": "Going the extra mile for your child\u2019s education: Ashton Brooke.",
+        "type": "Teaser",
+        "published_at": "2026-09-11T16:00:37.000Z"
+      }
+    ]
+  },
+  {
     "id": 1318467,
     "title": "The Last Kiss",
     "release_date": "2026-09-15",
@@ -50,66 +116,6 @@
         "name": "Better find some ammo.",
         "type": "Teaser",
         "published_at": "2026-09-07T08:37:49.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-09-11T19:00:24.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "7k5oMk0Rcz4",
-        "name": "There's extra special magic here.",
-        "type": "Teaser",
-        "published_at": "2026-09-11T19:00:24.000Z"
-      },
-      {
-        "key": "pLEZ1QgzT5M",
-        "name": "We've waited such a long time for this.",
-        "type": "Teaser",
-        "published_at": "2026-09-10T16:00:10.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1198654,
-    "title": "Bad Apples",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
-    "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
-    "theatrical": true,
-    "trailer_published": "2026-09-11T16:00:37.000Z",
-    "videos": [
-      {
-        "key": "4nhu80EmVQE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-09T16:33:32.000Z"
-      },
-      {
-        "key": "lnu03Et8TJ0",
-        "name": "Going the extra mile for your child\u2019s education: Ashton Brooke.",
-        "type": "Teaser",
-        "published_at": "2026-09-11T16:00:37.000Z"
       }
     ]
   },
@@ -290,6 +296,42 @@
         "name": "1 Hour To Escape",
         "type": "Teaser",
         "published_at": "2026-08-20T19:00:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
+    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T15:05:34.000Z",
+    "videos": [
+      {
+        "key": "Vuv0kqGWjno",
+        "name": "Main Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T15:00:03.000Z"
+      },
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer",
+        "published_at": "2026-06-09T13:30:12.000Z"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-07-01T16:00:29.000Z"
+      },
+      {
+        "key": "M-tUqroTdQc",
+        "name": "Main Trailer",
+        "type": "Teaser",
+        "published_at": "2026-09-10T15:05:34.000Z"
       }
     ]
   },
@@ -600,6 +642,24 @@
     ]
   },
   {
+    "id": 1760395,
+    "title": "Stolen Babies",
+    "release_date": "2026-09-01",
+    "poster": "https://image.tmdb.org/t/p/w500/koQB4JBFATLoM0mTcwI9G6T1UFm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/y5EFMAZZC8oqfXjOq3VfmiGWbqA.jpg",
+    "overview": "Told by the mothers and children who were separated from one another, this landmark documentary reveals the full scale of the UK's forced adoption scandal. Over four decades, 250,000 unmarried mothers were forced by the British state to give up their babies. Their first-hand accounts expose the system that tore families apart, its lasting impact, and the fight to uncover the truth that led to a moment of national reckoning.",
+    "theatrical": false,
+    "trailer_published": "2026-09-04T14:01:13.000Z",
+    "videos": [
+      {
+        "key": "-HyZPlrv1JY",
+        "name": "Stolen Babies | Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-04T14:01:13.000Z"
+      }
+    ]
+  },
+  {
     "id": 1384216,
     "title": "The Dog Stars",
     "release_date": "2026-08-28",
@@ -659,7 +719,7 @@
     "release_date": "2026-08-07",
     "poster": "https://image.tmdb.org/t/p/w500/cB6ZAWK70cR5HVnGK6BaCr8W4FH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
-    "overview": "Rebel Devadas (\u0daf\u0dda\u0dc0\u0dca\u0daf\u0dcf\u0dc3\u0dca) joins forces with Chandra (\u0da0\u0db1\u0dca\u0daf\u0dca\u200d\u0dbb\u0dcf) in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+    "overview": "Rebel Devadas  joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
     "theatrical": true,
     "trailer_published": "2026-09-03T18:30:26.000Z",
     "videos": [
@@ -1101,8 +1161,8 @@
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/zUaTMxLOuW4wdaFYhRVJbO6W8Sy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "theatrical": true,
     "trailer_published": "2026-08-26T13:59:48.000Z",
@@ -1887,7 +1947,7 @@
     "id": 1748841,
     "title": "Dark Hollow",
     "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/1s9IVDZetaGc8isbjslCZggsNSX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/a9s0CV2Wt62nTmNJp73TT8FIxIn.jpg",
     "overview": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family.",
     "theatrical": false,
@@ -1994,24 +2054,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-06-23T14:01:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1408162,
-    "title": "Vishwanath & Sons",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
-    "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-    "theatrical": false,
-    "trailer_published": "2026-08-10T04:31:28.000Z",
-    "videos": [
-      {
-        "key": "wjycKdvm8bE",
-        "name": "Vishwanath & Sons | Official Trailer | Releasing at PVR INOX on August 14!",
-        "type": "Trailer",
-        "published_at": "2026-08-10T04:31:28.000Z"
       }
     ]
   },
@@ -2704,7 +2746,7 @@
     "title": "The Runner",
     "release_date": "2026-09-02",
     "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yeEkiAx9ZqPXBxZAkUXj7XLIyi2.jpg",
     "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
     "theatrical": false,
     "trailer_published": "2026-07-16T15:00:28.000Z",
@@ -2836,7 +2878,7 @@
     "title": "Mayday",
     "release_date": "2026-09-03",
     "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
     "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
     "theatrical": false,
     "trailer_published": "2026-07-14T12:59:55.000Z",
@@ -2872,7 +2914,7 @@
     "title": "Idiots",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cWWKFcsW9Hi0bVPXTQGeYb2Upi8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
     "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
     "theatrical": true,
     "trailer_published": "2026-07-09T15:00:31.000Z",
@@ -3141,7 +3183,7 @@
     "id": 87513,
     "title": "Motor City",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
     "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
     "theatrical": true,
@@ -3356,24 +3398,6 @@
         "name": "Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-06-16T16:01:06.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1468683,
-    "title": "Heartstopper Forever",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
-    "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
-    "theatrical": false,
-    "trailer_published": "2026-06-16T16:00:02.000Z",
-    "videos": [
-      {
-        "key": "locuQ-skySE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-16T16:00:02.000Z"
       }
     ]
   },
