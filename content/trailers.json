@@ -1,5 +1,41 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-14T09:00:20.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "JgqQHWnyw7k",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-14T09:00:20.000Z"
+      },
+      {
+        "key": "p7uRMbARqjM",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-14T06:10:26.000Z"
+      },
+      {
+        "key": "AZueg7s4C0w",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-14T06:04:10.000Z"
+      }
+    ]
+  },
+  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -104,42 +140,6 @@
         "name": "Survival of the fittest.",
         "type": "Teaser",
         "published_at": "2026-09-13T10:00:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-13T09:00:28.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "a_Qvgy0kiDA",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-13T09:00:28.000Z"
-      },
-      {
-        "key": "Ex6rzaRDOaI",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-13T03:00:22.000Z"
-      },
-      {
-        "key": "S2xozUPySdE",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-13T01:00:29.000Z"
       }
     ]
   },
@@ -580,7 +580,7 @@
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bO9IW7FLKA3OBstINZVca2yPxKj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
     "trailer_published": "2026-09-07T00:30:04.000Z",
@@ -626,6 +626,24 @@
         "name": "Which one are you?",
         "type": "Teaser",
         "published_at": "2026-09-05T13:05:22.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465943,
+    "title": "Mandaadi",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
+    "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
+    "theatrical": true,
+    "trailer_published": "2026-09-04T16:05:47.000Z",
+    "videos": [
+      {
+        "key": "VOHaf-0DV-U",
+        "name": "Mandaadi - Trailer (Tamil) | Soori | Suhas | Mahima Nambiar | GV Prakash | Mathimaran Pugazhendhi",
+        "type": "Trailer",
+        "published_at": "2026-09-04T16:05:47.000Z"
       }
     ]
   },
@@ -1110,6 +1128,42 @@
     ]
   },
   {
+    "id": 1477104,
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/izLG3cxbG89nK75OHyd1zvjR7n8.jpg",
+    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T12:00:27.000Z",
+    "videos": [
+      {
+        "key": "daZMq0AyOMc",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T12:00:27.000Z"
+      },
+      {
+        "key": "T3K2uKvi_0s",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-06-24T13:00:32.000Z"
+      },
+      {
+        "key": "b2RwIefN0Y0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-18T14:39:52.000Z"
+      },
+      {
+        "key": "UZ46Smi6mOw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T17:00:48.000Z"
+      }
+    ]
+  },
+  {
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
@@ -1142,30 +1196,6 @@
         "name": "Soar into Wildwood",
         "type": "Teaser",
         "published_at": "2026-08-22T16:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1422011,
-    "title": "It Ends",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
-    "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
-    "theatrical": true,
-    "trailer_published": "2026-08-25T16:00:37.000Z",
-    "videos": [
-      {
-        "key": "9k7jckaHeuA",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-25T16:00:37.000Z"
-      },
-      {
-        "key": "zFszhQLMNXU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:07.000Z"
       }
     ]
   },
@@ -1308,38 +1338,26 @@
     ]
   },
   {
-    "id": 1124142,
-    "title": "The Rivals of Amziah King",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
+    "id": 1340102,
+    "title": "Lion Fist",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
+    "overview": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
     "theatrical": true,
-    "trailer_published": "2026-08-22T16:00:11.000Z",
+    "trailer_published": "2026-08-21T16:00:01.000Z",
     "videos": [
       {
-        "key": "GwSvAyaMGMo",
-        "name": "Official Trailer",
+        "key": "9JLxOm9VmGI",
+        "name": "Trailer",
         "type": "Trailer",
-        "published_at": "2026-05-11T16:02:12.000Z"
+        "published_at": "2026-08-21T16:00:01.000Z"
       },
       {
-        "key": "TYxj-lYOxyY",
-        "name": "Now Playing Only in Theaters",
+        "key": "BNLvZ-VKHbc",
+        "name": "Teaser",
         "type": "Teaser",
-        "published_at": "2026-08-22T16:00:11.000Z"
-      },
-      {
-        "key": "4laLp51eYLY",
-        "name": "Savor",
-        "type": "Teaser",
-        "published_at": "2026-08-13T17:41:30.000Z"
-      },
-      {
-        "key": "d95oHcmzd0M",
-        "name": "Hive",
-        "type": "Teaser",
-        "published_at": "2026-08-10T18:07:26.000Z"
+        "published_at": "2026-07-16T06:30:37.000Z"
       }
     ]
   },
@@ -2544,24 +2562,6 @@
     ]
   },
   {
-    "id": 1545486,
-    "title": "Unmadham",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-    "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-    "theatrical": false,
-    "trailer_published": "2026-07-18T14:30:12.000Z",
-    "videos": [
-      {
-        "key": "rGEw9hP0jlA",
-        "name": "UNMADHAM - OFFICIAL TRAILER | KUNCHACKO BOBAN | LIJOMOL JOSE | KIRAN DAS | 31 JULY",
-        "type": "Trailer",
-        "published_at": "2026-07-18T14:30:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 1709391,
     "title": "Hanuman Ansh",
     "release_date": "2026-09-11",
@@ -2787,8 +2787,8 @@
     "id": 860508,
     "title": "The Whisper Man",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
     "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
     "theatrical": false,
     "trailer_published": "2026-07-14T13:00:00.000Z",
@@ -3042,24 +3042,6 @@
     ]
   },
   {
-    "id": 1723460,
-    "title": "A Toxic Love Story",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
-    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
-    "theatrical": false,
-    "trailer_published": "2026-06-29T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "9k9SYlMy9qs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T15:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3190,7 +3172,7 @@
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oUcOngCWc6hFDmxufNBeIawkv9a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
     "overview": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-06-25T12:26:01.000Z",
@@ -3584,6 +3566,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-03-19T13:00:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1424965,
+    "title": "Ice Skater",
+    "release_date": "2026-02-24",
+    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
+    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
+    "theatrical": false,
+    "trailer_published": "2026-02-24T17:15:04.000Z",
+    "videos": [
+      {
+        "key": "ShXeLbwaZLw",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-12T09:12:02.000Z"
+      },
+      {
+        "key": "nBjUq8xyjx8",
+        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
+        "type": "Teaser",
+        "published_at": "2026-02-24T17:15:04.000Z"
       }
     ]
   },
