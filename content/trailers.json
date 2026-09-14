@@ -7,7 +7,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
-    "trailer_published": "2026-09-12T18:00:40.000Z",
+    "trailer_published": "2026-09-13T16:00:08.000Z",
     "videos": [
       {
         "key": "Ho10_4IX1jE",
@@ -22,16 +22,16 @@
         "published_at": "2026-04-20T16:01:08.000Z"
       },
       {
-        "key": "-UXkq27Wnys",
-        "name": "Cast by fate, tested by time, and never broken. Tell your sisters to get tickets!",
+        "key": "wbov5sBHwNM",
+        "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
         "type": "Teaser",
-        "published_at": "2026-09-12T18:00:40.000Z"
+        "published_at": "2026-09-13T16:00:08.000Z"
       },
       {
-        "key": "7k5oMk0Rcz4",
-        "name": "There's extra special magic here.",
+        "key": "DQpwQAWZheo",
+        "name": "The Deathwatch beetle returns...",
         "type": "Teaser",
-        "published_at": "2026-09-11T19:00:24.000Z"
+        "published_at": "2026-09-13T14:08:24.000Z"
       }
     ]
   },
@@ -43,13 +43,19 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
     "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
     "theatrical": true,
-    "trailer_published": "2026-09-12T16:00:24.000Z",
+    "trailer_published": "2026-09-13T14:00:16.000Z",
     "videos": [
       {
         "key": "4nhu80EmVQE",
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-09T16:33:32.000Z"
+      },
+      {
+        "key": "rXli3ZXxISA",
+        "name": "It only takes one.",
+        "type": "Teaser",
+        "published_at": "2026-09-13T14:00:16.000Z"
       },
       {
         "key": "TkNGg8NU9Fo",
@@ -62,6 +68,78 @@
         "name": "Going the extra mile for your child\u2019s education: Ashton Brooke.",
         "type": "Teaser",
         "published_at": "2026-09-11T16:00:37.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-09-13T10:00:16.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "mu-720kzofc",
+        "name": "Survival of the fittest.",
+        "type": "Teaser",
+        "published_at": "2026-09-13T10:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-13T09:00:28.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "a_Qvgy0kiDA",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-13T09:00:28.000Z"
+      },
+      {
+        "key": "Ex6rzaRDOaI",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-13T03:00:22.000Z"
+      },
+      {
+        "key": "S2xozUPySdE",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-13T01:00:29.000Z"
       }
     ]
   },
@@ -98,42 +176,6 @@
         "name": "Better find some ammo.",
         "type": "Teaser",
         "published_at": "2026-09-07T08:37:49.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-12T02:00:13.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "YBb4zg_ahGU",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-12T02:00:13.000Z"
-      },
-      {
-        "key": "C4vc4Lm7KIo",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-11T12:00:05.000Z"
-      },
-      {
-        "key": "07U21sbqKe8",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-11T10:27:53.000Z"
       }
     ]
   },
@@ -413,7 +455,7 @@
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
     "theatrical": true,
     "trailer_published": "2026-09-08T15:21:37.000Z",
     "videos": [
@@ -714,42 +756,6 @@
     ]
   },
   {
-    "id": 1058424,
-    "title": "Hope",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/h39KOfADZB5I7JzNh9ih9GbZdoK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "theatrical": true,
-    "trailer_published": "2026-09-03T15:23:25.000Z",
-    "videos": [
-      {
-        "key": "OFaJzL83y0Q",
-        "name": "Official English Trailer [Dubbed]",
-        "type": "Trailer",
-        "published_at": "2026-08-14T12:30:11.000Z"
-      },
-      {
-        "key": "R5jcEBVBEbQ",
-        "name": "Official US Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-09T14:00:20.000Z"
-      },
-      {
-        "key": "ODnHr2Emnf0",
-        "name": "International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-05-17T23:00:39.000Z"
-      },
-      {
-        "key": "Ls-wVxqGge4",
-        "name": "In Theaters September 9",
-        "type": "Teaser",
-        "published_at": "2026-09-03T15:23:25.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400336,
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
@@ -850,7 +856,7 @@
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
     "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "theatrical": true,
     "trailer_published": "2026-09-01T09:00:19.000Z",
@@ -878,42 +884,6 @@
         "name": "See it Again",
         "type": "Teaser",
         "published_at": "2026-09-01T09:00:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-08-31T13:31:33.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "h2jxPHX3QlE",
-        "name": "Strength",
-        "type": "Teaser",
-        "published_at": "2026-08-31T13:31:33.000Z"
       }
     ]
   },
@@ -1374,42 +1344,6 @@
     ]
   },
   {
-    "id": 1368337,
-    "title": "The Odyssey",
-    "release_date": "2026-07-17",
-    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T17:05:04.000Z",
-    "videos": [
-      {
-        "key": "AyIZ9tiiN8I",
-        "name": "Official Countdown Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-01T12:30:05.000Z"
-      },
-      {
-        "key": "f_bKjZeJBBI",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-05T04:10:02.000Z"
-      },
-      {
-        "key": "Mzw2ttJD2qQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-12-22T14:00:04.000Z"
-      },
-      {
-        "key": "aUWTVfwdm-c",
-        "name": "The EPIC journey of The Odyssey will be back in IMAX this FRIDAY",
-        "type": "Teaser",
-        "published_at": "2026-08-20T17:05:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
@@ -1709,7 +1643,7 @@
     "release_date": "2026-09-04",
     "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
-    "overview": "In 1960s Mississippi, young Black FBI agent Wayne Strider is sent to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, Strider finds himself pulled into a deadly hunt where the lines of justice and vengeance begin to blur.",
+    "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
     "theatrical": true,
     "trailer_published": "2026-08-17T22:58:28.000Z",
     "videos": [
@@ -1869,7 +1803,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -2027,7 +1961,7 @@
     "release_date": "2026-09-09",
     "poster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-    "overview": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+    "overview": "After a wealthy Spanish heiress is kidnapped, she falls into a dangerous attraction with the newly hired bodyguard assigned to protect her in a world full of deception.",
     "theatrical": false,
     "trailer_published": "2026-08-10T18:30:23.000Z",
     "videos": [
@@ -2372,6 +2306,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-02T13:00:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1482547,
+    "title": "Zip Wire",
+    "release_date": "2026-08-31",
+    "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
+    "overview": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery \u2014 and herself \u2014 before it's too late.",
+    "theatrical": false,
+    "trailer_published": "2026-07-27T08:54:11.000Z",
+    "videos": [
+      {
+        "key": "M9tHmu0wNHM",
+        "name": "UK Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-27T08:54:11.000Z"
       }
     ]
   },
@@ -2991,15 +2943,15 @@
     "id": 1489543,
     "title": "G.D.N",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/aAbvbKbNU6YyYDZ5ntSQcOygliw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
-    "overview": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities\u2014including struggles where his work and international dealings faced severe scrutiny and opposition.",
+    "overview": "G.D. Naidu overcomes challenges and defies a repressive colonial regime to become one of India's greatest innovators.",
     "theatrical": true,
     "trailer_published": "2026-07-04T14:43:41.000Z",
     "videos": [
       {
         "key": "DC11NRrn9Vc",
-        "name": "G.D.N Official Trailer | R. Madhavan | Sathyaraj | Jayaram | Priyamani | Dushara | Govind Vasantha",
+        "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-07-04T14:43:41.000Z"
       }
@@ -3239,7 +3191,7 @@
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oUcOngCWc6hFDmxufNBeIawkv9a.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "overview": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-06-25T12:26:01.000Z",
     "videos": [
@@ -3524,6 +3476,24 @@
         "name": "\u3010\u4e3b\u984c\u6b4c\u5165\u308a\u4e88\u544a\u3011\u7c73\u6d25\u7384\u5e2b\u300c\u591c\u9df9\u300d\u306b\u6c7a\u5b9a\uff01\uff5c\u6620\u753b\u300e\u30ad\u30f3\u30b0\u30c0\u30e0 \u9b42\u306e\u6c7a\u6226\u300f7\u670817\u65e5(\u91d1)\u516c\u958b",
         "type": "Trailer",
         "published_at": "2026-05-26T19:00:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1628071,
+    "title": "Ip Man: Kung Fu Legend",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
+    "theatrical": false,
+    "trailer_published": "2026-05-19T16:59:07.000Z",
+    "videos": [
+      {
+        "key": "cqlZSRvH7BU",
+        "name": "Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-05-19T16:59:07.000Z"
       }
     ]
   },
