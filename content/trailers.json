@@ -1,5 +1,77 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-15T09:00:14.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "kS1fiAFL6co",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-15T09:00:14.000Z"
+      },
+      {
+        "key": "_UaDBaeJ8js",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-15T03:30:37.000Z"
+      },
+      {
+        "key": "JgqQHWnyw7k",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-14T09:00:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-15T00:23:33.000Z",
+    "videos": [
+      {
+        "key": "PhgY8cOJiQA",
+        "name": "Get Tickets",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:21:37.000Z"
+      },
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "PSUvI670l_o",
+        "name": "Everything's Fine",
+        "type": "Teaser",
+        "published_at": "2026-09-15T00:23:33.000Z"
+      }
+    ]
+  },
+  {
     "id": 1117898,
     "title": "The Cat in the Hat",
     "release_date": "2026-11-06",
@@ -77,7 +149,7 @@
     "release_date": "2026-09-07",
     "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "theatrical": true,
     "trailer_published": "2026-09-14T17:00:38.000Z",
     "videos": [
@@ -104,42 +176,6 @@
         "name": "A life is on the line. The delivery is underway.",
         "type": "Teaser",
         "published_at": "2026-09-11T15:00:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-14T09:00:20.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "JgqQHWnyw7k",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-14T09:00:20.000Z"
-      },
-      {
-        "key": "p7uRMbARqjM",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-14T06:10:26.000Z"
-      },
-      {
-        "key": "AZueg7s4C0w",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-14T06:04:10.000Z"
       }
     ]
   },
@@ -176,6 +212,24 @@
         "name": "The Deathwatch beetle returns...",
         "type": "Teaser",
         "published_at": "2026-09-13T14:08:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1372443,
+    "title": "Mr. Irrelevant",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/7tLnRHfRieR7gwkmeM7lhJurt4x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
+    "overview": "The true story of John Tuggle, who was given the title after being the last pick of the last round of the 1983 NFL draft.",
+    "theatrical": true,
+    "trailer_published": "2026-09-13T15:00:05.000Z",
+    "videos": [
+      {
+        "key": "cwVE1qf6Ixs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-13T15:00:05.000Z"
       }
     ]
   },
@@ -252,46 +306,10 @@
     ]
   },
   {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-12T16:04:14.000Z",
-    "videos": [
-      {
-        "key": "PhgY8cOJiQA",
-        "name": "Get Tickets",
-        "type": "Trailer",
-        "published_at": "2026-09-08T15:21:37.000Z"
-      },
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
-      },
-      {
-        "key": "e1YWjdVszh4",
-        "name": "Adventure, magic and friendship await beyond the portal.",
-        "type": "Teaser",
-        "published_at": "2026-09-12T16:04:14.000Z"
-      }
-    ]
-  },
-  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "theatrical": true,
@@ -536,6 +554,42 @@
         "name": "First Look Teaser",
         "type": "Teaser",
         "published_at": "2026-04-14T22:55:07.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1228834,
+    "title": "The Fix",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+    "theatrical": true,
+    "trailer_published": "2026-09-07T23:29:30.000Z",
+    "videos": [
+      {
+        "key": "l5Luvr9TRRc",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T14:07:41.000Z"
+      },
+      {
+        "key": "NYC0v8xqQdM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T17:02:01.000Z"
+      },
+      {
+        "key": "Ua3wq0ApsDM",
+        "name": ":15 Spot | In Theaters Friday",
+        "type": "Teaser",
+        "published_at": "2026-09-07T23:29:30.000Z"
+      },
+      {
+        "key": "0RROE5Xiug8",
+        "name": ":30 Spot | In Theaters September 11",
+        "type": "Teaser",
+        "published_at": "2026-09-01T19:09:27.000Z"
       }
     ]
   },
@@ -1035,7 +1089,7 @@
     "id": 1483525,
     "title": "Possible Love",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
@@ -1082,30 +1136,6 @@
         "name": "\u201cDie Hard on the high seas.\u201d",
         "type": "Teaser",
         "published_at": "2026-08-26T18:51:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1228834,
-    "title": "The Fix",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T14:07:41.000Z",
-    "videos": [
-      {
-        "key": "l5Luvr9TRRc",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T14:07:41.000Z"
-      },
-      {
-        "key": "NYC0v8xqQdM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T17:02:01.000Z"
       }
     ]
   },
@@ -1164,12 +1194,30 @@
     ]
   },
   {
+    "id": 1378742,
+    "title": "Drive Through Fire",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/lmQKEJ4Te7CQ5mhnXwr3zCLnOvc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cQjiLpk1zHNJLEQ4BZmEVFbheJr.jpg",
+    "overview": "The story follows an addict war veteran turned rideshare driver who helps a terrified passenger escape a human trafficking ring serving wealthy clients.",
+    "theatrical": false,
+    "trailer_published": "2026-08-25T17:52:32.000Z",
+    "videos": [
+      {
+        "key": "qRG0OTAHSlI",
+        "name": "Drive Through Fire | Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-25T17:52:32.000Z"
+      }
+    ]
+  },
+  {
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "overview": "After her baby brother is abducted by a murder of crows, Prue and her classmate Curtis stumble upon a secret world in the midst of violent upheaval\u2014a world full of warring creatures, peaceable mystics, and powerful figures with dark intentions. And what begins as a rescue mission becomes something much greater as the two find themselves entwined in a struggle for the very freedom of this wilderness\u2014a wilderness the locals call Wildwood.",
     "theatrical": true,
     "trailer_published": "2026-08-25T16:09:56.000Z",
     "videos": [
@@ -1263,7 +1311,7 @@
     "id": 1185806,
     "title": "PAW Patrol: The Dino Movie",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/frAFeNZWw1Jb3ZSoFsOT4J0qqxB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
     "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
     "theatrical": true,
@@ -1334,42 +1382,6 @@
         "name": "Bokshi \u2013 Official Teaser",
         "type": "Teaser",
         "published_at": "2024-12-22T05:36:58.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1124142,
-    "title": "The Rivals of Amziah King",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
-    "theatrical": true,
-    "trailer_published": "2026-08-22T16:00:11.000Z",
-    "videos": [
-      {
-        "key": "GwSvAyaMGMo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-11T16:02:12.000Z"
-      },
-      {
-        "key": "TYxj-lYOxyY",
-        "name": "Now Playing Only in Theaters",
-        "type": "Teaser",
-        "published_at": "2026-08-22T16:00:11.000Z"
-      },
-      {
-        "key": "4laLp51eYLY",
-        "name": "Savor",
-        "type": "Teaser",
-        "published_at": "2026-08-13T17:41:30.000Z"
-      },
-      {
-        "key": "d95oHcmzd0M",
-        "name": "Hive",
-        "type": "Teaser",
-        "published_at": "2026-08-10T18:07:26.000Z"
       }
     ]
   },
@@ -2015,7 +2027,7 @@
     "release_date": "2026-09-09",
     "poster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-    "overview": "After a wealthy Spanish heiress is kidnapped, she falls into a dangerous attraction with the newly hired bodyguard assigned to protect her in a world full of deception.",
+    "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
     "theatrical": false,
     "trailer_published": "2026-08-10T18:30:23.000Z",
     "videos": [
@@ -2500,7 +2512,7 @@
     "title": "Clayface",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
     "trailer_published": "2026-07-22T20:00:22.000Z",
@@ -2594,24 +2606,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-21T13:00:46.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1545486,
-    "title": "Unmadham",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-    "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-    "theatrical": false,
-    "trailer_published": "2026-07-18T14:30:12.000Z",
-    "videos": [
-      {
-        "key": "rGEw9hP0jlA",
-        "name": "UNMADHAM - OFFICIAL TRAILER | KUNCHACKO BOBAN | LIJOMOL JOSE | KIRAN DAS | 31 JULY",
-        "type": "Trailer",
-        "published_at": "2026-07-18T14:30:12.000Z"
       }
     ]
   },
@@ -3096,6 +3090,24 @@
     ]
   },
   {
+    "id": 1723460,
+    "title": "A Toxic Love Story",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+    "theatrical": false,
+    "trailer_published": "2026-06-29T15:00:00.000Z",
+    "videos": [
+      {
+        "key": "9k9SYlMy9qs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T15:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3300,6 +3312,30 @@
     ]
   },
   {
+    "id": 1641580,
+    "title": "The Last Assassins",
+    "release_date": "2026-08-11",
+    "poster": "https://image.tmdb.org/t/p/w500/dCEvwyR3XlTos78iHZzPa8a3urg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gRh0ZzVpjVW03AnOQNsO5aSYN9b.jpg",
+    "overview": "The world lives in a permanent winter and is shrouded in a deadly fog. In the distant future, Nobel must take a young girl to her aunt, whom she has never met, after her father has been killed. He has sworn to protect the members of that family, and few remain. When they arrive at an abandoned laboratory, holograms tell the family\u2019s story. But can the digital world become physical? The young woman may be the solution.",
+    "theatrical": true,
+    "trailer_published": "2026-06-19T15:55:53.000Z",
+    "videos": [
+      {
+        "key": "rJ-ti9v1y8Y",
+        "name": "THE LAST ASSASSINS Official Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2026-06-19T15:55:53.000Z"
+      },
+      {
+        "key": "FZD1mpwsy4Q",
+        "name": "THE LAST ASSASSINS \u2014 Official Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2026-06-19T14:40:48.000Z"
+      }
+    ]
+  },
+  {
     "id": 813418,
     "title": "Hot Spot",
     "release_date": "2026-08-21",
@@ -3486,24 +3522,6 @@
     ]
   },
   {
-    "id": 1628071,
-    "title": "Ip Man: Kung Fu Legend",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
-    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
-    "theatrical": false,
-    "trailer_published": "2026-05-19T16:59:07.000Z",
-    "videos": [
-      {
-        "key": "cqlZSRvH7BU",
-        "name": "Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-05-19T16:59:07.000Z"
-      }
-    ]
-  },
-  {
     "id": 949838,
     "title": "72 HOURS",
     "release_date": "2026-07-20",
@@ -3572,30 +3590,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-03-19T13:00:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1424965,
-    "title": "Ice Skater",
-    "release_date": "2026-02-24",
-    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
-    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
-    "theatrical": false,
-    "trailer_published": "2026-02-24T17:15:04.000Z",
-    "videos": [
-      {
-        "key": "ShXeLbwaZLw",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-12T09:12:02.000Z"
-      },
-      {
-        "key": "nBjUq8xyjx8",
-        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
-        "type": "Teaser",
-        "published_at": "2026-02-24T17:15:04.000Z"
       }
     ]
   },
