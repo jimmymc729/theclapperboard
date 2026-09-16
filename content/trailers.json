@@ -1,5 +1,41 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T09:00:04.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "IA9_bfVGM0k",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-16T09:00:04.000Z"
+      },
+      {
+        "key": "dv55UvnmV2A",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-16T03:30:38.000Z"
+      },
+      {
+        "key": "kS1fiAFL6co",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-15T09:00:14.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -198,42 +234,6 @@
     ]
   },
   {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-15T09:00:14.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "kS1fiAFL6co",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-15T09:00:14.000Z"
-      },
-      {
-        "key": "_UaDBaeJ8js",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-15T03:30:37.000Z"
-      },
-      {
-        "key": "JgqQHWnyw7k",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-14T09:00:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1465063,
     "title": "Forgotten Island",
     "release_date": "2026-09-25",
@@ -274,7 +274,7 @@
     "title": "The Cat in the Hat",
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xuesjsDedl4jrdKcFeDmtjP6ZXo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
     "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
     "theatrical": true,
     "trailer_published": "2026-09-14T19:30:35.000Z",
@@ -419,7 +419,7 @@
     "release_date": "2026-12-25",
     "poster": "https://image.tmdb.org/t/p/w500/7tLnRHfRieR7gwkmeM7lhJurt4x.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
-    "overview": "The true story of John Tuggle, who was given the title after being the last pick of the last round of the 1983 NFL draft.",
+    "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
     "theatrical": true,
     "trailer_published": "2026-09-13T15:00:05.000Z",
     "videos": [
@@ -500,6 +500,24 @@
         "name": "Survival of the fittest.",
         "type": "Teaser",
         "published_at": "2026-09-13T10:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1318467,
+    "title": "The Last Kiss",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/klLupmrAUykQMrmFVBjbr0nreiI.jpg",
+    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+    "theatrical": false,
+    "trailer_published": "2026-09-10T19:03:09.000Z",
+    "videos": [
+      {
+        "key": "lAKtuOVkAgU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T19:03:09.000Z"
       }
     ]
   },
@@ -590,24 +608,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-08T16:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1492198,
-    "title": "Artificial",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/q3EYu8yrLqhDCkKp2MGlx3ZHJmj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o7oOpgyxMN5SGzxjrzJ93ZyOk9T.jpg",
-    "overview": "Described as a comedic drama set in the world of artificial intelligence, around the period at OpenAI in 2023 that saw CEO Sam Altman fired and rehired in a matter of days.",
-    "theatrical": true,
-    "trailer_published": "2026-09-08T15:00:25.000Z",
-    "videos": [
-      {
-        "key": "rDZplZFnbOk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-08T15:00:25.000Z"
       }
     ]
   },
@@ -978,6 +978,36 @@
     ]
   },
   {
+    "id": 1701141,
+    "title": "Gator Face",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/tUkIHTfiMIa5ipTvgYZW86fIoQX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLPLBWEyjlpCaNOt3NHiM8dmLAB.jpg",
+    "overview": "A Florida vacation becomes a blood-soaked fight for survival when a group of friends are hunted through the swamps by a savage cult that feeds its victims to ravenous alligators in the name of an ancient reptilian god.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T23:42:59.000Z",
+    "videos": [
+      {
+        "key": "mvSxjFkBdK4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-12T20:13:08.000Z"
+      },
+      {
+        "key": "gf2dY9w82Ps",
+        "name": "UK Trailer",
+        "type": "Teaser",
+        "published_at": "2026-09-01T23:42:59.000Z"
+      },
+      {
+        "key": "uLzasQM09Ko",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-02T00:08:13.000Z"
+      }
+    ]
+  },
+  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
@@ -1089,7 +1119,7 @@
     "id": 1477712,
     "title": "Ice Cream Man",
     "release_date": "2026-08-03",
-    "poster": "https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
     "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
     "theatrical": true,
@@ -1295,7 +1325,7 @@
     "videos": [
       {
         "key": "qRG0OTAHSlI",
-        "name": "Drive Through Fire | Trailer",
+        "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-08-25T17:52:32.000Z"
       }
@@ -1305,9 +1335,9 @@
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "After her baby brother is abducted by a murder of crows, Prue and her classmate Curtis stumble upon a secret world in the midst of violent upheaval\u2014a world full of warring creatures, peaceable mystics, and powerful figures with dark intentions. And what begins as a rescue mission becomes something much greater as the two find themselves entwined in a struggle for the very freedom of this wilderness\u2014a wilderness the locals call Wildwood.",
+    "overview": "After her baby brother is abducted by a murder of crows, Prue and her classmate Curtis stumble upon a secret world in the midst of violent upheaval\u2014a world full of warring creatures, peaceable mystics, and powerful figures with dark intentions. And what begins as a rescue mission becomes something much greater as the two find themselves entwined in a struggle for the very freedom of this wilderness\u2014a wilderness the locals call Wildwood",
     "theatrical": true,
     "trailer_published": "2026-08-25T16:09:56.000Z",
     "videos": [
@@ -1334,30 +1364,6 @@
         "name": "Soar into Wildwood",
         "type": "Teaser",
         "published_at": "2026-08-22T16:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1518769,
-    "title": "Singh vs Kaur 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
-    "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
-    "theatrical": false,
-    "trailer_published": "2026-08-25T11:30:01.000Z",
-    "videos": [
-      {
-        "key": "u3uEBSLt3iU",
-        "name": "Singh Vs Kaur 2 | Official Trailer | Gippy Grewal & Shehnaaz Gill | In Cinemas 11 Sept",
-        "type": "Trailer",
-        "published_at": "2026-08-25T11:30:01.000Z"
-      },
-      {
-        "key": "_p_MEcyJPfQ",
-        "name": "Singh Vs Kaur 2 (Teaser) Gippy Grewal - Shehnaaz Gill - Releasing On 11 September 2026",
-        "type": "Teaser",
-        "published_at": "2026-08-01T12:29:34.000Z"
       }
     ]
   },
@@ -1401,7 +1407,7 @@
     "id": 1185806,
     "title": "PAW Patrol: The Dino Movie",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/frAFeNZWw1Jb3ZSoFsOT4J0qqxB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
     "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
     "theatrical": true,
@@ -1472,6 +1478,42 @@
         "name": "Bokshi \u2013 Official Teaser",
         "type": "Teaser",
         "published_at": "2024-12-22T05:36:58.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1124142,
+    "title": "The Rivals of Amziah King",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
+    "theatrical": true,
+    "trailer_published": "2026-08-22T16:00:11.000Z",
+    "videos": [
+      {
+        "key": "GwSvAyaMGMo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-11T16:02:12.000Z"
+      },
+      {
+        "key": "TYxj-lYOxyY",
+        "name": "Now Playing Only in Theaters",
+        "type": "Teaser",
+        "published_at": "2026-08-22T16:00:11.000Z"
+      },
+      {
+        "key": "4laLp51eYLY",
+        "name": "Savor",
+        "type": "Teaser",
+        "published_at": "2026-08-13T17:41:30.000Z"
+      },
+      {
+        "key": "d95oHcmzd0M",
+        "name": "Hive",
+        "type": "Teaser",
+        "published_at": "2026-08-10T18:07:26.000Z"
       }
     ]
   },
@@ -1773,7 +1815,7 @@
     "id": 1447853,
     "title": "Oasis: Don't Look Back in Anger",
     "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
     "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
     "theatrical": true,
@@ -1959,7 +2001,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -2640,24 +2682,6 @@
     ]
   },
   {
-    "id": 1545486,
-    "title": "Unmadham",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-    "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-    "theatrical": false,
-    "trailer_published": "2026-07-18T14:30:12.000Z",
-    "videos": [
-      {
-        "key": "rGEw9hP0jlA",
-        "name": "UNMADHAM - OFFICIAL TRAILER | KUNCHACKO BOBAN | LIJOMOL JOSE | KIRAN DAS | 31 JULY",
-        "type": "Trailer",
-        "published_at": "2026-07-18T14:30:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 1709391,
     "title": "Hanuman Ansh",
     "release_date": "2026-09-11",
@@ -3120,24 +3144,6 @@
     ]
   },
   {
-    "id": 1723460,
-    "title": "A Toxic Love Story",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
-    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
-    "theatrical": false,
-    "trailer_published": "2026-06-29T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "9k9SYlMy9qs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T15:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3306,24 +3312,6 @@
     ]
   },
   {
-    "id": 1712439,
-    "title": "Behind the Screens",
-    "release_date": "2026-07-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5XhXoKGzI2sLjDixWUUzVqDRnzt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2r8T8p4pNAoClk6OSgIrIpAubJI.jpg",
-    "overview": "Seven close friends reunite for a dinner gathering and decide to play a seemingly harmless game. Throughout the evening, every message, email, and phone call they receive must be shared openly with the group.",
-    "theatrical": false,
-    "trailer_published": "2026-06-23T05:30:21.000Z",
-    "videos": [
-      {
-        "key": "G92ccbCruhI",
-        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e31\u0e01 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e25\u0e31\u0e1a - Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T05:30:21.000Z"
-      }
-    ]
-  },
-  {
     "id": 1507796,
     "title": "On the Sea",
     "release_date": "2026-07-24",
@@ -3486,6 +3474,30 @@
     ]
   },
   {
+    "id": 1432474,
+    "title": "Nimrods",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
+    "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year\u2019s Eve.",
+    "theatrical": true,
+    "trailer_published": "2026-06-10T15:30:04.000Z",
+    "videos": [
+      {
+        "key": "5mtbOhpqroo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T15:30:04.000Z"
+      },
+      {
+        "key": "IgxC84cZR4A",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2025-09-05T15:16:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1384758,
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
@@ -3534,6 +3546,24 @@
     ]
   },
   {
+    "id": 1628071,
+    "title": "Ip Man: Kung Fu Legend",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
+    "theatrical": false,
+    "trailer_published": "2026-05-19T16:59:07.000Z",
+    "videos": [
+      {
+        "key": "cqlZSRvH7BU",
+        "name": "Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-05-19T16:59:07.000Z"
+      }
+    ]
+  },
+  {
     "id": 949838,
     "title": "72 HOURS",
     "release_date": "2026-07-20",
@@ -3570,24 +3600,6 @@
     ]
   },
   {
-    "id": 1401586,
-    "title": "Sonic the Hedgehog 4",
-    "release_date": "2027-03-19",
-    "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AsVFiOj8p0KERLZRRz58mZv4zsq.jpg",
-    "overview": "Sonic the Hedgehog, joined by a new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
-    "theatrical": true,
-    "trailer_published": "2026-03-19T13:00:23.000Z",
-    "videos": [
-      {
-        "key": "YShjCIA9aXk",
-        "name": "Title Reveal",
-        "type": "Teaser",
-        "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
@@ -3602,6 +3614,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-03-19T13:00:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1424965,
+    "title": "Ice Skater",
+    "release_date": "2026-02-24",
+    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
+    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
+    "theatrical": false,
+    "trailer_published": "2026-02-24T17:15:04.000Z",
+    "videos": [
+      {
+        "key": "ShXeLbwaZLw",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-12T09:12:02.000Z"
+      },
+      {
+        "key": "nBjUq8xyjx8",
+        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
+        "type": "Teaser",
+        "published_at": "2026-02-24T17:15:04.000Z"
       }
     ]
   },
