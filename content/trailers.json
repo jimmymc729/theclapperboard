@@ -1,5 +1,149 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T21:00:15.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "oD1CNcekH1s",
+        "name": "Let\u2019s. F*ckin. Go!",
+        "type": "Teaser",
+        "published_at": "2026-09-16T21:00:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1198654,
+    "title": "Bad Apples",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T14:00:35.000Z",
+    "videos": [
+      {
+        "key": "4nhu80EmVQE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T16:33:32.000Z"
+      },
+      {
+        "key": "nuaX1aU5EbM",
+        "name": "Troublemaker? It\u2019s hard to say.",
+        "type": "Teaser",
+        "published_at": "2026-09-16T14:00:35.000Z"
+      },
+      {
+        "key": "rXli3ZXxISA",
+        "name": "It only takes one.",
+        "type": "Teaser",
+        "published_at": "2026-09-13T14:00:16.000Z"
+      },
+      {
+        "key": "TkNGg8NU9Fo",
+        "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
+        "type": "Teaser",
+        "published_at": "2026-09-12T16:00:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1300968,
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "lYXtL5TreOE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-16T13:00:01.000Z"
+      },
+      {
+        "key": "fS35YSjopjE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T13:00:02.000Z"
+      },
+      {
+        "key": "-OAjKT5ddpU",
+        "name": "Three more months. Twice the tributes. One arena.",
+        "type": "Teaser",
+        "published_at": "2026-08-20T16:00:01.000Z"
+      },
+      {
+        "key": "MPjxijuBuSo",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-11-20T13:59:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "After her baby brother is abducted by a murder of crows, Prue and her classmate Curtis stumble upon a secret world in the midst of violent upheaval\u2014a world full of warring creatures, peaceable mystics, and powerful figures with dark intentions. And what begins as a rescue mission becomes something much greater as the two find themselves entwined in a struggle for the very freedom of this wilderness\u2014a wilderness the locals call Wildwood",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T12:30:01.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "wr1XCDrHqYM",
+        "name": "\"Something Magical\"",
+        "type": "Teaser",
+        "published_at": "2026-08-25T16:09:56.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
@@ -306,47 +450,11 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-14T18:00:31.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "RisSwkRFqT0",
-        "name": "Stop scrollin\u2019 and get relaxin\u2019.",
-        "type": "Teaser",
-        "published_at": "2026-09-14T18:00:31.000Z"
-      }
-    ]
-  },
-  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "theatrical": true,
     "trailer_published": "2026-09-14T12:00:36.000Z",
@@ -428,42 +536,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-13T15:00:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1198654,
-    "title": "Bad Apples",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/60BxAjKM20ABTSYnWZcJ8ExiVNL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
-    "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
-    "theatrical": true,
-    "trailer_published": "2026-09-13T14:00:16.000Z",
-    "videos": [
-      {
-        "key": "4nhu80EmVQE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-09T16:33:32.000Z"
-      },
-      {
-        "key": "rXli3ZXxISA",
-        "name": "It only takes one.",
-        "type": "Teaser",
-        "published_at": "2026-09-13T14:00:16.000Z"
-      },
-      {
-        "key": "TkNGg8NU9Fo",
-        "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
-        "type": "Teaser",
-        "published_at": "2026-09-12T16:00:24.000Z"
-      },
-      {
-        "key": "lnu03Et8TJ0",
-        "name": "Going the extra mile for your child\u2019s education: Ashton Brooke.",
-        "type": "Teaser",
-        "published_at": "2026-09-11T16:00:37.000Z"
       }
     ]
   },
@@ -1155,7 +1227,7 @@
     "id": 1204680,
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
@@ -1318,7 +1390,7 @@
     "title": "Drive Through Fire",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/lmQKEJ4Te7CQ5mhnXwr3zCLnOvc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cQjiLpk1zHNJLEQ4BZmEVFbheJr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8Tw90S4hVrvUoqmQWDoO6U4toZT.jpg",
     "overview": "The story follows an addict war veteran turned rideshare driver who helps a terrified passenger escape a human trafficking ring serving wealthy clients.",
     "theatrical": false,
     "trailer_published": "2026-08-25T17:52:32.000Z",
@@ -1328,42 +1400,6 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-08-25T17:52:32.000Z"
-      }
-    ]
-  },
-  {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "After her baby brother is abducted by a murder of crows, Prue and her classmate Curtis stumble upon a secret world in the midst of violent upheaval\u2014a world full of warring creatures, peaceable mystics, and powerful figures with dark intentions. And what begins as a rescue mission becomes something much greater as the two find themselves entwined in a struggle for the very freedom of this wilderness\u2014a wilderness the locals call Wildwood",
-    "theatrical": true,
-    "trailer_published": "2026-08-25T16:09:56.000Z",
-    "videos": [
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "wr1XCDrHqYM",
-        "name": "\"Something Magical\"",
-        "type": "Teaser",
-        "published_at": "2026-08-25T16:09:56.000Z"
-      },
-      {
-        "key": "hN3lP4Fx1qg",
-        "name": "Soar into Wildwood",
-        "type": "Teaser",
-        "published_at": "2026-08-22T16:00:15.000Z"
       }
     ]
   },
@@ -1538,42 +1574,6 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2026-07-16T06:30:37.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1300968,
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T16:00:01.000Z",
-    "videos": [
-      {
-        "key": "fS35YSjopjE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T13:00:02.000Z"
-      },
-      {
-        "key": "-OAjKT5ddpU",
-        "name": "Three more months. Twice the tributes. One arena.",
-        "type": "Teaser",
-        "published_at": "2026-08-20T16:00:01.000Z"
-      },
-      {
-        "key": "MPjxijuBuSo",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2025-11-20T13:59:33.000Z"
-      },
-      {
-        "key": "mfJnszx7LZc",
-        "name": "Blair.",
-        "type": "Teaser",
-        "published_at": "2025-10-24T16:00:04.000Z"
       }
     ]
   },
@@ -1779,7 +1779,7 @@
     "id": 1514026,
     "title": "Buddy",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/szMG36D2cIxeQ7i5zRQbq0DnNDe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
     "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
     "theatrical": true,
@@ -2274,6 +2274,30 @@
     ]
   },
   {
+    "id": 1643135,
+    "title": "Run Hide Fight: Infidels",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5LINHN9KrzfYZxogKlTCcvR1Gki.jpg",
+    "overview": "After Islamist terrorists hijack a college's pro-Palestine encampment with the goal of enforcing Sharia law on students and executing dissidents whom they deem \"infidels\", a group of students, a security guard, and a Delta Force veteran team up to fight back.",
+    "theatrical": true,
+    "trailer_published": "2026-08-06T14:01:29.000Z",
+    "videos": [
+      {
+        "key": "sF4OZoLcCD0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-06T14:01:29.000Z"
+      },
+      {
+        "key": "KoLkuCo0PNc",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-25T13:46:32.000Z"
+      }
+    ]
+  },
+  {
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-06",
@@ -2574,30 +2598,6 @@
     ]
   },
   {
-    "id": 1758420,
-    "title": "Mormon UNO",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/wHRYEFqX2YOb2d38TCLhzVLApaZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j54S01xuYNQdUTKnsSee4HRK674.jpg",
-    "overview": "A steadfast Mormon and his doubt-filled Elder partner resort to abnormal and unfamiliar methods to convert nonbelievers on the last leg of their LDS mission.",
-    "theatrical": true,
-    "trailer_published": "2026-07-24T16:00:08.000Z",
-    "videos": [
-      {
-        "key": "l3p-PohMMOc",
-        "name": "Mormon UNO (Official Release Trailer)",
-        "type": "Trailer",
-        "published_at": "2026-07-24T16:00:08.000Z"
-      },
-      {
-        "key": "wBRsaCa9UOc",
-        "name": "Mormon UNO (Date Reveal Trailer)",
-        "type": "Trailer",
-        "published_at": "2026-06-08T21:00:25.000Z"
-      }
-    ]
-  },
-  {
     "id": 1504358,
     "title": "Don't Say Good Luck",
     "release_date": "2026-08-14",
@@ -2733,7 +2733,7 @@
     "id": 977942,
     "title": "The Uprising",
     "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fiFdny17lnjrwH6TmuxrhNy1Ol2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
@@ -3477,7 +3477,7 @@
     "id": 1432474,
     "title": "Nimrods",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
     "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year\u2019s Eve.",
     "theatrical": true,
