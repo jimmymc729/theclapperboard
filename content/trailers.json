@@ -1,5 +1,41 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T03:30:31.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "rTzs9443rGQ",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-17T03:30:31.000Z"
+      },
+      {
+        "key": "IA9_bfVGM0k",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-16T09:00:04.000Z"
+      },
+      {
+        "key": "dv55UvnmV2A",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-16T03:30:38.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -113,7 +149,7 @@
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "After her baby brother is abducted by a murder of crows, Prue and her classmate Curtis stumble upon a secret world in the midst of violent upheaval\u2014a world full of warring creatures, peaceable mystics, and powerful figures with dark intentions. And what begins as a rescue mission becomes something much greater as the two find themselves entwined in a struggle for the very freedom of this wilderness\u2014a wilderness the locals call Wildwood",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
     "trailer_published": "2026-09-16T12:30:01.000Z",
     "videos": [
@@ -144,38 +180,20 @@
     ]
   },
   {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "id": 1441228,
+    "title": "Irumudi",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+    "overview": "An alcoholic with a violent past\u2014living peacefully with his daughter beside a waterfall\u2014decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
     "theatrical": true,
-    "trailer_published": "2026-09-16T09:00:04.000Z",
+    "trailer_published": "2026-09-16T08:30:00.000Z",
     "videos": [
       {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
+        "key": "lqlYx4MdsAY",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "IA9_bfVGM0k",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-16T09:00:04.000Z"
-      },
-      {
-        "key": "dv55UvnmV2A",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-16T03:30:38.000Z"
-      },
-      {
-        "key": "kS1fiAFL6co",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-15T09:00:14.000Z"
+        "published_at": "2026-09-16T08:30:00.000Z"
       }
     ]
   },
@@ -284,6 +302,36 @@
         "name": "The jury has decided. | RUNNER is GUILTY",
         "type": "Teaser",
         "published_at": "2026-09-14T17:00:38.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1422011,
+    "title": "It Ends",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+    "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
+    "theatrical": true,
+    "trailer_published": "2026-09-15T16:00:35.000Z",
+    "videos": [
+      {
+        "key": "mQj2Hm7TXLQ",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-15T16:00:35.000Z"
+      },
+      {
+        "key": "9k7jckaHeuA",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-25T16:00:37.000Z"
+      },
+      {
+        "key": "zFszhQLMNXU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:07.000Z"
       }
     ]
   },
@@ -666,24 +714,6 @@
     ]
   },
   {
-    "id": 1425859,
-    "title": "Remain",
-    "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/5hPNq5h2y8Ux6nPBRMEwZ8npVTp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tWUizVQOYarekT6JRqPtQogIY3s.jpg",
-    "overview": "When reclusive architect Tate Gordon moves to small coastal town to complete his latest project, he encounters an alluring young woman who pulls him out of his shell, and into the center of a deadly mystery that hangs over the town.",
-    "theatrical": true,
-    "trailer_published": "2026-09-08T16:00:36.000Z",
-    "videos": [
-      {
-        "key": "h969bLwxgKc",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-08T16:00:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1381071,
     "title": "Godzilla Minus Zero",
     "release_date": "2026-11-06",
@@ -932,24 +962,6 @@
         "name": "IMAX Event",
         "type": "Teaser",
         "published_at": "2026-09-04T04:00:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1712451,
-    "title": "Resident Dead",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
-    "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
-    "theatrical": false,
-    "trailer_published": "2026-09-03T22:19:26.000Z",
-    "videos": [
-      {
-        "key": "M1vupS1Tzfg",
-        "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
-        "type": "Trailer",
-        "published_at": "2026-09-03T22:19:26.000Z"
       }
     ]
   },
@@ -2298,24 +2310,6 @@
     ]
   },
   {
-    "id": 656908,
-    "title": "Ramayana",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "theatrical": true,
-    "trailer_published": "2026-08-05T16:00:16.000Z",
-    "videos": [
-      {
-        "key": "74nF-FWAS6M",
-        "name": "Official Trailer (English)",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1506560,
     "title": "Clash of the Thundermans",
     "release_date": "2026-09-03",
@@ -2558,24 +2552,6 @@
         "name": "FACING EL CHAPO Official Trailer (2026) Netflix | Alfonso Herrera, No\u00e9 Hern\u00e1ndez \ud83d\udea8",
         "type": "Trailer",
         "published_at": "2026-07-26T05:51:44.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1148365,
-    "title": "Matchbox the Movie",
-    "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-    "theatrical": true,
-    "trailer_published": "2026-07-25T21:30:05.000Z",
-    "videos": [
-      {
-        "key": "7xfqITrMDcI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-25T21:30:05.000Z"
       }
     ]
   },
@@ -3144,6 +3120,24 @@
     ]
   },
   {
+    "id": 1723460,
+    "title": "A Toxic Love Story",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+    "theatrical": false,
+    "trailer_published": "2026-06-29T15:00:00.000Z",
+    "videos": [
+      {
+        "key": "9k9SYlMy9qs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T15:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3546,24 +3540,6 @@
     ]
   },
   {
-    "id": 1628071,
-    "title": "Ip Man: Kung Fu Legend",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
-    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
-    "theatrical": false,
-    "trailer_published": "2026-05-19T16:59:07.000Z",
-    "videos": [
-      {
-        "key": "cqlZSRvH7BU",
-        "name": "Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-05-19T16:59:07.000Z"
-      }
-    ]
-  },
-  {
     "id": 949838,
     "title": "72 HOURS",
     "release_date": "2026-07-20",
@@ -3596,6 +3572,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-05T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1401586,
+    "title": "Sonic the Hedgehog 4",
+    "release_date": "2027-03-19",
+    "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oI1iqpRRyP4phEQnukiTxGA4dTi.jpg",
+    "overview": "Sonic the Hedgehog, joined by a new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
+    "theatrical": true,
+    "trailer_published": "2026-03-19T13:00:23.000Z",
+    "videos": [
+      {
+        "key": "YShjCIA9aXk",
+        "name": "Title Reveal",
+        "type": "Teaser",
+        "published_at": "2026-03-19T13:00:23.000Z"
       }
     ]
   },
@@ -3638,6 +3632,24 @@
         "name": "Trapped in the frozen wilderness, her fight for survival begins.",
         "type": "Teaser",
         "published_at": "2026-02-24T17:15:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1468229,
+    "title": "Ernie & Emma",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/dQM3eYqjh04ss2I2q4cE3FgszNN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2rGrE8jkWLTZFxSatRmwopjgNRo.jpg",
+    "overview": "A pear salesman is left with some amusing duties and an urn of ashes after losing the love of his life.",
+    "theatrical": true,
+    "trailer_published": "2026-02-03T23:58:06.000Z",
+    "videos": [
+      {
+        "key": "NE1fmjcL4oc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-03T23:58:06.000Z"
       }
     ]
   },
