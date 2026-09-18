@@ -1,5 +1,41 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-18T09:00:14.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "TNuPRZ0zOcg",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-18T09:00:14.000Z"
+      },
+      {
+        "key": "R3_OtkBH5H8",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-18T03:30:28.000Z"
+      },
+      {
+        "key": "rTzs9443rGQ",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-17T03:30:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -39,7 +75,7 @@
     "id": 1437511,
     "title": "How to Rob a Bank",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/nmB0dUFEBHkXgJYnkybzxyRtpvI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
     "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
     "theatrical": true,
@@ -72,38 +108,20 @@
     ]
   },
   {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "id": 1685882,
+    "title": "Modha Rathri",
+    "release_date": "2026-08-21",
+    "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+    "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
     "theatrical": true,
-    "trailer_published": "2026-09-17T03:30:31.000Z",
+    "trailer_published": "2026-09-17T08:30:00.000Z",
     "videos": [
       {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
+        "key": "UrWrvwIRnqk",
+        "name": "Modha Rathri | Official Trailer | Anishma Anilkumar, Rishikanth | Netflix India",
         "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "rTzs9443rGQ",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-17T03:30:31.000Z"
-      },
-      {
-        "key": "IA9_bfVGM0k",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-16T09:00:04.000Z"
-      },
-      {
-        "key": "dv55UvnmV2A",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-16T03:30:38.000Z"
+        "published_at": "2026-09-17T08:30:00.000Z"
       }
     ]
   },
@@ -528,12 +546,30 @@
     ]
   },
   {
+    "id": 848700,
+    "title": "Minotaur",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+    "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+    "theatrical": true,
+    "trailer_published": "2026-09-14T14:18:30.000Z",
+    "videos": [
+      {
+        "key": "hTHeFP0mcuk",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-14T14:18:30.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "overview": "A hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town.",
     "theatrical": true,
     "trailer_published": "2026-09-14T12:00:36.000Z",
     "videos": [
@@ -906,24 +942,6 @@
     ]
   },
   {
-    "id": 1465943,
-    "title": "Mandaadi",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
-    "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
-    "theatrical": true,
-    "trailer_published": "2026-09-04T16:05:47.000Z",
-    "videos": [
-      {
-        "key": "VOHaf-0DV-U",
-        "name": "Mandaadi - Trailer (Tamil) | Soori | Suhas | Mahima Nambiar | GV Prakash | Mathimaran Pugazhendhi",
-        "type": "Trailer",
-        "published_at": "2026-09-04T16:05:47.000Z"
-      }
-    ]
-  },
-  {
     "id": 1760395,
     "title": "Stolen Babies",
     "release_date": "2026-09-01",
@@ -999,7 +1017,7 @@
     "id": 1479832,
     "title": "DC",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/cB6ZAWK70cR5HVnGK6BaCr8W4FH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
     "overview": "Rebel Devadas  joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
     "theatrical": true,
@@ -1370,6 +1388,24 @@
         "name": "\u201cDie Hard on the high seas.\u201d",
         "type": "Teaser",
         "published_at": "2026-08-26T18:51:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1496696,
+    "title": "Breeder",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/1ru0fNB2dy6cjVXwGnzd8jgMQEn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
+    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T16:30:01.000Z",
+    "videos": [
+      {
+        "key": "9MeILB0M274",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T16:30:01.000Z"
       }
     ]
   },
@@ -1971,9 +2007,9 @@
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rGzlBlz9A7seUUTZp5k68A4IDvm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "overview": "Handed the reins to resurrect a dying slasher franchise, an enthusiastic young director visits the original film's reclusive star, only to be dragged into a blood-soaked world of obsession, desire, and delirium.",
+    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original\u2019s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
     "theatrical": true,
     "trailer_published": "2026-08-17T16:55:23.000Z",
     "videos": [
@@ -2108,24 +2144,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-14T17:15:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1748841,
-    "title": "Dark Hollow",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/fMbhJKv5bvVnh9HUwm1mTKmZdeZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a9s0CV2Wt62nTmNJp73TT8FIxIn.jpg",
-    "overview": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family.",
-    "theatrical": false,
-    "trailer_published": "2026-08-13T16:13:32.000Z",
-    "videos": [
-      {
-        "key": "m2pwAGOnDfQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-13T16:13:32.000Z"
       }
     ]
   },
@@ -2340,6 +2358,24 @@
     ]
   },
   {
+    "id": 656908,
+    "title": "Ramayana",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "theatrical": true,
+    "trailer_published": "2026-08-05T16:00:16.000Z",
+    "videos": [
+      {
+        "key": "74nF-FWAS6M",
+        "name": "Official Trailer (English)",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:00:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1506560,
     "title": "Clash of the Thundermans",
     "release_date": "2026-09-03",
@@ -2444,6 +2480,30 @@
         "name": "Barreda - Tr\u00e1iler Oficial I Prime Video",
         "type": "Trailer",
         "published_at": "2026-07-30T14:00:54.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/rnoD8w0SUetL3S4Uje8HgSxDXzK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-07-30T14:00:15.000Z",
+    "videos": [
+      {
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
       }
     ]
   },
@@ -2586,20 +2646,20 @@
     ]
   },
   {
-    "id": 1760254,
-    "title": "TREE HOUSE",
-    "release_date": "2026-09-07",
-    "poster": "https://image.tmdb.org/t/p/w500/lUybGLKUrwW8rAHLH3h2cvfWxi5.jpg",
-    "backdrop": "",
-    "overview": "After his parents\u2019 separation, a young boy finds comfort in his drawings of a treehouse. One night, a tear brings to life a tiny version of himself, who guides him through a dreamlike journey of reconciliation and creation.",
-    "theatrical": false,
-    "trailer_published": "2026-07-25T16:55:24.000Z",
+    "id": 1148365,
+    "title": "Matchbox the Movie",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-07-25T21:30:05.000Z",
     "videos": [
       {
-        "key": "e5VNrqcPRTU",
-        "name": "#DISFF49 TREE HOUSE [KIDDO]",
+        "key": "7xfqITrMDcI",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-25T16:55:24.000Z"
+        "published_at": "2026-07-25T21:30:05.000Z"
       }
     ]
   },
@@ -2618,24 +2678,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-23T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1743296,
-    "title": "Cannelloni",
-    "release_date": "2026-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/s2g8wLNs6G5XYa5ivfUNuWbQTKQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hw8VcGRqjc0LAjdCiHVOsWFF1Ey.jpg",
-    "overview": "Inspired by true events, this is a nocturnal thriller that follows the 2015 kidnapping of Chichita\u2014mother of writer Hern\u00e1n Casciari\u2014by Daniel Olesnik. Olesnik seeks to settle a blood debt: to avenge a prank played by Hern\u00e1n and his friend Chiri back in 1987, which drove his own mother to suicide. It is an inescapable, suffocating, and deadly spiral of vengeance that unfolds over the course of a single night.",
-    "theatrical": false,
-    "trailer_published": "2026-07-22T21:25:09.000Z",
-    "videos": [
-      {
-        "key": "2O_n7qeE2O0",
-        "name": "CANNELLONI | TRAILER",
-        "type": "Trailer",
-        "published_at": "2026-07-22T21:25:09.000Z"
       }
     ]
   },
@@ -2852,24 +2894,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-27T15:59:37.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1616131,
-    "title": "A Child of My Own",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
-    "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
-    "theatrical": true,
-    "trailer_published": "2026-07-15T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "8bggMB_AzEY",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-15T15:00:00.000Z"
       }
     ]
   },
@@ -3132,24 +3156,6 @@
     ]
   },
   {
-    "id": 1723460,
-    "title": "A Toxic Love Story",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
-    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
-    "theatrical": false,
-    "trailer_published": "2026-06-29T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "9k9SYlMy9qs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T15:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3321,7 +3327,7 @@
     "id": 1507796,
     "title": "On the Sea",
     "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
     "overview": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
     "theatrical": false,
