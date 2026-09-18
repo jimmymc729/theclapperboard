@@ -1,5 +1,77 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T21:00:01.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "srleaPsE_W0",
+        "name": "Ain\u2019t Maggie sweet?",
+        "type": "Teaser",
+        "published_at": "2026-09-17T21:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437511,
+    "title": "How to Rob a Bank",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/nmB0dUFEBHkXgJYnkybzxyRtpvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T13:00:09.000Z",
+    "videos": [
+      {
+        "key": "MVvWKh336m4",
+        "name": "Official UK Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T13:00:09.000Z"
+      },
+      {
+        "key": "B9XOzCUvFB8",
+        "name": "Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T12:59:58.000Z"
+      },
+      {
+        "key": "hoXld2b0TCs",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:02:07.000Z"
+      },
+      {
+        "key": "ORxw68y3lyw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:00:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
@@ -36,38 +108,32 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "id": 1530121,
+    "title": "The Girl in the River",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
+    "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
     "theatrical": true,
-    "trailer_published": "2026-09-16T21:00:15.000Z",
+    "trailer_published": "2026-09-16T16:00:37.000Z",
     "videos": [
       {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
+        "key": "WKPSSLbnh-E",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
+        "published_at": "2026-07-22T17:03:14.000Z"
       },
       {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "oD1CNcekH1s",
-        "name": "Let\u2019s. F*ckin. Go!",
+        "key": "inTrG9hjHCk",
+        "name": "Who can you really trust?",
         "type": "Teaser",
-        "published_at": "2026-09-16T21:00:15.000Z"
+        "published_at": "2026-09-16T16:00:37.000Z"
+      },
+      {
+        "key": "U4FWuLoFCQ4",
+        "name": "Every detail matters.",
+        "type": "Teaser",
+        "published_at": "2026-09-13T19:00:27.000Z"
       }
     ]
   },
@@ -458,42 +524,6 @@
         "name": "Everything's Fine",
         "type": "Teaser",
         "published_at": "2026-09-15T00:23:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1117898,
-    "title": "The Cat in the Hat",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-14T19:30:35.000Z",
-    "videos": [
-      {
-        "key": "Vuv0kqGWjno",
-        "name": "Main Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T15:00:03.000Z"
-      },
-      {
-        "key": "HT5JAp5z0-o",
-        "name": "Official Trailer 3",
-        "type": "Trailer",
-        "published_at": "2026-06-09T13:30:12.000Z"
-      },
-      {
-        "key": "jz8pLlPhSeY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-07-01T16:00:29.000Z"
-      },
-      {
-        "key": "2h3KQ1RY3oQ",
-        "name": "Cat Core: zero explanation, maximum commitment.",
-        "type": "Teaser",
-        "published_at": "2026-09-14T19:30:35.000Z"
       }
     ]
   },
@@ -2606,24 +2636,6 @@
         "name": "CANNELLONI | TRAILER",
         "type": "Trailer",
         "published_at": "2026-07-22T21:25:09.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1530121,
-    "title": "The Girl in the River",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
-    "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
-    "theatrical": true,
-    "trailer_published": "2026-07-22T17:03:14.000Z",
-    "videos": [
-      {
-        "key": "WKPSSLbnh-E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T17:03:14.000Z"
       }
     ]
   },
