@@ -1,5 +1,41 @@
 [
   {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-09-19T03:00:00.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "KF4iyLk3rdE",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-09-19T03:00:00.000Z"
+      },
+      {
+        "key": "gEoj2WwDLbU",
+        "name": "Ammo's low, tension's high, and it's finally in your hands. Resident Evil is OUT NOW!",
+        "type": "Teaser",
+        "published_at": "2026-09-18T15:00:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -7,7 +43,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
-    "trailer_published": "2026-09-18T18:00:35.000Z",
+    "trailer_published": "2026-09-18T19:00:21.000Z",
     "videos": [
       {
         "key": "job8V254NAE",
@@ -28,10 +64,10 @@
         "published_at": "2026-06-23T16:00:07.000Z"
       },
       {
-        "key": "6nikIyTWUsM",
-        "name": "You want him to dig. You need him to dig.",
+        "key": "c59V46rIUc0",
+        "name": "Push \u2018em to their breaking point.",
         "type": "Teaser",
-        "published_at": "2026-09-18T18:00:35.000Z"
+        "published_at": "2026-09-18T19:00:21.000Z"
       }
     ]
   },
@@ -68,6 +104,168 @@
         "name": "In Cinemas SEPTEMBER 30",
         "type": "Teaser",
         "published_at": "2026-09-17T03:30:31.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1204680,
+    "title": "Coyote vs. Acme",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T18:25:24.000Z",
+    "videos": [
+      {
+        "key": "kMsiD1Nky5I",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:26.000Z"
+      },
+      {
+        "key": "H-43VeYGiPM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-22T12:55:32.000Z"
+      },
+      {
+        "key": "qdZf3jYcpCI",
+        "name": "Happy Birthday Wile E Coyote",
+        "type": "Teaser",
+        "published_at": "2026-09-17T18:25:24.000Z"
+      },
+      {
+        "key": "7wrdvTn9jcc",
+        "name": "ACME: We Create The Impossible",
+        "type": "Teaser",
+        "published_at": "2026-08-27T14:22:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T17:30:19.000Z",
+    "videos": [
+      {
+        "key": "Vuv0kqGWjno",
+        "name": "Main Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T15:00:03.000Z"
+      },
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer",
+        "published_at": "2026-06-09T13:30:12.000Z"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-07-01T16:00:29.000Z"
+      },
+      {
+        "key": "Q90tMSciiik",
+        "name": "And they\u2019re putting in overtime.",
+        "type": "Teaser",
+        "published_at": "2026-09-17T17:30:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T16:07:11.000Z",
+    "videos": [
+      {
+        "key": "PhgY8cOJiQA",
+        "name": "Get Tickets",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:21:37.000Z"
+      },
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "1eD_64sroTU",
+        "name": "Adventure may bring them to Nakali, but friendship is what drives the story.",
+        "type": "Teaser",
+        "published_at": "2026-09-17T16:07:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1290000,
+    "title": "Wife & Dog",
+    "release_date": "2027-02-19",
+    "poster": "https://image.tmdb.org/t/p/w500/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg",
+    "backdrop": "",
+    "overview": "The relentless greed of the Fairbank family and their associates fuels betrayal and murder in the battle for succession.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T14:18:20.000Z",
+    "videos": [
+      {
+        "key": "YBsTBGq6-hA",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-17T14:18:20.000Z"
+      },
+      {
+        "key": "NmYFn343IPU",
+        "name": "Official UK Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-17T14:00:17.000Z"
+      }
+    ]
+  },
+  {
+    "id": 977942,
+    "title": "The Uprising",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T13:56:23.000Z",
+    "videos": [
+      {
+        "key": "lyhCxZN4Ro8",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T17:02:51.000Z"
+      },
+      {
+        "key": "ZVkrhHebz1Q",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T15:00:03.000Z"
+      },
+      {
+        "key": "j0hAQcqx4_E",
+        "name": "In UK Cinemas Everywhere October 9",
+        "type": "Teaser",
+        "published_at": "2026-09-17T13:56:23.000Z"
       }
     ]
   },
@@ -510,92 +708,38 @@
     ]
   },
   {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "id": 1384216,
+    "title": "The Dog Stars",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
     "theatrical": true,
-    "trailer_published": "2026-09-15T00:23:33.000Z",
+    "trailer_published": "2026-09-15T06:00:35.000Z",
     "videos": [
       {
-        "key": "PhgY8cOJiQA",
-        "name": "Get Tickets",
-        "type": "Trailer",
-        "published_at": "2026-09-08T15:21:37.000Z"
-      },
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
+        "key": "-xSxaE1ClEE",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
+        "published_at": "2026-07-14T16:00:06.000Z"
       },
       {
-        "key": "PSUvI670l_o",
-        "name": "Everything's Fine",
-        "type": "Teaser",
-        "published_at": "2026-09-15T00:23:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 848700,
-    "title": "Minotaur",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
-    "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
-    "theatrical": true,
-    "trailer_published": "2026-09-14T14:18:30.000Z",
-    "videos": [
-      {
-        "key": "hTHeFP0mcuk",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-14T14:18:30.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-    "overview": "A hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town.",
-    "theatrical": true,
-    "trailer_published": "2026-09-14T12:00:36.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
+        "key": "sVCrTJdNtSs",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
+        "published_at": "2026-06-08T16:00:16.000Z"
       },
       {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
+        "key": "cmzVY1goqwQ",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
+        "published_at": "2026-04-16T23:01:30.000Z"
       },
       {
-        "key": "8RXE5Ot5TQc",
-        "name": "Flow Of Terror",
+        "key": "X0iCd6M5zRA",
+        "name": "Nine Years Ago",
         "type": "Teaser",
-        "published_at": "2026-09-14T12:00:36.000Z"
-      },
-      {
-        "key": "9Gnh6q5xwwc",
-        "name": "You don't need to ask me twice.",
-        "type": "Teaser",
-        "published_at": "2026-09-12T09:30:16.000Z"
+        "published_at": "2026-09-15T06:00:35.000Z"
       }
     ]
   },
@@ -654,6 +798,24 @@
     ]
   },
   {
+    "id": 1506736,
+    "title": "Thudakkam",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
+    "overview": "When danger strikes, a young woman fights to survive through courage and determination.",
+    "theatrical": false,
+    "trailer_published": "2026-09-13T12:40:09.000Z",
+    "videos": [
+      {
+        "key": "L7qoeUfE14w",
+        "name": "Vismaya Mohanlal\u2019s Thudakkam | Trailer | Aashish Joe Antony | Jude Anthany | Sept 18 | JioHotstar",
+        "type": "Trailer",
+        "published_at": "2026-09-13T12:40:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1263337,
     "title": "Heart of the Beast",
     "release_date": "2026-09-25",
@@ -694,7 +856,7 @@
     "title": "The Last Kiss",
     "release_date": "2026-09-15",
     "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/klLupmrAUykQMrmFVBjbr0nreiI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
     "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
     "theatrical": false,
     "trailer_published": "2026-09-10T19:03:09.000Z",
@@ -888,24 +1050,6 @@
     ]
   },
   {
-    "id": 1765072,
-    "title": "You Can See Everything",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
-    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-    "theatrical": true,
-    "trailer_published": "2026-09-07T00:30:04.000Z",
-    "videos": [
-      {
-        "key": "GGJSRFWALTI",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-07T00:30:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 1433367,
     "title": "One Night Only",
     "release_date": "2026-08-07",
@@ -942,24 +1086,6 @@
     ]
   },
   {
-    "id": 1760395,
-    "title": "Stolen Babies",
-    "release_date": "2026-09-01",
-    "poster": "https://image.tmdb.org/t/p/w500/koQB4JBFATLoM0mTcwI9G6T1UFm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y5EFMAZZC8oqfXjOq3VfmiGWbqA.jpg",
-    "overview": "Told by the mothers and children who were separated from one another, this landmark documentary reveals the full scale of the UK's forced adoption scandal. Over four decades, 250,000 unmarried mothers were forced by the British state to give up their babies. Their first-hand accounts expose the system that tore families apart, its lasting impact, and the fight to uncover the truth that led to a moment of national reckoning.",
-    "theatrical": false,
-    "trailer_published": "2026-09-04T14:01:13.000Z",
-    "videos": [
-      {
-        "key": "-HyZPlrv1JY",
-        "name": "Stolen Babies | Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-04T14:01:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1763332,
     "title": "Orang Perang",
     "release_date": "2026-10-01",
@@ -978,46 +1104,10 @@
     ]
   },
   {
-    "id": 1384216,
-    "title": "The Dog Stars",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "theatrical": true,
-    "trailer_published": "2026-09-04T04:00:16.000Z",
-    "videos": [
-      {
-        "key": "-xSxaE1ClEE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T16:00:06.000Z"
-      },
-      {
-        "key": "sVCrTJdNtSs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-08T16:00:16.000Z"
-      },
-      {
-        "key": "cmzVY1goqwQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T23:01:30.000Z"
-      },
-      {
-        "key": "AdQE5Yxt6tg",
-        "name": "IMAX Event",
-        "type": "Teaser",
-        "published_at": "2026-09-04T04:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1479832,
     "title": "DC",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/55CiHDQcyVERzIRHZFYRbZmbabv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
     "overview": "Rebel Devadas  joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
     "theatrical": true,
@@ -1167,7 +1257,7 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -1276,7 +1366,7 @@
     "title": "Ice Cream Man",
     "release_date": "2026-08-03",
     "poster": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/giekwhdwa8SFtfPi0mOn5uvkXJ0.jpg",
     "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
     "theatrical": true,
     "trailer_published": "2026-08-27T21:57:03.000Z",
@@ -1304,42 +1394,6 @@
         "name": "No breathers. No breaks. Just wall-to-wall carnage.",
         "type": "Teaser",
         "published_at": "2026-08-27T21:57:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1204680,
-    "title": "Coyote vs. Acme",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "theatrical": true,
-    "trailer_published": "2026-08-27T14:22:04.000Z",
-    "videos": [
-      {
-        "key": "kMsiD1Nky5I",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:26.000Z"
-      },
-      {
-        "key": "H-43VeYGiPM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-22T12:55:32.000Z"
-      },
-      {
-        "key": "7wrdvTn9jcc",
-        "name": "ACME: We Create The Impossible",
-        "type": "Teaser",
-        "published_at": "2026-08-27T14:22:04.000Z"
-      },
-      {
-        "key": "tyQBh0vKUtw",
-        "name": "Detonator Injury?",
-        "type": "Teaser",
-        "published_at": "2026-08-17T13:45:33.000Z"
       }
     ]
   },
@@ -1488,20 +1542,26 @@
     ]
   },
   {
-    "id": 1378742,
-    "title": "Drive Through Fire",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/lmQKEJ4Te7CQ5mhnXwr3zCLnOvc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8Tw90S4hVrvUoqmQWDoO6U4toZT.jpg",
-    "overview": "The story follows an addict war veteran turned rideshare driver who helps a terrified passenger escape a human trafficking ring serving wealthy clients.",
-    "theatrical": false,
-    "trailer_published": "2026-08-25T17:52:32.000Z",
+    "id": 1774125,
+    "title": "Avengers Endgame: Encore",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/26KIvC2cMsDUa2p1IivS1sHmsdw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6PDp6YrWF0hTM7UDlTPChnp8GdD.jpg",
+    "overview": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+    "theatrical": true,
+    "trailer_published": "2026-08-25T16:35:01.000Z",
     "videos": [
       {
-        "key": "qRG0OTAHSlI",
-        "name": "Trailer",
+        "key": "HiAzj9HZQnE",
+        "name": "Vingadores: Ultimato Encore | Trailer Dublado",
         "type": "Trailer",
-        "published_at": "2026-08-25T17:52:32.000Z"
+        "published_at": "2026-08-25T16:35:01.000Z"
+      },
+      {
+        "key": "L2NAh3CIdig",
+        "name": "Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25",
+        "type": "Trailer",
+        "published_at": "2026-08-25T16:00:01.000Z"
       }
     ]
   },
@@ -1624,7 +1684,7 @@
     "title": "The Rivals of Amziah King",
     "release_date": "2026-08-14",
     "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3qR1ZxuEzDksDGT13mHH2IiEq7G.jpg",
     "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
     "theatrical": true,
     "trailer_published": "2026-08-22T16:00:11.000Z",
@@ -1934,6 +1994,24 @@
         "name": "Official Documentary Teaser",
         "type": "Teaser",
         "published_at": "2026-07-04T14:59:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1514863,
+    "title": "Best of the Best",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "overview": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
+    "theatrical": false,
+    "trailer_published": "2026-08-18T13:00:00.000Z",
+    "videos": [
+      {
+        "key": "PuNATO-6a9U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-18T13:00:00.000Z"
       }
     ]
   },
@@ -2490,6 +2568,30 @@
     ]
   },
   {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+    "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-08-02T17:00:30.000Z",
+    "videos": [
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "G4JYnTeSFik",
+        "name": "Snowball",
+        "type": "Teaser",
+        "published_at": "2026-08-02T17:00:30.000Z"
+      }
+    ]
+  },
+  {
     "id": 1471168,
     "title": "Barreda",
     "release_date": "2026-08-28",
@@ -2504,30 +2606,6 @@
         "name": "Barreda - Tr\u00e1iler Oficial I Prime Video",
         "type": "Trailer",
         "published_at": "2026-07-30T14:00:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/rnoD8w0SUetL3S4Uje8HgSxDXzK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-07-30T14:00:15.000Z",
-    "videos": [
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
       }
     ]
   },
@@ -2784,30 +2862,6 @@
     ]
   },
   {
-    "id": 977942,
-    "title": "The Uprising",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-07-16T17:02:51.000Z",
-    "videos": [
-      {
-        "key": "lyhCxZN4Ro8",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T17:02:51.000Z"
-      },
-      {
-        "key": "ZVkrhHebz1Q",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T15:00:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1212934,
     "title": "Olmo",
     "release_date": "2026-08-07",
@@ -2918,24 +2972,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-27T15:59:37.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1616131,
-    "title": "A Child of My Own",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
-    "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
-    "theatrical": true,
-    "trailer_published": "2026-07-15T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "8bggMB_AzEY",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-15T15:00:00.000Z"
       }
     ]
   },
@@ -3564,24 +3600,6 @@
     ]
   },
   {
-    "id": 1628071,
-    "title": "Ip Man: Kung Fu Legend",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
-    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
-    "theatrical": false,
-    "trailer_published": "2026-05-19T16:59:07.000Z",
-    "videos": [
-      {
-        "key": "cqlZSRvH7BU",
-        "name": "Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-05-19T16:59:07.000Z"
-      }
-    ]
-  },
-  {
     "id": 1329016,
     "title": "Tony",
     "release_date": "2026-08-07",
@@ -3734,6 +3752,24 @@
         "name": "Now in Production",
         "type": "Teaser",
         "published_at": "2025-05-09T16:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1751701,
+    "title": "After Impact",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+    "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family\u2019s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
+    "theatrical": false,
+    "trailer_published": "2025-04-28T08:01:27.000Z",
+    "videos": [
+      {
+        "key": "Af8D6sRDyxo",
+        "name": "AFTER IMPACT | Official Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2025-04-28T08:01:27.000Z"
       }
     ]
   },
