@@ -1,5 +1,41 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-18T18:00:35.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "6nikIyTWUsM",
+        "name": "You want him to dig. You need him to dig.",
+        "type": "Teaser",
+        "published_at": "2026-09-18T18:00:35.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
@@ -32,42 +68,6 @@
         "name": "In Cinemas SEPTEMBER 30",
         "type": "Teaser",
         "published_at": "2026-09-17T03:30:31.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T21:00:01.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "srleaPsE_W0",
-        "name": "Ain\u2019t Maggie sweet?",
-        "type": "Teaser",
-        "published_at": "2026-09-17T21:00:01.000Z"
       }
     ]
   },
@@ -1080,6 +1080,30 @@
     ]
   },
   {
+    "id": 1641629,
+    "title": "You+Me - Against the World",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love \u2014 despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+    "theatrical": false,
+    "trailer_published": "2026-09-03T07:00:48.000Z",
+    "videos": [
+      {
+        "key": "z2Bw_nTXjG4",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-03T07:00:48.000Z"
+      },
+      {
+        "key": "a4JBA0NBTwU",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-08T15:00:37.000Z"
+      }
+    ]
+  },
+  {
     "id": 1452168,
     "title": "Behemoth!",
     "release_date": "2026-12-04",
@@ -1659,7 +1683,7 @@
     "id": 1562642,
     "title": "Ghost Soldier",
     "release_date": "2026-11-11",
-    "poster": "https://image.tmdb.org/t/p/w500/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
     "overview": "Reclusive government asset Henry Fitzgerald is living off the grid in Wyoming, designing new systems for a weapons research agency. When a multi trillion dollar investment management firm begins employing corrupt police and foreign mercenaries to force farmers off their ranches, the Green Beret veteran decides to employ his weapon prototypes to assist his neighbors.",
     "theatrical": true,
@@ -2007,7 +2031,7 @@
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/rGzlBlz9A7seUUTZp5k68A4IDvm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
     "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original\u2019s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
     "theatrical": true,
@@ -2763,7 +2787,7 @@
     "id": 977942,
     "title": "The Uprising",
     "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/fiFdny17lnjrwH6TmuxrhNy1Ol2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
@@ -2894,6 +2918,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-27T15:59:37.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1616131,
+    "title": "A Child of My Own",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
+    "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
+    "theatrical": true,
+    "trailer_published": "2026-07-15T15:00:00.000Z",
+    "videos": [
+      {
+        "key": "8bggMB_AzEY",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-07-15T15:00:00.000Z"
       }
     ]
   },
@@ -3120,24 +3162,6 @@
     ]
   },
   {
-    "id": 1248230,
-    "title": "Splash City",
-    "release_date": "2026-07-20",
-    "poster": "https://image.tmdb.org/t/p/w500/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jOjOXwD8boH6ZRe6JzoVSrlAnEz.jpg",
-    "overview": "Two brothers on diverging paths struggle to survive amidst the pressures of their community.",
-    "theatrical": true,
-    "trailer_published": "2026-06-29T17:00:03.000Z",
-    "videos": [
-      {
-        "key": "Vrze2vx3avI",
-        "name": "Splash City (2026) Official Trailer \u2013 A Film By Berner",
-        "type": "Trailer",
-        "published_at": "2026-06-29T17:00:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1481343,
     "title": "The Devil's Mouth",
     "release_date": "2026-07-29",
@@ -3266,24 +3290,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-25T12:26:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1630409,
-    "title": "The Debt Collector",
-    "release_date": "2026-07-23",
-    "poster": "https://image.tmdb.org/t/p/w500/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
-    "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
-    "theatrical": false,
-    "trailer_published": "2026-06-25T07:50:12.000Z",
-    "videos": [
-      {
-        "key": "U9vJ2Z4SFQI",
-        "name": "\u0e04\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e17\u0e27\u0e07\u0e41\u0e04\u0e49\u0e19 | \u0e15\u0e31\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23 | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-06-25T07:50:12.000Z"
       }
     ]
   },
@@ -3558,20 +3564,20 @@
     ]
   },
   {
-    "id": 949838,
-    "title": "72 HOURS",
-    "release_date": "2026-07-20",
-    "poster": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
-    "overview": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
+    "id": 1628071,
+    "title": "Ip Man: Kung Fu Legend",
+    "release_date": "2026-07-22",
+    "poster": "https://image.tmdb.org/t/p/w500/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
     "theatrical": false,
-    "trailer_published": "2026-05-11T15:00:00.000Z",
+    "trailer_published": "2026-05-19T16:59:07.000Z",
     "videos": [
       {
-        "key": "N-J-HR3quc4",
-        "name": "Official Trailer",
+        "key": "cqlZSRvH7BU",
+        "name": "Trailer [Subtitled]",
         "type": "Trailer",
-        "published_at": "2026-05-11T15:00:00.000Z"
+        "published_at": "2026-05-19T16:59:07.000Z"
       }
     ]
   },
@@ -3580,7 +3586,7 @@
     "title": "Tony",
     "release_date": "2026-08-07",
     "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
     "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "theatrical": true,
     "trailer_published": "2026-05-05T13:00:00.000Z",
