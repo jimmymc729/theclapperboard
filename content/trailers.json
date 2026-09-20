@@ -4,7 +4,7 @@
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
     "trailer_published": "2026-09-19T19:30:29.000Z",
@@ -68,6 +68,42 @@
         "name": "Proof\u2019s in the puddin\u2019.",
         "type": "Teaser",
         "published_at": "2026-09-19T19:00:39.000Z"
+      }
+    ]
+  },
+  {
+    "id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "theatrical": true,
+    "trailer_published": "2026-09-19T13:00:12.000Z",
+    "videos": [
+      {
+        "key": "P3uI5sLosKU",
+        "name": "Final Trailer (Peter\u2019s Journey)",
+        "type": "Trailer",
+        "published_at": "2026-07-21T16:00:31.000Z"
+      },
+      {
+        "key": "62bIsvRcPv0",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-17T18:58:31.000Z"
+      },
+      {
+        "key": "8TZMtslA3UY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T11:05:15.000Z"
+      },
+      {
+        "key": "EHw0fKfIEO4",
+        "name": "MJ Peter Edit",
+        "type": "Teaser",
+        "published_at": "2026-09-19T13:00:12.000Z"
       }
     ]
   },
@@ -268,10 +304,10 @@
         "published_at": "2026-09-17T18:25:24.000Z"
       },
       {
-        "key": "7wrdvTn9jcc",
-        "name": "ACME: We Create The Impossible",
+        "key": "eQcD2wwfBZE",
+        "name": "We tink we taw you heading to see Coyote Vs. Acme over Labor Day weekend!",
         "type": "Teaser",
-        "published_at": "2026-08-27T14:22:04.000Z"
+        "published_at": "2026-09-04T20:54:33.000Z"
       }
     ]
   },
@@ -352,7 +388,7 @@
     "title": "Wife & Dog",
     "release_date": "2027-02-19",
     "poster": "https://image.tmdb.org/t/p/w500/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg",
-    "backdrop": "",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fOdKHbtVZm9t2mMPpIraWgc1kle.jpg",
     "overview": "The relentless greed of the Fairbank family and their associates fuels betrayal and murder in the battle for succession.",
     "theatrical": true,
     "trailer_published": "2026-09-17T14:18:20.000Z",
@@ -441,7 +477,7 @@
     "id": 1685882,
     "title": "Modha Rathri",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hRWSgz2YbukvpBMUDr9fQ7KxaZh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
     "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
     "theatrical": true,
@@ -717,7 +753,7 @@
     "id": 1400837,
     "title": "Other Mommy",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mH3eovbLEK38DmVZ4nHSORpzuVI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
     "overview": "A young girl, Bela, forms a relationship with a sinister entity in her home who looks uncannily like her own mother.",
     "theatrical": true,
@@ -966,6 +1002,42 @@
     ]
   },
   {
+    "id": 1432474,
+    "title": "Nimrods",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
+    "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year\u2019s Eve.",
+    "theatrical": true,
+    "trailer_published": "2026-09-08T23:34:44.000Z",
+    "videos": [
+      {
+        "key": "DygtUxsgIVI",
+        "name": "ONE WEEK! Grab your digital pre-order now for Nimrods and let the countdown rip.",
+        "type": "Teaser",
+        "published_at": "2026-09-08T23:34:44.000Z"
+      },
+      {
+        "key": "GIy4N8X6k9c",
+        "name": "No more waiting, cuz waiting sucks",
+        "type": "Teaser",
+        "published_at": "2026-08-14T21:06:01.000Z"
+      },
+      {
+        "key": "_ugroXd65ME",
+        "name": "One Night Only - The Analog Dogs are hitting the road early!",
+        "type": "Teaser",
+        "published_at": "2026-07-22T21:49:02.000Z"
+      },
+      {
+        "key": "BdiIFdf-tOY",
+        "name": "Pick a date. Pick a seat. Let the countdown begin!",
+        "type": "Teaser",
+        "published_at": "2026-07-14T15:57:38.000Z"
+      }
+    ]
+  },
+  {
     "id": 1381071,
     "title": "Godzilla Minus Zero",
     "release_date": "2026-11-06",
@@ -1078,7 +1150,7 @@
     "title": "One Night Only",
     "release_date": "2026-08-07",
     "poster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2Got7QkJgecX5JAgoo4A4gzRneL.jpg",
     "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
     "theatrical": true,
     "trailer_published": "2026-09-05T13:05:22.000Z",
@@ -1314,60 +1386,6 @@
     ]
   },
   {
-    "id": 1422041,
-    "title": "La bola negra",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T14:00:00.000Z",
-    "videos": [
-      {
-        "key": "IRHtqjHYPew",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-01T14:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 969681,
-    "title": "Spider-Man: Brand New Day",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T09:00:19.000Z",
-    "videos": [
-      {
-        "key": "P3uI5sLosKU",
-        "name": "Final Trailer (Peter\u2019s Journey)",
-        "type": "Trailer",
-        "published_at": "2026-07-21T16:00:31.000Z"
-      },
-      {
-        "key": "62bIsvRcPv0",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-17T18:58:31.000Z"
-      },
-      {
-        "key": "8TZMtslA3UY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-18T11:05:15.000Z"
-      },
-      {
-        "key": "iFuTq7S4vRk",
-        "name": "See it Again",
-        "type": "Teaser",
-        "published_at": "2026-09-01T09:00:19.000Z"
-      }
-    ]
-  },
-  {
     "id": 1288059,
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
@@ -1508,24 +1526,6 @@
         "name": "\u201cDie Hard on the high seas.\u201d",
         "type": "Teaser",
         "published_at": "2026-08-26T18:51:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1496696,
-    "title": "Breeder",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/1ru0fNB2dy6cjVXwGnzd8jgMQEn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
-    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T16:30:01.000Z",
-    "videos": [
-      {
-        "key": "9MeILB0M274",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T16:30:01.000Z"
       }
     ]
   },
@@ -3210,6 +3210,30 @@
     ]
   },
   {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet: surviving fatherhood\u2026 while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-06-29T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -3522,30 +3546,6 @@
     ]
   },
   {
-    "id": 1432474,
-    "title": "Nimrods",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
-    "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year\u2019s Eve.",
-    "theatrical": true,
-    "trailer_published": "2026-06-10T15:30:04.000Z",
-    "videos": [
-      {
-        "key": "5mtbOhpqroo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T15:30:04.000Z"
-      },
-      {
-        "key": "IgxC84cZR4A",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2025-09-05T15:16:24.000Z"
-      }
-    ]
-  },
-  {
     "id": 1384758,
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
@@ -3704,6 +3704,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-02-03T23:58:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1706702,
+    "title": "Daniel and the Fiery Furnace",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6zSEAfAlwku2bpmQNUkeGtpI5uh.jpg",
+    "overview": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
+    "theatrical": true,
+    "trailer_published": "2025-12-25T12:55:00.000Z",
+    "videos": [
+      {
+        "key": "FYm_sWSw6Eo",
+        "name": "DANIEL Movie Official Teaser | starring Mena Massoud & Elijah Alexander",
+        "type": "Trailer",
+        "published_at": "2025-12-25T12:55:00.000Z"
       }
     ]
   },
