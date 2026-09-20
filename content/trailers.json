@@ -1,5 +1,113 @@
 [
   {
+    "id": 1302904,
+    "title": "Practical Magic 2",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "theatrical": true,
+    "trailer_published": "2026-09-19T19:30:29.000Z",
+    "videos": [
+      {
+        "key": "Ho10_4IX1jE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-24T16:00:38.000Z"
+      },
+      {
+        "key": "iSWP2feb4rw",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T16:01:08.000Z"
+      },
+      {
+        "key": "_de_g6qhKDw",
+        "name": "Audiences are loving Practical Magic 2!",
+        "type": "Teaser",
+        "published_at": "2026-09-19T19:30:29.000Z"
+      },
+      {
+        "key": "wbov5sBHwNM",
+        "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
+        "type": "Teaser",
+        "published_at": "2026-09-13T16:00:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-19T19:00:39.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "qBUbNw19Hds",
+        "name": "Proof\u2019s in the puddin\u2019.",
+        "type": "Teaser",
+        "published_at": "2026-09-19T19:00:39.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-19T09:00:12.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "2H8AmRgS3XY",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-19T09:00:12.000Z"
+      },
+      {
+        "key": "aS8DWqeZNhw",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-19T03:30:04.000Z"
+      },
+      {
+        "key": "frkG0arPaAw",
+        "name": "The story begins in two weeks. the truth is another matter.",
+        "type": "Teaser",
+        "published_at": "2026-09-18T17:30:04.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -36,74 +144,98 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-07",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "theatrical": true,
-    "trailer_published": "2026-09-18T19:00:21.000Z",
+    "trailer_published": "2026-09-19T00:00:18.000Z",
     "videos": [
       {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
+        "key": "B6Z9MM1LhEA",
+        "name": "UK Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
+        "published_at": "2026-08-05T11:47:00.000Z"
       },
       {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
+        "published_at": "2026-07-15T21:00:06.000Z"
       },
       {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "c59V46rIUc0",
-        "name": "Push \u2018em to their breaking point.",
+        "key": "M_S0VY84ENk",
+        "name": "Are You Taking Me Seriously Now",
         "type": "Teaser",
-        "published_at": "2026-09-18T19:00:21.000Z"
+        "published_at": "2026-09-19T00:00:18.000Z"
+      },
+      {
+        "key": "gHVBkubr4pc",
+        "name": "\"Crazy in all the best ways\"",
+        "type": "Teaser",
+        "published_at": "2026-09-15T17:00:02.000Z"
       }
     ]
   },
   {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "id": 1391021,
+    "title": "Once Upon a Time in the Middle East",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/wAuGgXjA7GV8NrKfmUKl2AP8vqG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+    "overview": "Xu Fu travels to the Middle East to work as a chef in a Chinese restaurant to pay off family debts, where he meets floor manager Ma Junsheng. Their Dragon Restaurant rises to fame, attracting crowds with authentic\u2011tasting Chinese food. But war breaks out, and local conditions take a drastic turn for the worse. No one can remain unaffected. What lies ahead for them? And how will the Dragon Restaurant hold on amid the war?",
     "theatrical": true,
-    "trailer_published": "2026-09-18T09:00:14.000Z",
+    "trailer_published": "2026-09-18T15:38:54.000Z",
     "videos": [
       {
-        "key": "xdPMKhjMSFs",
+        "key": "iHDNxZF7LRw",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-18T15:38:54.000Z"
+      },
+      {
+        "key": "IEgL2ycJcao",
+        "name": "Trailer [Subtitled]",
+        "type": "Teaser",
+        "published_at": "2026-09-15T04:00:17.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-09-18T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
+        "published_at": "2026-08-19T12:30:06.000Z"
       },
       {
-        "key": "TNuPRZ0zOcg",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-18T09:00:14.000Z"
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
       },
       {
-        "key": "R3_OtkBH5H8",
-        "name": "In Cinemas SEPTEMBER 30",
+        "key": "BfeBrJWx0f8",
+        "name": "How far would you go for love?",
         "type": "Teaser",
-        "published_at": "2026-09-18T03:30:28.000Z"
-      },
-      {
-        "key": "rTzs9443rGQ",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-17T03:30:31.000Z"
+        "published_at": "2026-09-18T13:00:01.000Z"
       }
     ]
   },
@@ -426,42 +558,6 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-09-16T12:30:01.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "wr1XCDrHqYM",
-        "name": "\"Something Magical\"",
-        "type": "Teaser",
-        "published_at": "2026-08-25T16:09:56.000Z"
-      }
-    ]
-  },
-  {
     "id": 1441228,
     "title": "Irumudi",
     "release_date": "2026-08-21",
@@ -552,42 +648,6 @@
     ]
   },
   {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-07",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-    "theatrical": true,
-    "trailer_published": "2026-09-15T17:00:02.000Z",
-    "videos": [
-      {
-        "key": "B6Z9MM1LhEA",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T11:47:00.000Z"
-      },
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:00:06.000Z"
-      },
-      {
-        "key": "gHVBkubr4pc",
-        "name": "\"Crazy in all the best ways\"",
-        "type": "Teaser",
-        "published_at": "2026-09-15T17:00:02.000Z"
-      },
-      {
-        "key": "SuJ9TE9EC50",
-        "name": "The jury has decided. | RUNNER is GUILTY",
-        "type": "Teaser",
-        "published_at": "2026-09-14T17:00:38.000Z"
-      }
-    ]
-  },
-  {
     "id": 1422011,
     "title": "It Ends",
     "release_date": "2026-08-21",
@@ -658,7 +718,7 @@
     "title": "Other Mommy",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
     "overview": "A young girl, Bela, forms a relationship with a sinister entity in her home who looks uncannily like her own mother.",
     "theatrical": true,
     "trailer_published": "2026-09-15T15:00:12.000Z",
@@ -740,42 +800,6 @@
         "name": "Nine Years Ago",
         "type": "Teaser",
         "published_at": "2026-09-15T06:00:35.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-09-13T16:00:08.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "wbov5sBHwNM",
-        "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
-        "type": "Teaser",
-        "published_at": "2026-09-13T16:00:08.000Z"
-      },
-      {
-        "key": "DQpwQAWZheo",
-        "name": "The Deathwatch beetle returns...",
-        "type": "Teaser",
-        "published_at": "2026-09-13T14:08:24.000Z"
       }
     ]
   },
@@ -1107,7 +1131,7 @@
     "id": 1479832,
     "title": "DC",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/55CiHDQcyVERzIRHZFYRbZmbabv.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8k71CD24GIAmEFgHYRhqFvwbXH8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
     "overview": "Rebel Devadas  joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
     "theatrical": true,
@@ -1286,6 +1310,24 @@
         "name": "Zoom",
         "type": "Teaser",
         "published_at": "2026-05-24T11:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1422041,
+    "title": "La bola negra",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "IRHtqjHYPew",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-01T14:00:00.000Z"
       }
     ]
   },
@@ -1538,30 +1580,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-03-18T17:00:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1774125,
-    "title": "Avengers Endgame: Encore",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/26KIvC2cMsDUa2p1IivS1sHmsdw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6PDp6YrWF0hTM7UDlTPChnp8GdD.jpg",
-    "overview": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
-    "theatrical": true,
-    "trailer_published": "2026-08-25T16:35:01.000Z",
-    "videos": [
-      {
-        "key": "HiAzj9HZQnE",
-        "name": "Vingadores: Ultimato Encore | Trailer Dublado",
-        "type": "Trailer",
-        "published_at": "2026-08-25T16:35:01.000Z"
-      },
-      {
-        "key": "L2NAh3CIdig",
-        "name": "Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25",
-        "type": "Trailer",
-        "published_at": "2026-08-25T16:00:01.000Z"
       }
     ]
   },
@@ -2109,7 +2127,7 @@
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
     "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original\u2019s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
     "theatrical": true,
@@ -2542,7 +2560,7 @@
     "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
     "release_date": "2026-07-24",
     "poster": "https://image.tmdb.org/t/p/w500/2sapvk8OG1rmaS2PquLnfyoMvOS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6efIfUaOqYKKWI5sSCilvqLIpeL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h2CZMPoOyEM5DXBzpSKMck2Jj9V.jpg",
     "overview": "Chiikawa and friends set off on a whimsical summer adventure to a mysterious island said to hide a long-lost mermaid secret. What starts as a fun getaway quickly turns into a heartwarming journey filled with surprises, gentle thrills, and adorable chaos. With sparkling seas, strange legends, and unforgettable encounters, the trio learns about courage, friendship, and the magic hidden in small moments.",
     "theatrical": false,
     "trailer_published": "2026-08-04T09:44:49.000Z",
@@ -2564,30 +2582,6 @@
         "name": "Official Teaser Trailer (Malaysia)",
         "type": "Teaser",
         "published_at": "2026-07-30T10:00:27.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
-    "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-08-02T17:00:30.000Z",
-    "videos": [
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "G4JYnTeSFik",
-        "name": "Snowball",
-        "type": "Teaser",
-        "published_at": "2026-08-02T17:00:30.000Z"
       }
     ]
   },
@@ -3430,7 +3424,7 @@
     "title": "Hexed",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nRUAjtySZPGurYv5se3R9pqDwWr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
     "trailer_published": "2026-06-16T16:01:06.000Z",
@@ -3600,6 +3594,24 @@
     ]
   },
   {
+    "id": 1428226,
+    "title": "Until the End of the World",
+    "release_date": "2026-07-23",
+    "poster": "https://image.tmdb.org/t/p/w500/6pwqbrrI1vHnID3wqfLIBLTM2Dd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
+    "overview": "Manuel's life is upended when Esmeralda, his lost love from 15 years ago, calls unexpectedly. Despite being set to marry another, he rediscovers Esmeralda, and they realize their love transcends time.",
+    "theatrical": false,
+    "trailer_published": "2026-05-14T22:17:15.000Z",
+    "videos": [
+      {
+        "key": "jP2g8G16mJA",
+        "name": "Hasta el Fin del Mundo I Tr\u00e1iler Oficial I Buena Vista International LA",
+        "type": "Trailer",
+        "published_at": "2026-05-14T22:17:15.000Z"
+      }
+    ]
+  },
+  {
     "id": 1329016,
     "title": "Tony",
     "release_date": "2026-08-07",
@@ -3752,24 +3764,6 @@
         "name": "Now in Production",
         "type": "Teaser",
         "published_at": "2025-05-09T16:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1751701,
-    "title": "After Impact",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-    "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family\u2019s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
-    "theatrical": false,
-    "trailer_published": "2025-04-28T08:01:27.000Z",
-    "videos": [
-      {
-        "key": "Af8D6sRDyxo",
-        "name": "AFTER IMPACT | Official Trailer (2026)",
-        "type": "Trailer",
-        "published_at": "2025-04-28T08:01:27.000Z"
       }
     ]
   },
