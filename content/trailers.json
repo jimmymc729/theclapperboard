@@ -1,5 +1,137 @@
 [
   {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T11:00:05.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "65S4n60II9E",
+        "name": "Certified Fresh",
+        "type": "Teaser",
+        "published_at": "2026-09-21T11:00:05.000Z"
+      },
+      {
+        "key": "bwSvIOnPjOc",
+        "name": "Filmed for IMAX",
+        "type": "Teaser",
+        "published_at": "2026-09-21T09:30:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T09:00:24.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "L4W0Zya76vg",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-21T09:00:24.000Z"
+      },
+      {
+        "key": "5kOBUi-8Gvw",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-21T03:30:28.000Z"
+      },
+      {
+        "key": "qtUzBs8NeAI",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-20T09:00:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1480574,
+    "title": "Just Play Dead",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
+    "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T08:38:27.000Z",
+    "videos": [
+      {
+        "key": "LfpPh2pW0Oo",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-21T08:38:27.000Z"
+      },
+      {
+        "key": "LlAajeOoFBo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-12T16:54:48.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-07",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "theatrical": true,
+    "trailer_published": "2026-09-20T21:00:28.000Z",
+    "videos": [
+      {
+        "key": "B6Z9MM1LhEA",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T11:47:00.000Z"
+      },
+      {
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T21:00:06.000Z"
+      },
+      {
+        "key": "C9cHbvHBsLA",
+        "name": "Who\u2019s who in RUNNER?",
+        "type": "Teaser",
+        "published_at": "2026-09-20T21:00:28.000Z"
+      },
+      {
+        "key": "M_S0VY84ENk",
+        "name": "Are You Taking Me Seriously Now",
+        "type": "Teaser",
+        "published_at": "2026-09-19T00:00:18.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -36,42 +168,6 @@
     ]
   },
   {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-20T09:00:04.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "qtUzBs8NeAI",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-20T09:00:04.000Z"
-      },
-      {
-        "key": "KsLkPysJeV0",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-20T03:30:23.000Z"
-      },
-      {
-        "key": "2H8AmRgS3XY",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-19T09:00:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -104,114 +200,6 @@
         "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
         "type": "Teaser",
         "published_at": "2026-09-13T16:00:08.000Z"
-      }
-    ]
-  },
-  {
-    "id": 969681,
-    "title": "Spider-Man: Brand New Day",
-    "release_date": "2026-07-31",
-    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "theatrical": true,
-    "trailer_published": "2026-09-19T13:00:12.000Z",
-    "videos": [
-      {
-        "key": "P3uI5sLosKU",
-        "name": "Final Trailer (Peter\u2019s Journey)",
-        "type": "Trailer",
-        "published_at": "2026-07-21T16:00:31.000Z"
-      },
-      {
-        "key": "62bIsvRcPv0",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-17T18:58:31.000Z"
-      },
-      {
-        "key": "8TZMtslA3UY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-18T11:05:15.000Z"
-      },
-      {
-        "key": "EHw0fKfIEO4",
-        "name": "MJ Peter Edit",
-        "type": "Teaser",
-        "published_at": "2026-09-19T13:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-09-19T03:00:00.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "KF4iyLk3rdE",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-09-19T03:00:00.000Z"
-      },
-      {
-        "key": "gEoj2WwDLbU",
-        "name": "Ammo's low, tension's high, and it's finally in your hands. Resident Evil is OUT NOW!",
-        "type": "Teaser",
-        "published_at": "2026-09-18T15:00:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-07",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-    "theatrical": true,
-    "trailer_published": "2026-09-19T00:00:18.000Z",
-    "videos": [
-      {
-        "key": "B6Z9MM1LhEA",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T11:47:00.000Z"
-      },
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:00:06.000Z"
-      },
-      {
-        "key": "M_S0VY84ENk",
-        "name": "Are You Taking Me Seriously Now",
-        "type": "Teaser",
-        "published_at": "2026-09-19T00:00:18.000Z"
-      },
-      {
-        "key": "gHVBkubr4pc",
-        "name": "\"Crazy in all the best ways\"",
-        "type": "Teaser",
-        "published_at": "2026-09-15T17:00:02.000Z"
       }
     ]
   },
@@ -411,7 +399,7 @@
     "id": 977942,
     "title": "The Uprising",
     "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
@@ -777,7 +765,7 @@
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
     "theatrical": true,
@@ -908,6 +896,42 @@
         "name": "Survival of the fittest.",
         "type": "Teaser",
         "published_at": "2026-09-13T10:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "release_date": "2026-07-31",
+    "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "theatrical": true,
+    "trailer_published": "2026-09-11T13:12:52.000Z",
+    "videos": [
+      {
+        "key": "P3uI5sLosKU",
+        "name": "Final Trailer (Peter\u2019s Journey)",
+        "type": "Trailer",
+        "published_at": "2026-07-21T16:00:31.000Z"
+      },
+      {
+        "key": "62bIsvRcPv0",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-17T18:58:31.000Z"
+      },
+      {
+        "key": "8TZMtslA3UY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-18T11:05:15.000Z"
+      },
+      {
+        "key": "FB-pD2gDH2Q",
+        "name": "Watch this scene on the big screen (again)",
+        "type": "Teaser",
+        "published_at": "2026-09-11T13:12:52.000Z"
       }
     ]
   },
@@ -1203,7 +1227,7 @@
     "id": 1479832,
     "title": "DC",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/8k71CD24GIAmEFgHYRhqFvwbXH8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
     "overview": "Rebel Devadas  joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
     "theatrical": true,
@@ -1386,6 +1410,24 @@
     ]
   },
   {
+    "id": 1422041,
+    "title": "La bola negra",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/oNvDkdJ0Ykx4sOrcxsFtE6LoOS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "theatrical": true,
+    "trailer_published": "2026-09-01T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "IRHtqjHYPew",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-01T14:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1288059,
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
@@ -1422,42 +1464,6 @@
     ]
   },
   {
-    "id": 1477712,
-    "title": "Ice Cream Man",
-    "release_date": "2026-08-03",
-    "poster": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/giekwhdwa8SFtfPi0mOn5uvkXJ0.jpg",
-    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "theatrical": true,
-    "trailer_published": "2026-08-27T21:57:03.000Z",
-    "videos": [
-      {
-        "key": "Cgw3zNmFtRo",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-30T13:00:23.000Z"
-      },
-      {
-        "key": "BjtVXWa3tWI",
-        "name": "Official Green Band Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T19:24:30.000Z"
-      },
-      {
-        "key": "SHxqHdBNm-w",
-        "name": "Official Red Band Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-03T13:00:27.000Z"
-      },
-      {
-        "key": "tTM-Yg6pGTI",
-        "name": "No breathers. No breaks. Just wall-to-wall carnage.",
-        "type": "Teaser",
-        "published_at": "2026-08-27T21:57:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1558568,
     "title": "Go Team!",
     "release_date": "2026-09-11",
@@ -1480,7 +1486,7 @@
     "title": "Possible Love",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hiBSDi33bmwGlpEAW4Fi6PP9poB.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
     "trailer_published": "2026-08-26T23:00:01.000Z",
@@ -1719,7 +1725,7 @@
     "id": 1124142,
     "title": "The Rivals of Amziah King",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/j2ajSnvBSb0rvDJrlTWTsxsmHWJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3qR1ZxuEzDksDGT13mHH2IiEq7G.jpg",
     "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
     "theatrical": true,
@@ -2145,7 +2151,7 @@
     "id": 1240889,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
     "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original\u2019s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
     "theatrical": true,
@@ -2306,48 +2312,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-09T12:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1556321,
-    "title": "Death Whisperer: Saming the Werebeast",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
-    "theatrical": true,
-    "trailer_published": "2026-08-13T09:00:10.000Z",
-    "videos": [
-      {
-        "key": "BP2_TUBOS6U",
-        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
-        "type": "Teaser",
-        "published_at": "2026-08-13T09:00:10.000Z"
-      },
-      {
-        "key": "M_e4IfKbmGo",
-        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
-        "type": "Teaser",
-        "published_at": "2026-07-29T10:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1480574,
-    "title": "Just Play Dead",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
-    "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
-    "theatrical": true,
-    "trailer_published": "2026-08-12T16:54:48.000Z",
-    "videos": [
-      {
-        "key": "LlAajeOoFBo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-12T16:54:48.000Z"
       }
     ]
   },
@@ -2600,6 +2564,30 @@
         "name": "Official Teaser Trailer (Malaysia)",
         "type": "Teaser",
         "published_at": "2026-07-30T10:00:27.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+    "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-08-02T17:00:30.000Z",
+    "videos": [
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "G4JYnTeSFik",
+        "name": "Snowball",
+        "type": "Teaser",
+        "published_at": "2026-08-02T17:00:30.000Z"
       }
     ]
   },
@@ -2925,7 +2913,7 @@
     "id": 1341138,
     "title": "Spa Weekend",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zMmHkDi2PqudAsHlhtmkkshZ5XX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8EMwicuj1TrkclMOvslFCQyRg6I.jpg",
     "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
     "theatrical": true,
@@ -3180,6 +3168,42 @@
     ]
   },
   {
+    "id": 1477712,
+    "title": "Ice Cream Man",
+    "release_date": "2026-08-03",
+    "poster": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
+    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "theatrical": true,
+    "trailer_published": "2026-06-30T13:00:23.000Z",
+    "videos": [
+      {
+        "key": "Cgw3zNmFtRo",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-30T13:00:23.000Z"
+      },
+      {
+        "key": "BjtVXWa3tWI",
+        "name": "Official Green Band Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T19:24:30.000Z"
+      },
+      {
+        "key": "SHxqHdBNm-w",
+        "name": "Official Red Band Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-03T13:00:27.000Z"
+      },
+      {
+        "key": "vw6owu-U7wU",
+        "name": "Ice Cream Man [2026] | OFFICIAL RED BAND TRAILER | Directed by Eli Roth | The Horror Section",
+        "type": "Trailer",
+        "published_at": "2026-06-03T13:00:07.000Z"
+      }
+    ]
+  },
+  {
     "id": 1481343,
     "title": "The Devil's Mouth",
     "release_date": "2026-07-29",
@@ -3410,6 +3434,12 @@
         "name": "THE LAST ASSASSINS \u2014 Official Trailer (2026)",
         "type": "Trailer",
         "published_at": "2026-06-19T14:40:48.000Z"
+      },
+      {
+        "key": "AZVwtxGnhRY",
+        "name": "Cyberpunk Revenge Story | The Last Assassins",
+        "type": "Teaser",
+        "published_at": "2026-03-10T23:00:17.000Z"
       }
     ]
   },
@@ -3436,7 +3466,7 @@
     "title": "Hexed",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/49PfMRMxV7NE319fzsctOa7NevP.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
     "trailer_published": "2026-06-16T16:01:06.000Z",
@@ -3622,7 +3652,7 @@
     "title": "Sonic the Hedgehog 4",
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oI1iqpRRyP4phEQnukiTxGA4dTi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/99E1awkT9I8EoTY3OJZzOPjzFal.jpg",
     "overview": "Sonic the Hedgehog, joined by a new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
@@ -3654,30 +3684,6 @@
     ]
   },
   {
-    "id": 1424965,
-    "title": "Ice Skater",
-    "release_date": "2026-02-24",
-    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
-    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
-    "theatrical": false,
-    "trailer_published": "2026-02-24T17:15:04.000Z",
-    "videos": [
-      {
-        "key": "ShXeLbwaZLw",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-12T09:12:02.000Z"
-      },
-      {
-        "key": "nBjUq8xyjx8",
-        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
-        "type": "Teaser",
-        "published_at": "2026-02-24T17:15:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 1468229,
     "title": "Ernie & Emma",
     "release_date": "2026-09-04",
@@ -3700,7 +3706,7 @@
     "title": "Daniel and the Fiery Furnace",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6zSEAfAlwku2bpmQNUkeGtpI5uh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4EoROOIIvrOLarSmM3EcCVxtaDl.jpg",
     "overview": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
     "theatrical": true,
     "trailer_published": "2025-12-25T12:55:00.000Z",
