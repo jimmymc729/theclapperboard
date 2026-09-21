@@ -1,5 +1,77 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-20T19:00:28.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "QDITBCGFjOM",
+        "name": "Diggin\u2019 like there\u2019s no tomorrow.",
+        "type": "Teaser",
+        "published_at": "2026-09-20T19:00:28.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-20T09:00:04.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "qtUzBs8NeAI",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-20T09:00:04.000Z"
+      },
+      {
+        "key": "KsLkPysJeV0",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-20T03:30:23.000Z"
+      },
+      {
+        "key": "2H8AmRgS3XY",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-19T09:00:12.000Z"
+      }
+    ]
+  },
+  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -36,42 +108,6 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-19T19:00:39.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "qBUbNw19Hds",
-        "name": "Proof\u2019s in the puddin\u2019.",
-        "type": "Teaser",
-        "published_at": "2026-09-19T19:00:39.000Z"
-      }
-    ]
-  },
-  {
     "id": 969681,
     "title": "Spider-Man: Brand New Day",
     "release_date": "2026-07-31",
@@ -104,42 +140,6 @@
         "name": "MJ Peter Edit",
         "type": "Teaser",
         "published_at": "2026-09-19T13:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-19T09:00:12.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "2H8AmRgS3XY",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-19T09:00:12.000Z"
-      },
-      {
-        "key": "aS8DWqeZNhw",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-19T03:30:04.000Z"
-      },
-      {
-        "key": "frkG0arPaAw",
-        "name": "The story begins in two weeks. the truth is another matter.",
-        "type": "Teaser",
-        "published_at": "2026-09-18T17:30:04.000Z"
       }
     ]
   },
@@ -1530,6 +1530,24 @@
     ]
   },
   {
+    "id": 1496696,
+    "title": "Breeder",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/1ru0fNB2dy6cjVXwGnzd8jgMQEn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
+    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T16:30:01.000Z",
+    "videos": [
+      {
+        "key": "9MeILB0M274",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T16:30:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -1587,7 +1605,7 @@
     "id": 1355228,
     "title": "Gandhari",
     "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
     "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
     "theatrical": false,
@@ -1763,7 +1781,7 @@
     "release_date": "2026-11-11",
     "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "overview": "Reclusive government asset Henry Fitzgerald is living off the grid in Wyoming, designing new systems for a weapons research agency. When a multi trillion dollar investment management firm begins employing corrupt police and foreign mercenaries to force farmers off their ranches, the Green Beret veteran decides to employ his weapon prototypes to assist his neighbors.",
+    "overview": "A former Green Beret and weapons expert stands with his Wyoming neighbors against a ruthless corporation threatening their rural community.",
     "theatrical": true,
     "trailer_published": "2026-08-20T14:03:57.000Z",
     "videos": [
@@ -2500,7 +2518,7 @@
     "title": "Clash of the Thundermans",
     "release_date": "2026-09-03",
     "poster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
     "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans\u2019 future.",
     "theatrical": false,
     "trailer_published": "2026-08-04T18:36:23.000Z",
@@ -2826,36 +2844,6 @@
     ]
   },
   {
-    "id": 1232569,
-    "title": "Pinocchio: Unstrung",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
-    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-    "theatrical": true,
-    "trailer_published": "2026-07-17T19:39:07.000Z",
-    "videos": [
-      {
-        "key": "Y4lZewE6JMI",
-        "name": "Pinocchio: Unstrung (2026) - Official Trailer | Horror | Robert Englund, Richard Brake",
-        "type": "Trailer",
-        "published_at": "2026-07-02T15:55:24.000Z"
-      },
-      {
-        "key": "Xt3zQ8v2pzk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-01T21:10:08.000Z"
-      },
-      {
-        "key": "_VHIU9dIAWQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-17T19:39:07.000Z"
-      }
-    ]
-  },
-  {
     "id": 1212934,
     "title": "Olmo",
     "release_date": "2026-08-07",
@@ -3006,6 +2994,24 @@
     ]
   },
   {
+    "id": 1626188,
+    "title": "Novak Djokovic: The Wolf in Winter",
+    "release_date": "2026-08-20",
+    "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+    "overview": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
+    "theatrical": false,
+    "trailer_published": "2026-07-14T12:59:54.000Z",
+    "videos": [
+      {
+        "key": "UQaKzMuyjlE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T12:59:54.000Z"
+      }
+    ]
+  },
+  {
     "id": 1514682,
     "title": "Above & Below",
     "release_date": "2026-07-29",
@@ -3068,24 +3074,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-09T14:59:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1487861,
-    "title": "Elize: Shadows of a Woman",
-    "release_date": "2026-07-22",
-    "poster": "https://image.tmdb.org/t/p/w500/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
-    "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
-    "theatrical": false,
-    "trailer_published": "2026-07-08T13:30:00.000Z",
-    "videos": [
-      {
-        "key": "KiKnd3cusPo",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-08T13:30:00.000Z"
       }
     ]
   },
@@ -3407,7 +3395,7 @@
     "release_date": "2026-08-11",
     "poster": "https://image.tmdb.org/t/p/w500/dCEvwyR3XlTos78iHZzPa8a3urg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gRh0ZzVpjVW03AnOQNsO5aSYN9b.jpg",
-    "overview": "The world lives in a permanent winter and is shrouded in a deadly fog. In the distant future, Nobel must take a young girl to her aunt, whom she has never met, after her father has been killed. He has sworn to protect the members of that family, and few remain. When they arrive at an abandoned laboratory, holograms tell the family\u2019s story. But can the digital world become physical? The young woman may be the solution.",
+    "overview": "After her father is murdered, a young warrior known as \u201cThe Kid\u201d and her guardian cross a violent dystopian future in search of the aunt she has never met. The world is trapped in permanent winter and shrouded in deadly fog, and Nobel is bound by an oath to protect the few remaining members of her family. Their journey leads them to an abandoned laboratory, where holograms reveal secrets from the family\u2019s past. But as the boundary between the digital and physical worlds begins to collapse, the young woman may hold the key to what comes next.",
     "theatrical": true,
     "trailer_published": "2026-06-19T15:55:53.000Z",
     "videos": [
@@ -3615,7 +3603,7 @@
     "id": 1329016,
     "title": "Tony",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
     "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "theatrical": true,
