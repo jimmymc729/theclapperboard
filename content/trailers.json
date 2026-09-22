@@ -1,5 +1,41 @@
 [
   {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-09-22T07:39:24.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "bbvj-GdTtL4",
+        "name": "Cardio",
+        "type": "Teaser",
+        "published_at": "2026-09-22T07:39:24.000Z"
+      },
+      {
+        "key": "uc4Ga4cyi5E",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-09-22T07:00:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
@@ -109,9 +145,9 @@
   },
   {
     "id": 1457866,
-    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "title": "The Further Mis-Adventures of Cliff Booth",
     "release_date": "2026-11-26",
-    "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -134,42 +170,6 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-02-09T01:43:08.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T11:00:05.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "65S4n60II9E",
-        "name": "Certified Fresh",
-        "type": "Teaser",
-        "published_at": "2026-09-21T11:00:05.000Z"
-      },
-      {
-        "key": "bwSvIOnPjOc",
-        "name": "Filmed for IMAX",
-        "type": "Teaser",
-        "published_at": "2026-09-21T09:30:57.000Z"
       }
     ]
   },
@@ -330,6 +330,24 @@
     ]
   },
   {
+    "id": 1760576,
+    "title": "Zakir Khan: Papa Yaar",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/layTkFN24JouxXQpYyMIn8WxBrB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tNBIV77HHlM7rJzmZE5VqA1ciEA.jpg",
+    "overview": "Zakir Khan reflects on his childhood and the special bond he shares with his father, turning personal memories and family experiences into heartfelt comedy. With his signature blend of observational humour, poetry and emotional storytelling, he explores the unspoken sides of fatherhood and the relationship between a father and son.",
+    "theatrical": false,
+    "trailer_published": "2026-09-18T08:30:00.000Z",
+    "videos": [
+      {
+        "key": "9Su-b6V8UFg",
+        "name": "Papa Ka School | Zakir Khan | Papa Yaar | Netflix India",
+        "type": "Trailer",
+        "published_at": "2026-09-18T08:30:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1204680,
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-28",
@@ -405,7 +423,7 @@
     "id": 1465063,
     "title": "Forgotten Island",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
     "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
     "theatrical": true,
@@ -528,24 +546,6 @@
     ]
   },
   {
-    "id": 1595124,
-    "title": "Steps",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5DPnxhB0rsshMFAvmBwAoJSqbmz.jpg",
-    "overview": "Think you know Cinderella's \u201cevil\u201d stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T13:00:02.000Z",
-    "videos": [
-      {
-        "key": "Y0RW8EW08Dk",
-        "name": "STEPS | Official Teaser Trailer | Netflix",
-        "type": "Teaser",
-        "published_at": "2026-09-17T13:00:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1685882,
     "title": "Modha Rathiri",
     "release_date": "2026-08-21",
@@ -633,7 +633,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -789,7 +789,7 @@
     "id": 1400837,
     "title": "Other Mommy",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/mH3eovbLEK38DmVZ4nHSORpzuVI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
     "overview": "A young girl, Bela, forms a relationship with a sinister entity in her home who looks uncannily like her own mother.",
     "theatrical": true,
@@ -1167,7 +1167,7 @@
     "id": 1381071,
     "title": "Godzilla Minus Zero",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/xvf82pZhcoiRTktrRYXcgN1sZn6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
     "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
     "theatrical": true,
@@ -1275,8 +1275,8 @@
     "id": 1433367,
     "title": "One Night Only",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2Got7QkJgecX5JAgoo4A4gzRneL.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
     "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
     "theatrical": true,
     "trailer_published": "2026-09-05T13:05:22.000Z",
@@ -1638,24 +1638,6 @@
     ]
   },
   {
-    "id": 1496696,
-    "title": "Breeder",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/1ru0fNB2dy6cjVXwGnzd8jgMQEn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
-    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T16:30:01.000Z",
-    "videos": [
-      {
-        "key": "9MeILB0M274",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T16:30:01.000Z"
-      }
-    ]
-  },
-  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -1742,6 +1724,24 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-08-24T18:00:49.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1766997,
+    "title": "Mighty Mary",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/sCYYif6gxbKgfWZei8OtFMnP2nM.jpg",
+    "backdrop": "",
+    "overview": "Mighty Mary chronicles an amazing group of \u201cwe eat nails for breakfast\u201d type of women: the first all-women\u2019s sailing team to contend for the famed America\u2019s Cup, the holy grail for one of sport\u2019s most elite and exclusive racing events.  This team was groundbreaking, beginning with an advertisement in the New York Times.  From there, a group of world class and Olympic sailors as well as Olympic rowers came together, a team which included a deaf sailor, a Native Hawaiian sailor, and the first African American sailor to ever win an America\u2019s Cup race (as a coach of this novice, erstwhile team).  What was dismissed as a publicity stunt turned into something unimaginable. This motley crew (sailing aboard Mighty Mary) stunningly eliminated Stars & Stripes from contention. However, a secret backroom deal the night before the race upended that result. This is a true underdog story about a team which reshaped what could be possible in a sport that had long been inaccessible.",
+    "theatrical": true,
+    "trailer_published": "2026-08-24T16:20:50.000Z",
+    "videos": [
+      {
+        "key": "6avT1CXG00I",
+        "name": "Mighty Mary - Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-24T16:20:50.000Z"
       }
     ]
   },
@@ -1893,7 +1893,7 @@
     "id": 675871,
     "title": "Super Troopers 3",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
     "overview": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
     "theatrical": true,
@@ -1929,7 +1929,7 @@
     "id": 1213243,
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "theatrical": true,
@@ -2109,7 +2109,7 @@
     "id": 1514863,
     "title": "Best of the Best",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
     "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
     "theatrical": false,
@@ -2531,7 +2531,7 @@
     "release_date": "2026-09-15",
     "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5LINHN9KrzfYZxogKlTCcvR1Gki.jpg",
-    "overview": "After Islamist terrorists hijack a college's pro-Palestine encampment with the goal of enforcing Sharia law on students and executing dissidents whom they deem \"infidels\", a group of students, a security guard, and a Delta Force veteran team up to fight back.",
+    "overview": "When radical Islamic terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
     "theatrical": true,
     "trailer_published": "2026-08-06T14:01:29.000Z",
     "videos": [
@@ -3003,8 +3003,8 @@
     "id": 1341138,
     "title": "Spa Weekend",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/zMmHkDi2PqudAsHlhtmkkshZ5XX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8EMwicuj1TrkclMOvslFCQyRg6I.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
     "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
     "theatrical": true,
     "trailer_published": "2026-07-15T16:00:37.000Z",
@@ -3382,8 +3382,8 @@
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
-    "overview": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-06-25T12:26:01.000Z",
     "videos": [
@@ -3603,7 +3603,7 @@
     "id": 1329016,
     "title": "Tony",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
     "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "theatrical": true,
