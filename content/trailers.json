@@ -1,5 +1,77 @@
 [
   {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T03:00:33.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "WyFZz0Di31M",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-09-23T03:00:33.000Z"
+      },
+      {
+        "key": "bbvj-GdTtL4",
+        "name": "Cardio",
+        "type": "Teaser",
+        "published_at": "2026-09-22T07:39:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T00:27:30.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "QDsWMkoRO4Y",
+        "name": "Based on the shocking true story.",
+        "type": "Teaser",
+        "published_at": "2026-09-23T00:27:30.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -32,6 +104,42 @@
         "name": "Go \u2018head. Get yourself some tickets.",
         "type": "Teaser",
         "published_at": "2026-09-22T19:00:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-09-22T16:05:13.000Z",
+    "videos": [
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "O4-MiOrxMQc",
+        "name": "In Cinemas on October 23",
+        "type": "Teaser",
+        "published_at": "2026-09-22T16:05:13.000Z"
+      },
+      {
+        "key": "ZHK5pVo4OA0",
+        "name": "Second chances aren\u2019t free.",
+        "type": "Teaser",
+        "published_at": "2026-09-21T17:00:32.000Z"
+      },
+      {
+        "key": "-ujOAgsdRyo",
+        "name": "A new life begins.",
+        "type": "Teaser",
+        "published_at": "2026-09-15T20:12:42.000Z"
       }
     ]
   },
@@ -72,42 +180,6 @@
     ]
   },
   {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-09-22T07:39:24.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "bbvj-GdTtL4",
-        "name": "Cardio",
-        "type": "Teaser",
-        "published_at": "2026-09-22T07:39:24.000Z"
-      },
-      {
-        "key": "uc4Ga4cyi5E",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-09-22T07:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
@@ -140,42 +212,6 @@
         "name": "In Cinemas SEPTEMBER 30",
         "type": "Teaser",
         "published_at": "2026-09-21T03:30:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T17:00:32.000Z",
-    "videos": [
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "ZHK5pVo4OA0",
-        "name": "Second chances aren\u2019t free.",
-        "type": "Teaser",
-        "published_at": "2026-09-21T17:00:32.000Z"
-      },
-      {
-        "key": "-ujOAgsdRyo",
-        "name": "A new life begins.",
-        "type": "Teaser",
-        "published_at": "2026-09-15T20:12:42.000Z"
-      },
-      {
-        "key": "YyJ9YER6cJg",
-        "name": "Can't keep it contained.",
-        "type": "Teaser",
-        "published_at": "2026-07-22T20:00:22.000Z"
       }
     ]
   },
@@ -266,42 +302,6 @@
         "name": "Are You Taking Me Seriously Now",
         "type": "Teaser",
         "published_at": "2026-09-19T00:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-09-20T00:00:13.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "7nqGvLpYAs0",
-        "name": "Who are your friends?",
-        "type": "Teaser",
-        "published_at": "2026-09-20T00:00:13.000Z"
       }
     ]
   },
@@ -637,10 +637,10 @@
   },
   {
     "id": 1685882,
-    "title": "Modha Rathiri",
+    "title": "Modha Rathri",
     "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/hRWSgz2YbukvpBMUDr9fQ7KxaZh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
     "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
     "theatrical": true,
     "trailer_published": "2026-09-17T08:30:00.000Z",
@@ -723,7 +723,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hDDBRwPOIztAhawTjWWsEA7rDis.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -966,60 +966,6 @@
     ]
   },
   {
-    "id": 1751701,
-    "title": "After Impact",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-    "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family\u2019s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
-    "theatrical": false,
-    "trailer_published": "2026-09-15T04:29:50.000Z",
-    "videos": [
-      {
-        "key": "Af8D6sRDyxo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-04-28T08:01:27.000Z"
-      },
-      {
-        "key": "EXh7WUFTJCM",
-        "name": "Release Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-15T04:29:50.000Z"
-      },
-      {
-        "key": "KmlrxAPpYok",
-        "name": "Would You Survive an ASTEROID IMPACT?",
-        "type": "Teaser",
-        "published_at": "2025-05-05T05:00:17.000Z"
-      },
-      {
-        "key": "h9sDzuO6gOk",
-        "name": "Can He ESCAPE?",
-        "type": "Teaser",
-        "published_at": "2025-05-04T05:00:46.000Z"
-      }
-    ]
-  },
-  {
-    "id": 848700,
-    "title": "Minotaur",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
-    "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
-    "theatrical": true,
-    "trailer_published": "2026-09-14T14:18:30.000Z",
-    "videos": [
-      {
-        "key": "hTHeFP0mcuk",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-14T14:18:30.000Z"
-      }
-    ]
-  },
-  {
     "id": 1372443,
     "title": "Mr. Irrelevant",
     "release_date": "2026-12-25",
@@ -1110,24 +1056,6 @@
     ]
   },
   {
-    "id": 1596303,
-    "title": "The Last First: Winter K2",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/6pavyVdI2z7PlOUwB7nlnhLRSgl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
-    "overview": "A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.",
-    "theatrical": true,
-    "trailer_published": "2026-09-10T12:59:52.000Z",
-    "videos": [
-      {
-        "key": "zgGpyr5MFK8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T12:59:52.000Z"
-      }
-    ]
-  },
-  {
     "id": 1291595,
     "title": "Insidious: Out of the Further",
     "release_date": "2026-08-21",
@@ -1160,6 +1088,24 @@
         "name": "Analog Horror",
         "type": "Teaser",
         "published_at": "2026-09-04T09:00:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1777404,
+    "title": "Avengers: Endgame encore",
+    "release_date": "2026-09-26",
+    "poster": "https://image.tmdb.org/t/p/w500/rFDVHYvrBs3pTnzCYDgTMc07z8o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lJW5xuX0GCxZXy5lY418Pr9bI8l.jpg",
+    "overview": "Following the devastating events of Avengers: Infinity War, the surviving Avengers embark on a desperate mission to undo Thanos' actions and restore the universe. This special theatrical presentation of Avengers: Endgame features additional material, including a new story introduction and new information connected to Avengers: Doomsday.",
+    "theatrical": true,
+    "trailer_published": "2026-09-09T10:01:07.000Z",
+    "videos": [
+      {
+        "key": "P6XZleUZDhU",
+        "name": "Marvel Studios' Avengers Endgame: Encore | Reassemble | Di Bioskop 23 September 2026",
+        "type": "Trailer",
+        "published_at": "2026-09-09T10:01:07.000Z"
       }
     ]
   },
@@ -1304,6 +1250,42 @@
         "name": ":30 Spot | In Theaters September 11",
         "type": "Teaser",
         "published_at": "2026-09-01T19:09:27.000Z"
+      }
+    ]
+  },
+  {
+    "id": 843352,
+    "title": "Legend of the White Dragon",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+    "theatrical": true,
+    "trailer_published": "2026-09-07T14:24:53.000Z",
+    "videos": [
+      {
+        "key": "eqcTr34Y1Zw",
+        "name": "Legend of the White Dragon | 2026 | @SignatureUK Trailer | Jason David Frank, Michael Madsen",
+        "type": "Trailer",
+        "published_at": "2026-09-07T14:24:53.000Z"
+      },
+      {
+        "key": "TJ5bCaaGIx4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-07T17:02:16.000Z"
+      },
+      {
+        "key": "1iyMrYA4pBo",
+        "name": "This is what legends are made of.",
+        "type": "Teaser",
+        "published_at": "2026-09-01T21:23:15.000Z"
+      },
+      {
+        "key": "1kuCIcqv_sw",
+        "name": "Happy Power Rangers Day!",
+        "type": "Teaser",
+        "published_at": "2026-08-28T21:00:18.000Z"
       }
     ]
   },
@@ -1517,7 +1499,7 @@
     "release_date": "2026-09-22",
     "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-    "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+    "overview": "Seasoned Navy SEAL Jake Harris is called back into action when the world is threatened by a former comrade. To track down and prevent the mastermind from extracting the nuclear codes, Harris must lead his team into enemy territory against a brutal barrage of mercenaries, deadly traps, and a reckoning with his own checkered past.",
     "theatrical": false,
     "trailer_published": "2026-09-01T16:12:44.000Z",
     "videos": [
@@ -1692,11 +1674,29 @@
     ]
   },
   {
+    "id": 1496696,
+    "title": "Breeder",
+    "release_date": "2026-10-28",
+    "poster": "https://image.tmdb.org/t/p/w500/1ru0fNB2dy6cjVXwGnzd8jgMQEn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
+    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T16:30:01.000Z",
+    "videos": [
+      {
+        "key": "9MeILB0M274",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T16:30:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
     "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "theatrical": false,
     "trailer_published": "2026-08-26T13:59:48.000Z",
@@ -1949,7 +1949,7 @@
     "release_date": "2026-08-07",
     "poster": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-    "overview": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
+    "overview": "When Farva\u2019s wildly over-the-top Indian engagement to Thorny\u2019s sister spirals into chaos, the Super Troopers must navigate Thorny\u2019s schemes to break up the relationship, while trying to crack a pernicious new drug ring  \u2014 all to save the day and maybe the wedding itself.",
     "theatrical": true,
     "trailer_published": "2026-08-19T17:00:42.000Z",
     "videos": [
@@ -2436,30 +2436,6 @@
     ]
   },
   {
-    "id": 1556321,
-    "title": "Death Whisperer: Saming the Werebeast",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
-    "theatrical": true,
-    "trailer_published": "2026-08-13T09:00:10.000Z",
-    "videos": [
-      {
-        "key": "BP2_TUBOS6U",
-        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
-        "type": "Teaser",
-        "published_at": "2026-08-13T09:00:10.000Z"
-      },
-      {
-        "key": "M_e4IfKbmGo",
-        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
-        "type": "Teaser",
-        "published_at": "2026-07-29T10:00:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1440098,
     "title": "Drawn Together",
     "release_date": "2026-09-09",
@@ -2600,6 +2576,36 @@
         "name": "Official Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-06-25T13:46:32.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1376856,
+    "title": "The Paradise",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+    "overview": "In 1980s Secunderabad, a marginalised tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+    "theatrical": false,
+    "trailer_published": "2026-08-06T12:32:42.000Z",
+    "videos": [
+      {
+        "key": "Y3xewv1ZnHc",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-08-06T12:32:42.000Z"
+      },
+      {
+        "key": "6B2T6prycwk",
+        "name": "Glimpse",
+        "type": "Teaser",
+        "published_at": "2025-03-03T05:47:23.000Z"
+      },
+      {
+        "key": "NkZFnpDhdCk",
+        "name": "Glimpse : RAW STATEMENT",
+        "type": "Teaser",
+        "published_at": "2025-03-03T05:47:08.000Z"
       }
     ]
   },
@@ -3135,9 +3141,9 @@
     "id": 445466,
     "title": "Idiots",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
-    "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
+    "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
     "theatrical": true,
     "trailer_published": "2026-07-09T15:00:31.000Z",
     "videos": [
@@ -3420,30 +3426,6 @@
     ]
   },
   {
-    "id": 1187326,
-    "title": "Tad and The Magic Lamp",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-    "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
-    "theatrical": false,
-    "trailer_published": "2026-06-18T14:14:24.000Z",
-    "videos": [
-      {
-        "key": "8-Bjo_rXCkM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-18T14:14:24.000Z"
-      },
-      {
-        "key": "L9d1Ax3g6a8",
-        "name": "Tad and his friends are back! Don't miss the trailer for Tad and the Magic Lamp TOMORROW.",
-        "type": "Teaser",
-        "published_at": "2026-06-17T17:05:31.000Z"
-      }
-    ]
-  },
-  {
     "id": 813418,
     "title": "Hot Spot",
     "release_date": "2026-08-21",
@@ -3608,6 +3590,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-05-05T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1765336,
+    "title": "Invisible Injuries",
+    "release_date": "2026-09-06",
+    "poster": "https://image.tmdb.org/t/p/w500/8hTVsqbmBoKOprQUH1e3MvcMB71.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qOA02jA7ztDi9Vp6lYHE4iyLAMg.jpg",
+    "overview": "After war, Australian veteran Andy Fermo returned home carrying invisible wounds. Invisible Injuries explores PTSD's impact on identity, family and daily life, and the courage it takes to heal, reconnect and keep moving forward.",
+    "theatrical": false,
+    "trailer_published": "2026-04-27T11:26:09.000Z",
+    "videos": [
+      {
+        "key": "lhnZsUPNyQs",
+        "name": "Invisible Injuries - Veterans with PTSD Documentary - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-27T11:26:09.000Z"
       }
     ]
   },
