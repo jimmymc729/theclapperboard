@@ -1,5 +1,77 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-22T19:00:36.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "iCHW7kfCRkE",
+        "name": "Go \u2018head. Get yourself some tickets.",
+        "type": "Teaser",
+        "published_at": "2026-09-22T19:00:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-09-22T11:29:59.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "5Dm9C8RiRDk",
+        "name": "DITL Odin",
+        "type": "Teaser",
+        "published_at": "2026-09-22T11:29:59.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -72,42 +144,6 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T18:00:12.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "MU1nk1zxfd8",
-        "name": "Let\u2019s break the ice... Tom Cruise is DIGGER.",
-        "type": "Teaser",
-        "published_at": "2026-09-21T18:00:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -147,7 +183,7 @@
     "id": 1457866,
     "title": "The Further Mis-Adventures of Cliff Booth",
     "release_date": "2026-11-26",
-    "poster": "https://image.tmdb.org/t/p/w500/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -230,6 +266,42 @@
         "name": "Are You Taking Me Seriously Now",
         "type": "Teaser",
         "published_at": "2026-09-19T00:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-09-20T00:00:13.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "7nqGvLpYAs0",
+        "name": "Who are your friends?",
+        "type": "Teaser",
+        "published_at": "2026-09-20T00:00:13.000Z"
       }
     ]
   },
@@ -542,6 +614,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-02T13:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1595124,
+    "title": "Steps",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5DPnxhB0rsshMFAvmBwAoJSqbmz.jpg",
+    "overview": "Think you know Cinderella's \u201cevil\u201d stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T13:00:02.000Z",
+    "videos": [
+      {
+        "key": "Y0RW8EW08Dk",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-09-17T13:00:02.000Z"
       }
     ]
   },
@@ -912,6 +1002,24 @@
     ]
   },
   {
+    "id": 848700,
+    "title": "Minotaur",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+    "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+    "theatrical": true,
+    "trailer_published": "2026-09-14T14:18:30.000Z",
+    "videos": [
+      {
+        "key": "hTHeFP0mcuk",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-14T14:18:30.000Z"
+      }
+    ]
+  },
+  {
     "id": 1372443,
     "title": "Mr. Irrelevant",
     "release_date": "2026-12-25",
@@ -944,42 +1052,6 @@
         "name": "Vismaya Mohanlal\u2019s Thudakkam | Trailer | Aashish Joe Antony | Jude Anthany | Sept 18 | JioHotstar",
         "type": "Trailer",
         "published_at": "2026-09-13T12:40:09.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-09-13T10:00:16.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "mu-720kzofc",
-        "name": "Survival of the fittest.",
-        "type": "Teaser",
-        "published_at": "2026-09-13T10:00:16.000Z"
       }
     ]
   },
@@ -1236,42 +1308,6 @@
     ]
   },
   {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-09-07T23:00:38.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "XpCwPHNv5Bs",
-        "name": "One month until the reckoning arrives.",
-        "type": "Teaser",
-        "published_at": "2026-09-07T23:00:38.000Z"
-      }
-    ]
-  },
-  {
     "id": 1433367,
     "title": "One Night Only",
     "release_date": "2026-08-07",
@@ -1476,10 +1512,28 @@
     ]
   },
   {
+    "id": 1607127,
+    "title": "One Last Shot",
+    "release_date": "2026-09-22",
+    "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+    "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+    "theatrical": false,
+    "trailer_published": "2026-09-01T16:12:44.000Z",
+    "videos": [
+      {
+        "key": "8PAy3i9uU0A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-01T16:12:44.000Z"
+      }
+    ]
+  },
+  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -1588,7 +1642,7 @@
     "title": "Possible Love",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hiBSDi33bmwGlpEAW4Fi6PP9poB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
     "trailer_published": "2026-08-26T23:00:01.000Z",
@@ -1644,7 +1698,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-    "theatrical": true,
+    "theatrical": false,
     "trailer_published": "2026-08-26T13:59:48.000Z",
     "videos": [
       {
@@ -2628,36 +2682,6 @@
     ]
   },
   {
-    "id": 1586876,
-    "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/2sapvk8OG1rmaS2PquLnfyoMvOS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h2CZMPoOyEM5DXBzpSKMck2Jj9V.jpg",
-    "overview": "Chiikawa and friends set off on a whimsical summer adventure to a mysterious island said to hide a long-lost mermaid secret. What starts as a fun getaway quickly turns into a heartwarming journey filled with surprises, gentle thrills, and adorable chaos. With sparkling seas, strange legends, and unforgettable encounters, the trio learns about courage, friendship, and the magic hidden in small moments.",
-    "theatrical": false,
-    "trailer_published": "2026-08-04T09:44:49.000Z",
-    "videos": [
-      {
-        "key": "bqN9wLOsKdM",
-        "name": "Teaser Trailer (Singapore)",
-        "type": "Teaser",
-        "published_at": "2026-08-04T09:44:49.000Z"
-      },
-      {
-        "key": "NPABya8j0zU",
-        "name": "Teaser Trailer (Malaysia)",
-        "type": "Teaser",
-        "published_at": "2026-08-01T10:00:05.000Z"
-      },
-      {
-        "key": "tJe_5rbUKnY",
-        "name": "Official Teaser Trailer (Malaysia)",
-        "type": "Teaser",
-        "published_at": "2026-07-30T10:00:27.000Z"
-      }
-    ]
-  },
-  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -3174,24 +3198,6 @@
     ]
   },
   {
-    "id": 980431,
-    "title": "Avatar Aang: The Last Airbender",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-    "theatrical": true,
-    "trailer_published": "2026-07-07T15:00:30.000Z",
-    "videos": [
-      {
-        "key": "7b20GRFZBFE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-07T15:00:30.000Z"
-      }
-    ]
-  },
-  {
     "id": 1489543,
     "title": "G.D.N",
     "release_date": "2026-08-07",
@@ -3414,20 +3420,26 @@
     ]
   },
   {
-    "id": 1507796,
-    "title": "On the Sea",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
-    "overview": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
+    "id": 1187326,
+    "title": "Tad and The Magic Lamp",
+    "release_date": "2026-08-26",
+    "poster": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+    "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
     "theatrical": false,
-    "trailer_published": "2026-06-22T09:55:54.000Z",
+    "trailer_published": "2026-06-18T14:14:24.000Z",
     "videos": [
       {
-        "key": "od_S8t86F0M",
-        "name": "On The Sea UK trailer",
+        "key": "8-Bjo_rXCkM",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-06-22T09:55:54.000Z"
+        "published_at": "2026-06-18T14:14:24.000Z"
+      },
+      {
+        "key": "L9d1Ax3g6a8",
+        "name": "Tad and his friends are back! Don't miss the trailer for Tad and the Magic Lamp TOMORROW.",
+        "type": "Teaser",
+        "published_at": "2026-06-17T17:05:31.000Z"
       }
     ]
   },
@@ -3494,24 +3506,6 @@
         "name": "Not too Far, Far Away\u2026",
         "type": "Teaser",
         "published_at": "2024-07-12T17:30:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1659155,
-    "title": "The Truthers",
-    "release_date": "2026-07-24",
-    "poster": "https://image.tmdb.org/t/p/w500/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
-    "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
-    "theatrical": false,
-    "trailer_published": "2026-06-16T08:00:01.000Z",
-    "videos": [
-      {
-        "key": "IvL0oT13djs",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-06-16T08:00:01.000Z"
       }
     ]
   },
