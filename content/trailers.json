@@ -1,5 +1,209 @@
 [
   {
+    "id": 1423577,
+    "title": "Gremlins 3",
+    "release_date": "2028-10-06",
+    "poster": "https://image.tmdb.org/t/p/w500/i23drDYlMobxkRLRstynrfVkPqL.jpg",
+    "backdrop": "",
+    "overview": "The third installment in the franchise. Plot TBA.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T00:14:03.000Z",
+    "videos": [
+      {
+        "key": "x53Y50PM_dk",
+        "name": "GREMLINS 3 Official Teaser (2028)",
+        "type": "Teaser",
+        "published_at": "2026-09-24T00:14:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T17:32:10.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "tHRcgzSSsI8",
+        "name": "Strike while the iron\u2019s hot.",
+        "type": "Teaser",
+        "published_at": "2026-09-23T17:32:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1244523,
+    "title": "Beware Boi\u00fana",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yMFUD7P43VYkFZDCwKlQe6NTHu1.jpg",
+    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T16:00:13.000Z",
+    "videos": [
+      {
+        "key": "MQKqgFVU4dQ",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T16:00:13.000Z"
+      },
+      {
+        "key": "4fn4UcgzRhg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-13T14:05:01.000Z"
+      },
+      {
+        "key": "NVTkIjUlGz8",
+        "name": "Touch grass. Get bit.",
+        "type": "Teaser",
+        "published_at": "2026-09-15T19:37:29.000Z"
+      },
+      {
+        "key": "WkX1T3ceihM",
+        "name": "She IS that powerful.",
+        "type": "Teaser",
+        "published_at": "2026-09-08T17:49:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T16:00:08.000Z",
+    "videos": [
+      {
+        "key": "Dw-5ZGapGTQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-10T16:00:23.000Z"
+      },
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      },
+      {
+        "key": "xLBTrhMHrU4",
+        "name": "\"you'll d*e, you understand?\" yessir",
+        "type": "Teaser",
+        "published_at": "2026-09-23T16:00:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T13:00:09.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 940009,
+    "title": "Ray Gunn",
+    "release_date": "2026-11-04",
+    "poster": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
+    "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn and his alien companion Eyera are making a living on the edge of society, delving into secrets that some people would rather keep hidden away. After accepting a sleazy spy job related to pop-star Venus Nova, Gunn finds himself drawn into a murder mystery unlike any case he\u2019s taken.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T13:00:02.000Z",
+    "videos": [
+      {
+        "key": "VL-xjzQFWsY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T12:00:01.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "TaSrwky6lHc",
+        "name": "In Cinemas 1 October",
+        "type": "Teaser",
+        "published_at": "2026-09-23T12:00:01.000Z"
+      },
+      {
+        "key": "CnJ_vwcgECQ",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-21T18:00:14.000Z"
+      },
+      {
+        "key": "L4W0Zya76vg",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-21T09:00:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -72,42 +276,6 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-22T19:00:36.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "iCHW7kfCRkE",
-        "name": "Go \u2018head. Get yourself some tickets.",
-        "type": "Teaser",
-        "published_at": "2026-09-22T19:00:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -144,6 +312,42 @@
     ]
   },
   {
+    "id": 675871,
+    "title": "Super Troopers 3",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+    "overview": "When Farva\u2019s wildly over-the-top Indian engagement to Thorny\u2019s sister spirals into chaos, the Super Troopers must navigate Thorny\u2019s schemes to break up the relationship, while trying to crack a pernicious new drug ring  \u2014 all to save the day and maybe the wedding itself.",
+    "theatrical": true,
+    "trailer_published": "2026-09-22T16:00:32.000Z",
+    "videos": [
+      {
+        "key": "cYFevn5frf0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T20:20:14.000Z"
+      },
+      {
+        "key": "GnjDAE6m2Xk",
+        "name": "Buy It Now On Digital",
+        "type": "Teaser",
+        "published_at": "2026-09-22T16:00:32.000Z"
+      },
+      {
+        "key": "1At56fCnbyw",
+        "name": "Meow Playing in Theaters - Get Tickets Meow",
+        "type": "Teaser",
+        "published_at": "2026-08-19T17:00:42.000Z"
+      },
+      {
+        "key": "ZXolWFbjfpE",
+        "name": "Meow Playing in Theaters - Get Tickets Meow",
+        "type": "Teaser",
+        "published_at": "2026-08-17T17:02:48.000Z"
+      }
+    ]
+  },
+  {
     "id": 1263337,
     "title": "Heart of the Beast",
     "release_date": "2026-09-25",
@@ -176,42 +380,6 @@
         "name": "DITL Odin",
         "type": "Teaser",
         "published_at": "2026-09-22T11:29:59.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T18:00:14.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "CnJ_vwcgECQ",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-21T18:00:14.000Z"
-      },
-      {
-        "key": "L4W0Zya76vg",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-21T09:00:24.000Z"
-      },
-      {
-        "key": "5kOBUi-8Gvw",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-21T03:30:28.000Z"
       }
     ]
   },
@@ -774,42 +942,6 @@
     ]
   },
   {
-    "id": 1244523,
-    "title": "Beware Boi\u00fana",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yMFUD7P43VYkFZDCwKlQe6NTHu1.jpg",
-    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
-    "theatrical": true,
-    "trailer_published": "2026-09-15T19:37:29.000Z",
-    "videos": [
-      {
-        "key": "4fn4UcgzRhg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-13T14:05:01.000Z"
-      },
-      {
-        "key": "NVTkIjUlGz8",
-        "name": "Touch grass. Get bit.",
-        "type": "Teaser",
-        "published_at": "2026-09-15T19:37:29.000Z"
-      },
-      {
-        "key": "WkX1T3ceihM",
-        "name": "She IS that powerful.",
-        "type": "Teaser",
-        "published_at": "2026-09-08T17:49:03.000Z"
-      },
-      {
-        "key": "pwXrrrGIeUk",
-        "name": "Grab onto something.",
-        "type": "Teaser",
-        "published_at": "2026-09-02T19:32:44.000Z"
-      }
-    ]
-  },
-  {
     "id": 1422011,
     "title": "It Ends",
     "release_date": "2026-08-21",
@@ -836,42 +968,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-22T16:00:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-09-15T16:00:07.000Z",
-    "videos": [
-      {
-        "key": "Dw-5ZGapGTQ",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-10T16:00:23.000Z"
-      },
-      {
-        "key": "rN9F6-tbySY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:24.000Z"
-      },
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      },
-      {
-        "key": "5ku2r-KGfkk",
-        "name": "no thank you",
-        "type": "Teaser",
-        "published_at": "2026-09-15T16:00:07.000Z"
       }
     ]
   },
@@ -962,6 +1058,42 @@
         "name": "Nine Years Ago",
         "type": "Teaser",
         "published_at": "2026-09-15T06:00:35.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1751701,
+    "title": "After Impact",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+    "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family\u2019s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
+    "theatrical": false,
+    "trailer_published": "2026-09-15T04:29:50.000Z",
+    "videos": [
+      {
+        "key": "Af8D6sRDyxo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-04-28T08:01:27.000Z"
+      },
+      {
+        "key": "EXh7WUFTJCM",
+        "name": "Release Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-15T04:29:50.000Z"
+      },
+      {
+        "key": "KmlrxAPpYok",
+        "name": "Would You Survive an ASTEROID IMPACT?",
+        "type": "Teaser",
+        "published_at": "2025-05-05T05:00:17.000Z"
+      },
+      {
+        "key": "h9sDzuO6gOk",
+        "name": "Can He ESCAPE?",
+        "type": "Teaser",
+        "published_at": "2025-05-04T05:00:46.000Z"
       }
     ]
   },
@@ -1088,24 +1220,6 @@
         "name": "Analog Horror",
         "type": "Teaser",
         "published_at": "2026-09-04T09:00:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1777404,
-    "title": "Avengers: Endgame encore",
-    "release_date": "2026-09-26",
-    "poster": "https://image.tmdb.org/t/p/w500/rFDVHYvrBs3pTnzCYDgTMc07z8o.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lJW5xuX0GCxZXy5lY418Pr9bI8l.jpg",
-    "overview": "Following the devastating events of Avengers: Infinity War, the surviving Avengers embark on a desperate mission to undo Thanos' actions and restore the universe. This special theatrical presentation of Avengers: Endgame features additional material, including a new story introduction and new information connected to Avengers: Doomsday.",
-    "theatrical": true,
-    "trailer_published": "2026-09-09T10:01:07.000Z",
-    "videos": [
-      {
-        "key": "P6XZleUZDhU",
-        "name": "Marvel Studios' Avengers Endgame: Encore | Reassemble | Di Bioskop 23 September 2026",
-        "type": "Trailer",
-        "published_at": "2026-09-09T10:01:07.000Z"
       }
     ]
   },
@@ -1258,7 +1372,7 @@
     "title": "Legend of the White Dragon",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/smBftYjwUZiYpFQALwyZO7iHR98.jpg",
     "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
     "theatrical": true,
     "trailer_published": "2026-09-07T14:24:53.000Z",
@@ -1499,7 +1613,7 @@
     "release_date": "2026-09-22",
     "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-    "overview": "Seasoned Navy SEAL Jake Harris is called back into action when the world is threatened by a former comrade. To track down and prevent the mastermind from extracting the nuclear codes, Harris must lead his team into enemy territory against a brutal barrage of mercenaries, deadly traps, and a reckoning with his own checkered past.",
+    "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
     "theatrical": false,
     "trailer_published": "2026-09-01T16:12:44.000Z",
     "videos": [
@@ -1674,24 +1788,6 @@
     ]
   },
   {
-    "id": 1496696,
-    "title": "Breeder",
-    "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/1ru0fNB2dy6cjVXwGnzd8jgMQEn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
-    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T16:30:01.000Z",
-    "videos": [
-      {
-        "key": "9MeILB0M274",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T16:30:01.000Z"
-      }
-    ]
-  },
-  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -1818,30 +1914,6 @@
     ]
   },
   {
-    "id": 718833,
-    "title": "Bokshi",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/iHYu4aCDIjnt6aa5WmKZvmDPJvh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
-    "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
-    "theatrical": true,
-    "trailer_published": "2026-08-23T20:14:42.000Z",
-    "videos": [
-      {
-        "key": "AU4hlB0ZdOE",
-        "name": "Bokshi - Official Trailer - In Cinemas 9 October, 2026",
-        "type": "Trailer",
-        "published_at": "2026-08-23T20:14:42.000Z"
-      },
-      {
-        "key": "2nKLfpXRuEM",
-        "name": "Bokshi \u2013 Official Teaser",
-        "type": "Teaser",
-        "published_at": "2024-12-22T05:36:58.000Z"
-      }
-    ]
-  },
-  {
     "id": 1124142,
     "title": "The Rivals of Amziah King",
     "release_date": "2026-08-14",
@@ -1940,42 +2012,6 @@
         "name": "DEATHWOODS (2025) Official Horror Teaser Trailer | Felissa Rose, LC Holt | Brutal Slasher",
         "type": "Teaser",
         "published_at": "2025-04-22T16:00:06.000Z"
-      }
-    ]
-  },
-  {
-    "id": 675871,
-    "title": "Super Troopers 3",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-    "overview": "When Farva\u2019s wildly over-the-top Indian engagement to Thorny\u2019s sister spirals into chaos, the Super Troopers must navigate Thorny\u2019s schemes to break up the relationship, while trying to crack a pernicious new drug ring  \u2014 all to save the day and maybe the wedding itself.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T17:00:42.000Z",
-    "videos": [
-      {
-        "key": "cYFevn5frf0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T20:20:14.000Z"
-      },
-      {
-        "key": "1At56fCnbyw",
-        "name": "Meow Playing in Theaters - Get Tickets Meow",
-        "type": "Teaser",
-        "published_at": "2026-08-19T17:00:42.000Z"
-      },
-      {
-        "key": "ZXolWFbjfpE",
-        "name": "Meow Playing in Theaters - Get Tickets Meow",
-        "type": "Teaser",
-        "published_at": "2026-08-17T17:02:48.000Z"
-      },
-      {
-        "key": "KVZ89rDPB5s",
-        "name": "Red Flags",
-        "type": "Teaser",
-        "published_at": "2026-08-13T19:00:34.000Z"
       }
     ]
   },
@@ -2584,7 +2620,7 @@
     "title": "The Paradise",
     "release_date": "2026-09-23",
     "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iHjxfLcjFofSZbY4LUtkFCSmquD.jpg",
     "overview": "In 1980s Secunderabad, a marginalised tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
     "theatrical": false,
     "trailer_published": "2026-08-06T12:32:42.000Z",
@@ -3141,7 +3177,7 @@
     "id": 445466,
     "title": "Idiots",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
     "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
     "theatrical": true,
@@ -3154,16 +3190,16 @@
         "published_at": "2026-07-09T15:00:31.000Z"
       },
       {
-        "key": "SbmR9Jy0vRQ",
-        "name": "Teaser 4K",
-        "type": "Teaser",
-        "published_at": "2026-04-23T14:03:13.000Z"
-      },
-      {
         "key": "8MVqh5L93Bs",
         "name": "Teaser Trailer",
-        "type": "Teaser",
+        "type": "Trailer",
         "published_at": "2026-04-20T15:28:47.000Z"
+      },
+      {
+        "key": "SbmR9Jy0vRQ",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2026-04-23T14:03:13.000Z"
       }
     ]
   },
@@ -3244,7 +3280,7 @@
     "title": "Ice Cream Man",
     "release_date": "2026-08-03",
     "poster": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
     "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
     "theatrical": true,
     "trailer_published": "2026-06-30T13:00:23.000Z",
@@ -3626,24 +3662,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-03-19T13:00:19.000Z",
-    "videos": [
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
       }
     ]
   },
