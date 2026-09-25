@@ -1,5 +1,113 @@
 [
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T19:30:12.000Z",
+    "videos": [
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "ygC0Sm6IVys",
+        "name": "See for yourself. Search Clayface.",
+        "type": "Teaser",
+        "published_at": "2026-09-24T19:30:12.000Z"
+      },
+      {
+        "key": "O4-MiOrxMQc",
+        "name": "In Cinemas on October 23",
+        "type": "Teaser",
+        "published_at": "2026-09-22T16:05:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T19:00:02.000Z",
+    "videos": [
+      {
+        "key": "Vuv0kqGWjno",
+        "name": "Main Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T15:00:03.000Z"
+      },
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer",
+        "published_at": "2026-06-09T13:30:12.000Z"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-07-01T16:00:29.000Z"
+      },
+      {
+        "key": "bQj5XxidIkA",
+        "name": "The party has arrived!",
+        "type": "Teaser",
+        "published_at": "2026-09-24T19:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T18:30:03.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "9Tfl4FpJ3Rk",
+        "name": "DIGGER is \"absolutely mind-blowing\".",
+        "type": "Teaser",
+        "published_at": "2026-09-24T18:30:03.000Z"
+      }
+    ]
+  },
+  {
     "id": 1266643,
     "title": "Day Drinker",
     "release_date": "2027-03-26",
@@ -11,9 +119,45 @@
     "videos": [
       {
         "key": "bhKKR5He_Fo",
-        "name": "Day Drinker (2027) Official Teaser \u2013 Johnny Depp, Madelyn Cline, and Pen\u00e9lope Cruz",
+        "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-24T15:05:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1377237,
+    "title": "Runner",
+    "release_date": "2026-09-07",
+    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T15:00:29.000Z",
+    "videos": [
+      {
+        "key": "B6Z9MM1LhEA",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T11:47:00.000Z"
+      },
+      {
+        "key": "m8JUmBgHejI",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T21:00:06.000Z"
+      },
+      {
+        "key": "mWpaZNwxpMw",
+        "name": "Ben Bishop core",
+        "type": "Teaser",
+        "published_at": "2026-09-24T15:00:29.000Z"
+      },
+      {
+        "key": "njS4HIhSCpQ",
+        "name": "Hank Malone",
+        "type": "Teaser",
+        "published_at": "2026-09-24T00:00:29.000Z"
       }
     ]
   },
@@ -46,10 +190,10 @@
         "published_at": "2026-09-24T06:00:21.000Z"
       },
       {
-        "key": "WyFZz0Di31M",
-        "name": "In Cinemas Now",
+        "key": "UAFbpNacsaw",
+        "name": "stay tuned for a surprise at the end",
         "type": "Teaser",
-        "published_at": "2026-09-23T03:00:33.000Z"
+        "published_at": "2026-09-23T22:00:28.000Z"
       }
     ]
   },
@@ -72,83 +216,11 @@
     ]
   },
   {
-    "id": 1377237,
-    "title": "Runner",
-    "release_date": "2026-09-07",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T00:00:29.000Z",
-    "videos": [
-      {
-        "key": "B6Z9MM1LhEA",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T11:47:00.000Z"
-      },
-      {
-        "key": "m8JUmBgHejI",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T21:00:06.000Z"
-      },
-      {
-        "key": "njS4HIhSCpQ",
-        "name": "Hank Malone",
-        "type": "Teaser",
-        "published_at": "2026-09-24T00:00:29.000Z"
-      },
-      {
-        "key": "C9cHbvHBsLA",
-        "name": "Who\u2019s who in RUNNER?",
-        "type": "Teaser",
-        "published_at": "2026-09-20T21:00:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T22:00:36.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "TTYfh2pPdSY",
-        "name": "On top of the world.",
-        "type": "Teaser",
-        "published_at": "2026-09-23T22:00:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1244523,
     "title": "Beware Boi\u00fana",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yMFUD7P43VYkFZDCwKlQe6NTHu1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
     "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
     "theatrical": true,
     "trailer_published": "2026-09-23T16:00:13.000Z",
@@ -321,7 +393,7 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
@@ -354,46 +426,10 @@
     ]
   },
   {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-09-22T16:05:13.000Z",
-    "videos": [
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "O4-MiOrxMQc",
-        "name": "In Cinemas on October 23",
-        "type": "Teaser",
-        "published_at": "2026-09-22T16:05:13.000Z"
-      },
-      {
-        "key": "ZHK5pVo4OA0",
-        "name": "Second chances aren\u2019t free.",
-        "type": "Teaser",
-        "published_at": "2026-09-21T17:00:32.000Z"
-      },
-      {
-        "key": "-ujOAgsdRyo",
-        "name": "A new life begins.",
-        "type": "Teaser",
-        "published_at": "2026-09-15T20:12:42.000Z"
-      }
-    ]
-  },
-  {
     "id": 675871,
     "title": "Super Troopers 3",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ecTxAyfx4fdTMy2N288oZMMn3Ey.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
     "overview": "When Farva\u2019s wildly over-the-top Indian engagement to Thorny\u2019s sister spirals into chaos, the Super Troopers must navigate Thorny\u2019s schemes to break up the relationship, while trying to crack a pernicious new drug ring  \u2014 all to save the day and maybe the wedding itself.",
     "theatrical": true,
@@ -429,7 +465,7 @@
     "id": 1381273,
     "title": "Paper Tiger",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/wJPqU7lKx7QyVNoUYqQLcksJp4o.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1VhgzeA0tBbd7GtAw1d2nL3UUBk.jpg",
     "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "theatrical": true,
@@ -690,47 +726,11 @@
     ]
   },
   {
-    "id": 1117898,
-    "title": "The Cat in the Hat",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T17:30:19.000Z",
-    "videos": [
-      {
-        "key": "Vuv0kqGWjno",
-        "name": "Main Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T15:00:03.000Z"
-      },
-      {
-        "key": "HT5JAp5z0-o",
-        "name": "Official Trailer 3",
-        "type": "Trailer",
-        "published_at": "2026-06-09T13:30:12.000Z"
-      },
-      {
-        "key": "jz8pLlPhSeY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-07-01T16:00:29.000Z"
-      },
-      {
-        "key": "Q90tMSciiik",
-        "name": "And they\u2019re putting in overtime.",
-        "type": "Teaser",
-        "published_at": "2026-09-17T17:30:19.000Z"
-      }
-    ]
-  },
-  {
     "id": 1465063,
     "title": "Forgotten Island",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
     "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
     "theatrical": true,
     "trailer_published": "2026-09-17T16:07:11.000Z",
@@ -1047,7 +1047,7 @@
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
     "theatrical": true,
@@ -2598,7 +2598,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5LINHN9KrzfYZxogKlTCcvR1Gki.jpg",
     "overview": "When radical Islamist terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
-    "theatrical": true,
+    "theatrical": false,
     "trailer_published": "2026-08-06T14:01:29.000Z",
     "videos": [
       {
@@ -2769,7 +2769,7 @@
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/rnoD8w0SUetL3S4Uje8HgSxDXzK.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/b8h1A4cqHBpftGwvffCqq7blFsd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -3453,8 +3453,8 @@
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jzc5EP97QK8nbTjCeu1MixExYWT.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-06-25T12:26:01.000Z",
