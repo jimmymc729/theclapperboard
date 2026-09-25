@@ -1,5 +1,77 @@
 [
   {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T03:00:05.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "XJ13qqZ09F0",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-09-25T03:00:05.000Z"
+      },
+      {
+        "key": "9QTXJXkdfCA",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-09-24T06:00:21.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1514026,
+    "title": "Buddy",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T01:47:56.000Z",
+    "videos": [
+      {
+        "key": "Pc9MbCNYn3k",
+        "name": "Official Teaser 3",
+        "type": "Teaser",
+        "published_at": "2026-08-18T15:00:02.000Z"
+      },
+      {
+        "key": "2sBRb7Mbg0A",
+        "name": "Official Teaser 2",
+        "type": "Teaser",
+        "published_at": "2026-07-21T14:59:39.000Z"
+      },
+      {
+        "key": "0mil0YgOtu8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-09T14:59:50.000Z"
+      },
+      {
+        "key": "udPBHzBnXKA",
+        "name": "Buddy The Sing-Along Version October 2",
+        "type": "Trailer",
+        "published_at": "2026-09-25T01:47:56.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -108,6 +180,42 @@
     ]
   },
   {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T16:00:03.000Z",
+    "videos": [
+      {
+        "key": "Dw-5ZGapGTQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-10T16:00:23.000Z"
+      },
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      },
+      {
+        "key": "517gNn3EEaw",
+        "name": "what would you do to get out?",
+        "type": "Teaser",
+        "published_at": "2026-09-24T16:00:03.000Z"
+      }
+    ]
+  },
+  {
     "id": 1266643,
     "title": "Day Drinker",
     "release_date": "2027-03-26",
@@ -162,42 +270,6 @@
     ]
   },
   {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T06:00:21.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "9QTXJXkdfCA",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-09-24T06:00:21.000Z"
-      },
-      {
-        "key": "UAFbpNacsaw",
-        "name": "stay tuned for a surprise at the end",
-        "type": "Teaser",
-        "published_at": "2026-09-23T22:00:28.000Z"
-      }
-    ]
-  },
-  {
     "id": 1423577,
     "title": "Gremlins 3",
     "release_date": "2028-10-06",
@@ -212,6 +284,42 @@
         "name": "GREMLINS 3 Official Teaser (2028)",
         "type": "Teaser",
         "published_at": "2026-09-24T00:14:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T18:44:42.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "sTOh1jDaMVU",
+        "name": "Unforgettable :15",
+        "type": "Teaser",
+        "published_at": "2026-09-23T18:44:42.000Z"
       }
     ]
   },
@@ -248,42 +356,6 @@
         "name": "She IS that powerful.",
         "type": "Teaser",
         "published_at": "2026-09-08T17:49:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T16:00:08.000Z",
-    "videos": [
-      {
-        "key": "Dw-5ZGapGTQ",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-10T16:00:23.000Z"
-      },
-      {
-        "key": "rN9F6-tbySY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:24.000Z"
-      },
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      },
-      {
-        "key": "xLBTrhMHrU4",
-        "name": "\"you'll d*e, you understand?\" yessir",
-        "type": "Teaser",
-        "published_at": "2026-09-23T16:00:08.000Z"
       }
     ]
   },
@@ -390,6 +462,36 @@
     ]
   },
   {
+    "id": 858035,
+    "title": "Klara and the Sun",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1ZwcLnQMFvoAEbnGOsXJplgic6.jpg",
+    "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T09:30:03.000Z",
+    "videos": [
+      {
+        "key": "wixzainceAE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-22T16:00:09.000Z"
+      },
+      {
+        "key": "I0h3yC8deYs",
+        "name": "One month until the world meets Klara",
+        "type": "Teaser",
+        "published_at": "2026-09-23T09:30:03.000Z"
+      },
+      {
+        "key": "OcQtWamdUMQ",
+        "name": "Meet the future of friendship.",
+        "type": "Teaser",
+        "published_at": "2026-08-22T00:00:18.000Z"
+      }
+    ]
+  },
+  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -465,7 +567,7 @@
     "id": 1381273,
     "title": "Paper Tiger",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/wJPqU7lKx7QyVNoUYqQLcksJp4o.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1VhgzeA0tBbd7GtAw1d2nL3UUBk.jpg",
     "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "theatrical": true,
@@ -482,42 +584,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-08-10T16:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-09-22T11:29:59.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "5Dm9C8RiRDk",
-        "name": "DITL Odin",
-        "type": "Teaser",
-        "published_at": "2026-09-22T11:29:59.000Z"
       }
     ]
   },
@@ -729,8 +795,8 @@
     "id": 1465063,
     "title": "Forgotten Island",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
     "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
     "theatrical": true,
     "trailer_published": "2026-09-17T16:07:11.000Z",
@@ -990,6 +1056,30 @@
     ]
   },
   {
+    "id": 1318467,
+    "title": "The Last Kiss",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+    "theatrical": false,
+    "trailer_published": "2026-09-15T20:34:42.000Z",
+    "videos": [
+      {
+        "key": "lAKtuOVkAgU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T19:03:09.000Z"
+      },
+      {
+        "key": "Vgf-eANUdE0",
+        "name": "Watch at Home September 15",
+        "type": "Teaser",
+        "published_at": "2026-09-15T20:34:42.000Z"
+      }
+    ]
+  },
+  {
     "id": 1422011,
     "title": "It Ends",
     "release_date": "2026-08-21",
@@ -1047,7 +1137,7 @@
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tFwHCZW8LLvKuYjAoCivMFQAKmJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
     "theatrical": true,
@@ -1149,7 +1239,7 @@
     "id": 1372443,
     "title": "Mr. Irrelevant",
     "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/7tLnRHfRieR7gwkmeM7lhJurt4x.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
     "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
     "theatrical": true,
@@ -1160,24 +1250,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-13T15:00:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1506736,
-    "title": "Thudakkam",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
-    "overview": "When danger strikes, a young woman fights to survive through courage and determination.",
-    "theatrical": false,
-    "trailer_published": "2026-09-13T12:40:09.000Z",
-    "videos": [
-      {
-        "key": "L7qoeUfE14w",
-        "name": "Vismaya Mohanlal\u2019s Thudakkam | Trailer | Aashish Joe Antony | Jude Anthany | Sept 18 | JioHotstar",
-        "type": "Trailer",
-        "published_at": "2026-09-13T12:40:09.000Z"
       }
     ]
   },
@@ -1218,20 +1290,38 @@
     ]
   },
   {
-    "id": 1318467,
-    "title": "The Last Kiss",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
-    "theatrical": false,
-    "trailer_published": "2026-09-10T19:03:09.000Z",
+    "id": 1433367,
+    "title": "One Night Only",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T16:49:59.000Z",
     "videos": [
       {
-        "key": "lAKtuOVkAgU",
+        "key": "lDsAVq9lo9g",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-28T17:27:23.000Z"
+      },
+      {
+        "key": "AvKoSR3O4NQ",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-10T19:03:09.000Z"
+        "published_at": "2026-07-10T23:02:23.000Z"
+      },
+      {
+        "key": "JRG244IfrRE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-29T15:00:06.000Z"
+      },
+      {
+        "key": "rtkbLRhCW9Q",
+        "name": "Watch at Home September 8",
+        "type": "Teaser",
+        "published_at": "2026-09-10T16:49:59.000Z"
       }
     ]
   },
@@ -1427,7 +1517,7 @@
     "videos": [
       {
         "key": "eqcTr34Y1Zw",
-        "name": "Legend of the White Dragon | 2026 | @SignatureUK Trailer | Jason David Frank, Michael Madsen",
+        "name": "UK Trailer",
         "type": "Trailer",
         "published_at": "2026-09-07T14:24:53.000Z"
       },
@@ -1448,42 +1538,6 @@
         "name": "Happy Power Rangers Day!",
         "type": "Teaser",
         "published_at": "2026-08-28T21:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1433367,
-    "title": "One Night Only",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "theatrical": true,
-    "trailer_published": "2026-09-05T13:05:22.000Z",
-    "videos": [
-      {
-        "key": "lDsAVq9lo9g",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-28T17:27:23.000Z"
-      },
-      {
-        "key": "AvKoSR3O4NQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-10T23:02:23.000Z"
-      },
-      {
-        "key": "JRG244IfrRE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-29T15:00:06.000Z"
-      },
-      {
-        "key": "JqHhe74RQ9Y",
-        "name": "Which one are you?",
-        "type": "Teaser",
-        "published_at": "2026-09-05T13:05:22.000Z"
       }
     ]
   },
@@ -1680,6 +1734,30 @@
     ]
   },
   {
+    "id": 1522380,
+    "title": "Multwoh (Patay Na Patay Sa'yo)",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/7lAHM09AvMnueNmXEND8MajjB7j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z0SLDGlRKiVDrmBa5CWMtEKLwVG.jpg",
+    "overview": "When a college queer dies suddenly in their dorm, they return as a ghost \u2014 not to seek revenge, but to say the one thing they never found the courage to say in life: \"I love you\".",
+    "theatrical": false,
+    "trailer_published": "2026-08-29T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "h7uc364SDyg",
+        "name": "Multwoh (Patay Na Patay Sa 'Yo) (CinePanalo 2026) Official Trailer - Sassa Gurl, Joao Constancia",
+        "type": "Trailer",
+        "published_at": "2026-08-29T10:00:00.000Z"
+      },
+      {
+        "key": "uRc-eeudvS0",
+        "name": "MULTWOH (2026) Official Teaser Trailer - Sassa Gurl & Joao Constancia",
+        "type": "Trailer",
+        "published_at": "2026-06-29T04:33:40.000Z"
+      }
+    ]
+  },
+  {
     "id": 1288059,
     "title": "I Want Your Sex",
     "release_date": "2026-07-31",
@@ -1712,6 +1790,24 @@
         "name": "In UK cinemas tomorrow.",
         "type": "Teaser",
         "published_at": "2026-08-27T07:53:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1492640,
+    "title": "UNABOMBER",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "theatrical": false,
+    "trailer_published": "2026-08-27T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "B3tR6qQjbgI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-27T14:00:00.000Z"
       }
     ]
   },
@@ -1791,7 +1887,7 @@
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/g9rXb8I143ikhEjHK1BZdZ2tQzt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "theatrical": false,
@@ -1809,7 +1905,7 @@
     "id": 1477104,
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/gayX49siwXf8eNs16rtk1fI91Ey.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
     "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
     "theatrical": true,
@@ -1918,7 +2014,7 @@
     "title": "The Rivals of Amziah King",
     "release_date": "2026-08-14",
     "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3qR1ZxuEzDksDGT13mHH2IiEq7G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
     "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
     "theatrical": true,
     "trailer_published": "2026-08-22T16:00:11.000Z",
@@ -1946,30 +2042,6 @@
         "name": "Hive",
         "type": "Teaser",
         "published_at": "2026-08-10T18:07:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1340102,
-    "title": "Lion Fist",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
-    "overview": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
-    "theatrical": false,
-    "trailer_published": "2026-08-21T16:00:01.000Z",
-    "videos": [
-      {
-        "key": "9JLxOm9VmGI",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-21T16:00:01.000Z"
-      },
-      {
-        "key": "BNLvZ-VKHbc",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-16T06:30:37.000Z"
       }
     ]
   },
@@ -2136,42 +2208,6 @@
     ]
   },
   {
-    "id": 1514026,
-    "title": "Buddy",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T15:53:44.000Z",
-    "videos": [
-      {
-        "key": "Pc9MbCNYn3k",
-        "name": "Official Teaser 3",
-        "type": "Teaser",
-        "published_at": "2026-08-18T15:00:02.000Z"
-      },
-      {
-        "key": "2sBRb7Mbg0A",
-        "name": "Official Teaser 2",
-        "type": "Teaser",
-        "published_at": "2026-07-21T14:59:39.000Z"
-      },
-      {
-        "key": "0mil0YgOtu8",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-09T14:59:50.000Z"
-      },
-      {
-        "key": "O1fNEHX9tSM",
-        "name": "BUDDY Official Trailer (2026)",
-        "type": "Trailer",
-        "published_at": "2026-08-18T15:53:44.000Z"
-      }
-    ]
-  },
-  {
     "id": 1447853,
     "title": "Oasis: Don't Look Back in Anger",
     "release_date": "2026-09-09",
@@ -2199,7 +2235,7 @@
     "id": 1514863,
     "title": "Best of the Best",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
     "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
     "theatrical": false,
@@ -2379,7 +2415,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7MTPIArEuZyD5hqJJL29qi3Wj62.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -2468,6 +2504,30 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-09T12:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1556321,
+    "title": "Death Whisperer: Saming the Werebeast",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
+    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
+    "theatrical": true,
+    "trailer_published": "2026-08-13T09:00:10.000Z",
+    "videos": [
+      {
+        "key": "BP2_TUBOS6U",
+        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
+        "type": "Teaser",
+        "published_at": "2026-08-13T09:00:10.000Z"
+      },
+      {
+        "key": "M_e4IfKbmGo",
+        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
+        "type": "Teaser",
+        "published_at": "2026-07-29T10:00:36.000Z"
       }
     ]
   },
@@ -2762,30 +2822,6 @@
         "name": "Barreda - Tr\u00e1iler Oficial I Prime Video",
         "type": "Trailer",
         "published_at": "2026-07-30T14:00:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/b8h1A4cqHBpftGwvffCqq7blFsd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-07-30T14:00:15.000Z",
-    "videos": [
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
       }
     ]
   },
@@ -3094,7 +3130,7 @@
     "title": "Spa Weekend",
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
     "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
     "theatrical": true,
     "trailer_published": "2026-07-15T16:00:37.000Z",
@@ -3668,30 +3704,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1424965,
-    "title": "Ice Skater",
-    "release_date": "2026-02-24",
-    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
-    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
-    "theatrical": false,
-    "trailer_published": "2026-02-24T17:15:04.000Z",
-    "videos": [
-      {
-        "key": "ShXeLbwaZLw",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-12T09:12:02.000Z"
-      },
-      {
-        "key": "nBjUq8xyjx8",
-        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
-        "type": "Teaser",
-        "published_at": "2026-02-24T17:15:04.000Z"
       }
     ]
   },
