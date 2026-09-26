@@ -1,5 +1,41 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T20:00:24.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "V79-yCt7Log",
+        "name": "His darlin\u2019 girl, Maggie.",
+        "type": "Teaser",
+        "published_at": "2026-09-25T20:00:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
@@ -144,42 +180,6 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T18:30:03.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "9Tfl4FpJ3Rk",
-        "name": "DIGGER is \"absolutely mind-blowing\".",
-        "type": "Teaser",
-        "published_at": "2026-09-24T18:30:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -266,6 +266,66 @@
         "name": "Hank Malone",
         "type": "Teaser",
         "published_at": "2026-09-24T00:00:29.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1131943,
+    "title": "Madden",
+    "release_date": "2026-11-11",
+    "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T13:10:37.000Z",
+    "videos": [
+      {
+        "key": "xzh7HzLXXpk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:10:37.000Z"
+      },
+      {
+        "key": "KjOL6n0F0T8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-12-26T02:41:22.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T09:06:49.000Z",
+    "videos": [
+      {
+        "key": "PhgY8cOJiQA",
+        "name": "Get Tickets",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:21:37.000Z"
+      },
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "K6gFndLtgKY",
+        "name": "Full Dog",
+        "type": "Teaser",
+        "published_at": "2026-09-24T09:06:49.000Z"
       }
     ]
   },
@@ -462,36 +522,6 @@
     ]
   },
   {
-    "id": 858035,
-    "title": "Klara and the Sun",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1ZwcLnQMFvoAEbnGOsXJplgic6.jpg",
-    "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T09:30:03.000Z",
-    "videos": [
-      {
-        "key": "wixzainceAE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-22T16:00:09.000Z"
-      },
-      {
-        "key": "I0h3yC8deYs",
-        "name": "One month until the world meets Klara",
-        "type": "Teaser",
-        "published_at": "2026-09-23T09:30:03.000Z"
-      },
-      {
-        "key": "OcQtWamdUMQ",
-        "name": "Meet the future of friendship.",
-        "type": "Teaser",
-        "published_at": "2026-08-22T00:00:18.000Z"
-      }
-    ]
-  },
-  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -528,6 +558,24 @@
     ]
   },
   {
+    "id": 1779385,
+    "title": "Pixar Artist Short: One Shot Productions",
+    "release_date": "2026-09-24",
+    "poster": "https://image.tmdb.org/t/p/w500/8Fm3UoYldZTVfVPm1rwJ4vKcsUM.jpg",
+    "backdrop": "",
+    "overview": "One Shot Productions is an anthology of Pixar Artist Short Films that dares to ask the question, \"Do you REALLY need more than a single shot for your story?\"",
+    "theatrical": false,
+    "trailer_published": "2026-09-22T18:00:16.000Z",
+    "videos": [
+      {
+        "key": "dmrK1OoafXU",
+        "name": "Pixar Artist Short: One Shot Productions",
+        "type": "Trailer",
+        "published_at": "2026-09-22T18:00:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 675871,
     "title": "Super Troopers 3",
     "release_date": "2026-08-07",
@@ -560,30 +608,6 @@
         "name": "Meow Playing in Theaters - Get Tickets Meow",
         "type": "Teaser",
         "published_at": "2026-08-17T17:02:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1381273,
-    "title": "Paper Tiger",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1VhgzeA0tBbd7GtAw1d2nL3UUBk.jpg",
-    "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
-    "theatrical": true,
-    "trailer_published": "2026-09-22T16:00:25.000Z",
-    "videos": [
-      {
-        "key": "MLwTyQOhBkw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-22T16:00:25.000Z"
-      },
-      {
-        "key": "ldCb77jXIsM",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-10T16:00:22.000Z"
       }
     ]
   },
@@ -674,6 +698,42 @@
         "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
         "type": "Teaser",
         "published_at": "2026-09-13T16:00:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1291366,
+    "title": "The Deputy",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/uxFBQuSvKGuwULg2ME7kbBZtu6b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
+    "overview": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
+    "theatrical": true,
+    "trailer_published": "2026-09-18T19:06:34.000Z",
+    "videos": [
+      {
+        "key": "ZvQZ6U0UXPQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:36:56.000Z"
+      },
+      {
+        "key": "SrGTKPBz3cQ",
+        "name": "She asks the questions. You better have the answers. Tiffany Haddish stars in The Deputy.",
+        "type": "Teaser",
+        "published_at": "2026-09-18T19:06:34.000Z"
+      },
+      {
+        "key": "dQnPme3mMNE",
+        "name": "He\u2019s got his own way of doing things. William H. Macy stars in The Deputy.",
+        "type": "Teaser",
+        "published_at": "2026-09-16T19:46:22.000Z"
+      },
+      {
+        "key": "BFxPtUw6ks8",
+        "name": "Just here for funziez. Julia Fox stars in The Deputy.",
+        "type": "Teaser",
+        "published_at": "2026-09-15T17:47:09.000Z"
       }
     ]
   },
@@ -788,42 +848,6 @@
         "name": "We tink we taw you heading to see Coyote Vs. Acme over Labor Day weekend!",
         "type": "Teaser",
         "published_at": "2026-09-04T20:54:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T16:07:11.000Z",
-    "videos": [
-      {
-        "key": "PhgY8cOJiQA",
-        "name": "Get Tickets",
-        "type": "Trailer",
-        "published_at": "2026-09-08T15:21:37.000Z"
-      },
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
-      },
-      {
-        "key": "1eD_64sroTU",
-        "name": "Adventure may bring them to Nakali, but friendship is what drives the story.",
-        "type": "Teaser",
-        "published_at": "2026-09-17T16:07:11.000Z"
       }
     ]
   },
@@ -1059,7 +1083,7 @@
     "id": 1318467,
     "title": "The Last Kiss",
     "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hZ28oBJvoagkp3CBrMteLQBykCc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
     "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
     "theatrical": false,
@@ -1137,7 +1161,7 @@
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/tFwHCZW8LLvKuYjAoCivMFQAKmJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
     "theatrical": true,
@@ -1887,7 +1911,7 @@
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/g9rXb8I143ikhEjHK1BZdZ2tQzt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "theatrical": false,
@@ -2114,24 +2138,6 @@
         "name": "Ladies & Ladies",
         "type": "Teaser",
         "published_at": "2026-07-01T06:03:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1739206,
-    "title": "Untold Mr. T: I Pity the Fool",
-    "release_date": "2026-09-08",
-    "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
-    "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment \u2014 Mr. T.",
-    "theatrical": false,
-    "trailer_published": "2026-08-19T15:30:00.000Z",
-    "videos": [
-      {
-        "key": "Txk5C-452ak",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T15:30:00.000Z"
       }
     ]
   },
@@ -2415,7 +2421,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/7MTPIArEuZyD5hqJJL29qi3Wj62.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
