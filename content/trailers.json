@@ -7,7 +7,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
-    "trailer_published": "2026-09-26T01:22:10.000Z",
+    "trailer_published": "2026-09-26T18:00:02.000Z",
     "videos": [
       {
         "key": "job8V254NAE",
@@ -28,10 +28,70 @@
         "published_at": "2026-06-23T16:00:07.000Z"
       },
       {
-        "key": "FsfqdbXLxms",
-        "name": "\"ABSOLUTELY MIND-BLOWING\"",
+        "key": "5xSQiKJkNc8",
+        "name": "Winners get things done.",
         "type": "Teaser",
-        "published_at": "2026-09-26T01:22:10.000Z"
+        "published_at": "2026-09-26T18:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-09-26T17:00:14.000Z",
+    "videos": [
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "BA4YqWeNsyM",
+        "name": "What's happening to him?",
+        "type": "Teaser",
+        "published_at": "2026-09-26T17:00:14.000Z"
+      },
+      {
+        "key": "ygC0Sm6IVys",
+        "name": "See for yourself. Search Clayface.",
+        "type": "Teaser",
+        "published_at": "2026-09-24T19:30:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1421903,
+    "title": "Werwulf",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
+    "overview": "A harrowing tale of devotion, damnation and the devil within.",
+    "theatrical": true,
+    "trailer_published": "2026-09-26T15:00:07.000Z",
+    "videos": [
+      {
+        "key": "CL1EFACsWag",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-26T15:00:07.000Z"
+      },
+      {
+        "key": "cmjpadVj-Vk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T12:00:12.000Z"
       }
     ]
   },
@@ -126,42 +186,6 @@
     ]
   },
   {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T19:30:12.000Z",
-    "videos": [
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "ygC0Sm6IVys",
-        "name": "See for yourself. Search Clayface.",
-        "type": "Teaser",
-        "published_at": "2026-09-24T19:30:12.000Z"
-      },
-      {
-        "key": "O4-MiOrxMQc",
-        "name": "In Cinemas on October 23",
-        "type": "Teaser",
-        "published_at": "2026-09-22T16:05:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1117898,
     "title": "The Cat in the Hat",
     "release_date": "2026-11-06",
@@ -237,9 +261,9 @@
     "id": 1266643,
     "title": "Day Drinker",
     "release_date": "2027-03-26",
-    "poster": "https://image.tmdb.org/t/p/w500/qzey2ID7YsCjhiTC8BJEfQx1LFm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/5n1ObdUbJH8Irlm48IpPmt1tdVb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o57I2Z3OSYDGElMmyAxR3dH75eE.jpg",
-    "overview": "A cruise ship bartender meets a mysterious day drinker, only for both of them to find themselves entangled in a criminal underbelly and connected in unexpected ways.",
+    "overview": "A private-yacht bartender encounters a mysterious, onboard guest. They soon find themselves entangled with a criminal figure and connected in ways no one saw coming.",
     "theatrical": true,
     "trailer_published": "2026-09-24T15:05:06.000Z",
     "videos": [
@@ -608,7 +632,7 @@
   {
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-    "release_date": "2026-11-26",
+    "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
@@ -1665,7 +1689,7 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -2643,7 +2667,7 @@
     "id": 1376856,
     "title": "The Paradise",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
     "overview": "In 1980s Secunderabad, a marginalised tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
     "theatrical": false,
@@ -2651,7 +2675,7 @@
     "videos": [
       {
         "key": "Y3xewv1ZnHc",
-        "name": "Official Teaser",
+        "name": "Official Teaser [ENG SUB]",
         "type": "Teaser",
         "published_at": "2026-08-06T12:32:42.000Z"
       },
@@ -3410,24 +3434,6 @@
         "name": "NOW IN PRODUCTION!",
         "type": "Teaser",
         "published_at": "2024-06-06T14:30:02.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1421903,
-    "title": "Werwulf",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
-    "overview": "A harrowing tale of devotion, damnation and the devil within.",
-    "theatrical": true,
-    "trailer_published": "2026-06-29T12:00:12.000Z",
-    "videos": [
-      {
-        "key": "cmjpadVj-Vk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T12:00:12.000Z"
       }
     ]
   },
