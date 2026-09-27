@@ -1,5 +1,41 @@
 [
   {
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "theatrical": true,
+    "trailer_published": "2026-09-27T09:00:18.000Z",
+    "videos": [
+      {
+        "key": "U6sbm1OaJb8",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-01T16:00:13.000Z"
+      },
+      {
+        "key": "Xt4X4FvXk2A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T13:00:08.000Z"
+      },
+      {
+        "key": "Exf7UmsNm4A",
+        "name": "Ticket call out",
+        "type": "Teaser",
+        "published_at": "2026-09-27T09:00:18.000Z"
+      },
+      {
+        "key": "eGyyykgo6Qo",
+        "name": "Blanka vs. Ryu Special Look",
+        "type": "Teaser",
+        "published_at": "2026-07-30T13:00:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -352,7 +388,7 @@
     "title": "Gremlins 3",
     "release_date": "2028-10-06",
     "poster": "https://image.tmdb.org/t/p/w500/i23drDYlMobxkRLRstynrfVkPqL.jpg",
-    "backdrop": "",
+    "backdrop": "https://image.tmdb.org/t/p/w780/38IJRb3HJFBhe0e6z8dXkhOGcJj.jpg",
     "overview": "The third installment in the franchise. Plot TBA.",
     "theatrical": true,
     "trailer_published": "2026-09-24T00:14:03.000Z",
@@ -866,30 +902,6 @@
         "name": "We tink we taw you heading to see Coyote Vs. Acme over Labor Day weekend!",
         "type": "Teaser",
         "published_at": "2026-09-04T20:54:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1290000,
-    "title": "Wife & Dog",
-    "release_date": "2027-02-19",
-    "poster": "https://image.tmdb.org/t/p/w500/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fOdKHbtVZm9t2mMPpIraWgc1kle.jpg",
-    "overview": "The relentless greed of the Fairbank family and their associates fuels betrayal and murder in the battle for succession.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T14:18:20.000Z",
-    "videos": [
-      {
-        "key": "YBsTBGq6-hA",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-17T14:18:20.000Z"
-      },
-      {
-        "key": "NmYFn343IPU",
-        "name": "Official UK Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-17T14:00:17.000Z"
       }
     ]
   },
@@ -1479,7 +1491,7 @@
     "id": 1228834,
     "title": "The Fix",
     "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
     "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
     "theatrical": true,
@@ -1686,42 +1698,6 @@
     ]
   },
   {
-    "id": 1153576,
-    "title": "Street Fighter",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T16:00:13.000Z",
-    "videos": [
-      {
-        "key": "U6sbm1OaJb8",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T16:00:13.000Z"
-      },
-      {
-        "key": "Xt4X4FvXk2A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T13:00:08.000Z"
-      },
-      {
-        "key": "eGyyykgo6Qo",
-        "name": "Blanka vs. Ryu Special Look",
-        "type": "Teaser",
-        "published_at": "2026-07-30T13:00:02.000Z"
-      },
-      {
-        "key": "5tXleEhp9oY",
-        "name": "Zoom",
-        "type": "Teaser",
-        "published_at": "2026-05-24T11:00:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1422041,
     "title": "La bola negra",
     "release_date": "2026-10-16",
@@ -1777,7 +1753,7 @@
   },
   {
     "id": 1492640,
-    "title": "UNABOMBER",
+    "title": "Unabomber",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
@@ -1997,7 +1973,7 @@
     "release_date": "2026-08-14",
     "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah\u2019s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah\u2019s rivals threaten to destroy everything he has built.",
+    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. But the honey game is ruthless, and Amziah's rivals threaten to destroy everything he's built.",
     "theatrical": true,
     "trailer_published": "2026-08-22T16:00:11.000Z",
     "videos": [
@@ -2028,6 +2004,30 @@
     ]
   },
   {
+    "id": 1340102,
+    "title": "Lion Fist",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
+    "overview": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
+    "theatrical": false,
+    "trailer_published": "2026-08-21T16:00:01.000Z",
+    "videos": [
+      {
+        "key": "9JLxOm9VmGI",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-21T16:00:01.000Z"
+      },
+      {
+        "key": "BNLvZ-VKHbc",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-16T06:30:37.000Z"
+      }
+    ]
+  },
+  {
     "id": 1596248,
     "title": "If I Go Will They Miss Me",
     "release_date": "2026-09-11",
@@ -2052,12 +2052,30 @@
     ]
   },
   {
+    "id": 1314279,
+    "title": "Hi!",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
+    "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T16:19:22.000Z",
+    "videos": [
+      {
+        "key": "LVmH0rgWZb8",
+        "name": "Hi :) Movie Official Trailer | Nayanthara, Kavin | Vishnu edavan | In Cinemas 28th August",
+        "type": "Trailer",
+        "published_at": "2026-08-20T16:19:22.000Z"
+      }
+    ]
+  },
+  {
     "id": 1562642,
     "title": "Ghost Soldier",
     "release_date": "2026-11-11",
     "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "overview": "Henry \u201cFitz\u201d Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors\u2019 land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+    "overview": "A weapon systems engineer and former Green Beret protects his Wyoming neighbors against a ruthless corporation threatening their rural community.",
     "theatrical": true,
     "trailer_published": "2026-08-20T14:03:57.000Z",
     "videos": [
@@ -2120,42 +2138,6 @@
         "name": "Ladies & Ladies",
         "type": "Teaser",
         "published_at": "2026-07-01T06:03:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 192139,
-    "title": "The Brink of War",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
-    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T22:00:18.000Z",
-    "videos": [
-      {
-        "key": "a-T0TlMN-RE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T21:15:27.000Z"
-      },
-      {
-        "key": "mOmU9rmjETg",
-        "name": "What Critics Are Saying About The Brink Of War",
-        "type": "Teaser",
-        "published_at": "2026-08-18T22:00:18.000Z"
-      },
-      {
-        "key": "oI47vtf8nhU",
-        "name": "The Brink Of War Is In Theaters Today!",
-        "type": "Teaser",
-        "published_at": "2026-08-14T17:00:08.000Z"
-      },
-      {
-        "key": "1OXSMXfl8D4",
-        "name": "Is Peace A Fantasy?",
-        "type": "Teaser",
-        "published_at": "2026-08-07T15:00:24.000Z"
       }
     ]
   },
@@ -2988,24 +2970,6 @@
     ]
   },
   {
-    "id": 1148365,
-    "title": "Matchbox the Movie",
-    "release_date": "2026-10-08",
-    "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-    "theatrical": true,
-    "trailer_published": "2026-07-25T21:30:05.000Z",
-    "videos": [
-      {
-        "key": "7xfqITrMDcI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-25T21:30:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1504358,
     "title": "Don't Say Good Luck",
     "release_date": "2026-08-14",
@@ -3692,6 +3656,24 @@
         "name": "Evil Dead Wrath has begun its bloody production.",
         "type": "Teaser",
         "published_at": "2026-02-21T17:00:28.000Z"
+      }
+    ]
+  },
+  {
+    "id": 645708,
+    "title": "Dragon",
+    "release_date": "2027-06-10",
+    "poster": "https://image.tmdb.org/t/p/w500/qKQEdXj8OFqMjj000RmlU7qQHWR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t2hndJt7z8hg2UfUxqy6M1he3x7.jpg",
+    "overview": "Set in 1967 around International Opium Trade by Afghan Trading Company and Golden Trading Company",
+    "theatrical": true,
+    "trailer_published": "2026-05-22T14:00:16.000Z",
+    "videos": [
+      {
+        "key": "FlOzIM7Yov4",
+        "name": "Dragon Glimpse - Telugu | NTR | Anil Kapoor | Rukmini Vasanth | Ravi Basrur | Prashanth Neel",
+        "type": "Teaser",
+        "published_at": "2026-05-22T14:00:16.000Z"
       }
     ]
   },
