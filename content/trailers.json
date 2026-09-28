@@ -1,5 +1,149 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T10:00:06.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "RMgCxgmVjPo",
+        "name": "Becoming One",
+        "type": "Teaser",
+        "published_at": "2026-09-28T10:00:06.000Z"
+      },
+      {
+        "key": "TaSrwky6lHc",
+        "name": "In Cinemas 1 October",
+        "type": "Teaser",
+        "published_at": "2026-09-23T12:00:01.000Z"
+      },
+      {
+        "key": "CnJ_vwcgECQ",
+        "name": "In Cinemas SEPTEMBER 30",
+        "type": "Teaser",
+        "published_at": "2026-09-21T18:00:14.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T07:44:06.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "LhWSv2mraBQ",
+        "name": "Based on the shocking true story.",
+        "type": "Teaser",
+        "published_at": "2026-09-28T07:44:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T05:00:17.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "E7OzF0wWkWE",
+        "name": "Bruh.",
+        "type": "Teaser",
+        "published_at": "2026-09-28T05:00:17.000Z"
+      },
+      {
+        "key": "XJ13qqZ09F0",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-09-25T03:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T01:30:13.000Z",
+    "videos": [
+      {
+        "key": "U6sbm1OaJb8",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-01T16:00:13.000Z"
+      },
+      {
+        "key": "Xt4X4FvXk2A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T13:00:08.000Z"
+      },
+      {
+        "key": "J79pyn2QufY",
+        "name": "READY! SET! FIGHT!",
+        "type": "Teaser",
+        "published_at": "2026-09-28T01:30:13.000Z"
+      },
+      {
+        "key": "Exf7UmsNm4A",
+        "name": "Ticket call out",
+        "type": "Teaser",
+        "published_at": "2026-09-27T09:00:18.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -32,42 +176,6 @@
         "name": "The time for doublin\u2019 down is near.",
         "type": "Teaser",
         "published_at": "2026-09-27T18:00:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1153576,
-    "title": "Street Fighter",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "theatrical": true,
-    "trailer_published": "2026-09-27T09:00:18.000Z",
-    "videos": [
-      {
-        "key": "U6sbm1OaJb8",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T16:00:13.000Z"
-      },
-      {
-        "key": "Xt4X4FvXk2A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T13:00:08.000Z"
-      },
-      {
-        "key": "Exf7UmsNm4A",
-        "name": "Ticket call out",
-        "type": "Teaser",
-        "published_at": "2026-09-27T09:00:18.000Z"
-      },
-      {
-        "key": "eGyyykgo6Qo",
-        "name": "Blanka vs. Ryu Special Look",
-        "type": "Teaser",
-        "published_at": "2026-07-30T13:00:02.000Z"
       }
     ]
   },
@@ -168,56 +276,38 @@
     ]
   },
   {
-    "id": 1755291,
-    "title": "NAZA",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/uLsG2CW8oHnmXWdtPyruSegI8rF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
-    "overview": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "theatrical": true,
-    "trailer_published": "2026-09-25T14:19:21.000Z",
+    "trailer_published": "2026-09-25T08:00:19.000Z",
     "videos": [
       {
-        "key": "YIBRLEEaueo",
-        "name": "NAZA - official trailer",
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-25T14:19:21.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T03:00:05.000Z",
-    "videos": [
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
       {
-        "key": "mNd1gb19A-c",
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
+        "published_at": "2026-06-11T13:00:12.000Z"
       },
       {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "XJ13qqZ09F0",
-        "name": "In Cinemas Now",
+        "key": "J5GURqqgkJ0",
+        "name": "You\u2019ll fall in love with Odin, too.",
         "type": "Teaser",
-        "published_at": "2026-09-25T03:00:05.000Z"
-      },
-      {
-        "key": "9QTXJXkdfCA",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-09-24T06:00:21.000Z"
+        "published_at": "2026-09-25T08:00:19.000Z"
       }
     ]
   },
@@ -402,38 +492,38 @@
     ]
   },
   {
-    "id": 1263337,
-    "title": "Heart of the Beast",
+    "id": 1291366,
+    "title": "The Deputy",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "poster": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
+    "overview": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
     "theatrical": true,
-    "trailer_published": "2026-09-23T18:44:42.000Z",
+    "trailer_published": "2026-09-23T23:41:56.000Z",
     "videos": [
       {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
+        "key": "ZvQZ6U0UXPQ",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
+        "published_at": "2026-08-05T16:36:56.000Z"
       },
       {
-        "key": "sTOh1jDaMVU",
-        "name": "Unforgettable :15",
+        "key": "x6taH56yyTU",
+        "name": "Not your average cop. He\u2019s The Deputy.",
         "type": "Teaser",
-        "published_at": "2026-09-23T18:44:42.000Z"
+        "published_at": "2026-09-23T23:41:56.000Z"
+      },
+      {
+        "key": "wgGxCwMCw0M",
+        "name": "Sheriff's gonna be pissed. Stephen Dorff stars in The Deputy.",
+        "type": "Teaser",
+        "published_at": "2026-09-22T01:35:41.000Z"
+      },
+      {
+        "key": "SrGTKPBz3cQ",
+        "name": "She asks the questions. You better have the answers. Tiffany Haddish stars in The Deputy.",
+        "type": "Teaser",
+        "published_at": "2026-09-18T19:06:34.000Z"
       }
     ]
   },
@@ -501,8 +591,8 @@
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bh4wFW0B7fVtUOT9xfeugJJYKWw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
     "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
     "theatrical": true,
     "trailer_published": "2026-09-23T13:00:09.000Z",
@@ -527,7 +617,7 @@
     "release_date": "2026-12-04",
     "poster": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
-    "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn and his alien companion Eyera are making a living on the edge of society, delving into secrets that some people would rather keep hidden away. After accepting a sleazy spy job related to pop-star Venus Nova, Gunn finds himself drawn into a murder mystery unlike any case he\u2019s taken.",
+    "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
     "theatrical": true,
     "trailer_published": "2026-09-23T13:00:02.000Z",
     "videos": [
@@ -536,78 +626,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-23T13:00:02.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T12:00:01.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "TaSrwky6lHc",
-        "name": "In Cinemas 1 October",
-        "type": "Teaser",
-        "published_at": "2026-09-23T12:00:01.000Z"
-      },
-      {
-        "key": "CnJ_vwcgECQ",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-21T18:00:14.000Z"
-      },
-      {
-        "key": "L4W0Zya76vg",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-21T09:00:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T00:27:30.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "QDsWMkoRO4Y",
-        "name": "Based on the shocking true story.",
-        "type": "Teaser",
-        "published_at": "2026-09-23T00:27:30.000Z"
       }
     ]
   },
@@ -756,42 +774,6 @@
     ]
   },
   {
-    "id": 1291366,
-    "title": "The Deputy",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
-    "overview": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
-    "theatrical": true,
-    "trailer_published": "2026-09-18T19:06:34.000Z",
-    "videos": [
-      {
-        "key": "ZvQZ6U0UXPQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:36:56.000Z"
-      },
-      {
-        "key": "SrGTKPBz3cQ",
-        "name": "She asks the questions. You better have the answers. Tiffany Haddish stars in The Deputy.",
-        "type": "Teaser",
-        "published_at": "2026-09-18T19:06:34.000Z"
-      },
-      {
-        "key": "dQnPme3mMNE",
-        "name": "He\u2019s got his own way of doing things. William H. Macy stars in The Deputy.",
-        "type": "Teaser",
-        "published_at": "2026-09-16T19:46:22.000Z"
-      },
-      {
-        "key": "BFxPtUw6ks8",
-        "name": "Just here for funziez. Julia Fox stars in The Deputy.",
-        "type": "Teaser",
-        "published_at": "2026-09-15T17:47:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1391021,
     "title": "Once Upon a Time in the Middle East",
     "release_date": "2026-10-09",
@@ -852,20 +834,20 @@
     ]
   },
   {
-    "id": 1760576,
-    "title": "Zakir Khan: Papa Yaar",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/layTkFN24JouxXQpYyMIn8WxBrB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tNBIV77HHlM7rJzmZE5VqA1ciEA.jpg",
-    "overview": "Zakir Khan reflects on his childhood and the special bond he shares with his father, turning personal memories and family experiences into heartfelt comedy. With his signature blend of observational humour, poetry and emotional storytelling, he explores the unspoken sides of fatherhood and the relationship between a father and son.",
+    "id": 1778711,
+    "title": "Isla",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/clGpGnasLM0ghJb56maKD5CawGl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kWhKTCGU9GU6R9r2HRLd0xW3cth.jpg",
+    "overview": "Lusted after by all, she trades her innocence to escape her island. Betrayed, she strips away her abusers' darkest secrets in this sultry cinematic classic.",
     "theatrical": false,
-    "trailer_published": "2026-09-18T08:30:00.000Z",
+    "trailer_published": "2026-09-18T11:59:44.000Z",
     "videos": [
       {
-        "key": "9Su-b6V8UFg",
-        "name": "Papa Ka School | Zakir Khan | Papa Yaar | Netflix India",
+        "key": "urSd0fXGmLo",
+        "name": "ISLA | WORLD PREMIERE THIS SEPTEMBER 25 ONLY ON VMX",
         "type": "Trailer",
-        "published_at": "2026-09-18T08:30:00.000Z"
+        "published_at": "2026-09-18T11:59:44.000Z"
       }
     ]
   },
@@ -909,7 +891,7 @@
     "id": 977942,
     "title": "The Uprising",
     "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
@@ -1647,7 +1629,7 @@
     "id": 1422041,
     "title": "La bola negra",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dBsK9PNouiscIUl2tpE2creAL8Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
@@ -1658,6 +1640,30 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-01T14:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1522380,
+    "title": "Multwoh (Patay na Patay Sa'yo)",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/7lAHM09AvMnueNmXEND8MajjB7j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z0SLDGlRKiVDrmBa5CWMtEKLwVG.jpg",
+    "overview": "When a college queer dies suddenly in their dorm, they return as a ghost \u2014 not to seek revenge, but to say the one thing they never found the courage to say in life: \"I love you\".",
+    "theatrical": false,
+    "trailer_published": "2026-08-29T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "h7uc364SDyg",
+        "name": "Multwoh (Patay Na Patay Sa 'Yo) (CinePanalo 2026) Official Trailer - Sassa Gurl, Joao Constancia",
+        "type": "Trailer",
+        "published_at": "2026-08-29T10:00:00.000Z"
+      },
+      {
+        "key": "uRc-eeudvS0",
+        "name": "MULTWOH (2026) Official Teaser Trailer - Sassa Gurl & Joao Constancia",
+        "type": "Trailer",
+        "published_at": "2026-06-29T04:33:40.000Z"
       }
     ]
   },
@@ -2144,7 +2150,7 @@
   {
     "id": 1447853,
     "title": "Oasis: Don't Look Back in Anger",
-    "release_date": "2026-09-09",
+    "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
     "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
@@ -2613,7 +2619,7 @@
     "id": 1376856,
     "title": "The Paradise",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/x2ZmgdzzOthal1warsz80sNaoeu.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
     "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
     "theatrical": false,
@@ -2738,6 +2744,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-04T15:00:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437396,
+    "title": "Your Mother Your Mother Your Mother",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him \u2013 and the beliefs threatening to unravel within.",
+    "theatrical": true,
+    "trailer_published": "2026-08-03T13:00:03.000Z",
+    "videos": [
+      {
+        "key": "uEcoV-ngH38",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-03T13:00:03.000Z"
+      },
+      {
+        "key": "hCXfh1oB3oc",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-06-26T13:00:22.000Z"
       }
     ]
   },
@@ -3208,7 +3238,7 @@
     "title": "Idiots",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v65hwf9S6mxFtobq4w6SlLnWgLq.jpg",
     "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
     "theatrical": true,
     "trailer_published": "2026-07-09T15:00:31.000Z",
@@ -3248,24 +3278,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-09T14:59:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1226699,
-    "title": "The Wrong Girls",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
-    "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-07-07T16:00:10.000Z",
-    "videos": [
-      {
-        "key": "zrcg8YHSys8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-07T16:00:10.000Z"
       }
     ]
   },
@@ -3461,7 +3473,7 @@
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "overview": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles.",
     "theatrical": true,
     "trailer_published": "2026-06-25T12:26:01.000Z",
     "videos": [
