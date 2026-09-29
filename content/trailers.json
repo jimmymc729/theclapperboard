@@ -1,5 +1,137 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rrII8v7ExyX9KzyHopW6B9mfrOD.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T19:00:35.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "zwGDoQN3DDM",
+        "name": "FRIDAY. WE DIGG.",
+        "type": "Teaser",
+        "published_at": "2026-09-28T19:00:35.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1003596,
+    "title": "Avengers: Doomsday",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T18:00:09.000Z",
+    "videos": [
+      {
+        "key": "X1aFkAkFASk",
+        "name": "Special Look",
+        "type": "Trailer",
+        "published_at": "2026-08-15T04:06:21.000Z"
+      },
+      {
+        "key": "irVNGjRFZGk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-20T13:00:20.000Z"
+      },
+      {
+        "key": "nxDMRvDr4AQ",
+        "name": "Silence Your Phones",
+        "type": "Teaser",
+        "published_at": "2026-09-28T18:00:09.000Z"
+      },
+      {
+        "key": "lqBdGDi3akg",
+        "name": "Get ready for Doomsday.",
+        "type": "Teaser",
+        "published_at": "2026-08-14T18:08:46.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T17:30:14.000Z",
+    "videos": [
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "sRhGnBt2XNQ",
+        "name": "There's no hiding.",
+        "type": "Teaser",
+        "published_at": "2026-09-28T17:30:14.000Z"
+      },
+      {
+        "key": "BA4YqWeNsyM",
+        "name": "What's happening to him?",
+        "type": "Teaser",
+        "published_at": "2026-09-26T17:00:14.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1422041,
+    "title": "La bola negra",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/qg1YnjtNbucHzfjo8vK36HCIZwq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T15:00:00.000Z",
+    "videos": [
+      {
+        "key": "lBVxKt0gKDY",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-28T15:00:00.000Z"
+      },
+      {
+        "key": "IRHtqjHYPew",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-01T14:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
@@ -144,42 +276,6 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-27T18:00:16.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "TDeSQxyT3Ac",
-        "name": "The time for doublin\u2019 down is near.",
-        "type": "Teaser",
-        "published_at": "2026-09-27T18:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1377237,
     "title": "Runner",
     "release_date": "2026-09-07",
@@ -216,42 +312,6 @@
     ]
   },
   {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-09-26T17:00:14.000Z",
-    "videos": [
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "BA4YqWeNsyM",
-        "name": "What's happening to him?",
-        "type": "Teaser",
-        "published_at": "2026-09-26T17:00:14.000Z"
-      },
-      {
-        "key": "ygC0Sm6IVys",
-        "name": "See for yourself. Search Clayface.",
-        "type": "Teaser",
-        "published_at": "2026-09-24T19:30:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -272,6 +332,36 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-29T12:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1765072,
+    "title": "You Can See Everything",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T17:00:28.000Z",
+    "videos": [
+      {
+        "key": "IEx8D1Wb__U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-25T17:00:28.000Z"
+      },
+      {
+        "key": "HvW_N5p1q44",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:14.000Z"
+      },
+      {
+        "key": "GGJSRFWALTI",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-07T00:30:04.000Z"
       }
     ]
   },
@@ -564,30 +654,6 @@
     ]
   },
   {
-    "id": 1765072,
-    "title": "You Can See Everything",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
-    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T13:00:14.000Z",
-    "videos": [
-      {
-        "key": "HvW_N5p1q44",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:14.000Z"
-      },
-      {
-        "key": "GGJSRFWALTI",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-07T00:30:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
@@ -834,24 +900,6 @@
     ]
   },
   {
-    "id": 1778711,
-    "title": "Isla",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/clGpGnasLM0ghJb56maKD5CawGl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kWhKTCGU9GU6R9r2HRLd0xW3cth.jpg",
-    "overview": "Lusted after by all, she trades her innocence to escape her island. Betrayed, she strips away her abusers' darkest secrets in this sultry cinematic classic.",
-    "theatrical": false,
-    "trailer_published": "2026-09-18T11:59:44.000Z",
-    "videos": [
-      {
-        "key": "urSd0fXGmLo",
-        "name": "ISLA | WORLD PREMIERE THIS SEPTEMBER 25 ONLY ON VMX",
-        "type": "Trailer",
-        "published_at": "2026-09-18T11:59:44.000Z"
-      }
-    ]
-  },
-  {
     "id": 1204680,
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-17",
@@ -914,6 +962,42 @@
         "name": "In UK Cinemas Everywhere October 9",
         "type": "Teaser",
         "published_at": "2026-09-17T13:56:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437511,
+    "title": "How to Rob a Bank",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T13:00:09.000Z",
+    "videos": [
+      {
+        "key": "MVvWKh336m4",
+        "name": "Official UK Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T13:00:09.000Z"
+      },
+      {
+        "key": "B9XOzCUvFB8",
+        "name": "Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T12:59:58.000Z"
+      },
+      {
+        "key": "hoXld2b0TCs",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:02:07.000Z"
+      },
+      {
+        "key": "ORxw68y3lyw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:00:02.000Z"
       }
     ]
   },
@@ -1626,24 +1710,6 @@
     ]
   },
   {
-    "id": 1422041,
-    "title": "La bola negra",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dBsK9PNouiscIUl2tpE2creAL8Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T14:00:00.000Z",
-    "videos": [
-      {
-        "key": "IRHtqjHYPew",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-01T14:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1522380,
     "title": "Multwoh (Patay na Patay Sa'yo)",
     "release_date": "2026-09-23",
@@ -2334,42 +2400,6 @@
     ]
   },
   {
-    "id": 1003596,
-    "title": "Avengers: Doomsday",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "theatrical": true,
-    "trailer_published": "2026-08-15T04:06:21.000Z",
-    "videos": [
-      {
-        "key": "X1aFkAkFASk",
-        "name": "Special Look",
-        "type": "Trailer",
-        "published_at": "2026-08-15T04:06:21.000Z"
-      },
-      {
-        "key": "irVNGjRFZGk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-20T13:00:20.000Z"
-      },
-      {
-        "key": "lqBdGDi3akg",
-        "name": "Get ready for Doomsday.",
-        "type": "Teaser",
-        "published_at": "2026-08-14T18:08:46.000Z"
-      },
-      {
-        "key": "399Ez7WHK5s",
-        "name": "The Wakandans and The Fantastic Four Will Return",
-        "type": "Teaser",
-        "published_at": "2026-01-13T14:12:06.000Z"
-      }
-    ]
-  },
-  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -2454,7 +2484,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
     "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
-    "theatrical": true,
+    "theatrical": false,
     "trailer_published": "2026-08-13T09:00:10.000Z",
     "videos": [
       {
@@ -2673,7 +2703,7 @@
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/lS17squIY8OpyFJz3cOCFzYxNUA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -3264,24 +3294,6 @@
     ]
   },
   {
-    "id": 1698575,
-    "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
-    "release_date": "2026-07-30",
-    "poster": "https://image.tmdb.org/t/p/w500/YbC4SlzE030BgxWdKDdlatMh5W.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
-    "overview": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
-    "theatrical": false,
-    "trailer_published": "2026-07-09T14:59:54.000Z",
-    "videos": [
-      {
-        "key": "A-NQmpNsZIc",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-09T14:59:54.000Z"
-      }
-    ]
-  },
-  {
     "id": 1489543,
     "title": "G.D.N",
     "release_date": "2026-08-07",
@@ -3704,6 +3716,30 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1424965,
+    "title": "Ice Skater",
+    "release_date": "2026-02-24",
+    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
+    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
+    "theatrical": false,
+    "trailer_published": "2026-02-24T17:15:04.000Z",
+    "videos": [
+      {
+        "key": "ShXeLbwaZLw",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-12T09:12:02.000Z"
+      },
+      {
+        "key": "nBjUq8xyjx8",
+        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
+        "type": "Teaser",
+        "published_at": "2026-02-24T17:15:04.000Z"
       }
     ]
   },
