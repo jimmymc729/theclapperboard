@@ -1,10 +1,82 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-09-29T10:00:38.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "ZpMZQwufbCo",
+        "name": "Roles",
+        "type": "Teaser",
+        "published_at": "2026-09-29T10:00:38.000Z"
+      },
+      {
+        "key": "RMgCxgmVjPo",
+        "name": "Becoming One",
+        "type": "Teaser",
+        "published_at": "2026-09-28T10:00:06.000Z"
+      },
+      {
+        "key": "TaSrwky6lHc",
+        "name": "In Cinemas 1 October",
+        "type": "Teaser",
+        "published_at": "2026-09-23T12:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-09-29T03:00:01.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "WDt8jH7JQbk",
+        "name": "In Cinemas 8 October",
+        "type": "Teaser",
+        "published_at": "2026-09-29T03:00:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rrII8v7ExyX9KzyHopW6B9mfrOD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-09-28T19:00:35.000Z",
@@ -111,7 +183,7 @@
     "id": 1422041,
     "title": "La bola negra",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/qg1YnjtNbucHzfjo8vK36HCIZwq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
@@ -128,78 +200,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-01T14:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-09-28T10:00:06.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "RMgCxgmVjPo",
-        "name": "Becoming One",
-        "type": "Teaser",
-        "published_at": "2026-09-28T10:00:06.000Z"
-      },
-      {
-        "key": "TaSrwky6lHc",
-        "name": "In Cinemas 1 October",
-        "type": "Teaser",
-        "published_at": "2026-09-23T12:00:01.000Z"
-      },
-      {
-        "key": "CnJ_vwcgECQ",
-        "name": "In Cinemas SEPTEMBER 30",
-        "type": "Teaser",
-        "published_at": "2026-09-21T18:00:14.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-09-28T07:44:06.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "LhWSv2mraBQ",
-        "name": "Based on the shocking true story.",
-        "type": "Teaser",
-        "published_at": "2026-09-28T07:44:06.000Z"
       }
     ]
   },
@@ -362,6 +362,42 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-07T00:30:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1755291,
+    "title": "NAZA",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/uLsG2CW8oHnmXWdtPyruSegI8rF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
+    "overview": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T14:46:09.000Z",
+    "videos": [
+      {
+        "key": "40KW6knYMo4",
+        "name": "Exclusive Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-25T14:46:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1634905,
+    "title": "Vampire Carnival",
+    "release_date": "2026-10-07",
+    "poster": "https://image.tmdb.org/t/p/w500/ihxByv2GHUxz7g82mhVlYp9pCj3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qlI7haUeRut1fJFuB1YITNWkmCy.jpg",
+    "overview": "When a grief-stricken young woman visits a mysterious, traveling carnival in her small town, she becomes seduced into a dangerous world of pleasure and deception.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T11:58:20.000Z",
+    "videos": [
+      {
+        "key": "ZiseQc567b4",
+        "name": "Vampire Carnival | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-09-25T11:58:20.000Z"
       }
     ]
   },
@@ -657,7 +693,7 @@
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/bh4wFW0B7fVtUOT9xfeugJJYKWw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
     "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
     "theatrical": true,
@@ -904,7 +940,7 @@
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-17",
     "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
     "trailer_published": "2026-09-17T18:25:24.000Z",
@@ -940,7 +976,7 @@
     "title": "The Uprising",
     "release_date": "2026-09-10",
     "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
     "trailer_published": "2026-09-17T13:56:23.000Z",
@@ -962,42 +998,6 @@
         "name": "In UK Cinemas Everywhere October 9",
         "type": "Teaser",
         "published_at": "2026-09-17T13:56:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437511,
-    "title": "How to Rob a Bank",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
-    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T13:00:09.000Z",
-    "videos": [
-      {
-        "key": "MVvWKh336m4",
-        "name": "Official UK Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-17T13:00:09.000Z"
-      },
-      {
-        "key": "B9XOzCUvFB8",
-        "name": "Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-17T12:59:58.000Z"
-      },
-      {
-        "key": "hoXld2b0TCs",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T13:02:07.000Z"
-      },
-      {
-        "key": "ORxw68y3lyw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T13:00:02.000Z"
       }
     ]
   },
@@ -1053,7 +1053,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/hDDBRwPOIztAhawTjWWsEA7rDis.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -1557,8 +1557,8 @@
     "id": 843352,
     "title": "Legend of the White Dragon",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e0iMTtSD9DvZ4NbN9dUFfpZQFNk.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
     "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
     "theatrical": true,
     "trailer_published": "2026-09-07T14:24:53.000Z",
@@ -1914,24 +1914,6 @@
     ]
   },
   {
-    "id": 1766997,
-    "title": "Mighty Mary",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/sCYYif6gxbKgfWZei8OtFMnP2nM.jpg",
-    "backdrop": "",
-    "overview": "Mighty Mary chronicles an amazing group of \u201cwe eat nails for breakfast\u201d type of women: the first all-women\u2019s sailing team to contend for the famed America\u2019s Cup, the holy grail for one of sport\u2019s most elite and exclusive racing events.  This team was groundbreaking, beginning with an advertisement in the New York Times.  From there, a group of world class and Olympic sailors as well as Olympic rowers came together, a team which included a deaf sailor, a Native Hawaiian sailor, and the first African American sailor to ever win an America\u2019s Cup race (as a coach of this novice, erstwhile team).  What was dismissed as a publicity stunt turned into something unimaginable. This motley crew (sailing aboard Mighty Mary) stunningly eliminated Stars & Stripes from contention. However, a secret backroom deal the night before the race upended that result. This is a true underdog story about a team which reshaped what could be possible in a sport that had long been inaccessible.",
-    "theatrical": true,
-    "trailer_published": "2026-08-24T16:20:50.000Z",
-    "videos": [
-      {
-        "key": "6avT1CXG00I",
-        "name": "Mighty Mary - Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-24T16:20:50.000Z"
-      }
-    ]
-  },
-  {
     "id": 1365884,
     "title": "Call My Agent! The Movie",
     "release_date": "2026-09-10",
@@ -2138,6 +2120,24 @@
         "name": "Ladies & Ladies",
         "type": "Teaser",
         "published_at": "2026-07-01T06:03:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1585239,
+    "title": "Club Kid",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+    "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T12:07:41.000Z",
+    "videos": [
+      {
+        "key": "guKEdb_iRXw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:07:41.000Z"
       }
     ]
   },
@@ -2649,7 +2649,7 @@
     "id": 1376856,
     "title": "The Paradise",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
     "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
     "theatrical": false,
@@ -3246,28 +3246,10 @@
     ]
   },
   {
-    "id": 1626188,
-    "title": "Novak Djokovic: The Wolf in Winter",
-    "release_date": "2026-08-20",
-    "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
-    "overview": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
-    "theatrical": false,
-    "trailer_published": "2026-07-14T12:59:54.000Z",
-    "videos": [
-      {
-        "key": "UQaKzMuyjlE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T12:59:54.000Z"
-      }
-    ]
-  },
-  {
     "id": 445466,
     "title": "Idiots",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/v65hwf9S6mxFtobq4w6SlLnWgLq.jpg",
     "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
     "theatrical": true,
@@ -3516,6 +3498,24 @@
     ]
   },
   {
+    "id": 1391239,
+    "title": "The Debut",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
+    "theatrical": true,
+    "trailer_published": "2026-06-23T12:59:06.000Z",
+    "videos": [
+      {
+        "key": "clyzHmBx43E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T12:59:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 813418,
     "title": "Hot Spot",
     "release_date": "2026-08-21",
@@ -3716,30 +3716,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1424965,
-    "title": "Ice Skater",
-    "release_date": "2026-02-24",
-    "poster": "https://image.tmdb.org/t/p/w500/m93BKabB7Je8WQACed58BXeHNNR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/24hXgpn6rLTracW3baRgF0Gxo6W.jpg",
-    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
-    "theatrical": false,
-    "trailer_published": "2026-02-24T17:15:04.000Z",
-    "videos": [
-      {
-        "key": "ShXeLbwaZLw",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-12T09:12:02.000Z"
-      },
-      {
-        "key": "nBjUq8xyjx8",
-        "name": "Trapped in the frozen wilderness, her fight for survival begins.",
-        "type": "Teaser",
-        "published_at": "2026-02-24T17:15:04.000Z"
       }
     ]
   },
