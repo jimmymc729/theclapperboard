@@ -1,10 +1,46 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-09-29T16:00:21.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "77FwSrnGtxg",
+        "name": "Same movie. Different truths.",
+        "type": "Teaser",
+        "published_at": "2026-09-29T16:00:21.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sSPreWTXybWDgfNvKoL9E4sahqH.jpg",
     "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "theatrical": true,
     "trailer_published": "2026-09-29T10:00:38.000Z",
@@ -40,7 +76,7 @@
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
     "trailer_published": "2026-09-29T03:00:01.000Z",
@@ -68,42 +104,6 @@
         "name": "In Cinemas 8 October",
         "type": "Teaser",
         "published_at": "2026-09-29T03:00:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-28T19:00:35.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "zwGDoQN3DDM",
-        "name": "FRIDAY. WE DIGG.",
-        "type": "Teaser",
-        "published_at": "2026-09-28T19:00:35.000Z"
       }
     ]
   },
@@ -148,7 +148,7 @@
     "title": "Clayface",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
     "trailer_published": "2026-09-28T17:30:14.000Z",
@@ -184,7 +184,7 @@
     "title": "La bola negra",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
     "trailer_published": "2026-09-28T15:00:00.000Z",
@@ -244,7 +244,7 @@
     "title": "Street Fighter",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
     "trailer_published": "2026-09-28T01:30:13.000Z",
@@ -405,7 +405,7 @@
     "id": 1263337,
     "title": "Heart of the Beast",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "theatrical": true,
@@ -881,7 +881,7 @@
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/wAuGgXjA7GV8NrKfmUKl2AP8vqG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-    "overview": "Xu Fu travels to the Middle East to work as a chef in a Chinese restaurant to pay off family debts, where he meets floor manager Ma Junsheng. Their Dragon Restaurant rises to fame, attracting crowds with authentic\u2011tasting Chinese food. But war breaks out, and local conditions take a drastic turn for the worse. No one can remain unaffected. What lies ahead for them? And how will the Dragon Restaurant hold on amid the war?",
+    "overview": "Seeking a fresh start, chef Xu Fu travels to the Middle East to support his family and repay his debts. Alongside restaurant manager Ma Junsheng, he transforms the struggling Dragon Restaurant into a thriving business. But when war engulfs the city, their hard-won success is shattered and the restaurant becomes a refuge for those caught in the conflict. As danger closes in, Xu Fu must risk everything to protect his newfound community and preserve a small beacon of hope amid the devastation.",
     "theatrical": true,
     "trailer_published": "2026-09-18T15:38:54.000Z",
     "videos": [
@@ -894,7 +894,7 @@
       {
         "key": "IEgL2ycJcao",
         "name": "Trailer [Subtitled]",
-        "type": "Teaser",
+        "type": "Trailer",
         "published_at": "2026-09-15T04:00:17.000Z"
       }
     ]
@@ -976,7 +976,7 @@
     "title": "The Uprising",
     "release_date": "2026-09-10",
     "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
     "trailer_published": "2026-09-17T13:56:23.000Z",
@@ -1334,6 +1334,24 @@
         "name": "Don't Be Shy Official Trailer (Hindi) | Aarushi Bajaj, Ansh Duggal | Prime Video India",
         "type": "Trailer",
         "published_at": "2026-09-12T12:00:17.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1767073,
+    "title": "The Nice Ones",
+    "release_date": "2026-09-29",
+    "poster": "https://image.tmdb.org/t/p/w500/ktaGbNySsx0csWYRZJIGda27DL7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zQmaXGt8MYNRZaV2YVqkFbCoTWq.jpg",
+    "overview": "When Kate joins her boyfriend\u2019s friends at a remote countryside retreat, old wounds resurface as strange lights appear in the sky. As unease grows, members of the group begin to change\u2014becoming unnervingly calm, kind, and \u201cnice.\u201d Dismissed as unstable, Kate struggles to convince the others something is wrong before the force behind it spreads.",
+    "theatrical": false,
+    "trailer_published": "2026-09-11T21:40:46.000Z",
+    "videos": [
+      {
+        "key": "LONOyoDBw-M",
+        "name": "THE NICE ONES Official Trailer - A Haunting Psychological Thriller",
+        "type": "Trailer",
+        "published_at": "2026-09-11T21:40:46.000Z"
       }
     ]
   },
@@ -1773,7 +1791,7 @@
     "id": 1483525,
     "title": "Possible Love",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fA66iCvHkxFbicOExARWCKB1fvE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
@@ -1827,7 +1845,7 @@
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/g9rXb8I143ikhEjHK1BZdZ2tQzt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "theatrical": false,
@@ -2020,7 +2038,7 @@
     "title": "Hi!",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
     "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
     "theatrical": true,
     "trailer_published": "2026-08-20T16:19:22.000Z",
@@ -2079,9 +2097,9 @@
     "id": 1336166,
     "title": "Rolling Loud: The Movie",
     "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/yJsGgMrE2wE1rdtu70LI6rrF3mo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
-    "overview": "A father makes a bad parenting choice by taking his young son to a wild hip-hop festival, leading to chaos as they navigate crowds, security, and family dynamics with eccentric companions.",
+    "overview": "Desperate to reconnect with his 13-year-old son, Hank secretly takes him to Rolling Loud against his wife's wishes. When Zion disappears inside the massive festival, Hank teams with two unlikely allies and plunges into an increasingly insane search\u2014while hiding the truth from his wife and confronting the harder truth that his son is growing up.",
     "theatrical": true,
     "trailer_published": "2026-08-19T23:15:57.000Z",
     "videos": [
@@ -2528,42 +2546,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-06-23T14:01:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1307118,
-    "title": "Soulm8te",
-    "release_date": "2026-08-01",
-    "poster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem.",
-    "theatrical": false,
-    "trailer_published": "2026-08-08T16:00:57.000Z",
-    "videos": [
-      {
-        "key": "DF9I1wLlXbk",
-        "name": "Watch At Home on 8/1",
-        "type": "Trailer",
-        "published_at": "2026-07-08T16:04:18.000Z"
-      },
-      {
-        "key": "texuWgrqOxM",
-        "name": "Watch at Home",
-        "type": "Teaser",
-        "published_at": "2026-08-08T16:00:57.000Z"
-      },
-      {
-        "key": "xql2A213trU",
-        "name": "Watch at Home",
-        "type": "Teaser",
-        "published_at": "2026-08-07T16:00:59.000Z"
-      },
-      {
-        "key": "7Dc-YTooFrk",
-        "name": "Watch at Home",
-        "type": "Teaser",
-        "published_at": "2026-08-06T18:01:24.000Z"
       }
     ]
   },
@@ -3231,7 +3213,7 @@
     "id": 1137844,
     "title": "Mayday",
     "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/sKIO6oO1GRCVt9Ag2iIBAdCjUj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
     "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
     "theatrical": false,
