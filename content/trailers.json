@@ -4,7 +4,7 @@
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-09-30T22:00:40.000Z",
@@ -136,10 +136,10 @@
         "published_at": "2026-09-30T02:00:00.000Z"
       },
       {
-        "key": "ZpMZQwufbCo",
-        "name": "Roles",
+        "key": "gbZMt6vLEy4",
+        "name": "Hey, it\u2019s Verity",
         "type": "Teaser",
-        "published_at": "2026-09-29T10:00:38.000Z"
+        "published_at": "2026-09-29T15:00:19.000Z"
       }
     ]
   },
@@ -372,6 +372,42 @@
     ]
   },
   {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-09-26T14:30:19.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "jL4-HngP9EM",
+        "name": "Unforgetable Friendship",
+        "type": "Teaser",
+        "published_at": "2026-09-26T14:30:19.000Z"
+      }
+    ]
+  },
+  {
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
@@ -438,42 +474,6 @@
     ]
   },
   {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T08:00:19.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "J5GURqqgkJ0",
-        "name": "You\u2019ll fall in love with Odin, too.",
-        "type": "Teaser",
-        "published_at": "2026-09-25T08:00:19.000Z"
-      }
-    ]
-  },
-  {
     "id": 1514026,
     "title": "Buddy",
     "release_date": "2026-08-28",
@@ -506,42 +506,6 @@
         "name": "Buddy The Sing-Along Version October 2",
         "type": "Trailer",
         "published_at": "2026-09-25T01:47:56.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1117898,
-    "title": "The Cat in the Hat",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T19:00:02.000Z",
-    "videos": [
-      {
-        "key": "Vuv0kqGWjno",
-        "name": "Main Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T15:00:03.000Z"
-      },
-      {
-        "key": "HT5JAp5z0-o",
-        "name": "Official Trailer 3",
-        "type": "Trailer",
-        "published_at": "2026-06-09T13:30:12.000Z"
-      },
-      {
-        "key": "jz8pLlPhSeY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-07-01T16:00:29.000Z"
-      },
-      {
-        "key": "bQj5XxidIkA",
-        "name": "The party has arrived!",
-        "type": "Teaser",
-        "published_at": "2026-09-24T19:00:02.000Z"
       }
     ]
   },
@@ -1464,42 +1428,6 @@
     ]
   },
   {
-    "id": 1432474,
-    "title": "Nimrods",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
-    "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year\u2019s Eve.",
-    "theatrical": true,
-    "trailer_published": "2026-09-08T23:34:44.000Z",
-    "videos": [
-      {
-        "key": "DygtUxsgIVI",
-        "name": "ONE WEEK! Grab your digital pre-order now for Nimrods and let the countdown rip.",
-        "type": "Teaser",
-        "published_at": "2026-09-08T23:34:44.000Z"
-      },
-      {
-        "key": "GIy4N8X6k9c",
-        "name": "No more waiting, cuz waiting sucks",
-        "type": "Teaser",
-        "published_at": "2026-08-14T21:06:01.000Z"
-      },
-      {
-        "key": "_ugroXd65ME",
-        "name": "One Night Only - The Analog Dogs are hitting the road early!",
-        "type": "Teaser",
-        "published_at": "2026-07-22T21:49:02.000Z"
-      },
-      {
-        "key": "BdiIFdf-tOY",
-        "name": "Pick a date. Pick a seat. Let the countdown begin!",
-        "type": "Teaser",
-        "published_at": "2026-07-14T15:57:38.000Z"
-      }
-    ]
-  },
-  {
     "id": 1381071,
     "title": "Godzilla Minus Zero",
     "release_date": "2026-11-06",
@@ -1680,6 +1608,24 @@
     ]
   },
   {
+    "id": 1758536,
+    "title": "The Widower: 'Til Death Do Us Part",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+    "overview": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
+    "theatrical": false,
+    "trailer_published": "2026-09-02T17:30:00.000Z",
+    "videos": [
+      {
+        "key": "2Xn881UkR3s",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-02T17:30:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1452168,
     "title": "Behemoth!",
     "release_date": "2026-12-04",
@@ -1724,30 +1670,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-01T16:12:44.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1522380,
-    "title": "Multwoh (Patay na Patay Sa'yo)",
-    "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/7lAHM09AvMnueNmXEND8MajjB7j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z0SLDGlRKiVDrmBa5CWMtEKLwVG.jpg",
-    "overview": "When a college queer dies suddenly in their dorm, they return as a ghost \u2014 not to seek revenge, but to say the one thing they never found the courage to say in life: \"I love you\".",
-    "theatrical": false,
-    "trailer_published": "2026-08-29T10:00:00.000Z",
-    "videos": [
-      {
-        "key": "h7uc364SDyg",
-        "name": "Multwoh (Patay Na Patay Sa 'Yo) (CinePanalo 2026) Official Trailer - Sassa Gurl, Joao Constancia",
-        "type": "Trailer",
-        "published_at": "2026-08-29T10:00:00.000Z"
-      },
-      {
-        "key": "uRc-eeudvS0",
-        "name": "MULTWOH (2026) Official Teaser Trailer - Sassa Gurl & Joao Constancia",
-        "type": "Trailer",
-        "published_at": "2026-06-29T04:33:40.000Z"
       }
     ]
   },
@@ -2052,6 +1974,24 @@
     ]
   },
   {
+    "id": 1229906,
+    "title": "Family",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
+    "overview": "A 10-year-old girl begins to believe her parents are trying to kill her. Convinced a sinister spirit is to blame, she spirals into a haunting fantasy world that mirrors her deepest fears.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T15:51:42.000Z",
+    "videos": [
+      {
+        "key": "iSMs7CnxA5g",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-20T15:51:42.000Z"
+      }
+    ]
+  },
+  {
     "id": 1562642,
     "title": "Ghost Soldier",
     "release_date": "2026-11-11",
@@ -2132,6 +2072,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-19T12:07:41.000Z"
+      }
+    ]
+  },
+  {
+    "id": 192139,
+    "title": "The Brink of War",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T22:00:18.000Z",
+    "videos": [
+      {
+        "key": "a-T0TlMN-RE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T21:15:27.000Z"
+      },
+      {
+        "key": "mOmU9rmjETg",
+        "name": "What Critics Are Saying About The Brink Of War",
+        "type": "Teaser",
+        "published_at": "2026-08-18T22:00:18.000Z"
+      },
+      {
+        "key": "oI47vtf8nhU",
+        "name": "The Brink Of War Is In Theaters Today!",
+        "type": "Teaser",
+        "published_at": "2026-08-14T17:00:08.000Z"
+      },
+      {
+        "key": "1OXSMXfl8D4",
+        "name": "Is Peace A Fantasy?",
+        "type": "Teaser",
+        "published_at": "2026-08-07T15:00:24.000Z"
       }
     ]
   },
@@ -2322,24 +2298,6 @@
     ]
   },
   {
-    "id": 1508168,
-    "title": "Bethlehem Kudumba Unit",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
-    "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-    "theatrical": true,
-    "trailer_published": "2026-08-17T16:36:10.000Z",
-    "videos": [
-      {
-        "key": "_ShTzDBRjFI",
-        "name": "Bethlehem Kudumba Unit Trailer | Girish AD |Nivin Pauly | Mamitha Baiju | Bhavana Studios",
-        "type": "Trailer",
-        "published_at": "2026-08-17T16:36:10.000Z"
-      }
-    ]
-  },
-  {
     "id": 1732625,
     "title": "LEGO Disney Princess: Magical Mayhem",
     "release_date": "2026-08-21",
@@ -2354,24 +2312,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-17T13:00:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1314826,
-    "title": "Yellow Eyes",
-    "release_date": "2026-08-18",
-    "poster": "https://image.tmdb.org/t/p/w500/tdIqb0g8fimv2bXIEZdWu6Zfywt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x9aPgQNnMYp7S0cJ24pJ0ck0sqw.jpg",
-    "overview": "A young couple inherits a house containing a mysterious relic that hosts the spirit of a powerful demon, and the wife of the man it possesses must find an exorcist to save him.",
-    "theatrical": false,
-    "trailer_published": "2026-08-16T10:53:11.000Z",
-    "videos": [
-      {
-        "key": "LaeA-hXwqPY",
-        "name": "Yellow Eyes | Official Trailer | Horror Brains",
-        "type": "Trailer",
-        "published_at": "2026-08-16T10:53:11.000Z"
       }
     ]
   },
@@ -2607,7 +2547,7 @@
     "id": 1376856,
     "title": "The Paradise",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/x2ZmgdzzOthal1warsz80sNaoeu.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
     "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
     "theatrical": false,
@@ -2862,6 +2802,30 @@
     ]
   },
   {
+    "id": 1596249,
+    "title": "Ha-Chan, Shake Your Booty!",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dEu8lwu4q6k3m8xOLxGJzYoxjix.jpg",
+    "overview": "Haru and Luis love competing in Tokyo\u2019s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly.",
+    "theatrical": true,
+    "trailer_published": "2026-07-29T15:03:02.000Z",
+    "videos": [
+      {
+        "key": "Ik4lJmXgR6U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-29T15:03:02.000Z"
+      },
+      {
+        "key": "GIrVOYiO1Uk",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-05-14T18:04:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1260649,
     "title": "Jumanji: Open World",
     "release_date": "2026-12-25",
@@ -2984,24 +2948,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-25T21:30:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1504358,
-    "title": "Don't Say Good Luck",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
-    "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage.",
-    "theatrical": false,
-    "trailer_published": "2026-07-23T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "bvWqHSFkO5s",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T15:00:00.000Z"
       }
     ]
   },
@@ -3678,6 +3624,24 @@
     ]
   },
   {
+    "id": 1572116,
+    "title": "Monster Mia",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/rEIgF9W6OXJiHpM1fXLVVMqQlfF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
+    "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
+    "theatrical": true,
+    "trailer_published": "2026-02-12T09:23:11.000Z",
+    "videos": [
+      {
+        "key": "CbqDABPksnw",
+        "name": "MONSTER MIA | Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-12T09:23:11.000Z"
+      }
+    ]
+  },
+  {
     "id": 1706702,
     "title": "Daniel and the Fiery Furnace",
     "release_date": "2026-09-18",
@@ -3692,6 +3656,24 @@
         "name": "DANIEL Movie Official Teaser | starring Mena Massoud & Elijah Alexander",
         "type": "Trailer",
         "published_at": "2025-12-25T12:55:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437195,
+    "title": "Livestream from Hell",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+    "overview": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
+    "theatrical": false,
+    "trailer_published": "2025-09-30T05:03:05.000Z",
+    "videos": [
+      {
+        "key": "RvkFXSwqoyE",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-09-30T05:03:05.000Z"
       }
     ]
   },
