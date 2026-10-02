@@ -7,7 +7,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
-    "trailer_published": "2026-09-30T22:00:40.000Z",
+    "trailer_published": "2026-10-01T20:00:03.000Z",
     "videos": [
       {
         "key": "job8V254NAE",
@@ -28,10 +28,40 @@
         "published_at": "2026-06-23T16:00:07.000Z"
       },
       {
-        "key": "AbxxqcmU2T4",
-        "name": "\u201cTom Cruise takes a wild swing worth seeing.\u201d\u2013 \u2068USA TODAY",
+        "key": "uv97lf4WeAA",
+        "name": "Just jokin\u2019.",
         "type": "Teaser",
-        "published_at": "2026-09-30T22:00:40.000Z"
+        "published_at": "2026-10-01T20:00:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+    "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-10-01T12:59:47.000Z",
+    "videos": [
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "G4JYnTeSFik",
+        "name": "Snowball",
+        "type": "Teaser",
+        "published_at": "2026-08-02T17:00:30.000Z"
       }
     ]
   },
@@ -176,6 +206,42 @@
         "name": "In Cinemas 8 October",
         "type": "Teaser",
         "published_at": "2026-09-30T06:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 977942,
+    "title": "The Uprising",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-09-29T09:45:17.000Z",
+    "videos": [
+      {
+        "key": "lyhCxZN4Ro8",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T17:02:51.000Z"
+      },
+      {
+        "key": "ZVkrhHebz1Q",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T15:00:03.000Z"
+      },
+      {
+        "key": "VWeSyZFcJRw",
+        "name": "In Cinemas Everywhere October 9",
+        "type": "Teaser",
+        "published_at": "2026-09-29T09:45:17.000Z"
+      },
+      {
+        "key": "j0hAQcqx4_E",
+        "name": "In UK Cinemas Everywhere October 9",
+        "type": "Teaser",
+        "published_at": "2026-09-17T13:56:23.000Z"
       }
     ]
   },
@@ -936,36 +1002,6 @@
     ]
   },
   {
-    "id": 977942,
-    "title": "The Uprising",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T13:56:23.000Z",
-    "videos": [
-      {
-        "key": "lyhCxZN4Ro8",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T17:02:51.000Z"
-      },
-      {
-        "key": "ZVkrhHebz1Q",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T15:00:03.000Z"
-      },
-      {
-        "key": "j0hAQcqx4_E",
-        "name": "In UK Cinemas Everywhere October 9",
-        "type": "Teaser",
-        "published_at": "2026-09-17T13:56:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1685882,
     "title": "Modha Rathri",
     "release_date": "2026-08-21",
@@ -1046,6 +1082,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2025-11-20T13:59:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1763619,
+    "title": "Crazy Rich, Incredibly Broke",
+    "release_date": "2026-10-01",
+    "poster": "https://image.tmdb.org/t/p/w500/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+    "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
+    "theatrical": false,
+    "trailer_published": "2026-09-16T08:30:00.000Z",
+    "videos": [
+      {
+        "key": "oDBUdMDfq30",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-16T08:30:00.000Z"
       }
     ]
   },
@@ -1330,12 +1384,6 @@
     "trailer_published": "2026-09-10T16:49:59.000Z",
     "videos": [
       {
-        "key": "lDsAVq9lo9g",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-28T17:27:23.000Z"
-      },
-      {
         "key": "AvKoSR3O4NQ",
         "name": "Official Trailer",
         "type": "Trailer",
@@ -1352,6 +1400,12 @@
         "name": "Watch at Home September 8",
         "type": "Teaser",
         "published_at": "2026-09-10T16:49:59.000Z"
+      },
+      {
+        "key": "JqHhe74RQ9Y",
+        "name": "Which one are you?",
+        "type": "Teaser",
+        "published_at": "2026-09-05T13:05:22.000Z"
       }
     ]
   },
@@ -1688,24 +1742,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-27T14:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1558568,
-    "title": "Go Team!",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
-    "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse \u2014 then they learn about the layoffs.",
-    "theatrical": false,
-    "trailer_published": "2026-08-27T13:00:00.000Z",
-    "videos": [
-      {
-        "key": "VSN8YM6urHo",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-27T13:00:00.000Z"
       }
     ]
   },
@@ -2547,7 +2583,7 @@
     "id": 1376856,
     "title": "The Paradise",
     "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
     "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
     "theatrical": false,
@@ -2696,30 +2732,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-06-26T13:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
-    "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-08-02T17:00:30.000Z",
-    "videos": [
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "G4JYnTeSFik",
-        "name": "Snowball",
-        "type": "Teaser",
-        "published_at": "2026-08-02T17:00:30.000Z"
       }
     ]
   },
