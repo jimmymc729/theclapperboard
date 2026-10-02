@@ -1,5 +1,77 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-10-02T05:00:26.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "OMH9Khc2x9o",
+        "name": "Believe",
+        "type": "Teaser",
+        "published_at": "2026-10-02T05:00:26.000Z"
+      },
+      {
+        "key": "5RJIucBAqJE",
+        "name": "In Cinemas 1 October",
+        "type": "Teaser",
+        "published_at": "2026-09-30T10:00:11.000Z"
+      },
+      {
+        "key": "mXvRKY3bKoo",
+        "name": "Get Tickets Now",
+        "type": "Teaser",
+        "published_at": "2026-09-30T02:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-10-01T23:30:39.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "w3FxNL7ouPo",
+        "name": "Look around.",
+        "type": "Teaser",
+        "published_at": "2026-10-01T23:30:39.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -36,11 +108,47 @@
     ]
   },
   {
+    "id": 1117898,
+    "title": "The Cat in the Hat",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "theatrical": true,
+    "trailer_published": "2026-10-01T16:00:22.000Z",
+    "videos": [
+      {
+        "key": "tkZpcypT8Z4",
+        "name": "The Cat In The Hat x Hilary Duff \u201cCATastrophe\u201d",
+        "type": "Trailer",
+        "published_at": "2026-10-01T16:00:22.000Z"
+      },
+      {
+        "key": "Vuv0kqGWjno",
+        "name": "Main Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T15:00:03.000Z"
+      },
+      {
+        "key": "HT5JAp5z0-o",
+        "name": "Official Trailer 3",
+        "type": "Trailer",
+        "published_at": "2026-06-09T13:30:12.000Z"
+      },
+      {
+        "key": "jz8pLlPhSeY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-07-01T16:00:29.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
     "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-10-01T12:59:47.000Z",
@@ -138,74 +246,38 @@
     ]
   },
   {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "id": 1388805,
+    "title": "LINKIN PARK: UNSHATTER",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL1HCc4wmcFcSr1zS3kXX3CNUeE.jpg",
+    "overview": "After a seven-year hiatus following the devastating loss of their beloved bandmate Chester Bennington, LINKIN PARK'S remaining members struggled to find their way forward. Their shared history and enduring friendship, combined with the fresh perspective of two new band members Emily Armstrong and Colin Brittain spark a renewed creative energy that leads them on a transformative journey of artistic reinvention. Following the band from intimate 2022 studio sessions through their explosive FROM ZERO album release and concert in S\u00e3o Paulo, this documentary weaves together rare vault footage, electrifying performances from sold-out shows, and candid interviews with band members and fans\u2014capturing the raw, honest story of what it means to start over.",
     "theatrical": true,
-    "trailer_published": "2026-09-30T10:00:11.000Z",
+    "trailer_published": "2026-09-30T18:00:18.000Z",
     "videos": [
       {
-        "key": "xdPMKhjMSFs",
+        "key": "K9Lpxc7bVTM",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
+        "published_at": "2026-08-04T16:00:04.000Z"
       },
       {
-        "key": "5RJIucBAqJE",
-        "name": "In Cinemas 1 October",
+        "key": "sx0pL-IG9ZY",
+        "name": "Now in Theaters",
         "type": "Teaser",
-        "published_at": "2026-09-30T10:00:11.000Z"
+        "published_at": "2026-09-30T18:00:18.000Z"
       },
       {
-        "key": "mXvRKY3bKoo",
-        "name": "Get Tickets Now",
+        "key": "3tsnJNiIEJA",
+        "name": "Coming Soon to Theaters Worldwide",
         "type": "Teaser",
-        "published_at": "2026-09-30T02:00:00.000Z"
+        "published_at": "2026-07-09T16:00:08.000Z"
       },
       {
-        "key": "gbZMt6vLEy4",
-        "name": "Hey, it\u2019s Verity",
+        "key": "UOxk60V0k9A",
+        "name": "Coming Soon to Theaters Worldwide",
         "type": "Teaser",
-        "published_at": "2026-09-29T15:00:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-09-30T06:00:23.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "Tr409M99ZaE",
-        "name": "In Cinemas 8 October",
-        "type": "Teaser",
-        "published_at": "2026-09-30T06:00:23.000Z"
+        "published_at": "2026-06-05T21:04:14.000Z"
       }
     ]
   },
@@ -652,7 +724,7 @@
     "title": "The Deputy",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3WBGquZOd4iNl288BmWzkp0Fbdy.jpg",
     "overview": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
     "theatrical": true,
     "trailer_published": "2026-09-23T23:41:56.000Z",
@@ -758,6 +830,36 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-23T13:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 858035,
+    "title": "Klara and the Sun",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1ZwcLnQMFvoAEbnGOsXJplgic6.jpg",
+    "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T09:30:03.000Z",
+    "videos": [
+      {
+        "key": "wixzainceAE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-22T16:00:09.000Z"
+      },
+      {
+        "key": "I0h3yC8deYs",
+        "name": "One month until the world meets Klara",
+        "type": "Teaser",
+        "published_at": "2026-09-23T09:30:03.000Z"
+      },
+      {
+        "key": "OcQtWamdUMQ",
+        "name": "Meet the future of friendship.",
+        "type": "Teaser",
+        "published_at": "2026-08-22T00:00:18.000Z"
       }
     ]
   },
@@ -970,7 +1072,7 @@
     "title": "Coyote vs. Acme",
     "release_date": "2026-08-17",
     "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "theatrical": true,
     "trailer_published": "2026-09-17T18:25:24.000Z",
@@ -1176,30 +1278,6 @@
     ]
   },
   {
-    "id": 1400837,
-    "title": "Other Mommy",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "theatrical": true,
-    "trailer_published": "2026-09-15T15:00:12.000Z",
-    "videos": [
-      {
-        "key": "-mnTITqqiT0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-15T15:00:12.000Z"
-      },
-      {
-        "key": "bEpTgowZ1dI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T13:00:46.000Z"
-      }
-    ]
-  },
-  {
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
@@ -1359,7 +1437,7 @@
     "id": 1767073,
     "title": "The Nice Ones",
     "release_date": "2026-09-29",
-    "poster": "https://image.tmdb.org/t/p/w500/ktaGbNySsx0csWYRZJIGda27DL7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/akMSRVUZRBZlR9nzbEhRPoQ4xSu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zQmaXGt8MYNRZaV2YVqkFbCoTWq.jpg",
     "overview": "When Kate joins her boyfriend\u2019s friends at a remote countryside retreat, old wounds resurface as strange lights appear in the sky. As unease grows, members of the group begin to change\u2014becoming unnervingly calm, kind, and \u201cnice.\u201d Dismissed as unstable, Kate struggles to convince the others something is wrong before the force behind it spreads.",
     "theatrical": false,
@@ -1522,7 +1600,7 @@
     "title": "The Fix",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
     "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
     "theatrical": true,
     "trailer_published": "2026-09-07T23:29:30.000Z",
@@ -1586,6 +1664,24 @@
         "name": "Happy Power Rangers Day!",
         "type": "Teaser",
         "published_at": "2026-08-28T21:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1712451,
+    "title": "Resident Dead",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
+    "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
+    "theatrical": false,
+    "trailer_published": "2026-09-03T22:19:26.000Z",
+    "videos": [
+      {
+        "key": "M1vupS1Tzfg",
+        "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
+        "type": "Trailer",
+        "published_at": "2026-09-03T22:19:26.000Z"
       }
     ]
   },
@@ -1728,6 +1824,30 @@
     ]
   },
   {
+    "id": 1522380,
+    "title": "Multwoh (Patay na Patay Sa'yo)",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/7lAHM09AvMnueNmXEND8MajjB7j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z0SLDGlRKiVDrmBa5CWMtEKLwVG.jpg",
+    "overview": "When a college queer dies suddenly in their dorm, they return as a ghost \u2014 not to seek revenge, but to say the one thing they never found the courage to say in life: \"I love you\".",
+    "theatrical": false,
+    "trailer_published": "2026-08-29T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "h7uc364SDyg",
+        "name": "Multwoh (Patay Na Patay Sa 'Yo) (CinePanalo 2026) Official Trailer - Sassa Gurl, Joao Constancia",
+        "type": "Trailer",
+        "published_at": "2026-08-29T10:00:00.000Z"
+      },
+      {
+        "key": "uRc-eeudvS0",
+        "name": "MULTWOH (2026) Official Teaser Trailer - Sassa Gurl & Joao Constancia",
+        "type": "Trailer",
+        "published_at": "2026-06-29T04:33:40.000Z"
+      }
+    ]
+  },
+  {
     "id": 1492640,
     "title": "UNABOMBER",
     "release_date": "2026-09-25",
@@ -1749,7 +1869,7 @@
     "id": 1483525,
     "title": "Possible Love",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/fA66iCvHkxFbicOExARWCKB1fvE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
@@ -1886,24 +2006,6 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-08-24T18:00:49.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1365884,
-    "title": "Call My Agent! The Movie",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
-    "overview": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or worse.",
-    "theatrical": false,
-    "trailer_published": "2026-08-24T10:00:00.000Z",
-    "videos": [
-      {
-        "key": "01PX2jZNW5A",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-24T10:00:00.000Z"
       }
     ]
   },
@@ -2112,46 +2214,10 @@
     ]
   },
   {
-    "id": 192139,
-    "title": "The Brink of War",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
-    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T22:00:18.000Z",
-    "videos": [
-      {
-        "key": "a-T0TlMN-RE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T21:15:27.000Z"
-      },
-      {
-        "key": "mOmU9rmjETg",
-        "name": "What Critics Are Saying About The Brink Of War",
-        "type": "Teaser",
-        "published_at": "2026-08-18T22:00:18.000Z"
-      },
-      {
-        "key": "oI47vtf8nhU",
-        "name": "The Brink Of War Is In Theaters Today!",
-        "type": "Teaser",
-        "published_at": "2026-08-14T17:00:08.000Z"
-      },
-      {
-        "key": "1OXSMXfl8D4",
-        "name": "Is Peace A Fantasy?",
-        "type": "Teaser",
-        "published_at": "2026-08-07T15:00:24.000Z"
-      }
-    ]
-  },
-  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/mbUCNRuNMdPc1HBhS1E30cknCt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
     "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
     "theatrical": true,
@@ -2634,24 +2700,6 @@
     ]
   },
   {
-    "id": 656908,
-    "title": "Ramayana",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "theatrical": true,
-    "trailer_published": "2026-08-05T16:00:16.000Z",
-    "videos": [
-      {
-        "key": "74nF-FWAS6M",
-        "name": "Official Trailer (English)",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1506560,
     "title": "Clash of the Thundermans",
     "release_date": "2026-09-03",
@@ -2810,30 +2858,6 @@
         "name": "Official Teaser [Subtitled]",
         "type": "Teaser",
         "published_at": "2026-05-26T12:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1596249,
-    "title": "Ha-Chan, Shake Your Booty!",
-    "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dEu8lwu4q6k3m8xOLxGJzYoxjix.jpg",
-    "overview": "Haru and Luis love competing in Tokyo\u2019s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly.",
-    "theatrical": true,
-    "trailer_published": "2026-07-29T15:03:02.000Z",
-    "videos": [
-      {
-        "key": "Ik4lJmXgR6U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-29T15:03:02.000Z"
-      },
-      {
-        "key": "GIrVOYiO1Uk",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-14T18:04:02.000Z"
       }
     ]
   },
