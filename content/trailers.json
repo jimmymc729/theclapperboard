@@ -1,5 +1,149 @@
 [
   {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-03T03:00:03.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "IBVetWBLMUA",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-10-03T03:00:03.000Z"
+      },
+      {
+        "key": "E7OzF0wWkWE",
+        "name": "Bruh.",
+        "type": "Teaser",
+        "published_at": "2026-09-28T05:00:17.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-10-03T01:00:36.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "_2INEyZw3W8",
+        "name": "The movie you can't miss.",
+        "type": "Teaser",
+        "published_at": "2026-10-03T01:00:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-10-02T19:39:57.000Z",
+    "videos": [
+      {
+        "key": "Dw-5ZGapGTQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-10T16:00:23.000Z"
+      },
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      },
+      {
+        "key": "G0mRF1phc4E",
+        "name": "experience the most incredible survival thriller of the year.",
+        "type": "Teaser",
+        "published_at": "2026-10-02T19:39:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400837,
+    "title": "Other Mommy",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "theatrical": true,
+    "trailer_published": "2026-10-02T19:00:37.000Z",
+    "videos": [
+      {
+        "key": "-mnTITqqiT0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-15T15:00:12.000Z"
+      },
+      {
+        "key": "bEpTgowZ1dI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T13:00:46.000Z"
+      },
+      {
+        "key": "vqBt5lRI6eI",
+        "name": "Are you tricking me?",
+        "type": "Teaser",
+        "published_at": "2026-10-02T19:00:37.000Z"
+      },
+      {
+        "key": "5uQJf7CCIuY",
+        "name": "Inside",
+        "type": "Teaser",
+        "published_at": "2026-10-02T17:04:14.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -32,6 +176,36 @@
         "name": "You Decide",
         "type": "Teaser",
         "published_at": "2026-10-02T18:21:42.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1503762,
+    "title": "Sense and Sensibility",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "theatrical": true,
+    "trailer_published": "2026-10-02T17:04:43.000Z",
+    "videos": [
+      {
+        "key": "OFLyW0lxFU0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-30T15:00:04.000Z"
+      },
+      {
+        "key": "mcrwcvad84U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-25T12:26:01.000Z"
+      },
+      {
+        "key": "kDSPvwnbwDk",
+        "name": "Invitation",
+        "type": "Teaser",
+        "published_at": "2026-10-02T17:04:43.000Z"
       }
     ]
   },
@@ -174,42 +348,6 @@
     ]
   },
   {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-09-30T19:19:40.000Z",
-    "videos": [
-      {
-        "key": "Dw-5ZGapGTQ",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-10T16:00:23.000Z"
-      },
-      {
-        "key": "rN9F6-tbySY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:24.000Z"
-      },
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      },
-      {
-        "key": "rwZnR1RARYQ",
-        "name": "see it. hear it. fear it.",
-        "type": "Teaser",
-        "published_at": "2026-09-30T19:19:40.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -246,42 +384,6 @@
     ]
   },
   {
-    "id": 1388805,
-    "title": "LINKIN PARK: UNSHATTER",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uL1HCc4wmcFcSr1zS3kXX3CNUeE.jpg",
-    "overview": "After a seven-year hiatus following the devastating loss of their beloved bandmate Chester Bennington, LINKIN PARK'S remaining members struggled to find their way forward. Their shared history and enduring friendship, combined with the fresh perspective of two new band members Emily Armstrong and Colin Brittain spark a renewed creative energy that leads them on a transformative journey of artistic reinvention. Following the band from intimate 2022 studio sessions through their explosive FROM ZERO album release and concert in S\u00e3o Paulo, this documentary weaves together rare vault footage, electrifying performances from sold-out shows, and candid interviews with band members and fans\u2014capturing the raw, honest story of what it means to start over.",
-    "theatrical": true,
-    "trailer_published": "2026-09-30T18:00:18.000Z",
-    "videos": [
-      {
-        "key": "K9Lpxc7bVTM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-04T16:00:04.000Z"
-      },
-      {
-        "key": "sx0pL-IG9ZY",
-        "name": "Now in Theaters",
-        "type": "Teaser",
-        "published_at": "2026-09-30T18:00:18.000Z"
-      },
-      {
-        "key": "3tsnJNiIEJA",
-        "name": "Coming Soon to Theaters Worldwide",
-        "type": "Teaser",
-        "published_at": "2026-07-09T16:00:08.000Z"
-      },
-      {
-        "key": "UOxk60V0k9A",
-        "name": "Coming Soon to Theaters Worldwide",
-        "type": "Teaser",
-        "published_at": "2026-06-05T21:04:14.000Z"
-      }
-    ]
-  },
-  {
     "id": 977942,
     "title": "The Uprising",
     "release_date": "2026-09-10",
@@ -305,7 +407,7 @@
       },
       {
         "key": "VWeSyZFcJRw",
-        "name": "In Cinemas Everywhere October 9",
+        "name": "In UK Cinemas Everywhere October 9",
         "type": "Teaser",
         "published_at": "2026-09-29T09:45:17.000Z"
       },
@@ -414,42 +516,6 @@
     ]
   },
   {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-09-28T05:00:17.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "E7OzF0wWkWE",
-        "name": "Bruh.",
-        "type": "Teaser",
-        "published_at": "2026-09-28T05:00:17.000Z"
-      },
-      {
-        "key": "XJ13qqZ09F0",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-09-25T03:00:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1377237,
     "title": "Runner",
     "release_date": "2026-09-07",
@@ -510,42 +576,6 @@
     ]
   },
   {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-09-26T14:30:19.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "jL4-HngP9EM",
-        "name": "Unforgetable Friendship",
-        "type": "Teaser",
-        "published_at": "2026-09-26T14:30:19.000Z"
-      }
-    ]
-  },
-  {
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
@@ -590,6 +620,24 @@
         "name": "Exclusive Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-25T14:46:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1425472,
+    "title": "The Rescue",
+    "release_date": "2027-01-29",
+    "poster": "https://image.tmdb.org/t/p/w500/nb7NUk2fOqeA8FLlRqG2LqKezPW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/32HVxtRlSSxwjP5yZuxCDwcqhBW.jpg",
+    "overview": "A former rodeo cowboy takes matters into his own hands when his daughter is kidnapped for ransom. With her devoted dog by his side, he sets out to bring her home and will stop at nothing to find her.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T13:00:03.000Z",
+    "videos": [
+      {
+        "key": "nzNYomSd5Ls",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-25T13:00:03.000Z"
       }
     ]
   },
@@ -816,54 +864,6 @@
     ]
   },
   {
-    "id": 940009,
-    "title": "Ray Gunn",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
-    "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T13:00:02.000Z",
-    "videos": [
-      {
-        "key": "VL-xjzQFWsY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:02.000Z"
-      }
-    ]
-  },
-  {
-    "id": 858035,
-    "title": "Klara and the Sun",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1ZwcLnQMFvoAEbnGOsXJplgic6.jpg",
-    "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T09:30:03.000Z",
-    "videos": [
-      {
-        "key": "wixzainceAE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-22T16:00:09.000Z"
-      },
-      {
-        "key": "I0h3yC8deYs",
-        "name": "One month until the world meets Klara",
-        "type": "Teaser",
-        "published_at": "2026-09-23T09:30:03.000Z"
-      },
-      {
-        "key": "OcQtWamdUMQ",
-        "name": "Meet the future of friendship.",
-        "type": "Teaser",
-        "published_at": "2026-08-22T00:00:18.000Z"
-      }
-    ]
-  },
-  {
     "id": 1779385,
     "title": "Pixar Artist Short: One Shot Productions",
     "release_date": "2026-09-24",
@@ -914,36 +914,6 @@
         "name": "Meow Playing in Theaters - Get Tickets Meow",
         "type": "Teaser",
         "published_at": "2026-08-17T17:02:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1457866,
-    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
-    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T12:00:00.000Z",
-    "videos": [
-      {
-        "key": "RjEZaUBbUvU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-21T12:00:00.000Z"
-      },
-      {
-        "key": "hbU1zLAwj3w",
-        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-        "type": "Teaser",
-        "published_at": "2026-08-26T20:55:34.000Z"
-      },
-      {
-        "key": "ik0drfECnPo",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-09T01:43:08.000Z"
       }
     ]
   },
@@ -1122,36 +1092,6 @@
     ]
   },
   {
-    "id": 1530121,
-    "title": "The Girl in the River",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
-    "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
-    "theatrical": true,
-    "trailer_published": "2026-09-16T16:00:37.000Z",
-    "videos": [
-      {
-        "key": "WKPSSLbnh-E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T17:03:14.000Z"
-      },
-      {
-        "key": "inTrG9hjHCk",
-        "name": "Who can you really trust?",
-        "type": "Teaser",
-        "published_at": "2026-09-16T16:00:37.000Z"
-      },
-      {
-        "key": "U4FWuLoFCQ4",
-        "name": "Every detail matters.",
-        "type": "Teaser",
-        "published_at": "2026-09-13T19:00:27.000Z"
-      }
-    ]
-  },
-  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
@@ -1274,30 +1214,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-22T16:00:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400837,
-    "title": "Other Mommy",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "theatrical": true,
-    "trailer_published": "2026-09-15T15:00:12.000Z",
-    "videos": [
-      {
-        "key": "-mnTITqqiT0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-15T15:00:12.000Z"
-      },
-      {
-        "key": "bEpTgowZ1dI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T13:00:46.000Z"
       }
     ]
   },
@@ -1440,24 +1356,6 @@
     ]
   },
   {
-    "id": 1529372,
-    "title": "Don't Be Shy!",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/lBeDq7KmZaQNnnIXgExCAmfLMqT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xnGBwwD9QjeQeRKzDEVp0cNAEFe.jpg",
-    "overview": "Quintessential Mean Girl, Shyamili \u2018Shy\u2019 Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected\u2026 Mayank\u2019s new girlfriend - Tara.",
-    "theatrical": false,
-    "trailer_published": "2026-09-12T12:00:17.000Z",
-    "videos": [
-      {
-        "key": "SWGSmIdhn2I",
-        "name": "Don't Be Shy Official Trailer (Hindi) | Aarushi Bajaj, Ansh Duggal | Prime Video India",
-        "type": "Trailer",
-        "published_at": "2026-09-12T12:00:17.000Z"
-      }
-    ]
-  },
-  {
     "id": 1767073,
     "title": "The Nice Ones",
     "release_date": "2026-09-29",
@@ -1472,6 +1370,24 @@
         "name": "THE NICE ONES Official Trailer - A Haunting Psychological Thriller",
         "type": "Trailer",
         "published_at": "2026-09-11T21:40:46.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1610703,
+    "title": "Infirmary",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+    "overview": "A guard vanished on his first night at an old psych hospital in 2023. His bodycam footage shows unexplainable incidents that continue to baffle investigators.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T17:00:03.000Z",
+    "videos": [
+      {
+        "key": "gN1LMAwyvGY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T17:00:03.000Z"
       }
     ]
   },
@@ -1512,6 +1428,24 @@
     ]
   },
   {
+    "id": 1596303,
+    "title": "The Last First: Winter K2",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/97QpXbNNXj2eQ1MdmhFdGlU0jnW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+    "overview": "A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T12:59:52.000Z",
+    "videos": [
+      {
+        "key": "zgGpyr5MFK8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T12:59:52.000Z"
+      }
+    ]
+  },
+  {
     "id": 1291595,
     "title": "Insidious: Out of the Further",
     "release_date": "2026-08-21",
@@ -1544,6 +1478,24 @@
         "name": "Analog Horror",
         "type": "Teaser",
         "published_at": "2026-09-04T09:00:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1269325,
+    "title": "Drishyam: The Conclusion",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+    "theatrical": true,
+    "trailer_published": "2026-09-09T07:43:50.000Z",
+    "videos": [
+      {
+        "key": "MFQFxsDWbA8",
+        "name": "Drishyam: The Conclusion - Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
+        "type": "Trailer",
+        "published_at": "2026-09-09T07:43:50.000Z"
       }
     ]
   },
@@ -1688,6 +1640,24 @@
         "name": "Happy Power Rangers Day!",
         "type": "Teaser",
         "published_at": "2026-08-28T21:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1752355,
+    "title": "Schumacher '94 - The Birth of a Legend",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+    "overview": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.",
+    "theatrical": false,
+    "trailer_published": "2026-09-04T10:30:00.000Z",
+    "videos": [
+      {
+        "key": "7fDrlNje1iU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-04T10:30:00.000Z"
       }
     ]
   },
@@ -1866,6 +1836,24 @@
     ]
   },
   {
+    "id": 1736095,
+    "title": "Days of Thunder 2",
+    "release_date": "2028-06-02",
+    "poster": "https://image.tmdb.org/t/p/w500/xVT7gq3tIhZXu4hAmTXLVRU4B01.jpg",
+    "backdrop": "",
+    "overview": "The sequel to the 1990 film. Plot TBA.",
+    "theatrical": true,
+    "trailer_published": "2026-08-29T17:18:15.000Z",
+    "videos": [
+      {
+        "key": "A8c3JUSs788",
+        "name": "First Teaser",
+        "type": "Teaser",
+        "published_at": "2026-08-29T17:18:15.000Z"
+      }
+    ]
+  },
+  {
     "id": 1522380,
     "title": "Multwoh (Patay na Patay Sa'yo)",
     "release_date": "2026-09-23",
@@ -1912,7 +1900,7 @@
     "title": "Possible Love",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hiBSDi33bmwGlpEAW4Fi6PP9poB.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
     "trailer_published": "2026-08-26T23:00:01.000Z",
@@ -2496,24 +2484,6 @@
     ]
   },
   {
-    "id": 1756943,
-    "title": "Sex Drive",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x1FztHH0DHLVxBZxOS6jsc9kE4f.jpg",
-    "overview": "Sheltered Sasha joins her uninhibited best friend Kelly on a getaway, but rescuing an amnesiac man turns their sexy escape into a deadly game of truth and deception.",
-    "theatrical": false,
-    "trailer_published": "2026-08-14T12:07:09.000Z",
-    "videos": [
-      {
-        "key": "Ng8K47rRbtY",
-        "name": "S3X DRIVE | WORLD PREMIERE THIS AUGUST 28 ONLY ON VMX",
-        "type": "Trailer",
-        "published_at": "2026-08-14T12:07:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1579941,
     "title": "The Musical",
     "release_date": "2026-09-18",
@@ -2718,6 +2688,24 @@
     ]
   },
   {
+    "id": 656908,
+    "title": "Ramayana",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "theatrical": true,
+    "trailer_published": "2026-08-05T16:00:16.000Z",
+    "videos": [
+      {
+        "key": "74nF-FWAS6M",
+        "name": "Official Trailer (English)",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:00:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1506560,
     "title": "Clash of the Thundermans",
     "release_date": "2026-09-03",
@@ -2798,36 +2786,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-06-26T13:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1379486,
-    "title": "Victorian Psycho",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg",
-    "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be\u2014but the truth may be far more dangerous than they imagine.",
-    "theatrical": true,
-    "trailer_published": "2026-07-30T14:33:38.000Z",
-    "videos": [
-      {
-        "key": "sDiFol_2j2I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:33:38.000Z"
-      },
-      {
-        "key": "eLtzPZvvJRs",
-        "name": "Teaser 4K",
-        "type": "Teaser",
-        "published_at": "2026-05-21T20:20:54.000Z"
-      },
-      {
-        "key": "nIRsEH9OAUk",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-21T12:01:22.000Z"
       }
     ]
   },
@@ -2918,6 +2876,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-28T13:59:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 621304,
+    "title": "Children of Blood and Bone",
+    "release_date": "2027-01-15",
+    "poster": "https://image.tmdb.org/t/p/w500/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iJHHwaFZumvMLx96apZPNhhIb1A.jpg",
+    "overview": "In the world of Or\u00efsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
+    "theatrical": true,
+    "trailer_published": "2026-07-28T13:00:12.000Z",
+    "videos": [
+      {
+        "key": "HnWvg90lQt8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-28T13:00:12.000Z"
       }
     ]
   },
@@ -3047,7 +3023,7 @@
     "videos": [
       {
         "key": "YpGhCA2X3gU",
-        "name": "Official Trailer",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-07-18T05:41:06.000Z"
       }
@@ -3252,6 +3228,24 @@
     ]
   },
   {
+    "id": 1482938,
+    "title": "Union County",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/u1QIAmdHspNtlTFSV3BuTms7Ncw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t6zKpTDxHxDqFNajj2duWqg6y78.jpg",
+    "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio.",
+    "theatrical": true,
+    "trailer_published": "2026-07-01T17:01:52.000Z",
+    "videos": [
+      {
+        "key": "uA6Fnr2VXkw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-01T17:01:52.000Z"
+      }
+    ]
+  },
+  {
     "id": 1718699,
     "title": "Not Alone",
     "release_date": "2027-04-16",
@@ -3266,30 +3260,6 @@
         "name": "Official Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-06-30T15:01:59.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1300926,
-    "title": "The Angry Birds Movie 3",
-    "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet: surviving fatherhood\u2026 while saving the world.",
-    "theatrical": true,
-    "trailer_published": "2026-06-29T13:00:01.000Z",
-    "videos": [
-      {
-        "key": "a9DB_aUMzME",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T13:00:01.000Z"
-      },
-      {
-        "key": "8_nX4qQU1Wc",
-        "name": "NOW IN PRODUCTION!",
-        "type": "Teaser",
-        "published_at": "2024-06-06T14:30:02.000Z"
       }
     ]
   },
@@ -3380,24 +3350,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-25T13:55:02.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1503762,
-    "title": "Sense and Sensibility",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
-    "theatrical": true,
-    "trailer_published": "2026-06-25T12:26:01.000Z",
-    "videos": [
-      {
-        "key": "mcrwcvad84U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-25T12:26:01.000Z"
       }
     ]
   },
