@@ -1,5 +1,41 @@
 [
   {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-10-04T02:00:20.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "Sy6FC8popMo",
+        "name": "Get Tickets Now",
+        "type": "Teaser",
+        "published_at": "2026-10-04T02:00:20.000Z"
+      },
+      {
+        "key": "rMGS0ySVJf8",
+        "name": "You Don't Deserve It",
+        "type": "Teaser",
+        "published_at": "2026-10-03T10:00:39.000Z"
+      },
+      {
+        "key": "tmZNKa2R4ZQ",
+        "name": "The story is out. The truth is yours to uncover.",
+        "type": "Teaser",
+        "published_at": "2026-10-02T09:38:47.000Z"
+      }
+    ]
+  },
+  {
     "id": 1599191,
     "title": "Renegade Immortal: Battle of the Immortal Slayer",
     "release_date": "2026-10-01",
@@ -93,8 +129,8 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
     "trailer_published": "2026-10-03T13:00:47.000Z",
@@ -158,42 +194,6 @@
         "name": "Emotions",
         "type": "Teaser",
         "published_at": "2026-10-03T13:00:31.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-10-03T10:00:39.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "rMGS0ySVJf8",
-        "name": "You Don't Deserve It",
-        "type": "Teaser",
-        "published_at": "2026-10-03T10:00:39.000Z"
-      },
-      {
-        "key": "tmZNKa2R4ZQ",
-        "name": "The story is out. The truth is yours to uncover.",
-        "type": "Teaser",
-        "published_at": "2026-10-02T09:38:47.000Z"
-      },
-      {
-        "key": "OMH9Khc2x9o",
-        "name": "Believe",
-        "type": "Teaser",
-        "published_at": "2026-10-02T05:00:26.000Z"
       }
     ]
   },
@@ -336,6 +336,42 @@
     ]
   },
   {
+    "id": 977942,
+    "title": "The Uprising",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-10-01T22:40:06.000Z",
+    "videos": [
+      {
+        "key": "lyhCxZN4Ro8",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T17:02:51.000Z"
+      },
+      {
+        "key": "ZVkrhHebz1Q",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-16T15:00:03.000Z"
+      },
+      {
+        "key": "_-WVQJ6-_XM",
+        "name": "Watch At Home Now",
+        "type": "Teaser",
+        "published_at": "2026-10-01T22:40:06.000Z"
+      },
+      {
+        "key": "VWeSyZFcJRw",
+        "name": "In UK Cinemas Everywhere October 9",
+        "type": "Teaser",
+        "published_at": "2026-09-29T09:45:17.000Z"
+      }
+    ]
+  },
+  {
     "id": 1117898,
     "title": "The Cat in the Hat",
     "release_date": "2026-11-06",
@@ -434,42 +470,6 @@
         "name": "It's right in front of your eyes.",
         "type": "Teaser",
         "published_at": "2026-09-29T16:31:25.000Z"
-      }
-    ]
-  },
-  {
-    "id": 977942,
-    "title": "The Uprising",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-09-29T09:45:17.000Z",
-    "videos": [
-      {
-        "key": "lyhCxZN4Ro8",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T17:02:51.000Z"
-      },
-      {
-        "key": "ZVkrhHebz1Q",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T15:00:03.000Z"
-      },
-      {
-        "key": "VWeSyZFcJRw",
-        "name": "In UK Cinemas Everywhere October 9",
-        "type": "Teaser",
-        "published_at": "2026-09-29T09:45:17.000Z"
-      },
-      {
-        "key": "j0hAQcqx4_E",
-        "name": "In UK Cinemas Everywhere October 9",
-        "type": "Teaser",
-        "published_at": "2026-09-17T13:56:23.000Z"
       }
     ]
   },
@@ -825,7 +825,7 @@
     "id": 1244523,
     "title": "Beware Boi\u00fana",
     "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
     "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
     "theatrical": true,
@@ -884,7 +884,7 @@
   {
     "id": 1779385,
     "title": "Pixar Artist Short: One Shot Productions",
-    "release_date": "2026-09-24",
+    "release_date": "2026-09-22",
     "poster": "https://image.tmdb.org/t/p/w500/8Fm3UoYldZTVfVPm1rwJ4vKcsUM.jpg",
     "backdrop": "",
     "overview": "One Shot Productions is an anthology of Pixar Artist Short Films that dares to ask the question, \"Do you REALLY need more than a single shot for your story?\"",
@@ -903,7 +903,7 @@
     "id": 675871,
     "title": "Super Troopers 3",
     "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/ecTxAyfx4fdTMy2N288oZMMn3Ey.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
     "overview": "When Farva\u2019s wildly over-the-top Indian engagement to Thorny\u2019s sister spirals into chaos, the Super Troopers must navigate Thorny\u2019s schemes to break up the relationship, while trying to crack a pernicious new drug ring  \u2014 all to save the day and maybe the wedding itself.",
     "theatrical": true,
@@ -1092,6 +1092,30 @@
     ]
   },
   {
+    "id": 1320039,
+    "title": "Stranglehold",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dBziuJUx0tteX1eSzKj05twjDJi.jpg",
+    "overview": "Bailey is an exotic dancer with big dreams. She and her Army vet husband Tim are fed up with their lives of barely getting by in small-town Arkansas, so they decide to rob the strip club that employs her.",
+    "theatrical": false,
+    "trailer_published": "2026-09-17T17:45:04.000Z",
+    "videos": [
+      {
+        "key": "5YPh1loDZNc",
+        "name": "Official Redband Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-17T17:45:04.000Z"
+      },
+      {
+        "key": "oPJSYlg8Ibc",
+        "name": "Stranglehold | Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-17T17:44:58.000Z"
+      }
+    ]
+  },
+  {
     "id": 1685882,
     "title": "Modha Rathri",
     "release_date": "2026-08-21",
@@ -1106,6 +1130,36 @@
         "name": "Modha Rathri | Official Trailer | Anishma Anilkumar, Rishikanth | Netflix India",
         "type": "Trailer",
         "published_at": "2026-09-17T08:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1530121,
+    "title": "The Girl in the River",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
+    "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T16:00:37.000Z",
+    "videos": [
+      {
+        "key": "WKPSSLbnh-E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T17:03:14.000Z"
+      },
+      {
+        "key": "inTrG9hjHCk",
+        "name": "Who can you really trust?",
+        "type": "Teaser",
+        "published_at": "2026-09-16T16:00:37.000Z"
+      },
+      {
+        "key": "U4FWuLoFCQ4",
+        "name": "Every detail matters.",
+        "type": "Teaser",
+        "published_at": "2026-09-13T19:00:27.000Z"
       }
     ]
   },
@@ -1157,24 +1211,6 @@
     "videos": [
       {
         "key": "oDBUdMDfq30",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-16T08:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1441228,
-    "title": "Irumudi",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-    "overview": "An alcoholic with a violent past\u2014living peacefully with his daughter beside a waterfall\u2014decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-    "theatrical": true,
-    "trailer_published": "2026-09-16T08:30:00.000Z",
-    "videos": [
-      {
-        "key": "lqlYx4MdsAY",
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-16T08:30:00.000Z"
@@ -1503,7 +1539,7 @@
     "id": 1269325,
     "title": "Drishyam: The Conclusion",
     "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nq73eRdEooripf3k0XHLtX14zyC.jpg",
     "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
     "theatrical": true,
@@ -2119,7 +2155,7 @@
   },
   {
     "id": 1314279,
-    "title": "Hi!",
+    "title": "Hi :)",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
@@ -2168,6 +2204,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 961214,
+    "title": "Reawakened Man",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/5SHFK1EoJeYy9jPHWX32LDsMNAG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kiDd05NykJBIoEvJPSG5SOd7qc6.jpg",
+    "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
+    "theatrical": false,
+    "trailer_published": "2026-08-20T01:00:16.000Z",
+    "videos": [
+      {
+        "key": "xYCXTTxsBpA",
+        "name": "Reawakened Man | Official Teaser Trailer | INTL",
+        "type": "Teaser",
+        "published_at": "2026-08-20T01:00:16.000Z"
       }
     ]
   },
@@ -2478,6 +2532,24 @@
     ]
   },
   {
+    "id": 1756943,
+    "title": "Sex Drive",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x1FztHH0DHLVxBZxOS6jsc9kE4f.jpg",
+    "overview": "Sheltered Sasha joins her uninhibited best friend Kelly on a getaway, but rescuing an amnesiac man turns their sexy escape into a deadly game of truth and deception.",
+    "theatrical": false,
+    "trailer_published": "2026-08-14T12:07:09.000Z",
+    "videos": [
+      {
+        "key": "Ng8K47rRbtY",
+        "name": "S3X DRIVE | WORLD PREMIERE THIS AUGUST 28 ONLY ON VMX",
+        "type": "Trailer",
+        "published_at": "2026-08-14T12:07:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1579941,
     "title": "The Musical",
     "release_date": "2026-09-18",
@@ -2658,34 +2730,10 @@
     ]
   },
   {
-    "id": 1444466,
-    "title": "Awarapan 2",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dLw4YK72fW4dF82nnLFDbeXotSX.jpg",
-    "overview": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T05:48:19.000Z",
-    "videos": [
-      {
-        "key": "1ya87ENCRj0",
-        "name": "Awarapan 2 : Trailer: Shivam\u2019s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug",
-        "type": "Trailer",
-        "published_at": "2026-08-06T05:48:19.000Z"
-      },
-      {
-        "key": "IQ7HkZ-Gun8",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-29T05:34:34.000Z"
-      }
-    ]
-  },
-  {
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -2976,6 +3024,24 @@
     ]
   },
   {
+    "id": 1504358,
+    "title": "Don't Say Good Luck",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+    "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage.",
+    "theatrical": false,
+    "trailer_published": "2026-07-23T15:00:00.000Z",
+    "videos": [
+      {
+        "key": "bvWqHSFkO5s",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T15:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1493400,
     "title": "Camp Rock 3",
     "release_date": "2026-08-13",
@@ -3204,28 +3270,10 @@
     ]
   },
   {
-    "id": 1489543,
-    "title": "G.D.N",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/aAbvbKbNU6YyYDZ5ntSQcOygliw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
-    "overview": "G.D. Naidu overcomes challenges and defies a repressive colonial regime to become one of India's greatest innovators.",
-    "theatrical": true,
-    "trailer_published": "2026-07-04T14:43:41.000Z",
-    "videos": [
-      {
-        "key": "DC11NRrn9Vc",
-        "name": "Official Trailer [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-07-04T14:43:41.000Z"
-      }
-    ]
-  },
-  {
     "id": 1482938,
     "title": "Union County",
     "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/u1QIAmdHspNtlTFSV3BuTms7Ncw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1HW5lVwsuLo6CHW3i9Cm240jLL2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/t6zKpTDxHxDqFNajj2duWqg6y78.jpg",
     "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio.",
     "theatrical": true,
@@ -3366,24 +3414,6 @@
     ]
   },
   {
-    "id": 1391239,
-    "title": "The Debut",
-    "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
-    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
-    "theatrical": true,
-    "trailer_published": "2026-06-23T12:59:06.000Z",
-    "videos": [
-      {
-        "key": "clyzHmBx43E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T12:59:06.000Z"
-      }
-    ]
-  },
-  {
     "id": 813418,
     "title": "Hot Spot",
     "release_date": "2026-08-21",
@@ -3407,7 +3437,7 @@
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
-    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "overview": "An awkward teen and her Type-A mother learn her peculiarities might be magical powers, transforming their lives and revealing a hidden magical realm.",
     "theatrical": true,
     "trailer_published": "2026-06-16T16:01:06.000Z",
     "videos": [
@@ -3584,24 +3614,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1572116,
-    "title": "Monster Mia",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/rEIgF9W6OXJiHpM1fXLVVMqQlfF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
-    "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
-    "theatrical": true,
-    "trailer_published": "2026-02-12T09:23:11.000Z",
-    "videos": [
-      {
-        "key": "CbqDABPksnw",
-        "name": "MONSTER MIA | Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-12T09:23:11.000Z"
       }
     ]
   },
