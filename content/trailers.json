@@ -1,10 +1,46 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-10-04T18:00:28.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "g63xPiXBm6Y",
+        "name": "All \u2018bout perception.",
+        "type": "Teaser",
+        "published_at": "2026-10-04T18:00:28.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
     "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "theatrical": true,
     "trailer_published": "2026-10-04T02:00:20.000Z",
@@ -32,24 +68,6 @@
         "name": "The story is out. The truth is yours to uncover.",
         "type": "Teaser",
         "published_at": "2026-10-02T09:38:47.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1599191,
-    "title": "Renegade Immortal: Battle of the Immortal Slayer",
-    "release_date": "2026-10-01",
-    "poster": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
-    "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
-    "theatrical": false,
-    "trailer_published": "2026-10-03T21:02:09.000Z",
-    "videos": [
-      {
-        "key": "pr39G29-tOM",
-        "name": "Renegade Immortal: Battle of the Immortal Slayer | Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-03T21:02:09.000Z"
       }
     ]
   },
@@ -86,42 +104,6 @@
         "name": "what are you going to do?",
         "type": "Teaser",
         "published_at": "2026-10-03T19:00:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-10-03T16:00:23.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "tQUj6ytM3bY",
-        "name": "You decide which.",
-        "type": "Teaser",
-        "published_at": "2026-10-03T16:00:23.000Z"
       }
     ]
   },
@@ -332,6 +314,36 @@
         "name": "Hadoken! From the game to the big screen, get tickets to see  Street Fighter",
         "type": "Teaser",
         "published_at": "2026-09-29T01:00:07.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-02T12:30:03.000Z",
+    "videos": [
+      {
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
+      },
+      {
+        "key": "LQUtJYAgpFI",
+        "name": "In cinemas Oct 30",
+        "type": "Teaser",
+        "published_at": "2026-10-02T12:30:03.000Z"
       }
     ]
   },
@@ -674,42 +686,6 @@
         "name": "Vampire Carnival | Official Trailer | Horror Brains",
         "type": "Trailer",
         "published_at": "2026-09-25T11:58:20.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1514026,
-    "title": "Buddy",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T01:47:56.000Z",
-    "videos": [
-      {
-        "key": "Pc9MbCNYn3k",
-        "name": "Official Teaser 3",
-        "type": "Teaser",
-        "published_at": "2026-08-18T15:00:02.000Z"
-      },
-      {
-        "key": "2sBRb7Mbg0A",
-        "name": "Official Teaser 2",
-        "type": "Teaser",
-        "published_at": "2026-07-21T14:59:39.000Z"
-      },
-      {
-        "key": "0mil0YgOtu8",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-09T14:59:50.000Z"
-      },
-      {
-        "key": "udPBHzBnXKA",
-        "name": "Buddy The Sing-Along Version October 2",
-        "type": "Trailer",
-        "published_at": "2026-09-25T01:47:56.000Z"
       }
     ]
   },
@@ -1377,7 +1353,7 @@
     "id": 1554956,
     "title": "The Incomer",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/QSHsgR6ZTAbnDkHjRhaxkL3caj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gdqm7D25PTLxnIaizZbCGXdqKMD.jpg",
     "overview": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
     "theatrical": true,
@@ -2328,6 +2304,36 @@
     ]
   },
   {
+    "id": 1514026,
+    "title": "Buddy",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T15:00:02.000Z",
+    "videos": [
+      {
+        "key": "Pc9MbCNYn3k",
+        "name": "Official Teaser 3",
+        "type": "Teaser",
+        "published_at": "2026-08-18T15:00:02.000Z"
+      },
+      {
+        "key": "2sBRb7Mbg0A",
+        "name": "Official Teaser 2",
+        "type": "Teaser",
+        "published_at": "2026-07-21T14:59:39.000Z"
+      },
+      {
+        "key": "0mil0YgOtu8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-09T14:59:50.000Z"
+      }
+    ]
+  },
+  {
     "id": 1447853,
     "title": "Oasis: Don't Look Back in Anger",
     "release_date": "2026-09-11",
@@ -2650,7 +2656,7 @@
     "title": "Spider Island",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5JfVDRXXWw9iF1UERjd4QTdlCow.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
     "overview": "A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders.",
     "theatrical": false,
     "trailer_published": "2026-08-08T13:19:20.000Z",
