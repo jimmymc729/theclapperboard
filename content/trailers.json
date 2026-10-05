@@ -1,5 +1,77 @@
 [
   {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-10-05T16:00:20.000Z",
+    "videos": [
+      {
+        "key": "Dw-5ZGapGTQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-10T16:00:23.000Z"
+      },
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      },
+      {
+        "key": "PBuuEimqNqY",
+        "name": "only in theaters October 16.",
+        "type": "Teaser",
+        "published_at": "2026-10-05T16:00:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "theatrical": true,
+    "trailer_published": "2026-10-05T06:00:06.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "7r9tzWDhBdQ",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-10-05T06:00:06.000Z"
+      },
+      {
+        "key": "Sy6FC8popMo",
+        "name": "Get Tickets Now",
+        "type": "Teaser",
+        "published_at": "2026-10-04T02:00:20.000Z"
+      },
+      {
+        "key": "rMGS0ySVJf8",
+        "name": "You Don't Deserve It",
+        "type": "Teaser",
+        "published_at": "2026-10-03T10:00:39.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -36,82 +108,10 @@
     ]
   },
   {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "theatrical": true,
-    "trailer_published": "2026-10-04T02:00:20.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "Sy6FC8popMo",
-        "name": "Get Tickets Now",
-        "type": "Teaser",
-        "published_at": "2026-10-04T02:00:20.000Z"
-      },
-      {
-        "key": "rMGS0ySVJf8",
-        "name": "You Don't Deserve It",
-        "type": "Teaser",
-        "published_at": "2026-10-03T10:00:39.000Z"
-      },
-      {
-        "key": "tmZNKa2R4ZQ",
-        "name": "The story is out. The truth is yours to uncover.",
-        "type": "Teaser",
-        "published_at": "2026-10-02T09:38:47.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-10-03T19:00:19.000Z",
-    "videos": [
-      {
-        "key": "Dw-5ZGapGTQ",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-10T16:00:23.000Z"
-      },
-      {
-        "key": "rN9F6-tbySY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:24.000Z"
-      },
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      },
-      {
-        "key": "293OPZ8oSi8",
-        "name": "what are you going to do?",
-        "type": "Teaser",
-        "published_at": "2026-10-03T19:00:19.000Z"
-      }
-    ]
-  },
-  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
@@ -220,7 +220,7 @@
     "title": "Other Mommy",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
     "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "theatrical": true,
     "trailer_published": "2026-10-02T19:00:37.000Z",
@@ -285,7 +285,7 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -1110,36 +1110,6 @@
     ]
   },
   {
-    "id": 1530121,
-    "title": "The Girl in the River",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
-    "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
-    "theatrical": true,
-    "trailer_published": "2026-09-16T16:00:37.000Z",
-    "videos": [
-      {
-        "key": "WKPSSLbnh-E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T17:03:14.000Z"
-      },
-      {
-        "key": "inTrG9hjHCk",
-        "name": "Who can you really trust?",
-        "type": "Teaser",
-        "published_at": "2026-09-16T16:00:37.000Z"
-      },
-      {
-        "key": "U4FWuLoFCQ4",
-        "name": "Every detail matters.",
-        "type": "Teaser",
-        "published_at": "2026-09-13T19:00:27.000Z"
-      }
-    ]
-  },
-  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
@@ -1462,7 +1432,7 @@
     "title": "The Last First: Winter K2",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/97QpXbNNXj2eQ1MdmhFdGlU0jnW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
     "overview": "A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.",
     "theatrical": true,
     "trailer_published": "2026-09-10T12:59:52.000Z",
@@ -1480,7 +1450,7 @@
     "title": "Insidious: Out of the Further",
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
     "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
     "theatrical": true,
     "trailer_published": "2026-09-10T02:00:15.000Z",
@@ -1675,7 +1645,7 @@
   },
   {
     "id": 1752355,
-    "title": "Schumacher '94 - The Birth of a Legend",
+    "title": "Schumacher \u201994 \u2013 The Birth of a Legend",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
@@ -2042,6 +2012,24 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-08-24T18:00:49.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1365884,
+    "title": "Call My Agent! The Movie",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+    "overview": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or worse.",
+    "theatrical": false,
+    "trailer_published": "2026-08-24T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "01PX2jZNW5A",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-24T10:00:00.000Z"
       }
     ]
   },
@@ -2739,7 +2727,7 @@
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -3074,6 +3062,24 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2025-12-04T20:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1727563,
+    "title": "Ohh My Dog",
+    "release_date": "2026-08-07",
+    "poster": "https://image.tmdb.org/t/p/w500/3zVHaUphvyc3O5dDEkzJe9Faf3P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nOQYly08Rv5fepk67i4wy43Oyyf.jpg",
+    "overview": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
+    "theatrical": false,
+    "trailer_published": "2026-07-21T08:21:44.000Z",
+    "videos": [
+      {
+        "key": "Hkv1-F5-EaI",
+        "name": "Ohh My Dog | Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T08:21:44.000Z"
       }
     ]
   },
@@ -3620,24 +3626,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1706702,
-    "title": "Daniel and the Fiery Furnace",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4EoROOIIvrOLarSmM3EcCVxtaDl.jpg",
-    "overview": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
-    "theatrical": true,
-    "trailer_published": "2025-12-25T12:55:00.000Z",
-    "videos": [
-      {
-        "key": "FYm_sWSw6Eo",
-        "name": "DANIEL Movie Official Teaser | starring Mena Massoud & Elijah Alexander",
-        "type": "Trailer",
-        "published_at": "2025-12-25T12:55:00.000Z"
       }
     ]
   },
