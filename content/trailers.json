@@ -1,5 +1,77 @@
 [
   {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-10-06T03:00:15.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "2gXThhNnyOo",
+        "name": "Documents",
+        "type": "Teaser",
+        "published_at": "2026-10-06T03:00:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-05T16:00:37.000Z",
+    "videos": [
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "L3FN3UXI8DY",
+        "name": "We're in unknown territory.",
+        "type": "Teaser",
+        "published_at": "2026-10-05T16:00:37.000Z"
+      },
+      {
+        "key": "BlPSEExanGg",
+        "name": "Can you see the man underneath?",
+        "type": "Teaser",
+        "published_at": "2026-09-30T18:00:20.000Z"
+      }
+    ]
+  },
+  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -104,42 +176,6 @@
         "name": "All \u2018bout perception.",
         "type": "Teaser",
         "published_at": "2026-10-04T18:00:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-10-03T13:00:47.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "55mtZ-X5L1E",
-        "name": "In Cinemas 8 October",
-        "type": "Teaser",
-        "published_at": "2026-10-03T13:00:47.000Z"
       }
     ]
   },
@@ -450,42 +486,6 @@
     ]
   },
   {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-09-30T18:00:20.000Z",
-    "videos": [
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "BlPSEExanGg",
-        "name": "Can you see the man underneath?",
-        "type": "Teaser",
-        "published_at": "2026-09-30T18:00:20.000Z"
-      },
-      {
-        "key": "43OzJULNlYg",
-        "name": "It's right in front of your eyes.",
-        "type": "Teaser",
-        "published_at": "2026-09-29T16:31:25.000Z"
-      }
-    ]
-  },
-  {
     "id": 1388805,
     "title": "LINKIN PARK: UNSHATTER",
     "release_date": "2026-09-30",
@@ -554,30 +554,6 @@
         "name": "Get ready for Doomsday.",
         "type": "Teaser",
         "published_at": "2026-08-14T18:08:46.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1290418,
-    "title": "The Cycle",
-    "release_date": "2026-09-17",
-    "poster": "https://image.tmdb.org/t/p/w500/rHCbyKrFNcec8h7RAW0h1eUgcat.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
-    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-    "theatrical": false,
-    "trailer_published": "2026-09-28T17:53:12.000Z",
-    "videos": [
-      {
-        "key": "m8vcBN8uza8",
-        "name": "The Cycle | Official Trailer | Shudder",
-        "type": "Trailer",
-        "published_at": "2026-09-28T17:53:12.000Z"
-      },
-      {
-        "key": "87ekbcLWPN4",
-        "name": "THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder",
-        "type": "Trailer",
-        "published_at": "2026-07-27T19:15:01.000Z"
       }
     ]
   },
@@ -1248,24 +1224,6 @@
     ]
   },
   {
-    "id": 1441228,
-    "title": "Irumudi",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-    "overview": "An alcoholic with a violent past\u2014living peacefully with his daughter beside a waterfall\u2014decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-    "theatrical": true,
-    "trailer_published": "2026-09-16T08:30:00.000Z",
-    "videos": [
-      {
-        "key": "lqlYx4MdsAY",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-16T08:30:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1318467,
     "title": "The Last Kiss",
     "release_date": "2026-09-15",
@@ -1570,7 +1528,7 @@
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
     "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "theatrical": true,
     "trailer_published": "2026-09-09T06:57:23.000Z",
@@ -2225,7 +2183,7 @@
     "release_date": "2026-11-11",
     "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "overview": "Henry \u201cFitz\u201d Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors\u2019 land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+    "overview": "A weapon systems engineer and former Green Beret protects his Wyoming neighbors against a ruthless corporation threatening their rural community.",
     "theatrical": true,
     "trailer_published": "2026-08-20T14:03:57.000Z",
     "videos": [
@@ -2670,6 +2628,24 @@
     ]
   },
   {
+    "id": 1462861,
+    "title": "Spider Island",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
+    "overview": "A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders.",
+    "theatrical": false,
+    "trailer_published": "2026-08-08T13:19:20.000Z",
+    "videos": [
+      {
+        "key": "u69TJzLmCPo",
+        "name": "Spider Island | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-08-08T13:19:20.000Z"
+      }
+    ]
+  },
+  {
     "id": 1631807,
     "title": "The Secret Woman",
     "release_date": "2026-08-28",
@@ -2738,7 +2714,7 @@
   {
     "id": 656908,
     "title": "Ramayana",
-    "release_date": "2026-11-06",
+    "release_date": "2026-11-05",
     "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
@@ -3402,6 +3378,24 @@
     ]
   },
   {
+    "id": 1391239,
+    "title": "The Debut",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
+    "theatrical": true,
+    "trailer_published": "2026-06-23T12:59:06.000Z",
+    "videos": [
+      {
+        "key": "clyzHmBx43E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T12:59:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 813418,
     "title": "Hot Spot",
     "release_date": "2026-08-21",
@@ -3570,6 +3564,24 @@
     ]
   },
   {
+    "id": 1735270,
+    "title": "Premada Oorali",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/d3tfAVRB9baqZqFnV6wPvqZnuzi.jpg",
+    "backdrop": "",
+    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
+    "theatrical": false,
+    "trailer_published": "2026-04-17T11:53:31.000Z",
+    "videos": [
+      {
+        "key": "271GZatiFG0",
+        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
+        "type": "Teaser",
+        "published_at": "2026-04-17T11:53:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1401586,
     "title": "Sonic the Hedgehog 4",
     "release_date": "2027-03-19",
@@ -3584,42 +3596,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1572116,
-    "title": "Monster Mia",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/rEIgF9W6OXJiHpM1fXLVVMqQlfF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
-    "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
-    "theatrical": true,
-    "trailer_published": "2026-02-12T09:23:11.000Z",
-    "videos": [
-      {
-        "key": "CbqDABPksnw",
-        "name": "MONSTER MIA | Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-12T09:23:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1706702,
-    "title": "Daniel and the Fiery Furnace",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4EoROOIIvrOLarSmM3EcCVxtaDl.jpg",
-    "overview": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
-    "theatrical": true,
-    "trailer_published": "2025-12-25T12:55:00.000Z",
-    "videos": [
-      {
-        "key": "FYm_sWSw6Eo",
-        "name": "DANIEL Movie Official Teaser | starring Mena Massoud & Elijah Alexander",
-        "type": "Trailer",
-        "published_at": "2025-12-25T12:55:00.000Z"
       }
     ]
   },
@@ -3716,6 +3692,30 @@
         "name": "How To Train Your Dragon 2 | In Theaters June 11, 2027",
         "type": "Teaser",
         "published_at": "2025-04-04T03:00:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 567189,
+    "title": "Tom Clancy's Without Remorse",
+    "release_date": "2021-04-30",
+    "poster": "https://image.tmdb.org/t/p/w500/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+    "overview": "An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.",
+    "theatrical": false,
+    "trailer_published": "2021-04-06T13:59:49.000Z",
+    "videos": [
+      {
+        "key": "kRpkRkO9KUI",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2021-04-06T13:59:49.000Z"
+      },
+      {
+        "key": "e-rw2cxFVLg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2021-03-03T16:59:53.000Z"
       }
     ]
   }
