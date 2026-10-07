@@ -1,5 +1,41 @@
 [
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-06T16:00:22.000Z",
+    "videos": [
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "IEsKFchbL9U",
+        "name": "Beware of the mutations.",
+        "type": "Teaser",
+        "published_at": "2026-10-06T16:00:22.000Z"
+      },
+      {
+        "key": "L3FN3UXI8DY",
+        "name": "We're in unknown territory.",
+        "type": "Teaser",
+        "published_at": "2026-10-05T16:00:37.000Z"
+      }
+    ]
+  },
+  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -32,42 +68,6 @@
         "name": "Documents",
         "type": "Teaser",
         "published_at": "2026-10-06T03:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-05T16:00:37.000Z",
-    "videos": [
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "L3FN3UXI8DY",
-        "name": "We're in unknown territory.",
-        "type": "Teaser",
-        "published_at": "2026-10-05T16:00:37.000Z"
-      },
-      {
-        "key": "BlPSEExanGg",
-        "name": "Can you see the man underneath?",
-        "type": "Teaser",
-        "published_at": "2026-09-30T18:00:20.000Z"
       }
     ]
   },
@@ -321,7 +321,7 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -558,8 +558,32 @@
     ]
   },
   {
+    "id": 1290418,
+    "title": "The Cycle",
+    "release_date": "2026-09-17",
+    "poster": "https://image.tmdb.org/t/p/w500/rHCbyKrFNcec8h7RAW0h1eUgcat.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+    "theatrical": false,
+    "trailer_published": "2026-09-28T17:53:12.000Z",
+    "videos": [
+      {
+        "key": "m8vcBN8uza8",
+        "name": "The Cycle | Official Trailer | Shudder",
+        "type": "Trailer",
+        "published_at": "2026-09-28T17:53:12.000Z"
+      },
+      {
+        "key": "87ekbcLWPN4",
+        "name": "THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder",
+        "type": "Trailer",
+        "published_at": "2026-07-27T19:15:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1422041,
-    "title": "La bola negra",
+    "title": "LA BOLA NEGRA",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
@@ -924,20 +948,32 @@
     ]
   },
   {
-    "id": 1779385,
-    "title": "Pixar Artist Short: One Shot Productions",
-    "release_date": "2026-09-22",
-    "poster": "https://image.tmdb.org/t/p/w500/8Fm3UoYldZTVfVPm1rwJ4vKcsUM.jpg",
-    "backdrop": "",
-    "overview": "One Shot Productions is an anthology of Pixar Artist Short Films that dares to ask the question, \"Do you REALLY need more than a single shot for your story?\"",
-    "theatrical": false,
-    "trailer_published": "2026-09-22T18:00:16.000Z",
+    "id": 1457866,
+    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
+    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T12:00:00.000Z",
     "videos": [
       {
-        "key": "dmrK1OoafXU",
-        "name": "Pixar Artist Short: One Shot Productions",
+        "key": "RjEZaUBbUvU",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-22T18:00:16.000Z"
+        "published_at": "2026-09-21T12:00:00.000Z"
+      },
+      {
+        "key": "hbU1zLAwj3w",
+        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "type": "Teaser",
+        "published_at": "2026-08-26T20:55:34.000Z"
+      },
+      {
+        "key": "ik0drfECnPo",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-09T01:43:08.000Z"
       }
     ]
   },
@@ -1878,6 +1914,30 @@
     ]
   },
   {
+    "id": 1522380,
+    "title": "Multwoh: Patay na Patay Sa'yo",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/7lAHM09AvMnueNmXEND8MajjB7j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z0SLDGlRKiVDrmBa5CWMtEKLwVG.jpg",
+    "overview": "When a college queer dies suddenly in their dorm, they return as a ghost \u2014 not to seek revenge, but to say the one thing they never found the courage to say in life: \"I love you\".",
+    "theatrical": false,
+    "trailer_published": "2026-08-29T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "h7uc364SDyg",
+        "name": "Multwoh (Patay Na Patay Sa 'Yo) (CinePanalo 2026) Official Trailer - Sassa Gurl, Joao Constancia",
+        "type": "Trailer",
+        "published_at": "2026-08-29T10:00:00.000Z"
+      },
+      {
+        "key": "uRc-eeudvS0",
+        "name": "MULTWOH (2026) Official Teaser Trailer - Sassa Gurl & Joao Constancia",
+        "type": "Trailer",
+        "published_at": "2026-06-29T04:33:40.000Z"
+      }
+    ]
+  },
+  {
     "id": 1492640,
     "title": "UNABOMBER",
     "release_date": "2026-09-25",
@@ -2460,6 +2520,24 @@
     ]
   },
   {
+    "id": 1752159,
+    "title": "Turning Point: Generation 9/11",
+    "release_date": "2026-09-02",
+    "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+    "overview": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
+    "theatrical": false,
+    "trailer_published": "2026-08-17T19:00:00.000Z",
+    "videos": [
+      {
+        "key": "1epklvnxATo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T19:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1732625,
     "title": "LEGO Disney Princess: Magical Mayhem",
     "release_date": "2026-08-21",
@@ -2474,6 +2552,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-17T13:00:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1403836,
+    "title": "The Bluey Movie",
+    "release_date": "2027-08-06",
+    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
+    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
+    "theatrical": true,
+    "trailer_published": "2026-08-15T03:26:36.000Z",
+    "videos": [
+      {
+        "key": "I0YWGgZBiYc",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-08-15T03:26:36.000Z"
       }
     ]
   },
@@ -2790,36 +2886,6 @@
     ]
   },
   {
-    "id": 1679730,
-    "title": "THE RIBBON HERO",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
-    "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-    "theatrical": true,
-    "trailer_published": "2026-07-30T12:00:01.000Z",
-    "videos": [
-      {
-        "key": "Z56klGz1BPk",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T12:00:01.000Z"
-      },
-      {
-        "key": "oJL-llloz24",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-06-23T15:29:01.000Z"
-      },
-      {
-        "key": "NynEgERoqmk",
-        "name": "Official Teaser [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2026-05-26T12:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1260649,
     "title": "Jumanji: Open World",
     "release_date": "2026-12-25",
@@ -3008,42 +3074,6 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2025-12-04T20:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1727563,
-    "title": "Ohh My Dog",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/3zVHaUphvyc3O5dDEkzJe9Faf3P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nOQYly08Rv5fepk67i4wy43Oyyf.jpg",
-    "overview": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
-    "theatrical": false,
-    "trailer_published": "2026-07-21T08:21:44.000Z",
-    "videos": [
-      {
-        "key": "Hkv1-F5-EaI",
-        "name": "Ohh My Dog | Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T08:21:44.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1709391,
-    "title": "Hanuman Ansh",
-    "release_date": "2026-10-06",
-    "poster": "https://image.tmdb.org/t/p/w500/as2Y3zGUa2IUS3uAx2sh6Ano3es.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tKYOK8iMxkhJhug3LJ2yvC5QY8M.jpg",
-    "overview": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings, becoming Hanuman Ansh, Neem Karoli Baba.",
-    "theatrical": true,
-    "trailer_published": "2026-07-18T05:41:06.000Z",
-    "videos": [
-      {
-        "key": "YpGhCA2X3gU",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-18T05:41:06.000Z"
       }
     ]
   },
@@ -3542,24 +3572,6 @@
         "name": "Dragon Glimpse - Telugu | NTR | Anil Kapoor | Rukmini Vasanth | Ravi Basrur | Prashanth Neel",
         "type": "Teaser",
         "published_at": "2026-05-22T14:00:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1329016,
-    "title": "Tony",
-    "release_date": "2026-08-07",
-    "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
-    "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "theatrical": true,
-    "trailer_published": "2026-05-05T13:00:00.000Z",
-    "videos": [
-      {
-        "key": "k1MVnzd2aVc",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-05T13:00:00.000Z"
       }
     ]
   },
