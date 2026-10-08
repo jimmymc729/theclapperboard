@@ -1,5 +1,41 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-10-07T20:00:24.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "4boN65zzvd8",
+        "name": "It\u2019s in his hands now.",
+        "type": "Teaser",
+        "published_at": "2026-10-07T20:00:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -7,8 +43,14 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
-    "trailer_published": "2026-10-06T16:00:22.000Z",
+    "trailer_published": "2026-10-07T15:57:19.000Z",
     "videos": [
+      {
+        "key": "stmlbnq4Sdk",
+        "name": "Get Tickets Now",
+        "type": "Trailer",
+        "published_at": "2026-10-07T15:57:19.000Z"
+      },
       {
         "key": "KCR-rz0YfD4",
         "name": "Final Trailer",
@@ -26,12 +68,6 @@
         "name": "Beware of the mutations.",
         "type": "Teaser",
         "published_at": "2026-10-06T16:00:22.000Z"
-      },
-      {
-        "key": "L3FN3UXI8DY",
-        "name": "We're in unknown territory.",
-        "type": "Teaser",
-        "published_at": "2026-10-05T16:00:37.000Z"
       }
     ]
   },
@@ -39,11 +75,11 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
-    "trailer_published": "2026-10-06T03:00:15.000Z",
+    "trailer_published": "2026-10-07T10:00:35.000Z",
     "videos": [
       {
         "key": "R8ANzYpaZaY",
@@ -64,10 +100,34 @@
         "published_at": "2026-06-10T12:58:35.000Z"
       },
       {
-        "key": "2gXThhNnyOo",
-        "name": "Documents",
+        "key": "NMkieXpknkg",
+        "name": "Social Review",
         "type": "Teaser",
-        "published_at": "2026-10-06T03:00:15.000Z"
+        "published_at": "2026-10-07T10:00:35.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1599230,
+    "title": "Elsinore",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/tWhfBy9ErHWao8t1FFZpinXWUzg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
+    "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
+    "theatrical": true,
+    "trailer_published": "2026-10-07T09:00:05.000Z",
+    "videos": [
+      {
+        "key": "TpNEh5vvAns",
+        "name": "International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-07T09:00:05.000Z"
+      },
+      {
+        "key": "SzopCeFAWF0",
+        "name": "US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-28T15:00:01.000Z"
       }
     ]
   },
@@ -108,10 +168,46 @@
     ]
   },
   {
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "theatrical": true,
+    "trailer_published": "2026-10-05T13:55:38.000Z",
+    "videos": [
+      {
+        "key": "UkMuGKqAux4",
+        "name": "New International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T13:01:28.000Z"
+      },
+      {
+        "key": "bfCgu83suHs",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-08-13T12:59:36.000Z"
+      },
+      {
+        "key": "JFQcDFhNh4o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T13:00:12.000Z"
+      },
+      {
+        "key": "bWx6nwUUpAw",
+        "name": "Shaun",
+        "type": "Teaser",
+        "published_at": "2026-10-05T13:55:38.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
     "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "theatrical": true,
@@ -140,78 +236,6 @@
         "name": "You Don't Deserve It",
         "type": "Teaser",
         "published_at": "2026-10-03T10:00:39.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-10-04T18:00:28.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "g63xPiXBm6Y",
-        "name": "All \u2018bout perception.",
-        "type": "Teaser",
-        "published_at": "2026-10-04T18:00:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-10-03T13:00:31.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "QKLJHiwTQhM",
-        "name": "Emotions",
-        "type": "Teaser",
-        "published_at": "2026-10-03T13:00:31.000Z"
       }
     ]
   },
@@ -525,7 +549,7 @@
     "id": 1422041,
     "title": "LA BOLA NEGRA",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
@@ -944,30 +968,6 @@
         "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
         "type": "Teaser",
         "published_at": "2026-09-13T16:00:08.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1391021,
-    "title": "Once Upon a Time in the Middle East",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/wAuGgXjA7GV8NrKfmUKl2AP8vqG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-    "overview": "Seeking a fresh start, chef Xu Fu travels to the Middle East to support his family and repay his debts. Alongside restaurant manager Ma Junsheng, he transforms the struggling Dragon Restaurant into a thriving business. But when war engulfs the city, their hard-won success is shattered and the restaurant becomes a refuge for those caught in the conflict. As danger closes in, Xu Fu must risk everything to protect his newfound community and preserve a small beacon of hope amid the devastation.",
-    "theatrical": true,
-    "trailer_published": "2026-09-18T15:38:54.000Z",
-    "videos": [
-      {
-        "key": "iHDNxZF7LRw",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-18T15:38:54.000Z"
-      },
-      {
-        "key": "IEgL2ycJcao",
-        "name": "Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-15T04:00:17.000Z"
       }
     ]
   },
@@ -1421,7 +1421,7 @@
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
     "theatrical": true,
     "trailer_published": "2026-09-10T02:00:15.000Z",
     "videos": [
@@ -1474,7 +1474,7 @@
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
     "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "theatrical": true,
     "trailer_published": "2026-09-09T06:57:23.000Z",
@@ -1506,9 +1506,27 @@
     ]
   },
   {
+    "id": 1492198,
+    "title": "Artificial",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/2bz0HPE8OFOqnyvl8sCdVDIg1KX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/or81MQagASpU9WeLxEA3GuG3iFk.jpg",
+    "overview": "When computer scientist Ilya Sutskever and AI pioneer Professor Geoffrey Hinton make a breakthrough they are certain will alter humanity forever, the most prominent figures in Silicon Valley race to become a part of their vision.  Years later, after a chance meeting with Sam Altman, Ilya and a group of idealistic entrepreneurs create OpenAI with backing from Elon Musk and assistance from engineer Mira Murati.",
+    "theatrical": true,
+    "trailer_published": "2026-09-08T15:00:25.000Z",
+    "videos": [
+      {
+        "key": "rDZplZFnbOk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:00:25.000Z"
+      }
+    ]
+  },
+  {
     "id": 1381071,
     "title": "Godzilla Minus Zero",
-    "release_date": "2026-11-06",
+    "release_date": "2026-11-03",
     "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
     "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
@@ -1610,24 +1628,6 @@
         "name": "Happy Power Rangers Day!",
         "type": "Teaser",
         "published_at": "2026-08-28T21:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1465943,
-    "title": "Mandaadi",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
-    "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
-    "theatrical": true,
-    "trailer_published": "2026-09-04T16:05:47.000Z",
-    "videos": [
-      {
-        "key": "VOHaf-0DV-U",
-        "name": "Mandaadi - Trailer (Tamil) | Soori | Suhas | Mahima Nambiar | GV Prakash | Mathimaran Pugazhendhi",
-        "type": "Trailer",
-        "published_at": "2026-09-04T16:05:47.000Z"
       }
     ]
   },
@@ -2913,7 +2913,7 @@
     "id": 1284046,
     "title": "Onslaught",
     "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
     "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
     "theatrical": true,
@@ -3566,11 +3566,11 @@
   {
     "id": 1735270,
     "title": "Premada Oorali",
-    "release_date": "2026-09-25",
+    "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/d3tfAVRB9baqZqFnV6wPvqZnuzi.jpg",
     "backdrop": "",
     "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
-    "theatrical": false,
+    "theatrical": true,
     "trailer_published": "2026-04-17T11:53:31.000Z",
     "videos": [
       {
