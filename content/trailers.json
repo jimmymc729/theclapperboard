@@ -108,6 +108,30 @@
     ]
   },
   {
+    "id": 1599230,
+    "title": "Elsinore",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
+    "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
+    "theatrical": true,
+    "trailer_published": "2026-10-07T09:00:05.000Z",
+    "videos": [
+      {
+        "key": "TpNEh5vvAns",
+        "name": "International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-07T09:00:05.000Z"
+      },
+      {
+        "key": "SzopCeFAWF0",
+        "name": "US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-28T15:00:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -512,6 +536,24 @@
         "name": "Snowball",
         "type": "Teaser",
         "published_at": "2026-08-02T17:00:30.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1785138,
+    "title": "DEQ",
+    "release_date": "2026-09-29",
+    "poster": "https://image.tmdb.org/t/p/w500/u7pupuDvqLR4cTtawP76K9Htl3R.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jcaMRkFON8PQHW1h4douBDNOUf6.jpg",
+    "overview": "\"DEQ\" is a legacy in Kurdish Culture. A bridge between Human and Nature and a way to find meaning of life.",
+    "theatrical": false,
+    "trailer_published": "2026-09-29T16:19:54.000Z",
+    "videos": [
+      {
+        "key": "tFhbF6BxpWQ",
+        "name": "DEQ (2026) by Nima Beheshtinia | Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-29T16:19:54.000Z"
       }
     ]
   },
@@ -936,36 +978,6 @@
     ]
   },
   {
-    "id": 1457866,
-    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/6aS1fKh5Z8Vf9n7wWtVAe86BHVG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
-    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T12:00:00.000Z",
-    "videos": [
-      {
-        "key": "RjEZaUBbUvU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-21T12:00:00.000Z"
-      },
-      {
-        "key": "hbU1zLAwj3w",
-        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-        "type": "Teaser",
-        "published_at": "2026-08-26T20:55:34.000Z"
-      },
-      {
-        "key": "ik0drfECnPo",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-09T01:43:08.000Z"
-      }
-    ]
-  },
-  {
     "id": 1480574,
     "title": "Just Play Dead",
     "release_date": "2026-08-28",
@@ -1029,7 +1041,7 @@
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
     "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
@@ -1118,6 +1130,42 @@
         "name": "Stranglehold | Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-17T17:44:58.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437511,
+    "title": "How to Rob a Bank",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T13:00:09.000Z",
+    "videos": [
+      {
+        "key": "MVvWKh336m4",
+        "name": "Official UK Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T13:00:09.000Z"
+      },
+      {
+        "key": "B9XOzCUvFB8",
+        "name": "Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T12:59:58.000Z"
+      },
+      {
+        "key": "hoXld2b0TCs",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:02:07.000Z"
+      },
+      {
+        "key": "ORxw68y3lyw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:00:02.000Z"
       }
     ]
   },
@@ -1376,6 +1424,30 @@
         "name": "Can He ESCAPE?",
         "type": "Teaser",
         "published_at": "2025-05-04T05:00:46.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1603262,
+    "title": "Everest: The Other Side",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
+    "overview": "An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest\u2014the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth\u2014something only a handful have ever achieved, and no one has successfully skied down.",
+    "theatrical": true,
+    "trailer_published": "2026-09-14T16:47:47.000Z",
+    "videos": [
+      {
+        "key": "q6XUlPdTuto",
+        "name": "Everest: The Other Side | Official Trailer 2 | Experience It In IMAX\u00ae",
+        "type": "Trailer",
+        "published_at": "2026-09-14T16:47:47.000Z"
+      },
+      {
+        "key": "8gjOXAjeisY",
+        "name": "Everest: The Other Side | Trailer | In Theaters October 30",
+        "type": "Trailer",
+        "published_at": "2026-09-03T16:11:01.000Z"
       }
     ]
   },
@@ -2700,24 +2772,6 @@
     ]
   },
   {
-    "id": 1462861,
-    "title": "Spider Island",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
-    "overview": "A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders.",
-    "theatrical": false,
-    "trailer_published": "2026-08-08T13:19:20.000Z",
-    "videos": [
-      {
-        "key": "u69TJzLmCPo",
-        "name": "Spider Island | Official Trailer | Horror Brains",
-        "type": "Trailer",
-        "published_at": "2026-08-08T13:19:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1631807,
     "title": "The Secret Woman",
     "release_date": "2026-08-28",
@@ -3288,30 +3342,6 @@
     ]
   },
   {
-    "id": 1300926,
-    "title": "The Angry Birds Movie 3",
-    "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet: surviving fatherhood\u2026 while saving the world.",
-    "theatrical": true,
-    "trailer_published": "2026-06-29T13:00:01.000Z",
-    "videos": [
-      {
-        "key": "a9DB_aUMzME",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T13:00:01.000Z"
-      },
-      {
-        "key": "8_nX4qQU1Wc",
-        "name": "NOW IN PRODUCTION!",
-        "type": "Teaser",
-        "published_at": "2024-06-06T14:30:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1126097,
     "title": "Charlie Harper",
     "release_date": "2026-09-25",
@@ -3536,24 +3566,6 @@
         "name": "Evil Dead Wrath has begun its bloody production.",
         "type": "Teaser",
         "published_at": "2026-02-21T17:00:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": 645708,
-    "title": "Dragon",
-    "release_date": "2027-06-10",
-    "poster": "https://image.tmdb.org/t/p/w500/qKQEdXj8OFqMjj000RmlU7qQHWR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/t2hndJt7z8hg2UfUxqy6M1he3x7.jpg",
-    "overview": "Set in 1967 around International Opium Trade by Afghan Trading Company and Golden Trading Company",
-    "theatrical": true,
-    "trailer_published": "2026-05-22T14:00:16.000Z",
-    "videos": [
-      {
-        "key": "FlOzIM7Yov4",
-        "name": "Dragon Glimpse - Telugu | NTR | Anil Kapoor | Rukmini Vasanth | Ravi Basrur | Prashanth Neel",
-        "type": "Teaser",
-        "published_at": "2026-05-22T14:00:16.000Z"
       }
     ]
   },
