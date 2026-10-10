@@ -3,7 +3,7 @@
     "id": 1297467,
     "title": "The Exorcist: Martyrs",
     "release_date": "2027-03-12",
-    "poster": "https://image.tmdb.org/t/p/w500/7NH4Ikw3hZ6gpg14jkrMEgCAYas.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zdc2FBYjzHhkF1aFzHEjMPw1Ctj.jpg",
     "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy\u2019s blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
     "theatrical": true,
@@ -22,7 +22,7 @@
     "title": "Other Mommy",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
     "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "theatrical": true,
     "trailer_published": "2026-10-09T18:31:48.000Z",
@@ -130,7 +130,7 @@
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-10-09T14:00:16.000Z",
@@ -310,7 +310,7 @@
     "title": "Animals",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
     "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
     "theatrical": true,
     "trailer_published": "2026-10-05T14:00:00.000Z",
@@ -411,9 +411,9 @@
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/p1vgrJqcZMppdRZ2eoHIlpdTltA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
-    "overview": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles.",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-10-02T17:04:43.000Z",
     "videos": [
@@ -870,6 +870,24 @@
     ]
   },
   {
+    "id": 1742441,
+    "title": "V/H/S/Mixtape",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
+    "overview": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T15:00:26.000Z",
+    "videos": [
+      {
+        "key": "GrIouRKyPDw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T15:00:26.000Z"
+      }
+    ]
+  },
+  {
     "id": 1465063,
     "title": "Forgotten Island",
     "release_date": "2026-09-25",
@@ -1032,6 +1050,36 @@
     ]
   },
   {
+    "id": 1457866,
+    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/9glmVprB6L0yrNsG5aocW6FYLyL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
+    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T12:00:00.000Z",
+    "videos": [
+      {
+        "key": "RjEZaUBbUvU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-21T12:00:00.000Z"
+      },
+      {
+        "key": "hbU1zLAwj3w",
+        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "type": "Teaser",
+        "published_at": "2026-08-26T20:55:34.000Z"
+      },
+      {
+        "key": "ik0drfECnPo",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-09T01:43:08.000Z"
+      }
+    ]
+  },
+  {
     "id": 1480574,
     "title": "Just Play Dead",
     "release_date": "2026-08-28",
@@ -1164,26 +1212,38 @@
     ]
   },
   {
-    "id": 1320039,
-    "title": "Stranglehold",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dBziuJUx0tteX1eSzKj05twjDJi.jpg",
-    "overview": "Bailey is an exotic dancer with big dreams. She and her Army vet husband Tim are fed up with their lives of barely getting by in small-town Arkansas, so they decide to rob the strip club that employs her.",
-    "theatrical": false,
-    "trailer_published": "2026-09-17T17:45:04.000Z",
+    "id": 1437511,
+    "title": "How to Rob a Bank",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T13:00:09.000Z",
     "videos": [
       {
-        "key": "5YPh1loDZNc",
-        "name": "Official Redband Trailer",
+        "key": "MVvWKh336m4",
+        "name": "Official UK Trailer 2",
         "type": "Trailer",
-        "published_at": "2026-09-17T17:45:04.000Z"
+        "published_at": "2026-09-17T13:00:09.000Z"
       },
       {
-        "key": "oPJSYlg8Ibc",
-        "name": "Stranglehold | Official Trailer",
+        "key": "B9XOzCUvFB8",
+        "name": "Trailer 2",
         "type": "Trailer",
-        "published_at": "2026-09-17T17:44:58.000Z"
+        "published_at": "2026-09-17T12:59:58.000Z"
+      },
+      {
+        "key": "hoXld2b0TCs",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:02:07.000Z"
+      },
+      {
+        "key": "ORxw68y3lyw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:00:02.000Z"
       }
     ]
   },
@@ -1202,36 +1262,6 @@
         "name": "Modha Rathri | Official Trailer | Anishma Anilkumar, Rishikanth | Netflix India",
         "type": "Trailer",
         "published_at": "2026-09-17T08:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1530121,
-    "title": "The Girl in the River",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
-    "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
-    "theatrical": true,
-    "trailer_published": "2026-09-16T16:00:37.000Z",
-    "videos": [
-      {
-        "key": "WKPSSLbnh-E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T17:03:14.000Z"
-      },
-      {
-        "key": "inTrG9hjHCk",
-        "name": "Who can you really trust?",
-        "type": "Teaser",
-        "published_at": "2026-09-16T16:00:37.000Z"
-      },
-      {
-        "key": "U4FWuLoFCQ4",
-        "name": "Every detail matters.",
-        "type": "Teaser",
-        "published_at": "2026-09-13T19:00:27.000Z"
       }
     ]
   },
@@ -1439,7 +1469,7 @@
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/QSHsgR6ZTAbnDkHjRhaxkL3caj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gdqm7D25PTLxnIaizZbCGXdqKMD.jpg",
-    "overview": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
+    "overview": "On an Orkney isle, two siblings survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
     "theatrical": true,
     "trailer_published": "2026-09-12T15:00:16.000Z",
     "videos": [
@@ -1484,6 +1514,36 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-10T17:00:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1394740,
+    "title": "Tazza: The Song of Beelzebub",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/4w4TEDwrXFMpdZSI0xvaUAgiOc1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/w5OX3u2SpMVRU0sol0mtIaf4LSI.jpg",
+    "overview": "Jang Taeyoung, who believes he has everything after building a successful online casino business, loses it all to his former best friend and namesake, Park Taeyoung. The two reunite on the international poker circuit for a high-stakes battle of revenge.",
+    "theatrical": false,
+    "trailer_published": "2026-09-10T16:23:23.000Z",
+    "videos": [
+      {
+        "key": "gDgTGFltqBw",
+        "name": "Main Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-07T02:00:08.000Z"
+      },
+      {
+        "key": "sSvUg0--XEc",
+        "name": "Int'l, Censored Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-04T03:07:59.000Z"
+      },
+      {
+        "key": "1O0rBRrYXaI",
+        "name": "Teaser Trailer [Subtitled]",
+        "type": "Teaser",
+        "published_at": "2026-09-10T16:23:23.000Z"
       }
     ]
   },
@@ -1632,6 +1692,24 @@
     ]
   },
   {
+    "id": 1408158,
+    "title": "Epic - First Semester",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/vqt0fIHy8dkSpUtVcrN1NaaANl8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5V1EhtFaeGfn8lRozOKDaCKGQWf.jpg",
+    "overview": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London \u2013 until he meets the lively Kadali.",
+    "theatrical": true,
+    "trailer_published": "2026-09-08T11:07:47.000Z",
+    "videos": [
+      {
+        "key": "uuPuy3HbJ08",
+        "name": "EPIC - First Semester Trailer | Anand Deverakonda, Vaishnavi | Aditya Haasan | Hesham Abdul Wahab",
+        "type": "Trailer",
+        "published_at": "2026-09-08T11:07:47.000Z"
+      }
+    ]
+  },
+  {
     "id": 1620080,
     "title": "Less of a Stranger",
     "release_date": "2026-10-07",
@@ -1776,24 +1854,6 @@
     ]
   },
   {
-    "id": 1762506,
-    "title": "Band of Brothers: Legacy",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
-    "overview": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
-    "theatrical": false,
-    "trailer_published": "2026-09-03T17:07:20.000Z",
-    "videos": [
-      {
-        "key": "IjLg0X59fMA",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T17:07:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400336,
     "title": "Focker-in-Law",
     "release_date": "2026-11-27",
@@ -1928,6 +1988,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-01T15:13:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1544847,
+    "title": "Pradhama Drishtiya Kuttakkar",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/j1MIXRxgcFROKTR5XCfDBh8LNkF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bgneM7nHQVl8SxbL5FkupFLJ1Fd.jpg",
+    "overview": "Follows a woman constable who joins the police force through appointment after the death of her husband.",
+    "theatrical": false,
+    "trailer_published": "2026-09-01T11:36:03.000Z",
+    "videos": [
+      {
+        "key": "hf96obsJIGU",
+        "name": "Pradhama Drishtya Kuttakkar Official Trailer | Shahad | Parvathy | Vijayaragavan | Mathew Thomas",
+        "type": "Trailer",
+        "published_at": "2026-09-01T11:36:03.000Z"
       }
     ]
   },
@@ -2112,24 +2190,6 @@
     ]
   },
   {
-    "id": 1729723,
-    "title": "Yellow Mirror",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
-    "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
-    "theatrical": false,
-    "trailer_published": "2026-08-24T18:00:49.000Z",
-    "videos": [
-      {
-        "key": "zNyZ6OlMbh0",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-24T18:00:49.000Z"
-      }
-    ]
-  },
-  {
     "id": 1124142,
     "title": "The Rivals of Amziah King",
     "release_date": "2026-08-14",
@@ -2214,24 +2274,6 @@
     ]
   },
   {
-    "id": 1314279,
-    "title": "Hi :)",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
-    "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T16:19:22.000Z",
-    "videos": [
-      {
-        "key": "LVmH0rgWZb8",
-        "name": "Hi :) Movie Official Trailer | Nayanthara, Kavin | Vishnu edavan | In Cinemas 28th August",
-        "type": "Trailer",
-        "published_at": "2026-08-20T16:19:22.000Z"
-      }
-    ]
-  },
-  {
     "id": 1229906,
     "title": "Family",
     "release_date": "2026-09-25",
@@ -2255,7 +2297,7 @@
     "release_date": "2026-11-11",
     "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "overview": "A weapon systems engineer and former Green Beret protects his Wyoming neighbors against a ruthless corporation threatening their rural community.",
+    "overview": "Henry \u201cFitz\u201d Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors\u2019 land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
     "theatrical": true,
     "trailer_published": "2026-08-20T14:03:57.000Z",
     "videos": [
@@ -2348,6 +2390,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-19T12:07:41.000Z"
+      }
+    ]
+  },
+  {
+    "id": 192139,
+    "title": "The Brink of War",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T22:00:18.000Z",
+    "videos": [
+      {
+        "key": "a-T0TlMN-RE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T21:15:27.000Z"
+      },
+      {
+        "key": "mOmU9rmjETg",
+        "name": "What Critics Are Saying About The Brink Of War",
+        "type": "Teaser",
+        "published_at": "2026-08-18T22:00:18.000Z"
+      },
+      {
+        "key": "oI47vtf8nhU",
+        "name": "The Brink Of War Is In Theaters Today!",
+        "type": "Teaser",
+        "published_at": "2026-08-14T17:00:08.000Z"
+      },
+      {
+        "key": "1OXSMXfl8D4",
+        "name": "Is Peace A Fantasy?",
+        "type": "Teaser",
+        "published_at": "2026-08-07T15:00:24.000Z"
       }
     ]
   },
@@ -2750,36 +2828,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-08-06T15:00:21.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1376856,
-    "title": "The Paradise",
-    "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-    "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-    "theatrical": false,
-    "trailer_published": "2026-08-06T12:32:42.000Z",
-    "videos": [
-      {
-        "key": "Y3xewv1ZnHc",
-        "name": "Official Teaser [ENG SUB]",
-        "type": "Teaser",
-        "published_at": "2026-08-06T12:32:42.000Z"
-      },
-      {
-        "key": "6B2T6prycwk",
-        "name": "Glimpse",
-        "type": "Teaser",
-        "published_at": "2025-03-03T05:47:23.000Z"
-      },
-      {
-        "key": "NkZFnpDhdCk",
-        "name": "Glimpse : RAW STATEMENT",
-        "type": "Teaser",
-        "published_at": "2025-03-03T05:47:08.000Z"
       }
     ]
   },
@@ -3300,20 +3348,26 @@
     ]
   },
   {
-    "id": 1482938,
-    "title": "Union County",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/1HW5lVwsuLo6CHW3i9Cm240jLL2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/t6zKpTDxHxDqFNajj2duWqg6y78.jpg",
-    "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio.",
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet: surviving fatherhood\u2026 while saving the world.",
     "theatrical": true,
-    "trailer_published": "2026-07-01T17:01:52.000Z",
+    "trailer_published": "2026-06-29T13:00:01.000Z",
     "videos": [
       {
-        "key": "uA6Fnr2VXkw",
+        "key": "a9DB_aUMzME",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-01T17:01:52.000Z"
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
       }
     ]
   },
@@ -3390,30 +3444,6 @@
     ]
   },
   {
-    "id": 1187326,
-    "title": "Tad and The Magic Lamp",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-    "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
-    "theatrical": false,
-    "trailer_published": "2026-06-18T14:14:24.000Z",
-    "videos": [
-      {
-        "key": "8-Bjo_rXCkM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-18T14:14:24.000Z"
-      },
-      {
-        "key": "L9d1Ax3g6a8",
-        "name": "Tad and his friends are back! Don't miss the trailer for Tad and the Magic Lamp TOMORROW.",
-        "type": "Teaser",
-        "published_at": "2026-06-17T17:05:31.000Z"
-      }
-    ]
-  },
-  {
     "id": 813418,
     "title": "Hot Spot",
     "release_date": "2026-08-21",
@@ -3437,7 +3467,7 @@
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
-    "overview": "An awkward teen and her Type-A mother learn her peculiarities might be magical powers, transforming their lives and revealing a hidden magical realm.",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
     "trailer_published": "2026-06-16T16:01:06.000Z",
     "videos": [
