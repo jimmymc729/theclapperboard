@@ -130,7 +130,7 @@
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-10-09T14:00:16.000Z",
@@ -201,7 +201,7 @@
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
@@ -238,7 +238,7 @@
     "title": "Verity",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
     "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "theatrical": true,
     "trailer_published": "2026-10-08T08:00:29.000Z",
@@ -266,6 +266,30 @@
         "name": "Get Tickets Now",
         "type": "Teaser",
         "published_at": "2026-10-04T02:00:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1599230,
+    "title": "Elsinore",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
+    "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
+    "theatrical": true,
+    "trailer_published": "2026-10-07T09:00:05.000Z",
+    "videos": [
+      {
+        "key": "TpNEh5vvAns",
+        "name": "International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-07T09:00:05.000Z"
+      },
+      {
+        "key": "SzopCeFAWF0",
+        "name": "US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-28T15:00:01.000Z"
       }
     ]
   },
@@ -1053,7 +1077,7 @@
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/9glmVprB6L0yrNsG5aocW6FYLyL.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -1341,7 +1365,7 @@
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
     "theatrical": true,
@@ -1839,7 +1863,7 @@
     "id": 1712451,
     "title": "Resident Dead",
     "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
     "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
     "theatrical": false,
@@ -1850,6 +1874,24 @@
         "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
         "type": "Trailer",
         "published_at": "2026-09-03T22:19:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1762506,
+    "title": "Band of Brothers: Legacy",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+    "overview": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
+    "theatrical": false,
+    "trailer_published": "2026-09-03T17:07:20.000Z",
+    "videos": [
+      {
+        "key": "IjLg0X59fMA",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T17:07:20.000Z"
       }
     ]
   },
@@ -2372,24 +2414,6 @@
         "name": "Ladies & Ladies",
         "type": "Teaser",
         "published_at": "2026-07-01T06:03:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1585239,
-    "title": "Club Kid",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
-    "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T12:07:41.000Z",
-    "videos": [
-      {
-        "key": "guKEdb_iRXw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:07:41.000Z"
       }
     ]
   },
@@ -3422,24 +3446,6 @@
         "name": "9.24.27",
         "type": "Teaser",
         "published_at": "2026-06-23T15:14:40.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1391239,
-    "title": "The Debut",
-    "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
-    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
-    "theatrical": true,
-    "trailer_published": "2026-06-23T12:59:06.000Z",
-    "videos": [
-      {
-        "key": "clyzHmBx43E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T12:59:06.000Z"
       }
     ]
   },
