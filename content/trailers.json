@@ -1,11 +1,47 @@
 [
   {
+    "id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "release_date": "2026-11-03",
+    "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
+    "theatrical": true,
+    "trailer_published": "2026-10-11T12:00:36.000Z",
+    "videos": [
+      {
+        "key": "pWJjYoqVSjQ",
+        "name": "Official Trailer 2 [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-11T12:00:36.000Z"
+      },
+      {
+        "key": "-9MA9BnA7Uo",
+        "name": "Official UK Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-08T14:00:05.000Z"
+      },
+      {
+        "key": "kw0YhiqOPFg",
+        "name": "Official 1.43:1 Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-08T13:55:06.000Z"
+      },
+      {
+        "key": "Xmy-Z3dHMd8",
+        "name": "Official Teaser [Subtitled]",
+        "type": "Teaser",
+        "published_at": "2026-07-09T13:55:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1297467,
     "title": "The Exorcist: Martyrs",
     "release_date": "2027-03-12",
     "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zdc2FBYjzHhkF1aFzHEjMPw1Ctj.jpg",
-    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy\u2019s blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
+    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
     "theatrical": true,
     "trailer_published": "2026-10-09T22:38:27.000Z",
     "videos": [
@@ -458,6 +494,30 @@
         "name": "Invitation",
         "type": "Teaser",
         "published_at": "2026-10-02T17:04:43.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1313826,
+    "title": "Nickels",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/5Z2e8UCzVVsHjuqDIZvOdQhySht.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/p5Xy2kaWnSl969JJTdvrm7pNgy.jpg",
+    "overview": "A successful entrepreneur and family man is involved in a bike accident involving his neighbor's son, triggering memories of his older brother's tragic death 30 years earlier.",
+    "theatrical": true,
+    "trailer_published": "2026-10-02T17:00:46.000Z",
+    "videos": [
+      {
+        "key": "HtGkvXA-qPc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-28T16:06:18.000Z"
+      },
+      {
+        "key": "WOK5Gcfh6mw",
+        "name": "Watch At Home Now",
+        "type": "Teaser",
+        "published_at": "2026-10-02T17:00:46.000Z"
       }
     ]
   },
@@ -1074,32 +1134,26 @@
     ]
   },
   {
-    "id": 1457866,
-    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
-    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+    "id": 1185344,
+    "title": "The Beast",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+    "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
     "theatrical": true,
-    "trailer_published": "2026-09-21T12:00:00.000Z",
+    "trailer_published": "2026-09-22T16:07:42.000Z",
     "videos": [
       {
-        "key": "RjEZaUBbUvU",
+        "key": "5ckqV_uf8E0",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-21T12:00:00.000Z"
+        "published_at": "2026-09-22T16:07:42.000Z"
       },
       {
-        "key": "hbU1zLAwj3w",
-        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "key": "A2L5wQej_es",
+        "name": "Official Teaser Trailer",
         "type": "Teaser",
-        "published_at": "2026-08-26T20:55:34.000Z"
-      },
-      {
-        "key": "ik0drfECnPo",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-09T01:43:08.000Z"
+        "published_at": "2026-09-02T16:00:34.000Z"
       }
     ]
   },
@@ -1232,42 +1286,6 @@
         "name": "We tink we taw you heading to see Coyote Vs. Acme over Labor Day weekend!",
         "type": "Teaser",
         "published_at": "2026-09-04T20:54:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437511,
-    "title": "How to Rob a Bank",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
-    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T13:00:09.000Z",
-    "videos": [
-      {
-        "key": "MVvWKh336m4",
-        "name": "Official UK Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-17T13:00:09.000Z"
-      },
-      {
-        "key": "B9XOzCUvFB8",
-        "name": "Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-17T12:59:58.000Z"
-      },
-      {
-        "key": "hoXld2b0TCs",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T13:02:07.000Z"
-      },
-      {
-        "key": "ORxw68y3lyw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T13:00:02.000Z"
       }
     ]
   },
@@ -1542,36 +1560,6 @@
     ]
   },
   {
-    "id": 1394740,
-    "title": "Tazza: The Song of Beelzebub",
-    "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/4w4TEDwrXFMpdZSI0xvaUAgiOc1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/w5OX3u2SpMVRU0sol0mtIaf4LSI.jpg",
-    "overview": "Jang Taeyoung, who believes he has everything after building a successful online casino business, loses it all to his former best friend and namesake, Park Taeyoung. The two reunite on the international poker circuit for a high-stakes battle of revenge.",
-    "theatrical": false,
-    "trailer_published": "2026-09-10T16:23:23.000Z",
-    "videos": [
-      {
-        "key": "gDgTGFltqBw",
-        "name": "Main Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-07T02:00:08.000Z"
-      },
-      {
-        "key": "sSvUg0--XEc",
-        "name": "Int'l, Censored Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-04T03:07:59.000Z"
-      },
-      {
-        "key": "1O0rBRrYXaI",
-        "name": "Teaser Trailer [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2026-09-10T16:23:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1596303,
     "title": "The Last First: Winter K2",
     "release_date": "2026-10-02",
@@ -1680,38 +1668,20 @@
     ]
   },
   {
-    "id": 1381071,
-    "title": "Godzilla Minus Zero",
-    "release_date": "2026-11-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
+    "id": 1492198,
+    "title": "Artificial",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/2bz0HPE8OFOqnyvl8sCdVDIg1KX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/or81MQagASpU9WeLxEA3GuG3iFk.jpg",
+    "overview": "When computer scientist Ilya Sutskever and AI pioneer Geoffrey Hinton make a breakthrough they're certain will alter humanity forever, the most prominent figures in Silicon Valley race to become a part of their vision. Years later, after a chance meeting with Sam Altman, Sutskever and a group of idealistic entrepreneurs create OpenAI with backing from Elon Musk and assistance from engineer Mira Murati.",
     "theatrical": true,
-    "trailer_published": "2026-09-08T14:00:05.000Z",
+    "trailer_published": "2026-09-08T15:00:25.000Z",
     "videos": [
       {
-        "key": "-9MA9BnA7Uo",
-        "name": "Official UK Trailer [Subtitled]",
+        "key": "rDZplZFnbOk",
+        "name": "Official Teaser Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-08T14:00:05.000Z"
-      },
-      {
-        "key": "kw0YhiqOPFg",
-        "name": "Official 1.43:1 Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-08T13:55:06.000Z"
-      },
-      {
-        "key": "Xmy-Z3dHMd8",
-        "name": "Official Teaser [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2026-07-09T13:55:06.000Z"
-      },
-      {
-        "key": "n-NDYWPXpKg",
-        "name": "First Look Teaser",
-        "type": "Teaser",
-        "published_at": "2026-04-14T22:55:07.000Z"
+        "published_at": "2026-09-08T15:00:25.000Z"
       }
     ]
   },
@@ -1874,24 +1844,6 @@
         "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
         "type": "Trailer",
         "published_at": "2026-09-03T22:19:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1762506,
-    "title": "Band of Brothers: Legacy",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
-    "overview": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
-    "theatrical": false,
-    "trailer_published": "2026-09-03T17:07:20.000Z",
-    "videos": [
-      {
-        "key": "IjLg0X59fMA",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T17:07:20.000Z"
       }
     ]
   },
@@ -2652,24 +2604,6 @@
     ]
   },
   {
-    "id": 1403836,
-    "title": "The Bluey Movie",
-    "release_date": "2027-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
-    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
-    "theatrical": true,
-    "trailer_published": "2026-08-15T03:26:36.000Z",
-    "videos": [
-      {
-        "key": "I0YWGgZBiYc",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-15T03:26:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -2856,10 +2790,40 @@
     ]
   },
   {
+    "id": 1376856,
+    "title": "The Paradise",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+    "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+    "theatrical": false,
+    "trailer_published": "2026-08-06T12:32:42.000Z",
+    "videos": [
+      {
+        "key": "Y3xewv1ZnHc",
+        "name": "Official Teaser [ENG SUB]",
+        "type": "Teaser",
+        "published_at": "2026-08-06T12:32:42.000Z"
+      },
+      {
+        "key": "6B2T6prycwk",
+        "name": "Glimpse",
+        "type": "Teaser",
+        "published_at": "2025-03-03T05:47:23.000Z"
+      },
+      {
+        "key": "NkZFnpDhdCk",
+        "name": "Glimpse : RAW STATEMENT",
+        "type": "Teaser",
+        "published_at": "2025-03-03T05:47:08.000Z"
+      }
+    ]
+  },
+  {
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/gYIpKLZwFSuPtzeeGJCwcsPh6Rh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -3064,7 +3028,7 @@
     "title": "Matchbox the Movie",
     "release_date": "2026-10-05",
     "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
     "theatrical": false,
     "trailer_published": "2026-07-25T21:30:05.000Z",
@@ -3450,6 +3414,30 @@
     ]
   },
   {
+    "id": 1187326,
+    "title": "Tad and The Magic Lamp",
+    "release_date": "2026-08-26",
+    "poster": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+    "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
+    "theatrical": false,
+    "trailer_published": "2026-06-18T14:14:24.000Z",
+    "videos": [
+      {
+        "key": "8-Bjo_rXCkM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-18T14:14:24.000Z"
+      },
+      {
+        "key": "L9d1Ax3g6a8",
+        "name": "Tad and his friends are back! Don't miss the trailer for Tad and the Magic Lamp TOMORROW.",
+        "type": "Teaser",
+        "published_at": "2026-06-17T17:05:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 813418,
     "title": "Hot Spot",
     "release_date": "2026-08-21",
@@ -3645,7 +3633,7 @@
     "id": 1572116,
     "title": "Monster Mia",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/rEIgF9W6OXJiHpM1fXLVVMqQlfF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9I2w1Sw4DrcQpe2VNvduvUNkVkW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
     "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
     "theatrical": true,
