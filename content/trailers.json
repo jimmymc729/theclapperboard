@@ -1,5 +1,185 @@
 [
   {
+    "id": 1248832,
+    "title": "Digger",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "theatrical": true,
+    "trailer_published": "2026-10-11T19:00:33.000Z",
+    "videos": [
+      {
+        "key": "job8V254NAE",
+        "name": "Official Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:03.000Z"
+      },
+      {
+        "key": "qORTe1wW3Wg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-13T13:00:30.000Z"
+      },
+      {
+        "key": "Pd4Olzi0HEc",
+        "name": "Tom Cruise Retrospective Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T16:00:07.000Z"
+      },
+      {
+        "key": "AWOFECt_CHY",
+        "name": "Find out for yourself.",
+        "type": "Teaser",
+        "published_at": "2026-10-11T19:00:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400837,
+    "title": "Other Mommy",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "theatrical": true,
+    "trailer_published": "2026-10-11T18:02:48.000Z",
+    "videos": [
+      {
+        "key": "-mnTITqqiT0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-15T15:00:12.000Z"
+      },
+      {
+        "key": "bEpTgowZ1dI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T13:00:46.000Z"
+      },
+      {
+        "key": "BOUR-YCYdv8",
+        "name": "\"Are You Tricking Me?\"",
+        "type": "Teaser",
+        "published_at": "2026-10-11T18:02:48.000Z"
+      },
+      {
+        "key": "PCEMfqK0-Ro",
+        "name": "Sometimes she's there. Sometimes she's not.",
+        "type": "Teaser",
+        "published_at": "2026-10-11T12:02:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-11T17:00:05.000Z",
+    "videos": [
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "LSga_I4hroo",
+        "name": "Spiraling out of place.",
+        "type": "Teaser",
+        "published_at": "2026-10-11T17:00:05.000Z"
+      },
+      {
+        "key": "sEkH64NFfbY",
+        "name": "Like his face?",
+        "type": "Teaser",
+        "published_at": "2026-10-11T16:00:39.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "theatrical": true,
+    "trailer_published": "2026-10-11T13:00:17.000Z",
+    "videos": [
+      {
+        "key": "U6sbm1OaJb8",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-01T16:00:13.000Z"
+      },
+      {
+        "key": "Xt4X4FvXk2A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T13:00:08.000Z"
+      },
+      {
+        "key": "hWRml2zvJpg",
+        "name": "Years In The Shadow",
+        "type": "Teaser",
+        "published_at": "2026-10-11T13:00:17.000Z"
+      },
+      {
+        "key": "HvuarlKq16o",
+        "name": "Face to Face",
+        "type": "Teaser",
+        "published_at": "2026-10-10T23:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-10-11T13:00:06.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "UVXv_Z1dpis",
+        "name": "Crossing Guard",
+        "type": "Teaser",
+        "published_at": "2026-10-11T13:00:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1381071,
     "title": "Godzilla Minus Zero",
     "release_date": "2026-11-03",
@@ -36,6 +216,42 @@
     ]
   },
   {
+    "id": 858035,
+    "title": "Klara and the Sun",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
+    "overview": "An Artificial Friend named Klara finds a deep bond with a troubled young girl, bringing light and hope to a grieving family through her unwavering devotion and innocent wonder.",
+    "theatrical": true,
+    "trailer_published": "2026-10-11T10:00:10.000Z",
+    "videos": [
+      {
+        "key": "wixzainceAE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-22T16:00:09.000Z"
+      },
+      {
+        "key": "9loCW5oxE68",
+        "name": "Powered by sunshine",
+        "type": "Teaser",
+        "published_at": "2026-10-11T10:00:10.000Z"
+      },
+      {
+        "key": "I0h3yC8deYs",
+        "name": "One month until the world meets Klara",
+        "type": "Teaser",
+        "published_at": "2026-09-23T09:30:03.000Z"
+      },
+      {
+        "key": "OcQtWamdUMQ",
+        "name": "Meet the future of friendship.",
+        "type": "Teaser",
+        "published_at": "2026-08-22T00:00:18.000Z"
+      }
+    ]
+  },
+  {
     "id": 1297467,
     "title": "The Exorcist: Martyrs",
     "release_date": "2027-03-12",
@@ -50,42 +266,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-09T22:38:27.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400837,
-    "title": "Other Mommy",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T18:31:48.000Z",
-    "videos": [
-      {
-        "key": "-mnTITqqiT0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-15T15:00:12.000Z"
-      },
-      {
-        "key": "bEpTgowZ1dI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T13:00:46.000Z"
-      },
-      {
-        "key": "gISxb3fvN6M",
-        "name": "Mommy?",
-        "type": "Teaser",
-        "published_at": "2026-10-09T18:31:48.000Z"
-      },
-      {
-        "key": "yTabvqtAwcQ",
-        "name": "Is it Mommy?",
-        "type": "Teaser",
-        "published_at": "2026-10-09T16:31:33.000Z"
       }
     ]
   },
@@ -126,78 +306,6 @@
     ]
   },
   {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T16:00:14.000Z",
-    "videos": [
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "2SbbEuoAXOM",
-        "name": "Nothing is the same.",
-        "type": "Teaser",
-        "published_at": "2026-10-09T16:00:14.000Z"
-      },
-      {
-        "key": "IEsKFchbL9U",
-        "name": "Beware of the mutations.",
-        "type": "Teaser",
-        "published_at": "2026-10-06T16:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T14:00:16.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "8_ufLqErU_Q",
-        "name": "See it for yourself. You decide.",
-        "type": "Teaser",
-        "published_at": "2026-10-09T14:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
@@ -230,42 +338,6 @@
         "name": "Three more months. Twice the tributes. One arena.",
         "type": "Teaser",
         "published_at": "2026-08-20T16:00:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T11:30:20.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "Eo4eH7w6zU8",
-        "name": "Every revolution starts with a reckoning.",
-        "type": "Teaser",
-        "published_at": "2026-10-09T11:30:20.000Z"
       }
     ]
   },
@@ -522,42 +594,6 @@
     ]
   },
   {
-    "id": 1153576,
-    "title": "Street Fighter",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "theatrical": true,
-    "trailer_published": "2026-10-02T16:03:45.000Z",
-    "videos": [
-      {
-        "key": "U6sbm1OaJb8",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T16:00:13.000Z"
-      },
-      {
-        "key": "Xt4X4FvXk2A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T13:00:08.000Z"
-      },
-      {
-        "key": "tt5rfR2Zobw",
-        "name": "he's running out of time...",
-        "type": "Teaser",
-        "published_at": "2026-10-02T16:03:45.000Z"
-      },
-      {
-        "key": "5lUfquZR9Ic",
-        "name": "Hadoken! From the game to the big screen, get tickets to see  Street Fighter",
-        "type": "Teaser",
-        "published_at": "2026-09-29T01:00:07.000Z"
-      }
-    ]
-  },
-  {
     "id": 977942,
     "title": "The Uprising",
     "release_date": "2026-09-10",
@@ -635,7 +671,7 @@
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
-    "overview": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-10-01T12:59:47.000Z",
     "videos": [
@@ -1082,36 +1118,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-03-19T13:00:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 858035,
-    "title": "Klara and the Sun",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1ZwcLnQMFvoAEbnGOsXJplgic6.jpg",
-    "overview": "An Artificial Friend named Klara finds a deep bond with a troubled young girl, bringing light and hope to a grieving family through her unwavering devotion and innocent wonder.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T09:30:03.000Z",
-    "videos": [
-      {
-        "key": "wixzainceAE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-22T16:00:09.000Z"
-      },
-      {
-        "key": "I0h3yC8deYs",
-        "name": "One month until the world meets Klara",
-        "type": "Teaser",
-        "published_at": "2026-09-23T09:30:03.000Z"
-      },
-      {
-        "key": "OcQtWamdUMQ",
-        "name": "Meet the future of friendship.",
-        "type": "Teaser",
-        "published_at": "2026-08-22T00:00:18.000Z"
       }
     ]
   },
@@ -1971,8 +1977,8 @@
     "id": 1476746,
     "title": "The Florist",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/1etZaDkyHpaRz2cTvH2evgQm19J.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rzxBvCix5Ebl3KYPIXpD8hy64uE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
     "overview": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
     "theatrical": true,
     "trailer_published": "2026-09-01T15:13:20.000Z",
@@ -2550,42 +2556,6 @@
     ]
   },
   {
-    "id": 1101383,
-    "title": "The End of Oak Street",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "theatrical": true,
-    "trailer_published": "2026-08-17T20:00:30.000Z",
-    "videos": [
-      {
-        "key": "u4tgctWuHc0",
-        "name": "Tickets now on sale",
-        "type": "Trailer",
-        "published_at": "2026-07-22T13:07:01.000Z"
-      },
-      {
-        "key": "3oB9AxspVow",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-01T13:00:20.000Z"
-      },
-      {
-        "key": "s9GKXTbChjE",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-26T16:00:00.000Z"
-      },
-      {
-        "key": "gBjcR8FdFc4",
-        "name": "Pure fun, from start to finish.",
-        "type": "Teaser",
-        "published_at": "2026-08-17T20:00:30.000Z"
-      }
-    ]
-  },
-  {
     "id": 1732625,
     "title": "LEGO Disney Princess: Magical Mayhem",
     "release_date": "2026-08-21",
@@ -2820,6 +2790,30 @@
     ]
   },
   {
+    "id": 1444466,
+    "title": "Awarapan 2",
+    "release_date": "2026-08-14",
+    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dLw4YK72fW4dF82nnLFDbeXotSX.jpg",
+    "overview": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
+    "theatrical": true,
+    "trailer_published": "2026-08-06T05:48:19.000Z",
+    "videos": [
+      {
+        "key": "1ya87ENCRj0",
+        "name": "Awarapan 2 : Trailer: Shivam\u2019s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug",
+        "type": "Trailer",
+        "published_at": "2026-08-06T05:48:19.000Z"
+      },
+      {
+        "key": "IQ7HkZ-Gun8",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2026-06-29T05:34:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-05",
@@ -3047,7 +3041,7 @@
     "release_date": "2026-08-14",
     "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
-    "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage.",
+    "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical\u2014until she's suddenly facing more drama at home than on the stage.",
     "theatrical": false,
     "trailer_published": "2026-07-23T15:00:00.000Z",
     "videos": [
@@ -3442,7 +3436,7 @@
     "title": "Hot Spot",
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mATo9RWAc7IWGVbetpmmKJqWDiJ.jpg",
     "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
     "theatrical": true,
     "trailer_published": "2026-06-17T15:00:14.000Z",
