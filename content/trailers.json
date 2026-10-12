@@ -1,5 +1,149 @@
 [
   {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-10-12T16:00:04.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "uhEy3gJ1DnQ",
+        "name": "Call Your Friends. Get Tickets Now.",
+        "type": "Teaser",
+        "published_at": "2026-10-12T16:00:04.000Z"
+      },
+      {
+        "key": "ICpcjVIV_Ps",
+        "name": "One Month",
+        "type": "Teaser",
+        "published_at": "2026-10-06T19:03:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-10-12T13:07:43.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "AGR8MRZck3s",
+        "name": "Grow",
+        "type": "Teaser",
+        "published_at": "2026-10-12T13:07:43.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1423191,
+    "title": "Resident Evil",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-12T10:00:16.000Z",
+    "videos": [
+      {
+        "key": "mNd1gb19A-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T13:00:24.000Z"
+      },
+      {
+        "key": "SJPu1spHqfk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-30T12:59:32.000Z"
+      },
+      {
+        "key": "gprAaN6RU-U",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-10-12T10:00:16.000Z"
+      },
+      {
+        "key": "IBVetWBLMUA",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-10-03T03:00:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-10-12T04:00:31.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "4dxP66pm22k",
+        "name": "Frances",
+        "type": "Teaser",
+        "published_at": "2026-10-12T04:00:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -140,42 +284,6 @@
         "name": "Face to Face",
         "type": "Teaser",
         "published_at": "2026-10-10T23:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-10-11T13:00:06.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "UVXv_Z1dpis",
-        "name": "Crossing Guard",
-        "type": "Teaser",
-        "published_at": "2026-10-11T13:00:06.000Z"
       }
     ]
   },
@@ -347,7 +455,7 @@
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
     "theatrical": true,
     "trailer_published": "2026-10-08T08:00:29.000Z",
     "videos": [
@@ -374,30 +482,6 @@
         "name": "Get Tickets Now",
         "type": "Teaser",
         "published_at": "2026-10-04T02:00:20.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1599230,
-    "title": "Elsinore",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
-    "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-07T09:00:05.000Z",
-    "videos": [
-      {
-        "key": "TpNEh5vvAns",
-        "name": "International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-07T09:00:05.000Z"
-      },
-      {
-        "key": "SzopCeFAWF0",
-        "name": "US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-28T15:00:01.000Z"
       }
     ]
   },
@@ -441,7 +525,7 @@
     "id": 1236045,
     "title": "Animals",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
     "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
     "theatrical": true,
@@ -504,46 +588,10 @@
     ]
   },
   {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-03T03:00:03.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "IBVetWBLMUA",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-10-03T03:00:03.000Z"
-      },
-      {
-        "key": "E7OzF0wWkWE",
-        "name": "Bruh.",
-        "type": "Teaser",
-        "published_at": "2026-09-28T05:00:17.000Z"
-      }
-    ]
-  },
-  {
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ySkfsMQxSVokn5zYavQByFDrzsy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
@@ -566,30 +614,6 @@
         "name": "Invitation",
         "type": "Teaser",
         "published_at": "2026-10-02T17:04:43.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1313826,
-    "title": "Nickels",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/5Z2e8UCzVVsHjuqDIZvOdQhySht.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/p5Xy2kaWnSl969JJTdvrm7pNgy.jpg",
-    "overview": "A successful entrepreneur and family man is involved in a bike accident involving his neighbor's son, triggering memories of his older brother's tragic death 30 years earlier.",
-    "theatrical": true,
-    "trailer_published": "2026-10-02T17:00:46.000Z",
-    "videos": [
-      {
-        "key": "HtGkvXA-qPc",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-28T16:06:18.000Z"
-      },
-      {
-        "key": "WOK5Gcfh6mw",
-        "name": "Watch At Home Now",
-        "type": "Teaser",
-        "published_at": "2026-10-02T17:00:46.000Z"
       }
     ]
   },
@@ -753,8 +777,8 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-09-28T18:00:09.000Z",
@@ -923,7 +947,7 @@
     "release_date": "2026-09-30",
     "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
-    "overview": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+    "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
     "theatrical": true,
     "trailer_published": "2026-09-25T14:46:09.000Z",
     "videos": [
@@ -1098,26 +1122,20 @@
     ]
   },
   {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "id": 940009,
+    "title": "Ray Gunn",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
+    "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
     "theatrical": true,
-    "trailer_published": "2026-09-23T13:00:09.000Z",
+    "trailer_published": "2026-09-23T13:00:02.000Z",
     "videos": [
       {
-        "key": "kqxuamKxRTo",
+        "key": "VL-xjzQFWsY",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
+        "published_at": "2026-09-23T13:00:02.000Z"
       }
     ]
   },
@@ -1188,6 +1206,24 @@
     ]
   },
   {
+    "id": 1776586,
+    "title": "The Other",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/iolVHnBJckWKitle6JAk9OKyMfa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kdvd3L8ZiuC271iH5RozkZp5j90.jpg",
+    "overview": "A short mystery horror film written and directed by filmmaker Hakeem Ahmed.  What begins as an ordinary Saturday for Salim quickly takes a disturbing turn when he notices someone is following him.  A stranger.  The same clothes.  The same places.  Always there.  An unsettling coincidence soon becomes something far more disturbing.  As the day descends into paranoia and fear, Salim is finally forced to confront the person who has been stalking him.  Some things are better left unknown.",
+    "theatrical": false,
+    "trailer_published": "2026-09-20T15:55:35.000Z",
+    "videos": [
+      {
+        "key": "E-OAF8RHHao",
+        "name": "THE OTHER | Short Horror Film",
+        "type": "Trailer",
+        "published_at": "2026-09-20T15:55:35.000Z"
+      }
+    ]
+  },
+  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -1220,42 +1256,6 @@
         "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
         "type": "Teaser",
         "published_at": "2026-09-13T16:00:08.000Z"
-      }
-    ]
-  },
-  {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-09-18T13:00:01.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "BfeBrJWx0f8",
-        "name": "How far would you go for love?",
-        "type": "Teaser",
-        "published_at": "2026-09-18T13:00:01.000Z"
       }
     ]
   },
@@ -1516,7 +1516,7 @@
     "title": "The Incomer",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/QSHsgR6ZTAbnDkHjRhaxkL3caj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gdqm7D25PTLxnIaizZbCGXdqKMD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tcm829PtxDSomGOEXxzO7c0sK3p.jpg",
     "overview": "On an Orkney isle, two siblings survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
     "theatrical": true,
     "trailer_published": "2026-09-12T15:00:16.000Z",
@@ -1620,6 +1620,24 @@
     ]
   },
   {
+    "id": 1545690,
+    "title": "WWE Money in the Bank 2026",
+    "release_date": "2026-10-10",
+    "poster": "https://image.tmdb.org/t/p/w500/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vdwmT1oZcDgkjvmyu7OYw1z6GYx.jpg",
+    "overview": "The 2026 Money in the Bank, also promoted as Money in the Bank: New Orleans, is an upcoming professional wrestling premium live event produced by WWE. It will be the 17th annual Money in the Bank event and will take place on Saturday, October 10, 2026, in New Orleans, Louisiana. This will be the first Money in the Bank to be held in October, making it the latest scheduled Money in the Bank in a calendar year, and the first one to be held after SummerSlam.",
+    "theatrical": false,
+    "trailer_published": "2026-09-09T22:37:03.000Z",
+    "videos": [
+      {
+        "key": "epsFOb1Uwhg",
+        "name": "WWE Money In The Bank 2026 Official Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2026-09-09T22:37:03.000Z"
+      }
+    ]
+  },
+  {
     "id": 1269325,
     "title": "Drishyam: The Conclusion",
     "release_date": "2026-10-02",
@@ -1670,24 +1688,6 @@
         "name": "Only In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-09-09T06:57:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1492198,
-    "title": "Artificial",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/2bz0HPE8OFOqnyvl8sCdVDIg1KX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/or81MQagASpU9WeLxEA3GuG3iFk.jpg",
-    "overview": "When computer scientist Ilya Sutskever and AI pioneer Geoffrey Hinton make a breakthrough they're certain will alter humanity forever, the most prominent figures in Silicon Valley race to become a part of their vision. Years later, after a chance meeting with Sam Altman, Sutskever and a group of idealistic entrepreneurs create OpenAI with backing from Elon Musk and assistance from engineer Mira Murati.",
-    "theatrical": true,
-    "trailer_published": "2026-09-08T15:00:25.000Z",
-    "videos": [
-      {
-        "key": "rDZplZFnbOk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-08T15:00:25.000Z"
       }
     ]
   },
@@ -1800,10 +1800,28 @@
     ]
   },
   {
+    "id": 1770676,
+    "title": "Woodzilla",
+    "release_date": "2026-09-20",
+    "poster": "https://image.tmdb.org/t/p/w500/p2BXnn01I6IATepL7bCJliB8WVs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bewa5Vv8fCfs550YepiON1w5BNz.jpg",
+    "overview": "After years of disrespect from his students, a creepy film teacher finally snaps. Leaving none of his oblivious students safe.",
+    "theatrical": false,
+    "trailer_published": "2026-09-06T12:49:15.000Z",
+    "videos": [
+      {
+        "key": "X4up2as7r6M",
+        "name": "WOODHOUSE (2026) Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-06T12:49:15.000Z"
+      }
+    ]
+  },
+  {
     "id": 1465943,
     "title": "Mandaadi",
     "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
     "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
     "theatrical": true,
@@ -1904,24 +1922,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-08T15:00:37.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1758536,
-    "title": "The Widower: 'Til Death Do Us Part",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
-    "overview": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
-    "theatrical": false,
-    "trailer_published": "2026-09-02T17:30:00.000Z",
-    "videos": [
-      {
-        "key": "2Xn881UkR3s",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-02T17:30:00.000Z"
       }
     ]
   },
@@ -2190,6 +2190,42 @@
     ]
   },
   {
+    "id": 1766250,
+    "title": "Wild Hours",
+    "release_date": "2026-09-08",
+    "poster": "https://image.tmdb.org/t/p/w500/dyJjdMKW8Tb3WdNiRxrgYCAYOIM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xwD8AnNhte83DktUP4pAvVVZnIz.jpg",
+    "overview": "A father and ultra runner takes on a 120 km trail race in Chianti, Italy, while creating a record of the experience he hopes to one day share with his young daughter. A personal journey through endurance, challenge, fatherhood and the reasons we keep pushing forward.",
+    "theatrical": false,
+    "trailer_published": "2026-08-25T08:58:04.000Z",
+    "videos": [
+      {
+        "key": "WKGpsdis6bA",
+        "name": "WILD HOURS | Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-25T08:58:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1759264,
+    "title": "The Critique",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/mdNfRFNMqhSnS0UMx8Wbk9aajFv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7C03OuQPCW214MuU9TeOqgUWSIz.jpg",
+    "overview": "A simple surveillance gig goes sideways when two petty hustlers paid to investigate a hotel guest realize someone else has their sights set on the target. Genre:  Satire | Dark Comedy | Short-Film | Crime | Neo-Noir",
+    "theatrical": false,
+    "trailer_published": "2026-08-22T19:19:26.000Z",
+    "videos": [
+      {
+        "key": "I0vdbYT56QM",
+        "name": "First Look at \"THE CRITIQUE\" (Hindi w/ English Subtitles)",
+        "type": "Trailer",
+        "published_at": "2026-08-22T19:19:26.000Z"
+      }
+    ]
+  },
+  {
     "id": 1124142,
     "title": "The Rivals of Amziah King",
     "release_date": "2026-08-14",
@@ -2306,24 +2342,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": 961214,
-    "title": "Reawakened Man",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/5SHFK1EoJeYy9jPHWX32LDsMNAG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kiDd05NykJBIoEvJPSG5SOd7qc6.jpg",
-    "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
-    "theatrical": false,
-    "trailer_published": "2026-08-20T01:00:16.000Z",
-    "videos": [
-      {
-        "key": "xYCXTTxsBpA",
-        "name": "Reawakened Man | Official Teaser Trailer | INTL",
-        "type": "Teaser",
-        "published_at": "2026-08-20T01:00:16.000Z"
       }
     ]
   },
@@ -2760,60 +2778,6 @@
     ]
   },
   {
-    "id": 1376856,
-    "title": "The Paradise",
-    "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-    "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-    "theatrical": false,
-    "trailer_published": "2026-08-06T12:32:42.000Z",
-    "videos": [
-      {
-        "key": "Y3xewv1ZnHc",
-        "name": "Official Teaser [ENG SUB]",
-        "type": "Teaser",
-        "published_at": "2026-08-06T12:32:42.000Z"
-      },
-      {
-        "key": "6B2T6prycwk",
-        "name": "Glimpse",
-        "type": "Teaser",
-        "published_at": "2025-03-03T05:47:23.000Z"
-      },
-      {
-        "key": "NkZFnpDhdCk",
-        "name": "Glimpse : RAW STATEMENT",
-        "type": "Teaser",
-        "published_at": "2025-03-03T05:47:08.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1444466,
-    "title": "Awarapan 2",
-    "release_date": "2026-08-14",
-    "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dLw4YK72fW4dF82nnLFDbeXotSX.jpg",
-    "overview": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T05:48:19.000Z",
-    "videos": [
-      {
-        "key": "1ya87ENCRj0",
-        "name": "Awarapan 2 : Trailer: Shivam\u2019s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug",
-        "type": "Trailer",
-        "published_at": "2026-08-06T05:48:19.000Z"
-      },
-      {
-        "key": "IQ7HkZ-Gun8",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-29T05:34:34.000Z"
-      }
-    ]
-  },
-  {
     "id": 656908,
     "title": "Ramayana",
     "release_date": "2026-11-05",
@@ -2896,7 +2860,7 @@
     "title": "Jumanji: Open World",
     "release_date": "2026-12-25",
     "poster": "https://image.tmdb.org/t/p/w500/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sI65LrPqw0w9VYHfWfa0KoO5c1J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pYN5Zjc3l1hj2hMeBbzRYDYTC1E.jpg",
     "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
     "theatrical": true,
     "trailer_published": "2026-07-29T01:00:14.000Z",
@@ -3036,6 +3000,24 @@
     ]
   },
   {
+    "id": 1412795,
+    "title": "The Spiral",
+    "release_date": "2026-10-08",
+    "poster": "https://image.tmdb.org/t/p/w500/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jsnatGViKLWlW3iqr2wrZNWSrRB.jpg",
+    "overview": "On a stormy night in Rome, Anna arrives at her daughter Alice\u2019s apartment with a devastating confession: their entire family history is built on a lie. Twenty years earlier, after a horrific accident that nearly cost Alice her leg, Anna claims she made a pact with a mysterious Stranger to save her. But the miracle came at a price. What she believed was a single desperate bargain has in fact unleashed a spiraling chain reaction \u2014 a domino effect of increasingly dark events that have haunted their lives ever since. Now, the Stranger has come to collect. And Anna is convinced that only Alice can break the spiral and set things right. But at what cost?",
+    "theatrical": false,
+    "trailer_published": "2026-07-24T09:56:43.000Z",
+    "videos": [
+      {
+        "key": "OiPKYpJlRGM",
+        "name": "L'ESTRANEA di Paolo Strippoli (2026) #venezia83 - TRAILER UFFICIALE HD",
+        "type": "Trailer",
+        "published_at": "2026-07-24T09:56:43.000Z"
+      }
+    ]
+  },
+  {
     "id": 1504358,
     "title": "Don't Say Good Luck",
     "release_date": "2026-08-14",
@@ -3050,36 +3032,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-23T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1591675,
-    "title": "Look Back",
-    "release_date": "2026-09-27",
-    "poster": "https://image.tmdb.org/t/p/w500/sxiJhMNTBRvQgMnB9H4VIVdQfW9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-    "overview": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
-    "theatrical": false,
-    "trailer_published": "2026-07-23T10:41:24.000Z",
-    "videos": [
-      {
-        "key": "5R3EQMrVjt0",
-        "name": "Official Trailer [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-07-23T10:41:24.000Z"
-      },
-      {
-        "key": "_JuFzykd75c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-12-21T07:45:01.000Z"
-      },
-      {
-        "key": "lNQJAIgYRwE",
-        "name": "Official Teaser Trailer [ENG SUB]",
-        "type": "Teaser",
-        "published_at": "2026-06-08T22:00:26.000Z"
       }
     ]
   },
@@ -3294,6 +3246,24 @@
     ]
   },
   {
+    "id": 1726776,
+    "title": "3rd FLOOR",
+    "release_date": "2026-12-27",
+    "poster": "https://image.tmdb.org/t/p/w500/e7G2o16aRSr0eDHdR5sa7IAWk6c.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wClwB44qeGnZOpdVjjnVIiosT7u.jpg",
+    "overview": "A routine elevator ride becomes a battlefield when Maya Uche, a Black activist, and Brett Kiminski, a white conservative, are trapped together between floors. With nowhere to run, their assumptions, anger, and buried grief rise to the surface, forcing both strangers to face the truth behind their politics \u2014 and the pain that made them who they are.",
+    "theatrical": true,
+    "trailer_published": "2026-07-03T01:19:13.000Z",
+    "videos": [
+      {
+        "key": "st5m0_A9e1A",
+        "name": "3rd FLOOR | Official Trailer | AO Films (2026)",
+        "type": "Trailer",
+        "published_at": "2026-07-03T01:19:13.000Z"
+      }
+    ]
+  },
+  {
     "id": 822653,
     "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
     "release_date": "2027-01-16",
@@ -3404,30 +3374,6 @@
         "name": "9.24.27",
         "type": "Teaser",
         "published_at": "2026-06-23T15:14:40.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1187326,
-    "title": "Tad and The Magic Lamp",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-    "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
-    "theatrical": false,
-    "trailer_published": "2026-06-18T14:14:24.000Z",
-    "videos": [
-      {
-        "key": "8-Bjo_rXCkM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-18T14:14:24.000Z"
-      },
-      {
-        "key": "L9d1Ax3g6a8",
-        "name": "Tad and his friends are back! Don't miss the trailer for Tad and the Magic Lamp TOMORROW.",
-        "type": "Teaser",
-        "published_at": "2026-06-17T17:05:31.000Z"
       }
     ]
   },
@@ -3568,7 +3514,7 @@
     "title": "Premada Oorali",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/d3tfAVRB9baqZqFnV6wPvqZnuzi.jpg",
-    "backdrop": "",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
     "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
     "theatrical": true,
     "trailer_published": "2026-04-17T11:53:31.000Z",
@@ -3627,7 +3573,7 @@
     "id": 1572116,
     "title": "Monster Mia",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/9I2w1Sw4DrcQpe2VNvduvUNkVkW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yQAczp5MMJs9neodhcm3spv9xtv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
     "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
     "theatrical": true,
@@ -3638,6 +3584,24 @@
         "name": "MONSTER MIA | Trailer",
         "type": "Trailer",
         "published_at": "2026-02-12T09:23:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1428295,
+    "title": "Comrade Kalyan",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2YEDqQpn8Oi9lEjL9x9ZYzD21Dz.jpg",
+    "overview": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+    "theatrical": true,
+    "trailer_published": "2025-10-02T06:36:04.000Z",
+    "videos": [
+      {
+        "key": "KwTUn9PTCAk",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2025-10-02T06:36:04.000Z"
       }
     ]
   },
