@@ -7,7 +7,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
     "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
     "theatrical": true,
-    "trailer_published": "2026-10-12T17:17:37.000Z",
+    "trailer_published": "2026-10-13T17:00:22.000Z",
     "videos": [
       {
         "key": "Dw-5ZGapGTQ",
@@ -28,10 +28,46 @@
         "published_at": "2026-06-09T16:00:21.000Z"
       },
       {
-        "key": "8RBN-ckxMA8",
-        "name": "Austin can't catch a break",
+        "key": "r1QXsG3QljY",
+        "name": "and they just got louder and louder...",
         "type": "Teaser",
-        "published_at": "2026-10-12T17:17:37.000Z"
+        "published_at": "2026-10-13T17:00:22.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/ayzSlhCYuwV1MHT5kQaVJ0vH9fQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "theatrical": true,
+    "trailer_published": "2026-10-13T17:00:21.000Z",
+    "videos": [
+      {
+        "key": "U6sbm1OaJb8",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-01T16:00:13.000Z"
+      },
+      {
+        "key": "Xt4X4FvXk2A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T13:00:08.000Z"
+      },
+      {
+        "key": "dOPE_E9It6E",
+        "name": "Ryu's Darkness",
+        "type": "Teaser",
+        "published_at": "2026-10-13T17:00:21.000Z"
+      },
+      {
+        "key": "hWRml2zvJpg",
+        "name": "Years In The Shadow",
+        "type": "Teaser",
+        "published_at": "2026-10-11T13:00:17.000Z"
       }
     ]
   },
@@ -43,7 +79,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
-    "trailer_published": "2026-10-12T17:00:16.000Z",
+    "trailer_published": "2026-10-13T17:00:03.000Z",
     "videos": [
       {
         "key": "KCR-rz0YfD4",
@@ -58,16 +94,88 @@
         "published_at": "2026-07-22T16:00:47.000Z"
       },
       {
+        "key": "gk_yGpCGrk4",
+        "name": "Are you ready to face your fear?",
+        "type": "Teaser",
+        "published_at": "2026-10-13T17:00:03.000Z"
+      },
+      {
         "key": "L6hnv8H2ndc",
         "name": "Look at what they\u2019ve done.",
         "type": "Teaser",
         "published_at": "2026-10-12T17:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-10-13T08:33:38.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
       },
       {
-        "key": "LSga_I4hroo",
-        "name": "Spiraling out of place.",
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "Co8QLut1Of0",
+        "name": "Fairytale",
         "type": "Teaser",
-        "published_at": "2026-10-11T17:00:05.000Z"
+        "published_at": "2026-10-13T08:33:38.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-10-12T19:31:35.000Z",
+    "videos": [
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "Du4V-_HnqeU",
+        "name": "Boo Humbug! Costume not available in stores. Holiday spirit(s) only.",
+        "type": "Teaser",
+        "published_at": "2026-10-12T19:31:35.000Z"
+      },
+      {
+        "key": "G4JYnTeSFik",
+        "name": "Snowball",
+        "type": "Teaser",
+        "published_at": "2026-08-02T17:00:30.000Z"
       }
     ]
   },
@@ -104,42 +212,6 @@
         "name": "One Month",
         "type": "Teaser",
         "published_at": "2026-10-06T19:03:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-10-12T13:07:43.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "AGR8MRZck3s",
-        "name": "Grow",
-        "type": "Teaser",
-        "published_at": "2026-10-12T13:07:43.000Z"
       }
     ]
   },
@@ -308,42 +380,6 @@
         "name": "Sometimes she's there. Sometimes she's not.",
         "type": "Teaser",
         "published_at": "2026-10-11T12:02:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1153576,
-    "title": "Street Fighter",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "theatrical": true,
-    "trailer_published": "2026-10-11T13:00:17.000Z",
-    "videos": [
-      {
-        "key": "U6sbm1OaJb8",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T16:00:13.000Z"
-      },
-      {
-        "key": "Xt4X4FvXk2A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T13:00:08.000Z"
-      },
-      {
-        "key": "hWRml2zvJpg",
-        "name": "Years In The Shadow",
-        "type": "Teaser",
-        "published_at": "2026-10-11T13:00:17.000Z"
-      },
-      {
-        "key": "HvuarlKq16o",
-        "name": "Face to Face",
-        "type": "Teaser",
-        "published_at": "2026-10-10T23:00:00.000Z"
       }
     ]
   },
@@ -714,36 +750,6 @@
     ]
   },
   {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-10-01T12:59:47.000Z",
-    "videos": [
-      {
-        "key": "l_Ozo1xUgbU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-01T12:59:47.000Z"
-      },
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "G4JYnTeSFik",
-        "name": "Snowball",
-        "type": "Teaser",
-        "published_at": "2026-08-02T17:00:30.000Z"
-      }
-    ]
-  },
-  {
     "id": 1785138,
     "title": "DEQ",
     "release_date": "2026-09-29",
@@ -835,7 +841,7 @@
   },
   {
     "id": 1422041,
-    "title": "LA BOLA NEGRA",
+    "title": "La bola negra",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
@@ -862,7 +868,7 @@
     "title": "Runner",
     "release_date": "2026-09-07",
     "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "theatrical": true,
     "trailer_published": "2026-09-27T00:00:16.000Z",
@@ -939,7 +945,7 @@
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
@@ -969,7 +975,7 @@
     "id": 1755291,
     "title": "NAZA",
     "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/2C1SvWQe0UV1HzWbqRsGjoaFS4H.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
     "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
     "theatrical": true,
@@ -1234,7 +1240,7 @@
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "theatrical": true,
     "trailer_published": "2026-09-19T19:30:29.000Z",
@@ -2788,7 +2794,7 @@
     "title": "Ramayana",
     "release_date": "2026-11-05",
     "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
     "trailer_published": "2026-08-05T16:00:16.000Z",
@@ -2992,7 +2998,7 @@
     "title": "Matchbox the Movie",
     "release_date": "2026-10-05",
     "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/roawIpy5sigBB7LsU4AJDw70jPo.jpg",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
     "theatrical": false,
     "trailer_published": "2026-07-25T21:30:05.000Z",
@@ -3124,7 +3130,7 @@
     "title": "Don't Move",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1b0RrVxLAMhfT0vQXfWtDLwg1ke.jpg",
     "overview": "A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, and something starts picking them off one by one.  Suspicion falls on Ricky, the troublemaker of the group. But the real threat is far worse.  Deep in the forest, wrapped in a labyrinth of webs, the group is pursued by a terrifying prehistoric arachnid that hunts by vibration. When every step could be their last, they only have one choice: Don't Move.  It's up to Megan to hold what's left of the group together and get them out alive.",
     "theatrical": true,
     "trailer_published": "2026-07-15T14:49:44.000Z",
