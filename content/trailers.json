@@ -1,5 +1,173 @@
 [
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T23:46:36.000Z",
+    "videos": [
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "_72wSKPl754",
+        "name": "Your eyes won't believe it.",
+        "type": "Teaser",
+        "published_at": "2026-10-14T23:46:36.000Z"
+      },
+      {
+        "key": "uuCOw-TxATg",
+        "name": "I Feel Great",
+        "type": "Teaser",
+        "published_at": "2026-10-14T17:30:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T17:04:47.000Z",
+    "videos": [
+      {
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
+      },
+      {
+        "key": "UzK2X7403FM",
+        "name": "Tickets on sale now",
+        "type": "Teaser",
+        "published_at": "2026-10-14T17:04:47.000Z"
+      },
+      {
+        "key": "b7Usmhh3N4k",
+        "name": "The Bottle-Washer's Wife",
+        "type": "Teaser",
+        "published_at": "2026-10-13T19:30:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400837,
+    "title": "Other Mommy",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T16:33:18.000Z",
+    "videos": [
+      {
+        "key": "-mnTITqqiT0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-15T15:00:12.000Z"
+      },
+      {
+        "key": "bEpTgowZ1dI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T13:00:46.000Z"
+      },
+      {
+        "key": "Bh2FpiLSneU",
+        "name": "Some doors are closed for a reason.",
+        "type": "Teaser",
+        "published_at": "2026-10-14T16:33:18.000Z"
+      },
+      {
+        "key": "zijfMxcCTNo",
+        "name": "She looked like you",
+        "type": "Teaser",
+        "published_at": "2026-10-13T18:31:42.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1562642,
+    "title": "Ghost Soldier",
+    "release_date": "2026-11-11",
+    "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+    "overview": "Henry \u201cFitz\u201d Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors\u2019 land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T16:00:40.000Z",
+    "videos": [
+      {
+        "key": "UKaWzMf9Ybc",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-14T16:00:40.000Z"
+      },
+      {
+        "key": "l0pTZqZWs-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-20T14:03:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1503762,
+    "title": "Sense and Sensibility",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T13:33:40.000Z",
+    "videos": [
+      {
+        "key": "OFLyW0lxFU0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-30T15:00:04.000Z"
+      },
+      {
+        "key": "mcrwcvad84U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-25T12:26:01.000Z"
+      },
+      {
+        "key": "hrHR1QIgaXA",
+        "name": "Another fictional man setting the bar high",
+        "type": "Teaser",
+        "published_at": "2026-10-14T13:33:40.000Z"
+      },
+      {
+        "key": "kDSPvwnbwDk",
+        "name": "Invitation",
+        "type": "Teaser",
+        "published_at": "2026-10-02T17:04:43.000Z"
+      }
+    ]
+  },
+  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -36,46 +204,10 @@
     ]
   },
   {
-    "id": 1400837,
-    "title": "Other Mommy",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "theatrical": true,
-    "trailer_published": "2026-10-13T18:31:42.000Z",
-    "videos": [
-      {
-        "key": "-mnTITqqiT0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-15T15:00:12.000Z"
-      },
-      {
-        "key": "bEpTgowZ1dI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T13:00:46.000Z"
-      },
-      {
-        "key": "zijfMxcCTNo",
-        "name": "She looked like you",
-        "type": "Teaser",
-        "published_at": "2026-10-13T18:31:42.000Z"
-      },
-      {
-        "key": "BOUR-YCYdv8",
-        "name": "\"Are You Tricking Me?\"",
-        "type": "Teaser",
-        "published_at": "2026-10-11T18:02:48.000Z"
-      }
-    ]
-  },
-  {
     "id": 1147572,
     "title": "Narnia: The Magician's Nephew",
     "release_date": "2027-02-12",
-    "poster": "https://image.tmdb.org/t/p/w500/5qVKTxZ40Zn0Ke2SPw79CtKuG3N.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xfSMUdnYplhEtLZDFPsOiSBOpU5.jpg",
     "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring her back to London.",
     "theatrical": true,
@@ -130,7 +262,7 @@
     "title": "Whalefall",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
     "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
     "theatrical": true,
     "trailer_published": "2026-10-13T17:00:22.000Z",
@@ -194,42 +326,6 @@
         "name": "Years In The Shadow",
         "type": "Teaser",
         "published_at": "2026-10-11T13:00:17.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-13T17:00:03.000Z",
-    "videos": [
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "gk_yGpCGrk4",
-        "name": "Are you ready to face your fear?",
-        "type": "Teaser",
-        "published_at": "2026-10-13T17:00:03.000Z"
-      },
-      {
-        "key": "x0qQUxmR4XI",
-        "name": "Dive into the darkness of Clayface.",
-        "type": "Teaser",
-        "published_at": "2026-10-13T16:05:03.000Z"
       }
     ]
   },
@@ -513,7 +609,7 @@
     "id": 1297467,
     "title": "The Exorcist: Martyrs",
     "release_date": "2027-03-12",
-    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/i3kvS445sWWIhuxgXywPuUcsoP0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ePIY6b8TlIjqFzK1JKANPhxUIPn.jpg",
     "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
     "theatrical": true,
@@ -524,42 +620,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-09T22:31:45.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T17:08:53.000Z",
-    "videos": [
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
-      },
-      {
-        "key": "Gh60gI2UkJc",
-        "name": "In Two Weeks",
-        "type": "Teaser",
-        "published_at": "2026-10-09T17:08:53.000Z"
-      },
-      {
-        "key": "-viUbGsdW9E",
-        "name": "Book Tickets Now",
-        "type": "Teaser",
-        "published_at": "2026-10-09T15:06:11.000Z"
       }
     ]
   },
@@ -698,36 +758,6 @@
         "name": "Reporting Live | Official Trailer | Parineeti Chopra, Deven Bhojani, Pitobash | Netflix India",
         "type": "Trailer",
         "published_at": "2026-10-03T22:32:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1503762,
-    "title": "Sense and Sensibility",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
-    "theatrical": true,
-    "trailer_published": "2026-10-02T17:04:43.000Z",
-    "videos": [
-      {
-        "key": "OFLyW0lxFU0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-30T15:00:04.000Z"
-      },
-      {
-        "key": "mcrwcvad84U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-25T12:26:01.000Z"
-      },
-      {
-        "key": "kDSPvwnbwDk",
-        "name": "Invitation",
-        "type": "Teaser",
-        "published_at": "2026-10-02T17:04:43.000Z"
       }
     ]
   },
@@ -933,7 +963,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -969,7 +999,7 @@
     "id": 1422041,
     "title": "La bola negra",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
@@ -1388,7 +1418,7 @@
   {
     "id": 1204680,
     "title": "Coyote vs. Acme",
-    "release_date": "2026-08-17",
+    "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
@@ -1728,6 +1758,24 @@
     ]
   },
   {
+    "id": 1381078,
+    "title": "Love of Your Life",
+    "release_date": "2026-10-07",
+    "poster": "https://image.tmdb.org/t/p/w500/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+    "theatrical": true,
+    "trailer_published": "2026-09-09T13:59:49.000Z",
+    "videos": [
+      {
+        "key": "HzGx48E64Xg",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:59:49.000Z"
+      }
+    ]
+  },
+  {
     "id": 1269325,
     "title": "Drishyam: The Conclusion",
     "release_date": "2026-10-02",
@@ -1890,28 +1938,10 @@
     ]
   },
   {
-    "id": 1770676,
-    "title": "Woodzilla",
-    "release_date": "2026-09-20",
-    "poster": "https://image.tmdb.org/t/p/w500/p2BXnn01I6IATepL7bCJliB8WVs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bewa5Vv8fCfs550YepiON1w5BNz.jpg",
-    "overview": "After years of disrespect from his students, a creepy film teacher finally snaps. Leaving none of his oblivious students safe.",
-    "theatrical": false,
-    "trailer_published": "2026-09-06T12:49:15.000Z",
-    "videos": [
-      {
-        "key": "X4up2as7r6M",
-        "name": "WOODHOUSE (2026) Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-06T12:49:15.000Z"
-      }
-    ]
-  },
-  {
     "id": 1465943,
     "title": "Mandaadi",
     "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
     "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
     "theatrical": true,
@@ -2345,7 +2375,7 @@
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mvAazk3iHE2H6I8bzN56cMz1ZH7.jpg",
-    "overview": "A poetic, emotionally expansive father-son story about Black family, grace, imagination, and the hope that love can transform even the most fragile relationships into something more healing and beautiful.",
+    "overview": "In Watts, California, a 12-year-old boy attempts to connect with his distant father following his incarceration while sensing mysterious visions, from airplanes and Greek gods, that seem to follow him through his everyday world.",
     "theatrical": true,
     "trailer_published": "2026-08-20T16:40:08.000Z",
     "videos": [
@@ -2378,24 +2408,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T15:51:42.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1562642,
-    "title": "Ghost Soldier",
-    "release_date": "2026-11-11",
-    "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "overview": "Henry \u201cFitz\u201d Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors\u2019 land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T14:03:57.000Z",
-    "videos": [
-      {
-        "key": "l0pTZqZWs-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-20T14:03:57.000Z"
       }
     ]
   },
@@ -2488,7 +2500,7 @@
     "title": "Buddy",
     "release_date": "2026-08-28",
     "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kghxBvN7f3vUt377yjO4ygbefYN.jpg",
     "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
     "theatrical": true,
     "trailer_published": "2026-08-18T15:00:02.000Z",
