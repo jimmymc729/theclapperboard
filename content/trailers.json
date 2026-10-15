@@ -1,5 +1,35 @@
 [
   {
+    "id": 656908,
+    "title": "Ramayana",
+    "release_date": "2026-11-05",
+    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T14:00:39.000Z",
+    "videos": [
+      {
+        "key": "AYkPRN874m8",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-15T14:00:39.000Z"
+      },
+      {
+        "key": "gVFotvRxgR0",
+        "name": "Ramayana: Rise of a Legend - New Trailer - Only In Cinemas November 5",
+        "type": "Trailer",
+        "published_at": "2026-10-15T14:00:00.000Z"
+      },
+      {
+        "key": "74nF-FWAS6M",
+        "name": "Official Trailer (English)",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:00:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -335,7 +365,7 @@
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue\u2019s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
     "trailer_published": "2026-10-13T08:33:38.000Z",
     "videos": [
@@ -656,24 +686,6 @@
         "name": "Get Tickets Now",
         "type": "Teaser",
         "published_at": "2026-10-04T02:00:20.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1790935,
-    "title": "Instadocs: AI Gone Wild",
-    "release_date": "2026-10-12",
-    "poster": "https://image.tmdb.org/t/p/w500/ybMAd7Tkd3T7XlCv4Ps54r1yC1M.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
-    "overview": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
-    "theatrical": false,
-    "trailer_published": "2026-10-07T15:30:00.000Z",
-    "videos": [
-      {
-        "key": "9l9rJAbLuhM",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-10-07T15:30:00.000Z"
       }
     ]
   },
@@ -1296,6 +1308,24 @@
     ]
   },
   {
+    "id": 1787570,
+    "title": "Changed Forever",
+    "release_date": "2026-09-27",
+    "poster": "https://image.tmdb.org/t/p/w500/vPZG3dtUAqex4FaY9kBnsKxAXTF.jpg",
+    "backdrop": "",
+    "overview": "CHANGED FOREVER tells the raw and inspiring true story of Alexis, a woman consumed by the darkness of addiction, teetering on the brink of self-destruction. Her life is a whirlwind of bad choices and devastating consequences, leaving her isolated and hopeless. Just when she believes all is lost, a flicker of faith ignites within her. Driven by desperation, her unwavering faith culminates in a profound, life-altering encounter with God, an experience that shatters her old life and rebuilds her from the ground up. CHANGED FOREVER follows Alexis's arduous journey to sobriety, healing, and ultimately, redemption. More than just a story of overcoming addiction, CHANGED FOREVER is a testament to the transformative power of faith and prayer, offering a beacon of hope to anyone struggling to find their own new beginning.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T19:32:15.000Z",
+    "videos": [
+      {
+        "key": "lKxW7DU5Wyc",
+        "name": "CHANGED FOREVER | Official Trailer | JC Films Real Story",
+        "type": "Trailer",
+        "published_at": "2026-09-23T19:32:15.000Z"
+      }
+    ]
+  },
+  {
     "id": 1779385,
     "title": "Pixar Artist Short: One Shot Productions",
     "release_date": "2026-09-22",
@@ -1334,6 +1364,60 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-09-02T16:00:34.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1776531,
+    "title": "Clown Panic",
+    "release_date": "2026-10-12",
+    "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+    "overview": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze.",
+    "theatrical": false,
+    "trailer_published": "2026-09-22T14:59:47.000Z",
+    "videos": [
+      {
+        "key": "Br2CiuQF-Ow",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-22T14:59:47.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1383750,
+    "title": "Rise of the Footsoldier: Retribution",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/5Czi3k9zc8BhJFaz6XNDKC4AUtm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fBsKkb6ZaxfFLqHVF1YSHzmXlMn.jpg",
+    "overview": "Tate battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
+    "theatrical": false,
+    "trailer_published": "2026-09-21T13:13:32.000Z",
+    "videos": [
+      {
+        "key": "1E2Dmm8fyWc",
+        "name": "Full Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T13:10:26.000Z"
+      },
+      {
+        "key": "en-gnmXWYVg",
+        "name": "Yours to own October 12",
+        "type": "Teaser",
+        "published_at": "2026-09-21T13:13:32.000Z"
+      },
+      {
+        "key": "1e7mH66lrCg",
+        "name": "Exclusively In Cinemas from August 28",
+        "type": "Teaser",
+        "published_at": "2026-09-09T06:58:01.000Z"
+      },
+      {
+        "key": "l3ELytmHHBw",
+        "name": "Exclusively In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-08-27T07:07:01.000Z"
       }
     ]
   },
@@ -1470,6 +1554,42 @@
     ]
   },
   {
+    "id": 1198654,
+    "title": "Bad Apples",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ch1g1X6TfezRwbmiBiYRpALTQjN.jpg",
+    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T14:00:35.000Z",
+    "videos": [
+      {
+        "key": "4nhu80EmVQE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T16:33:32.000Z"
+      },
+      {
+        "key": "nuaX1aU5EbM",
+        "name": "Troublemaker? It\u2019s hard to say.",
+        "type": "Teaser",
+        "published_at": "2026-09-16T14:00:35.000Z"
+      },
+      {
+        "key": "rXli3ZXxISA",
+        "name": "It only takes one.",
+        "type": "Teaser",
+        "published_at": "2026-09-13T14:00:16.000Z"
+      },
+      {
+        "key": "TkNGg8NU9Fo",
+        "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
+        "type": "Teaser",
+        "published_at": "2026-09-12T16:00:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1763619,
     "title": "Crazy Rich, Incredibly Broke",
     "release_date": "2026-10-01",
@@ -1484,30 +1604,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-16T08:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1318467,
-    "title": "The Last Kiss",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
-    "theatrical": false,
-    "trailer_published": "2026-09-15T20:34:42.000Z",
-    "videos": [
-      {
-        "key": "lAKtuOVkAgU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T19:03:09.000Z"
-      },
-      {
-        "key": "Vgf-eANUdE0",
-        "name": "Watch at Home September 15",
-        "type": "Teaser",
-        "published_at": "2026-09-15T20:34:42.000Z"
       }
     ]
   },
@@ -1704,6 +1800,36 @@
     ]
   },
   {
+    "id": 1376400,
+    "title": "Crawlers",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+    "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T22:40:45.000Z",
+    "videos": [
+      {
+        "key": "fGi9K7YTxGQ",
+        "name": "Crawlers (2026) - Official Trailer - @SignatureUK",
+        "type": "Trailer",
+        "published_at": "2026-09-10T22:40:45.000Z"
+      },
+      {
+        "key": "uLpZTosf6uI",
+        "name": "Theatrical Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T17:52:01.000Z"
+      },
+      {
+        "key": "4DowjB87tRE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T15:00:07.000Z"
+      }
+    ]
+  },
+  {
     "id": 1610703,
     "title": "Infirmary",
     "release_date": "2026-10-02",
@@ -1727,7 +1853,7 @@
     "release_date": "2026-08-21",
     "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
     "theatrical": true,
     "trailer_published": "2026-09-10T02:00:15.000Z",
     "videos": [
@@ -1830,6 +1956,24 @@
     ]
   },
   {
+    "id": 1425859,
+    "title": "Remain",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/5hPNq5h2y8Ux6nPBRMEwZ8npVTp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tWUizVQOYarekT6JRqPtQogIY3s.jpg",
+    "overview": "When reclusive architect Tate Gordon moves to small coastal town to complete his latest project, he encounters an alluring young woman who pulls him out of his shell, and into the center of a deadly mystery that hangs over the town.",
+    "theatrical": true,
+    "trailer_published": "2026-09-08T16:00:36.000Z",
+    "videos": [
+      {
+        "key": "h969bLwxgKc",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-08T16:00:36.000Z"
+      }
+    ]
+  },
+  {
     "id": 1408158,
     "title": "Epic - First Semester",
     "release_date": "2026-09-11",
@@ -1870,7 +2014,7 @@
     "title": "The Fix",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
     "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
     "theatrical": true,
     "trailer_published": "2026-09-07T23:29:30.000Z",
@@ -1938,24 +2082,6 @@
     ]
   },
   {
-    "id": 1465943,
-    "title": "Mandaadi",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
-    "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
-    "theatrical": true,
-    "trailer_published": "2026-09-04T16:05:47.000Z",
-    "videos": [
-      {
-        "key": "VOHaf-0DV-U",
-        "name": "Mandaadi - Trailer (Tamil) | Soori | Suhas | Mahima Nambiar | GV Prakash | Mathimaran Pugazhendhi",
-        "type": "Trailer",
-        "published_at": "2026-09-04T16:05:47.000Z"
-      }
-    ]
-  },
-  {
     "id": 1752355,
     "title": "Schumacher \u201994 \u2013 The Birth of a Legend",
     "release_date": "2026-10-02",
@@ -1988,6 +2114,24 @@
         "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
         "type": "Trailer",
         "published_at": "2026-09-03T22:19:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1762506,
+    "title": "Band of Brothers: Legacy",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+    "overview": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
+    "theatrical": false,
+    "trailer_published": "2026-09-03T17:07:20.000Z",
+    "videos": [
+      {
+        "key": "IjLg0X59fMA",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T17:07:20.000Z"
       }
     ]
   },
@@ -2310,24 +2454,6 @@
     ]
   },
   {
-    "id": 1766250,
-    "title": "Wild Hours",
-    "release_date": "2026-09-08",
-    "poster": "https://image.tmdb.org/t/p/w500/dyJjdMKW8Tb3WdNiRxrgYCAYOIM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xwD8AnNhte83DktUP4pAvVVZnIz.jpg",
-    "overview": "A father and ultra runner takes on a 120 km trail race in Chianti, Italy, while creating a record of the experience he hopes to one day share with his young daughter. A personal journey through endurance, challenge, fatherhood and the reasons we keep pushing forward.",
-    "theatrical": false,
-    "trailer_published": "2026-08-25T08:58:04.000Z",
-    "videos": [
-      {
-        "key": "WKGpsdis6bA",
-        "name": "WILD HOURS | Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-25T08:58:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 1759264,
     "title": "The Critique",
     "release_date": "2026-09-04",
@@ -2586,24 +2712,6 @@
     ]
   },
   {
-    "id": 1752159,
-    "title": "Turning Point: Generation 9/11",
-    "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
-    "overview": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
-    "theatrical": false,
-    "trailer_published": "2026-08-17T19:00:00.000Z",
-    "videos": [
-      {
-        "key": "1epklvnxATo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T19:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1732625,
     "title": "LEGO Disney Princess: Magical Mayhem",
     "release_date": "2026-08-21",
@@ -2808,24 +2916,6 @@
     ]
   },
   {
-    "id": 656908,
-    "title": "Ramayana",
-    "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "theatrical": true,
-    "trailer_published": "2026-08-05T16:00:16.000Z",
-    "videos": [
-      {
-        "key": "74nF-FWAS6M",
-        "name": "Official Trailer (English)",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1506560,
     "title": "Clash of the Thundermans",
     "release_date": "2026-09-03",
@@ -2840,24 +2930,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-04T18:36:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1078446,
-    "title": "Violent Night 2",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/78dChJs7doULSEhIiOvGUcXQRGU.jpg",
-    "overview": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he\u2019ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
-    "theatrical": true,
-    "trailer_published": "2026-08-04T15:00:15.000Z",
-    "videos": [
-      {
-        "key": "FmM2giDwLAE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-04T15:00:15.000Z"
       }
     ]
   },
@@ -2882,24 +2954,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-06-26T13:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1471168,
-    "title": "Barreda",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
-    "overview": "A fictionalized drama film based on one of the most shocking crimes in Argentina's history. In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
-    "theatrical": false,
-    "trailer_published": "2026-07-30T14:00:54.000Z",
-    "videos": [
-      {
-        "key": "6Otcjy6Vp3A",
-        "name": "Barreda - Tr\u00e1iler Oficial I Prime Video",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:54.000Z"
       }
     ]
   },
@@ -3264,24 +3318,6 @@
     ]
   },
   {
-    "id": 1726776,
-    "title": "3rd FLOOR",
-    "release_date": "2026-12-27",
-    "poster": "https://image.tmdb.org/t/p/w500/e7G2o16aRSr0eDHdR5sa7IAWk6c.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wClwB44qeGnZOpdVjjnVIiosT7u.jpg",
-    "overview": "A routine elevator ride becomes a battlefield when Maya Uche, a Black activist, and Brett Kiminski, a white conservative, are trapped together between floors. With nowhere to run, their assumptions, anger, and buried grief rise to the surface, forcing both strangers to face the truth behind their politics \u2014 and the pain that made them who they are.",
-    "theatrical": true,
-    "trailer_published": "2026-07-03T01:19:13.000Z",
-    "videos": [
-      {
-        "key": "st5m0_A9e1A",
-        "name": "3rd FLOOR | Official Trailer | AO Films (2026)",
-        "type": "Trailer",
-        "published_at": "2026-07-03T01:19:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 822653,
     "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
     "release_date": "2027-01-16",
@@ -3368,6 +3404,24 @@
         "name": "9.24.27",
         "type": "Teaser",
         "published_at": "2026-06-23T15:14:40.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1391239,
+    "title": "The Debut",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
+    "theatrical": true,
+    "trailer_published": "2026-06-23T12:59:06.000Z",
+    "videos": [
+      {
+        "key": "clyzHmBx43E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T12:59:06.000Z"
       }
     ]
   },
