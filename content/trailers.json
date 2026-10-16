@@ -1,7 +1,169 @@
 [
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T21:39:27.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "1TgQ6xz7Tx0",
+        "name": "You have to see it to believe it.",
+        "type": "Teaser",
+        "published_at": "2026-10-15T00:10:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T16:01:11.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "4hojgD4d1ME",
+        "name": "Island Itinerary",
+        "type": "Teaser",
+        "published_at": "2026-10-15T16:01:11.000Z"
+      },
+      {
+        "key": "zIKILfaoGfk",
+        "name": "Problematic",
+        "type": "Teaser",
+        "published_at": "2026-10-14T16:00:58.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T15:00:27.000Z",
+    "videos": [
+      {
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
+      },
+      {
+        "key": "qHOzJfffYRs",
+        "name": "Fable",
+        "type": "Teaser",
+        "published_at": "2026-10-15T15:00:27.000Z"
+      },
+      {
+        "key": "_1-RhLVizN4",
+        "name": "Get Tickets Now",
+        "type": "Teaser",
+        "published_at": "2026-10-14T19:49:43.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1440769,
+    "title": "The Beekeeper 2",
+    "release_date": "2027-01-15",
+    "poster": "https://image.tmdb.org/t/p/w500/kYr0WsY1SEGfpUrLKSpvNmtoXQ3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/smdkH5T2xiK30dHWPm2LfJcdPME.jpg",
+    "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T14:44:46.000Z",
+    "videos": [
+      {
+        "key": "5HK3wimDxBI",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T14:44:46.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1503762,
+    "title": "Sense and Sensibility",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T14:33:06.000Z",
+    "videos": [
+      {
+        "key": "OFLyW0lxFU0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-30T15:00:04.000Z"
+      },
+      {
+        "key": "mcrwcvad84U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-25T12:26:01.000Z"
+      },
+      {
+        "key": "g15AkU5XZTQ",
+        "name": "Meeting your online date IRL",
+        "type": "Teaser",
+        "published_at": "2026-10-15T14:33:06.000Z"
+      },
+      {
+        "key": "hrHR1QIgaXA",
+        "name": "Another fictional man setting the bar high",
+        "type": "Teaser",
+        "published_at": "2026-10-14T13:33:40.000Z"
+      }
+    ]
+  },
+  {
     "id": 656908,
-    "title": "Ramayana",
+    "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-05",
     "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
@@ -30,74 +192,38 @@
     ]
   },
   {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
-    "trailer_published": "2026-10-14T23:46:36.000Z",
+    "trailer_published": "2026-10-15T00:00:07.000Z",
     "videos": [
       {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
+        "key": "U6sbm1OaJb8",
+        "name": "New Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
+        "published_at": "2026-09-01T16:00:13.000Z"
       },
       {
-        "key": "OGO4Mqvo3jI",
+        "key": "Xt4X4FvXk2A",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
+        "published_at": "2026-04-16T13:00:08.000Z"
       },
       {
-        "key": "_72wSKPl754",
-        "name": "Your eyes won't believe it.",
+        "key": "oT87kTPMTy4",
+        "name": "Chun-Li really is that girl",
         "type": "Teaser",
-        "published_at": "2026-10-14T23:46:36.000Z"
+        "published_at": "2026-10-15T00:00:07.000Z"
       },
       {
-        "key": "uuCOw-TxATg",
-        "name": "I Feel Great",
+        "key": "dOPE_E9It6E",
+        "name": "Ryu's Darkness",
         "type": "Teaser",
-        "published_at": "2026-10-14T17:30:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-14T17:04:47.000Z",
-    "videos": [
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
-      },
-      {
-        "key": "UzK2X7403FM",
-        "name": "Tickets on sale now",
-        "type": "Teaser",
-        "published_at": "2026-10-14T17:04:47.000Z"
-      },
-      {
-        "key": "b7Usmhh3N4k",
-        "name": "The Bottle-Washer's Wife",
-        "type": "Teaser",
-        "published_at": "2026-10-13T19:30:09.000Z"
+        "published_at": "2026-10-13T17:00:21.000Z"
       }
     ]
   },
@@ -158,42 +284,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1503762,
-    "title": "Sense and Sensibility",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
-    "theatrical": true,
-    "trailer_published": "2026-10-14T13:33:40.000Z",
-    "videos": [
-      {
-        "key": "OFLyW0lxFU0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-30T15:00:04.000Z"
-      },
-      {
-        "key": "mcrwcvad84U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-25T12:26:01.000Z"
-      },
-      {
-        "key": "hrHR1QIgaXA",
-        "name": "Another fictional man setting the bar high",
-        "type": "Teaser",
-        "published_at": "2026-10-14T13:33:40.000Z"
-      },
-      {
-        "key": "kDSPvwnbwDk",
-        "name": "Invitation",
-        "type": "Teaser",
-        "published_at": "2026-10-02T17:04:43.000Z"
       }
     ]
   },
@@ -324,42 +414,6 @@
     ]
   },
   {
-    "id": 1153576,
-    "title": "Street Fighter",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "theatrical": true,
-    "trailer_published": "2026-10-13T17:00:21.000Z",
-    "videos": [
-      {
-        "key": "U6sbm1OaJb8",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T16:00:13.000Z"
-      },
-      {
-        "key": "Xt4X4FvXk2A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T13:00:08.000Z"
-      },
-      {
-        "key": "dOPE_E9It6E",
-        "name": "Ryu's Darkness",
-        "type": "Teaser",
-        "published_at": "2026-10-13T17:00:21.000Z"
-      },
-      {
-        "key": "hWRml2zvJpg",
-        "name": "Years In The Shadow",
-        "type": "Teaser",
-        "published_at": "2026-10-11T13:00:17.000Z"
-      }
-    ]
-  },
-  {
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
@@ -428,42 +482,6 @@
         "name": "Snowball",
         "type": "Teaser",
         "published_at": "2026-08-02T17:00:30.000Z"
-      }
-    ]
-  },
-  {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-10-12T16:00:04.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "uhEy3gJ1DnQ",
-        "name": "Call Your Friends. Get Tickets Now.",
-        "type": "Teaser",
-        "published_at": "2026-10-12T16:00:04.000Z"
-      },
-      {
-        "key": "ICpcjVIV_Ps",
-        "name": "One Month",
-        "type": "Teaser",
-        "published_at": "2026-10-06T19:03:13.000Z"
       }
     ]
   },
@@ -1326,6 +1344,30 @@
     ]
   },
   {
+    "id": 1561726,
+    "title": "Masterplan",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+    "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together \u2014 and try not to kill each other \u2014 if they want any chance at pulling off the heist of the century.",
+    "theatrical": false,
+    "trailer_published": "2026-09-23T13:00:33.000Z",
+    "videos": [
+      {
+        "key": "gc0t8AfMP6k",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:33.000Z"
+      },
+      {
+        "key": "fyQkR_BrX0E",
+        "name": "Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-07-09T12:00:36.000Z"
+      }
+    ]
+  },
+  {
     "id": 1779385,
     "title": "Pixar Artist Short: One Shot Productions",
     "release_date": "2026-09-22",
@@ -1382,42 +1424,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-22T14:59:47.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1383750,
-    "title": "Rise of the Footsoldier: Retribution",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5Czi3k9zc8BhJFaz6XNDKC4AUtm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fBsKkb6ZaxfFLqHVF1YSHzmXlMn.jpg",
-    "overview": "Tate battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
-    "theatrical": false,
-    "trailer_published": "2026-09-21T13:13:32.000Z",
-    "videos": [
-      {
-        "key": "1E2Dmm8fyWc",
-        "name": "Full Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T13:10:26.000Z"
-      },
-      {
-        "key": "en-gnmXWYVg",
-        "name": "Yours to own October 12",
-        "type": "Teaser",
-        "published_at": "2026-09-21T13:13:32.000Z"
-      },
-      {
-        "key": "1e7mH66lrCg",
-        "name": "Exclusively In Cinemas from August 28",
-        "type": "Teaser",
-        "published_at": "2026-09-09T06:58:01.000Z"
-      },
-      {
-        "key": "l3ELytmHHBw",
-        "name": "Exclusively In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-08-27T07:07:01.000Z"
       }
     ]
   },
@@ -1532,24 +1538,6 @@
         "name": "We tink we taw you heading to see Coyote Vs. Acme over Labor Day weekend!",
         "type": "Teaser",
         "published_at": "2026-09-04T20:54:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1685882,
-    "title": "Modha Rathri",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/3VuNFeniljhEe9MDW12MnDbETgH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
-    "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T08:30:00.000Z",
-    "videos": [
-      {
-        "key": "UrWrvwIRnqk",
-        "name": "Modha Rathri | Official Trailer | Anishma Anilkumar, Rishikanth | Netflix India",
-        "type": "Trailer",
-        "published_at": "2026-09-17T08:30:00.000Z"
       }
     ]
   },
@@ -1887,8 +1875,8 @@
     "id": 1381078,
     "title": "Love of Your Life",
     "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
     "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
     "theatrical": true,
     "trailer_published": "2026-09-09T13:59:49.000Z",
@@ -1924,7 +1912,7 @@
     "title": "Fall 2: Deadpoint",
     "release_date": "2026-09-02",
     "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "theatrical": true,
     "trailer_published": "2026-09-09T06:57:23.000Z",
