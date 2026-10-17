@@ -1,5 +1,41 @@
 [
   {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-10-16T23:00:38.000Z",
+    "videos": [
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "kKB9FRVWql4",
+        "name": "A man that knows what he wants.",
+        "type": "Teaser",
+        "published_at": "2026-10-16T23:00:38.000Z"
+      },
+      {
+        "key": "Du4V-_HnqeU",
+        "name": "Boo Humbug! Costume not available in stores. Holiday spirit(s) only.",
+        "type": "Teaser",
+        "published_at": "2026-10-12T19:31:35.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -7,7 +43,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
-    "trailer_published": "2026-10-15T21:39:27.000Z",
+    "trailer_published": "2026-10-16T16:00:13.000Z",
     "videos": [
       {
         "key": "f7jlCqdtwdM",
@@ -28,10 +64,118 @@
         "published_at": "2026-07-22T16:00:47.000Z"
       },
       {
-        "key": "1TgQ6xz7Tx0",
-        "name": "You have to see it to believe it.",
+        "key": "OZaxUtxyRfs",
+        "name": "Embrace the change.",
         "type": "Teaser",
-        "published_at": "2026-10-15T00:10:03.000Z"
+        "published_at": "2026-10-16T16:00:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-10-16T15:00:21.000Z",
+    "videos": [
+      {
+        "key": "Dw-5ZGapGTQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-10T16:00:23.000Z"
+      },
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      },
+      {
+        "key": "NuADxDGaFDM",
+        "name": "Whalefall is NOW PLAYING only in theaters!",
+        "type": "Teaser",
+        "published_at": "2026-10-16T15:00:21.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-10-16T14:12:54.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "zPSFJQd8YMk",
+        "name": "Acclaim",
+        "type": "Teaser",
+        "published_at": "2026-10-16T14:12:54.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400837,
+    "title": "Other Mommy",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "theatrical": true,
+    "trailer_published": "2026-10-16T14:05:01.000Z",
+    "videos": [
+      {
+        "key": "-mnTITqqiT0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-15T15:00:12.000Z"
+      },
+      {
+        "key": "bEpTgowZ1dI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T13:00:46.000Z"
+      },
+      {
+        "key": "eO5-6P2PbQw",
+        "name": "Experience Other Mommy in cinemas TONIGHT",
+        "type": "Teaser",
+        "published_at": "2026-10-16T14:05:01.000Z"
+      },
+      {
+        "key": "Bh2FpiLSneU",
+        "name": "Some doors are closed for a reason.",
+        "type": "Teaser",
+        "published_at": "2026-10-14T16:33:18.000Z"
       }
     ]
   },
@@ -258,42 +402,6 @@
     ]
   },
   {
-    "id": 1400837,
-    "title": "Other Mommy",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "theatrical": true,
-    "trailer_published": "2026-10-14T16:33:18.000Z",
-    "videos": [
-      {
-        "key": "-mnTITqqiT0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-15T15:00:12.000Z"
-      },
-      {
-        "key": "bEpTgowZ1dI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T13:00:46.000Z"
-      },
-      {
-        "key": "Bh2FpiLSneU",
-        "name": "Some doors are closed for a reason.",
-        "type": "Teaser",
-        "published_at": "2026-10-14T16:33:18.000Z"
-      },
-      {
-        "key": "zijfMxcCTNo",
-        "name": "She looked like you",
-        "type": "Teaser",
-        "published_at": "2026-10-13T18:31:42.000Z"
-      }
-    ]
-  },
-  {
     "id": 1562642,
     "title": "Ghost Soldier",
     "release_date": "2026-11-11",
@@ -372,78 +480,6 @@
     ]
   },
   {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-10-13T17:00:22.000Z",
-    "videos": [
-      {
-        "key": "Dw-5ZGapGTQ",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-10T16:00:23.000Z"
-      },
-      {
-        "key": "rN9F6-tbySY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:24.000Z"
-      },
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      },
-      {
-        "key": "r1QXsG3QljY",
-        "name": "and they just got louder and louder...",
-        "type": "Teaser",
-        "published_at": "2026-10-13T17:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-10-13T08:33:38.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "Co8QLut1Of0",
-        "name": "Fairytale",
-        "type": "Teaser",
-        "published_at": "2026-10-13T08:33:38.000Z"
-      }
-    ]
-  },
-  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -476,42 +512,6 @@
         "name": "Jeff",
         "type": "Teaser",
         "published_at": "2026-10-13T07:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-10-12T19:31:35.000Z",
-    "videos": [
-      {
-        "key": "l_Ozo1xUgbU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-01T12:59:47.000Z"
-      },
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "Du4V-_HnqeU",
-        "name": "Boo Humbug! Costume not available in stores. Holiday spirit(s) only.",
-        "type": "Teaser",
-        "published_at": "2026-10-12T19:31:35.000Z"
-      },
-      {
-        "key": "G4JYnTeSFik",
-        "name": "Snowball",
-        "type": "Teaser",
-        "published_at": "2026-08-02T17:00:30.000Z"
       }
     ]
   },
@@ -941,7 +941,7 @@
     "videos": [
       {
         "key": "VlDR4sACkRc",
-        "name": "Let's Have Kids (2026) | Official Trailer (feat. Karen Gillan, Zo\u00eb Chao) | Paramount Movies",
+        "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-29T16:41:15.000Z"
       }
@@ -1705,7 +1705,7 @@
   },
   {
     "id": 1751701,
-    "title": "After Impact",
+    "title": "\u05d0\u05d7\u05e8\u05d9 \u05d4\u05e4\u05d2\u05d9\u05e2\u05d4",
     "release_date": "2026-09-15",
     "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
@@ -1887,7 +1887,7 @@
     "id": 1381078,
     "title": "Love of Your Life",
     "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
     "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
     "theatrical": true,
@@ -2369,7 +2369,7 @@
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
     "theatrical": true,
     "trailer_published": "2026-08-26T12:00:27.000Z",
     "videos": [
@@ -3689,7 +3689,7 @@
     "release_date": "2027-03-26",
     "poster": "https://image.tmdb.org/t/p/w500/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gLjZC1YGcujC82DF5subtEXWg7F.jpg",
-    "overview": "Features several new human characters alongside the beloved and iconic Titans Godzilla and Kong as they face off against a cataclysmic world-ending threat.",
+    "overview": "Godzilla and Kong return in an all-new adventure as Earth's greatest titans face an unthinkable threat from beyond the stars. When a cosmic predator, Apex, sets its sights on Earth, only the combined might of monsters and humanity can avert total extinction.",
     "theatrical": true,
     "trailer_published": "2025-05-09T16:00:12.000Z",
     "videos": [
