@@ -1,5 +1,41 @@
 [
   {
+    "id": 1153576,
+    "title": "Street Fighter",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "theatrical": true,
+    "trailer_published": "2026-10-17T23:00:07.000Z",
+    "videos": [
+      {
+        "key": "U6sbm1OaJb8",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-01T16:00:13.000Z"
+      },
+      {
+        "key": "Xt4X4FvXk2A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T13:00:08.000Z"
+      },
+      {
+        "key": "HUMKDiGO_mA",
+        "name": "Are you in?",
+        "type": "Teaser",
+        "published_at": "2026-10-17T23:00:07.000Z"
+      },
+      {
+        "key": "oT87kTPMTy4",
+        "name": "Chun-Li really is that girl",
+        "type": "Teaser",
+        "published_at": "2026-10-15T00:00:07.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -32,6 +68,42 @@
         "name": "The possibilities are endless.",
         "type": "Teaser",
         "published_at": "2026-10-17T17:00:27.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1503762,
+    "title": "Sense and Sensibility",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "theatrical": true,
+    "trailer_published": "2026-10-17T16:10:53.000Z",
+    "videos": [
+      {
+        "key": "OFLyW0lxFU0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-30T15:00:04.000Z"
+      },
+      {
+        "key": "mcrwcvad84U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-25T12:26:01.000Z"
+      },
+      {
+        "key": "-2Z0xs0dilo",
+        "name": "We all know someone who has that Marianne mentality",
+        "type": "Teaser",
+        "published_at": "2026-10-17T16:10:53.000Z"
+      },
+      {
+        "key": "iY0LQDQU1K8",
+        "name": "Handsome",
+        "type": "Teaser",
+        "published_at": "2026-10-16T11:31:26.000Z"
       }
     ]
   },
@@ -244,10 +316,10 @@
         "published_at": "2026-10-16T14:05:01.000Z"
       },
       {
-        "key": "QTs1Z-mxrIo",
-        "name": "The Bravery",
+        "key": "C9uLPZhP9G4",
+        "name": "Fun",
         "type": "Teaser",
-        "published_at": "2026-10-15T14:00:26.000Z"
+        "published_at": "2026-10-16T09:03:02.000Z"
       }
     ]
   },
@@ -363,7 +435,7 @@
     "id": 1440769,
     "title": "The Beekeeper 2",
     "release_date": "2027-01-15",
-    "poster": "https://image.tmdb.org/t/p/w500/kYr0WsY1SEGfpUrLKSpvNmtoXQ3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mzepO3crKkX4Mhyj9Lrix3yn2sT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tKTCTuG63KFQD82M5fvQbfO4fra.jpg",
     "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
     "theatrical": true,
@@ -378,46 +450,10 @@
     ]
   },
   {
-    "id": 1503762,
-    "title": "Sense and Sensibility",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T14:33:06.000Z",
-    "videos": [
-      {
-        "key": "OFLyW0lxFU0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-30T15:00:04.000Z"
-      },
-      {
-        "key": "mcrwcvad84U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-25T12:26:01.000Z"
-      },
-      {
-        "key": "g15AkU5XZTQ",
-        "name": "Meeting your online date IRL",
-        "type": "Teaser",
-        "published_at": "2026-10-15T14:33:06.000Z"
-      },
-      {
-        "key": "hrHR1QIgaXA",
-        "name": "Another fictional man setting the bar high",
-        "type": "Teaser",
-        "published_at": "2026-10-14T13:33:40.000Z"
-      }
-    ]
-  },
-  {
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/b11RXdbaBI4ATpHiAMOGc6WTgvu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -434,42 +470,6 @@
         "name": "Official Trailer (English)",
         "type": "Trailer",
         "published_at": "2026-08-05T16:00:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1153576,
-    "title": "Street Fighter",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T00:00:07.000Z",
-    "videos": [
-      {
-        "key": "U6sbm1OaJb8",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T16:00:13.000Z"
-      },
-      {
-        "key": "Xt4X4FvXk2A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T13:00:08.000Z"
-      },
-      {
-        "key": "oT87kTPMTy4",
-        "name": "Chun-Li really is that girl",
-        "type": "Teaser",
-        "published_at": "2026-10-15T00:00:07.000Z"
-      },
-      {
-        "key": "dOPE_E9It6E",
-        "name": "Ryu's Darkness",
-        "type": "Teaser",
-        "published_at": "2026-10-13T17:00:21.000Z"
       }
     ]
   },
@@ -1233,7 +1233,7 @@
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
@@ -2046,6 +2046,24 @@
     ]
   },
   {
+    "id": 1489932,
+    "title": "Always Lalisa",
+    "release_date": "2026-10-12",
+    "poster": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
+    "overview": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
+    "theatrical": true,
+    "trailer_published": "2026-09-09T13:00:14.000Z",
+    "videos": [
+      {
+        "key": "s6NUEu1x64I",
+        "name": "LISA - Always Lalisa (Official Trailer)",
+        "type": "Trailer",
+        "published_at": "2026-09-09T13:00:14.000Z"
+      }
+    ]
+  },
+  {
     "id": 1269325,
     "title": "Drishyam: The Conclusion",
     "release_date": "2026-10-02",
@@ -2150,24 +2168,6 @@
         "name": "Happy Power Rangers Day!",
         "type": "Teaser",
         "published_at": "2026-08-28T21:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1752355,
-    "title": "Schumacher \u201994 \u2013 The Birth of a Legend",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
-    "overview": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.",
-    "theatrical": false,
-    "trailer_published": "2026-09-04T10:30:00.000Z",
-    "videos": [
-      {
-        "key": "7fDrlNje1iU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-04T10:30:00.000Z"
       }
     ]
   },
@@ -2313,7 +2313,7 @@
     "id": 1544847,
     "title": "Pradhama Drishtiya Kuttakkar",
     "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/zrvnu0M5NkO7aniAhfLYi3xGK7E.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1pjYeZxNJ0OyXSYWaMcXflVvNAW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zmfUqsFcQs6BjLJStofM5MD2l7L.jpg",
     "overview": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
     "theatrical": false,
@@ -2744,24 +2744,6 @@
         "name": "The system was broken, so the FBI hired the mob to solve a murder by any means.",
         "type": "Teaser",
         "published_at": "2026-08-05T17:18:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1752159,
-    "title": "Turning Point: Generation 9/11",
-    "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
-    "overview": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
-    "theatrical": false,
-    "trailer_published": "2026-08-17T19:00:00.000Z",
-    "videos": [
-      {
-        "key": "1epklvnxATo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T19:00:00.000Z"
       }
     ]
   },
@@ -3302,6 +3284,36 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-14T12:59:55.000Z"
+      }
+    ]
+  },
+  {
+    "id": 445466,
+    "title": "Idiots",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+    "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+    "theatrical": true,
+    "trailer_published": "2026-07-09T15:00:31.000Z",
+    "videos": [
+      {
+        "key": "UoAf0LNAn30",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T15:00:31.000Z"
+      },
+      {
+        "key": "8MVqh5L93Bs",
+        "name": "Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-20T15:28:47.000Z"
+      },
+      {
+        "key": "SbmR9Jy0vRQ",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2026-04-23T14:03:13.000Z"
       }
     ]
   },
