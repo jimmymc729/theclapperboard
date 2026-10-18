@@ -1,5 +1,77 @@
 [
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-17T17:00:27.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "Jm1pc_TWm8g",
+        "name": "The possibilities are endless.",
+        "type": "Teaser",
+        "published_at": "2026-10-17T17:00:27.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1283515,
+    "title": "Verity",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+    "theatrical": true,
+    "trailer_published": "2026-10-17T12:00:29.000Z",
+    "videos": [
+      {
+        "key": "xdPMKhjMSFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-11T12:55:20.000Z"
+      },
+      {
+        "key": "8DrNVCBXTk0",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-10-17T12:00:29.000Z"
+      },
+      {
+        "key": "SWYKZjHK1bc",
+        "name": "we need to hear all the thoughts!",
+        "type": "Teaser",
+        "published_at": "2026-10-12T23:30:00.000Z"
+      },
+      {
+        "key": "IhZl_o_3dVM",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-10-08T08:00:29.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -36,42 +108,6 @@
     ]
   },
   {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-16T16:00:13.000Z",
-    "videos": [
-      {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "OZaxUtxyRfs",
-        "name": "Embrace the change.",
-        "type": "Teaser",
-        "published_at": "2026-10-16T16:00:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -79,7 +115,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
     "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
     "theatrical": true,
-    "trailer_published": "2026-10-16T15:00:21.000Z",
+    "trailer_published": "2026-10-16T18:02:47.000Z",
     "videos": [
       {
         "key": "Dw-5ZGapGTQ",
@@ -100,10 +136,46 @@
         "published_at": "2026-06-09T16:00:21.000Z"
       },
       {
-        "key": "NuADxDGaFDM",
-        "name": "Whalefall is NOW PLAYING only in theaters!",
+        "key": "0sBHx51OPXY",
+        "name": "will make your jaw drop",
         "type": "Teaser",
-        "published_at": "2026-10-16T15:00:21.000Z"
+        "published_at": "2026-10-16T18:02:47.000Z"
+      }
+    ]
+  },
+  {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-10-16T16:02:44.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "fWkiI3n6Uv0",
+        "name": "Mrs. Chesterfield",
+        "type": "Teaser",
+        "published_at": "2026-10-16T16:02:44.000Z"
+      },
+      {
+        "key": "4hojgD4d1ME",
+        "name": "Island Itinerary",
+        "type": "Teaser",
+        "published_at": "2026-10-15T16:01:11.000Z"
       }
     ]
   },
@@ -172,10 +244,46 @@
         "published_at": "2026-10-16T14:05:01.000Z"
       },
       {
-        "key": "Bh2FpiLSneU",
-        "name": "Some doors are closed for a reason.",
+        "key": "QTs1Z-mxrIo",
+        "name": "The Bravery",
         "type": "Teaser",
-        "published_at": "2026-10-14T16:33:18.000Z"
+        "published_at": "2026-10-15T14:00:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-10-16T09:00:33.000Z",
+    "videos": [
+      {
+        "key": "PhgY8cOJiQA",
+        "name": "Get Tickets",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:21:37.000Z"
+      },
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "5AmxmGKwJVM",
+        "name": "Too many funny moments to pick from",
+        "type": "Teaser",
+        "published_at": "2026-10-16T09:00:33.000Z"
       }
     ]
   },
@@ -212,42 +320,6 @@
         "name": "In Cinemas Everywhere Now",
         "type": "Teaser",
         "published_at": "2026-10-09T09:06:37.000Z"
-      }
-    ]
-  },
-  {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T16:01:11.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "4hojgD4d1ME",
-        "name": "Island Itinerary",
-        "type": "Teaser",
-        "published_at": "2026-10-15T16:01:11.000Z"
-      },
-      {
-        "key": "zIKILfaoGfk",
-        "name": "Problematic",
-        "type": "Teaser",
-        "published_at": "2026-10-14T16:00:58.000Z"
       }
     ]
   },
@@ -369,7 +441,7 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -426,11 +498,47 @@
     ]
   },
   {
+    "id": 1228834,
+    "title": "The Fix",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+    "theatrical": true,
+    "trailer_published": "2026-10-13T20:00:43.000Z",
+    "videos": [
+      {
+        "key": "l5Luvr9TRRc",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T14:07:41.000Z"
+      },
+      {
+        "key": "NYC0v8xqQdM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T17:02:01.000Z"
+      },
+      {
+        "key": "hfXhfC6GzJw",
+        "name": "Watch at Home",
+        "type": "Teaser",
+        "published_at": "2026-10-13T20:00:43.000Z"
+      },
+      {
+        "key": "Ua3wq0ApsDM",
+        "name": ":15 Spot",
+        "type": "Teaser",
+        "published_at": "2026-09-07T23:29:30.000Z"
+      }
+    ]
+  },
+  {
     "id": 1147572,
     "title": "Narnia: The Magician's Nephew",
     "release_date": "2027-02-12",
     "poster": "https://image.tmdb.org/t/p/w500/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j0rGMOFBEqLgbESDinmYfzq4yl1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3jA1wHHFl3lUcVdGXq4ZsBscHCU.jpg",
     "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring her back to London.",
     "theatrical": true,
     "trailer_published": "2026-10-13T18:00:00.000Z",
@@ -702,42 +810,6 @@
     ]
   },
   {
-    "id": 1283515,
-    "title": "Verity",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "theatrical": true,
-    "trailer_published": "2026-10-08T08:00:29.000Z",
-    "videos": [
-      {
-        "key": "xdPMKhjMSFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-11T12:55:20.000Z"
-      },
-      {
-        "key": "IhZl_o_3dVM",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-10-08T08:00:29.000Z"
-      },
-      {
-        "key": "7r9tzWDhBdQ",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-10-05T06:00:06.000Z"
-      },
-      {
-        "key": "Sy6FC8popMo",
-        "name": "Get Tickets Now",
-        "type": "Teaser",
-        "published_at": "2026-10-04T02:00:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1790935,
     "title": "Instadocs: AI Gone Wild",
     "release_date": "2026-10-12",
@@ -825,7 +897,7 @@
     "id": 1389172,
     "title": "Reporting Live",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/7Ncfrt43mLLFB8yWcWON8imHr0Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/xVabS4lTi6IMscr2FOucxydE6ZD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
     "overview": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
     "theatrical": false,
@@ -890,6 +962,42 @@
         "name": "Sardar 2 - Trailer | Karthi, SJ Suryah, Malavika Mohanan",
         "type": "Trailer",
         "published_at": "2026-10-01T04:30:34.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1375441,
+    "title": "Primetime",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+    "theatrical": true,
+    "trailer_published": "2026-09-30T13:30:33.000Z",
+    "videos": [
+      {
+        "key": "C0NZa01qTRU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-15T13:00:07.000Z"
+      },
+      {
+        "key": "5fHXyqQOKL8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-06T13:00:36.000Z"
+      },
+      {
+        "key": "bOFRnkiBDO4",
+        "name": "Cookies and Chairs with Robert Pattinson | Official Promo",
+        "type": "Teaser",
+        "published_at": "2026-09-30T13:30:33.000Z"
+      },
+      {
+        "key": "Yrfrf53ttYY",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-05-27T13:00:08.000Z"
       }
     ]
   },
@@ -1125,7 +1233,7 @@
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
@@ -1266,42 +1374,6 @@
     ]
   },
   {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T09:06:49.000Z",
-    "videos": [
-      {
-        "key": "PhgY8cOJiQA",
-        "name": "Get Tickets",
-        "type": "Trailer",
-        "published_at": "2026-09-08T15:21:37.000Z"
-      },
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
-      },
-      {
-        "key": "K6gFndLtgKY",
-        "name": "Full Dog",
-        "type": "Teaser",
-        "published_at": "2026-09-24T09:06:49.000Z"
-      }
-    ]
-  },
-  {
     "id": 848700,
     "title": "Minotaur",
     "release_date": "2026-11-20",
@@ -1340,6 +1412,30 @@
         "name": "GREMLINS 3 Official Teaser (2028)",
         "type": "Teaser",
         "published_at": "2026-09-24T00:14:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1096228,
+    "title": "Musk",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg",
+    "overview": "An incisive look behind the legend of Elon Musk, the world\u2019s most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T20:35:04.000Z",
+    "videos": [
+      {
+        "key": "eY_8SyndC10",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T20:35:04.000Z"
+      },
+      {
+        "key": "oYwso9mF-fA",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-07T21:00:11.000Z"
       }
     ]
   },
@@ -1449,7 +1545,7 @@
     "id": 1383750,
     "title": "Rise of the Footsoldier: Retribution",
     "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5Czi3k9zc8BhJFaz6XNDKC4AUtm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ4UV7YnAweTjosfSzDG80j1nd0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fBsKkb6ZaxfFLqHVF1YSHzmXlMn.jpg",
     "overview": "Tate battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
     "theatrical": false,
@@ -1668,6 +1764,24 @@
     ]
   },
   {
+    "id": 1452110,
+    "title": "Clean Hands",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/szIEtkFLOMsPX6AVQSfzalNEEDd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/py3XG3mFkdVMcw7VwfZ4HaXZIIU.jpg",
+    "overview": "Based on a true story, a veteran narcotics officer turned recovery advocate and his daughter, who struggles with addiction, confront the American drug crisis from opposing sides of the law while navigating their complicated family bond.",
+    "theatrical": true,
+    "trailer_published": "2026-09-15T16:56:03.000Z",
+    "videos": [
+      {
+        "key": "p0izMCPGdGE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-15T16:56:03.000Z"
+      }
+    ]
+  },
+  {
     "id": 1422011,
     "title": "It Ends",
     "release_date": "2026-08-21",
@@ -1694,36 +1808,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-22T16:00:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1375441,
-    "title": "Primetime",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "theatrical": true,
-    "trailer_published": "2026-09-15T13:00:07.000Z",
-    "videos": [
-      {
-        "key": "C0NZa01qTRU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-15T13:00:07.000Z"
-      },
-      {
-        "key": "5fHXyqQOKL8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-06T13:00:36.000Z"
-      },
-      {
-        "key": "Yrfrf53ttYY",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-27T13:00:08.000Z"
       }
     ]
   },
@@ -1962,24 +2046,6 @@
     ]
   },
   {
-    "id": 1489932,
-    "title": "Always Lalisa",
-    "release_date": "2026-10-12",
-    "poster": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
-    "overview": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
-    "theatrical": true,
-    "trailer_published": "2026-09-09T13:00:14.000Z",
-    "videos": [
-      {
-        "key": "s6NUEu1x64I",
-        "name": "LISA - Always Lalisa (Official Trailer)",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:14.000Z"
-      }
-    ]
-  },
-  {
     "id": 1269325,
     "title": "Drishyam: The Conclusion",
     "release_date": "2026-10-02",
@@ -2048,42 +2114,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-08T07:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1228834,
-    "title": "The Fix",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-    "theatrical": true,
-    "trailer_published": "2026-09-07T23:29:30.000Z",
-    "videos": [
-      {
-        "key": "l5Luvr9TRRc",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T14:07:41.000Z"
-      },
-      {
-        "key": "NYC0v8xqQdM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T17:02:01.000Z"
-      },
-      {
-        "key": "Ua3wq0ApsDM",
-        "name": ":15 Spot | In Theaters Friday",
-        "type": "Teaser",
-        "published_at": "2026-09-07T23:29:30.000Z"
-      },
-      {
-        "key": "0RROE5Xiug8",
-        "name": ":30 Spot | In Theaters September 11",
-        "type": "Teaser",
-        "published_at": "2026-09-01T19:09:27.000Z"
       }
     ]
   },
@@ -2285,7 +2315,7 @@
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/zrvnu0M5NkO7aniAhfLYi3xGK7E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zmfUqsFcQs6BjLJStofM5MD2l7L.jpg",
-    "overview": "Follows a woman constable who joins the police force through appointment after the death of her husband.",
+    "overview": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
     "theatrical": false,
     "trailer_published": "2026-09-01T11:36:03.000Z",
     "videos": [
@@ -2474,24 +2504,6 @@
         "name": "GANDHARI - OFFICIAL TRAILER",
         "type": "Trailer",
         "published_at": "2026-08-25T10:38:05.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1759264,
-    "title": "The Critique",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/mdNfRFNMqhSnS0UMx8Wbk9aajFv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7C03OuQPCW214MuU9TeOqgUWSIz.jpg",
-    "overview": "A simple surveillance gig goes sideways when two petty hustlers paid to investigate a hotel guest realize someone else has their sights set on the target. Genre:  Satire | Dark Comedy | Short-Film | Crime | Neo-Noir",
-    "theatrical": false,
-    "trailer_published": "2026-08-22T19:19:26.000Z",
-    "videos": [
-      {
-        "key": "I0vdbYT56QM",
-        "name": "First Look at \"THE CRITIQUE\" (Hindi w/ English Subtitles)",
-        "type": "Trailer",
-        "published_at": "2026-08-22T19:19:26.000Z"
       }
     ]
   },
