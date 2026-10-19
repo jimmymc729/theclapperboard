@@ -1,10 +1,82 @@
 [
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-18T18:00:16.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "9qpM-jT83R8",
+        "name": "Take it all in.",
+        "type": "Teaser",
+        "published_at": "2026-10-18T18:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1503762,
+    "title": "Sense and Sensibility",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "theatrical": true,
+    "trailer_published": "2026-10-18T17:04:47.000Z",
+    "videos": [
+      {
+        "key": "OFLyW0lxFU0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-30T15:00:04.000Z"
+      },
+      {
+        "key": "mcrwcvad84U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-25T12:26:01.000Z"
+      },
+      {
+        "key": "0cETEt0WhU4",
+        "name": "That feeling of a new crush",
+        "type": "Teaser",
+        "published_at": "2026-10-18T17:04:47.000Z"
+      },
+      {
+        "key": "-2Z0xs0dilo",
+        "name": "We all know someone who has that Marianne mentality",
+        "type": "Teaser",
+        "published_at": "2026-10-17T16:10:53.000Z"
+      }
+    ]
+  },
+  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/k0cEoowzTwxYCTRI7gV6nqPF1ds.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
     "trailer_published": "2026-10-17T23:00:07.000Z",
@@ -32,78 +104,6 @@
         "name": "Chun-Li really is that girl",
         "type": "Teaser",
         "published_at": "2026-10-15T00:00:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-17T17:00:27.000Z",
-    "videos": [
-      {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "Jm1pc_TWm8g",
-        "name": "The possibilities are endless.",
-        "type": "Teaser",
-        "published_at": "2026-10-17T17:00:27.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1503762,
-    "title": "Sense and Sensibility",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
-    "theatrical": true,
-    "trailer_published": "2026-10-17T16:10:53.000Z",
-    "videos": [
-      {
-        "key": "OFLyW0lxFU0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-30T15:00:04.000Z"
-      },
-      {
-        "key": "mcrwcvad84U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-25T12:26:01.000Z"
-      },
-      {
-        "key": "-2Z0xs0dilo",
-        "name": "We all know someone who has that Marianne mentality",
-        "type": "Teaser",
-        "published_at": "2026-10-17T16:10:53.000Z"
-      },
-      {
-        "key": "iY0LQDQU1K8",
-        "name": "Handsome",
-        "type": "Teaser",
-        "published_at": "2026-10-16T11:31:26.000Z"
       }
     ]
   },
@@ -436,7 +436,7 @@
     "title": "The Beekeeper 2",
     "release_date": "2027-01-15",
     "poster": "https://image.tmdb.org/t/p/w500/mzepO3crKkX4Mhyj9Lrix3yn2sT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tKTCTuG63KFQD82M5fvQbfO4fra.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zdZmiPdzrBlioFVvROuA57kPs4G.jpg",
     "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
     "theatrical": true,
     "trailer_published": "2026-10-15T14:44:46.000Z",
@@ -1233,7 +1233,7 @@
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
@@ -1421,7 +1421,7 @@
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg",
-    "overview": "An incisive look behind the legend of Elon Musk, the world\u2019s most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
+    "overview": "An incisive look behind the legend of Elon Musk, the world\u2019s most heralded 'inventor-entrepreneur' who has enormous influence on the world in which we all live.",
     "theatrical": true,
     "trailer_published": "2026-09-23T20:35:04.000Z",
     "videos": [
@@ -1992,42 +1992,6 @@
     ]
   },
   {
-    "id": 1291595,
-    "title": "Insidious: Out of the Further",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "theatrical": true,
-    "trailer_published": "2026-09-10T02:00:15.000Z",
-    "videos": [
-      {
-        "key": "gXjurDkYnEM",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-05T13:00:08.000Z"
-      },
-      {
-        "key": "jxU8FU3o75A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-14T02:39:28.000Z"
-      },
-      {
-        "key": "DtIG4BPnfDs",
-        "name": "Quiet On The Creek",
-        "type": "Teaser",
-        "published_at": "2026-09-10T02:00:15.000Z"
-      },
-      {
-        "key": "x17kM6xmSpU",
-        "name": "Analog Horror",
-        "type": "Teaser",
-        "published_at": "2026-09-04T09:00:11.000Z"
-      }
-    ]
-  },
-  {
     "id": 1381078,
     "title": "Love of Your Life",
     "release_date": "2026-10-07",
@@ -2168,6 +2132,24 @@
         "name": "Happy Power Rangers Day!",
         "type": "Teaser",
         "published_at": "2026-08-28T21:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1752355,
+    "title": "Schumacher \u201994 \u2013 The Birth of a Legend",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+    "overview": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.",
+    "theatrical": false,
+    "trailer_published": "2026-09-04T10:30:00.000Z",
+    "videos": [
+      {
+        "key": "7fDrlNje1iU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-04T10:30:00.000Z"
       }
     ]
   },
@@ -2396,42 +2378,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-08-26T23:00:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1288445,
-    "title": "Mutiny",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T18:51:19.000Z",
-    "videos": [
-      {
-        "key": "2Iqvbe98Gb4",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T11:00:26.000Z"
-      },
-      {
-        "key": "MPyXlWTZ32E",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-07-08T13:15:01.000Z"
-      },
-      {
-        "key": "FKSdXH89jbo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-09T15:05:06.000Z"
-      },
-      {
-        "key": "c38ogNyQe3g",
-        "name": "\u201cDie Hard on the high seas.\u201d",
-        "type": "Teaser",
-        "published_at": "2026-08-26T18:51:19.000Z"
       }
     ]
   },
@@ -3238,7 +3184,7 @@
     "title": "Don't Move",
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1b0RrVxLAMhfT0vQXfWtDLwg1ke.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
     "overview": "A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, and something starts picking them off one by one.  Suspicion falls on Ricky, the troublemaker of the group. But the real threat is far worse.  Deep in the forest, wrapped in a labyrinth of webs, the group is pursued by a terrifying prehistoric arachnid that hunts by vibration. When every step could be their last, they only have one choice: Don't Move.  It's up to Megan to hold what's left of the group together and get them out alive.",
     "theatrical": true,
     "trailer_published": "2026-07-15T14:49:44.000Z",
@@ -3368,6 +3314,30 @@
         "name": "Official Trailer: SIDE Homura [Subtitled]",
         "type": "Trailer",
         "published_at": "2024-11-01T09:05:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet - surviving fatherhood - while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-06-29T13:00:01.000Z",
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
       }
     ]
   },
