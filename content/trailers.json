@@ -1,5 +1,149 @@
 [
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-19T17:32:10.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "C9YZgIy-S0k",
+        "name": "Who is he?",
+        "type": "Teaser",
+        "published_at": "2026-10-19T17:32:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-10-19T17:00:46.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "UP0xgg5hu0c",
+        "name": "Cast Run",
+        "type": "Teaser",
+        "published_at": "2026-10-19T17:00:46.000Z"
+      },
+      {
+        "key": "fWkiI3n6Uv0",
+        "name": "Mrs. Chesterfield",
+        "type": "Teaser",
+        "published_at": "2026-10-16T16:02:44.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1503762,
+    "title": "Sense and Sensibility",
+    "release_date": "2026-10-14",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "theatrical": true,
+    "trailer_published": "2026-10-19T16:33:23.000Z",
+    "videos": [
+      {
+        "key": "OFLyW0lxFU0",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-30T15:00:04.000Z"
+      },
+      {
+        "key": "mcrwcvad84U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-25T12:26:01.000Z"
+      },
+      {
+        "key": "yKs9X_0wqMw",
+        "name": "What would you do if the love of your life showed up?",
+        "type": "Teaser",
+        "published_at": "2026-10-19T16:33:23.000Z"
+      },
+      {
+        "key": "0cETEt0WhU4",
+        "name": "That feeling of a new crush",
+        "type": "Teaser",
+        "published_at": "2026-10-18T17:04:47.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1170608,
+    "title": "Dune: Part Three",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "theatrical": true,
+    "trailer_published": "2026-10-19T13:00:31.000Z",
+    "videos": [
+      {
+        "key": "NdvqHc56lE0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-08T17:59:03.000Z"
+      },
+      {
+        "key": "3_9vCamtuPY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-17T16:19:02.000Z"
+      },
+      {
+        "key": "m5zrVfG0yYo",
+        "name": "Tickets on sale TOMORROW",
+        "type": "Teaser",
+        "published_at": "2026-10-19T13:00:31.000Z"
+      },
+      {
+        "key": "PaxCyyEp59M",
+        "name": "Dune Insider Screenings",
+        "type": "Teaser",
+        "published_at": "2026-08-18T16:00:22.000Z"
+      }
+    ]
+  },
+  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -32,78 +176,6 @@
         "name": "In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-10-19T10:00:20.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-18T18:00:16.000Z",
-    "videos": [
-      {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "9qpM-jT83R8",
-        "name": "Take it all in.",
-        "type": "Teaser",
-        "published_at": "2026-10-18T18:00:16.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1503762,
-    "title": "Sense and Sensibility",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
-    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
-    "theatrical": true,
-    "trailer_published": "2026-10-18T17:04:47.000Z",
-    "videos": [
-      {
-        "key": "OFLyW0lxFU0",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-30T15:00:04.000Z"
-      },
-      {
-        "key": "mcrwcvad84U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-25T12:26:01.000Z"
-      },
-      {
-        "key": "0cETEt0WhU4",
-        "name": "That feeling of a new crush",
-        "type": "Teaser",
-        "published_at": "2026-10-18T17:04:47.000Z"
-      },
-      {
-        "key": "-2Z0xs0dilo",
-        "name": "We all know someone who has that Marianne mentality",
-        "type": "Teaser",
-        "published_at": "2026-10-17T16:10:53.000Z"
       }
     ]
   },
@@ -248,42 +320,6 @@
         "name": "will make your jaw drop",
         "type": "Teaser",
         "published_at": "2026-10-16T18:02:47.000Z"
-      }
-    ]
-  },
-  {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-10-16T16:02:44.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "fWkiI3n6Uv0",
-        "name": "Mrs. Chesterfield",
-        "type": "Teaser",
-        "published_at": "2026-10-16T16:02:44.000Z"
-      },
-      {
-        "key": "4hojgD4d1ME",
-        "name": "Island Itinerary",
-        "type": "Teaser",
-        "published_at": "2026-10-15T16:01:11.000Z"
       }
     ]
   },
@@ -525,7 +561,7 @@
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/oDghSCjiOavqq4fthCWNOUzzLzr.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -1560,6 +1596,24 @@
     ]
   },
   {
+    "id": 1620918,
+    "title": "Norm: The Tale of Norm Macdonald",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d3Uscbjxikw0Vgk9ACFUpqFXplA.jpg",
+    "overview": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
+    "theatrical": false,
+    "trailer_published": "2026-09-22T16:00:00.000Z",
+    "videos": [
+      {
+        "key": "dIBNCBAzBos",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-22T16:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1776531,
     "title": "Clown Panic",
     "release_date": "2026-10-12",
@@ -1710,42 +1764,6 @@
     ]
   },
   {
-    "id": 1204680,
-    "title": "Coyote vs. Acme",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T18:25:24.000Z",
-    "videos": [
-      {
-        "key": "kMsiD1Nky5I",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:26.000Z"
-      },
-      {
-        "key": "H-43VeYGiPM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-22T12:55:32.000Z"
-      },
-      {
-        "key": "qdZf3jYcpCI",
-        "name": "Happy Birthday Wile E Coyote",
-        "type": "Teaser",
-        "published_at": "2026-09-17T18:25:24.000Z"
-      },
-      {
-        "key": "eQcD2wwfBZE",
-        "name": "We tink we taw you heading to see Coyote Vs. Acme over Labor Day weekend!",
-        "type": "Teaser",
-        "published_at": "2026-09-04T20:54:33.000Z"
-      }
-    ]
-  },
-  {
     "id": 1623256,
     "title": "The Storm",
     "release_date": "2026-10-15",
@@ -1778,6 +1796,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-16T14:59:49.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1198654,
+    "title": "Bad Apples",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ldeiBXtVM12oDUVSiJtwjESLSOc.jpg",
+    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T14:00:35.000Z",
+    "videos": [
+      {
+        "key": "4nhu80EmVQE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T16:33:32.000Z"
+      },
+      {
+        "key": "nuaX1aU5EbM",
+        "name": "Troublemaker? It\u2019s hard to say.",
+        "type": "Teaser",
+        "published_at": "2026-09-16T14:00:35.000Z"
+      },
+      {
+        "key": "rXli3ZXxISA",
+        "name": "It only takes one.",
+        "type": "Teaser",
+        "published_at": "2026-09-13T14:00:16.000Z"
+      },
+      {
+        "key": "TkNGg8NU9Fo",
+        "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
+        "type": "Teaser",
+        "published_at": "2026-09-12T16:00:24.000Z"
       }
     ]
   },
@@ -1955,13 +2009,13 @@
     "videos": [
       {
         "key": "q6XUlPdTuto",
-        "name": "Everest: The Other Side | Official Trailer 2 | Experience It In IMAX\u00ae",
+        "name": "Official Trailer 2",
         "type": "Trailer",
         "published_at": "2026-09-14T16:47:47.000Z"
       },
       {
         "key": "8gjOXAjeisY",
-        "name": "Everest: The Other Side | Trailer | In Theaters October 30",
+        "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-09-03T16:11:01.000Z"
       }
@@ -2055,7 +2109,7 @@
     "id": 1381078,
     "title": "Love of Your Life",
     "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/c2bHsFBSvMPozJXBGuiIpCRh7hf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
     "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
     "theatrical": true,
@@ -2544,24 +2598,6 @@
     ]
   },
   {
-    "id": 1229906,
-    "title": "Family",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
-    "overview": "A 10-year-old girl begins to believe her parents are trying to kill her. Convinced a sinister spirit is to blame, she spirals into a haunting fantasy world that mirrors her deepest fears.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T15:51:42.000Z",
-    "videos": [
-      {
-        "key": "iSMs7CnxA5g",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-20T15:51:42.000Z"
-      }
-    ]
-  },
-  {
     "id": 1336166,
     "title": "Rolling Loud: The Movie",
     "release_date": "2026-10-02",
@@ -2606,42 +2642,6 @@
         "name": "Ladies & Ladies",
         "type": "Teaser",
         "published_at": "2026-07-01T06:03:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1170608,
-    "title": "Dune: Part Three",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T16:00:22.000Z",
-    "videos": [
-      {
-        "key": "NdvqHc56lE0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-08T17:59:03.000Z"
-      },
-      {
-        "key": "3_9vCamtuPY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-17T16:19:02.000Z"
-      },
-      {
-        "key": "PaxCyyEp59M",
-        "name": "Dune Insider Screenings",
-        "type": "Teaser",
-        "published_at": "2026-08-18T16:00:22.000Z"
-      },
-      {
-        "key": "-hWl_vx6mpo",
-        "name": "For all he\u2019s done.",
-        "type": "Teaser",
-        "published_at": "2026-07-08T23:10:00.000Z"
       }
     ]
   },
@@ -2703,7 +2703,7 @@
     "id": 1380417,
     "title": "By Any Means",
     "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
     "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
     "theatrical": true,
@@ -2918,6 +2918,24 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-08-07T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1458099,
+    "title": "The Only Living Pickpocket in New York",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg",
+    "overview": "Harry Lehman is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily cancelled credit cards, and Harry struggles to make ends meet as he cares for his disabled wife, Rosie. When he unwittingly purloins and fences a valuable USB stick, Harry finds himself in a race against time to return the loot or face the rage of a vengeful crime family.",
+    "theatrical": true,
+    "trailer_published": "2026-08-06T15:00:56.000Z",
+    "videos": [
+      {
+        "key": "iXA7BmrBBxs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-06T15:00:56.000Z"
       }
     ]
   },
@@ -3162,42 +3180,6 @@
     ]
   },
   {
-    "id": 1341138,
-    "title": "Spa Weekend",
-    "release_date": "2026-08-21",
-    "poster": "https://image.tmdb.org/t/p/w500/uhx4YjT9YbSxrKVE7GWJdjI412J.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
-    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-    "theatrical": true,
-    "trailer_published": "2026-07-15T16:00:37.000Z",
-    "videos": [
-      {
-        "key": "AhsA9ZqRAXQ",
-        "name": "Book Your Escape Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T16:00:37.000Z"
-      },
-      {
-        "key": "FUFyXtlXw7k",
-        "name": "Censored UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T10:03:20.000Z"
-      },
-      {
-        "key": "p_LJgljyhfE",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T10:02:51.000Z"
-      },
-      {
-        "key": "9p7j3UvpEQQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-27T15:59:37.000Z"
-      }
-    ]
-  },
-  {
     "id": 1375161,
     "title": "Don't Move",
     "release_date": "2026-09-11",
@@ -3364,7 +3346,7 @@
     "title": "The Weight",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zLeq2fbHU6UdA7mhsYnIULORTgq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
     "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he\u2019ll win his freedom.",
     "theatrical": true,
     "trailer_published": "2026-06-25T13:55:02.000Z",
