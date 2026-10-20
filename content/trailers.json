@@ -1,5 +1,77 @@
 [
   {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-10-20T08:04:26.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "TdrXTegGf0M",
+        "name": "\"Wildwood is Laika's Masterpiece\" - Collider.",
+        "type": "Teaser",
+        "published_at": "2026-10-20T08:04:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-19T20:15:11.000Z",
+    "videos": [
+      {
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
+      },
+      {
+        "key": "JdM6RS4Sqm4",
+        "name": "In Theaters Friday",
+        "type": "Teaser",
+        "published_at": "2026-10-19T20:15:11.000Z"
+      },
+      {
+        "key": "y_DBcl1YTAc",
+        "name": "Official ASMR",
+        "type": "Teaser",
+        "published_at": "2026-10-16T19:49:14.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -324,42 +396,6 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-10-16T14:12:54.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "zPSFJQd8YMk",
-        "name": "Acclaim",
-        "type": "Teaser",
-        "published_at": "2026-10-16T14:12:54.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400837,
     "title": "Other Mommy",
     "release_date": "2026-10-09",
@@ -500,42 +536,6 @@
         "name": "Steps to saving the world: Digger style",
         "type": "Teaser",
         "published_at": "2026-10-15T18:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T15:00:27.000Z",
-    "videos": [
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
-      },
-      {
-        "key": "qHOzJfffYRs",
-        "name": "Fable",
-        "type": "Teaser",
-        "published_at": "2026-10-15T15:00:27.000Z"
-      },
-      {
-        "key": "_1-RhLVizN4",
-        "name": "Get Tickets Now",
-        "type": "Teaser",
-        "published_at": "2026-10-14T19:49:43.000Z"
       }
     ]
   },
@@ -1302,6 +1302,24 @@
     ]
   },
   {
+    "id": 1790284,
+    "title": "The Opera!",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/9sEfDdBkNGb0ffYrzQ9GMKDiHKV.jpg",
+    "backdrop": "",
+    "overview": "The Three Chaps; Prescott, Chogurt, and Dr. Wilbert, await to see Lady Hogsmash LIVE at The Opera. While appreciating some lobby art, a horrific travesty unfolds, leaving The Chaps to wonder if they'll make it out of The Opera House on a high note.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T17:12:50.000Z",
+    "videos": [
+      {
+        "key": "g4GjT78O7xU",
+        "name": "The Opera! - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-25T17:12:50.000Z"
+      }
+    ]
+  },
+  {
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
@@ -1728,6 +1746,42 @@
     ]
   },
   {
+    "id": 1340102,
+    "title": "Lion Fist",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
+    "overview": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
+    "theatrical": false,
+    "trailer_published": "2026-09-18T17:00:04.000Z",
+    "videos": [
+      {
+        "key": "9JLxOm9VmGI",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-21T16:00:01.000Z"
+      },
+      {
+        "key": "Jz-h04pJF5Q",
+        "name": "Now available to rent digitally,in US and UK.",
+        "type": "Teaser",
+        "published_at": "2026-09-18T17:00:04.000Z"
+      },
+      {
+        "key": "V4xU2Q5kRfg",
+        "name": "Martial arts legends on screen!",
+        "type": "Teaser",
+        "published_at": "2026-09-15T17:00:32.000Z"
+      },
+      {
+        "key": "Pne7gJhlX1w",
+        "name": "From the producers of  \u201cThe Last Kumite\u201d and screenwriter of  \u201cNo Retreat, No Surrender\u201d",
+        "type": "Teaser",
+        "published_at": "2026-09-14T15:00:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1487317,
     "title": "Therapy Done Right",
     "release_date": "2026-10-16",
@@ -1804,7 +1858,7 @@
     "title": "Bad Apples",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ldeiBXtVM12oDUVSiJtwjESLSOc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ch1g1X6TfezRwbmiBiYRpALTQjN.jpg",
     "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
     "theatrical": true,
     "trailer_published": "2026-09-16T14:00:35.000Z",
@@ -1850,30 +1904,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-16T08:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1318467,
-    "title": "The Last Kiss",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
-    "theatrical": false,
-    "trailer_published": "2026-09-15T20:34:42.000Z",
-    "videos": [
-      {
-        "key": "lAKtuOVkAgU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T19:03:09.000Z"
-      },
-      {
-        "key": "Vgf-eANUdE0",
-        "name": "Watch at Home September 15",
-        "type": "Teaser",
-        "published_at": "2026-09-15T20:34:42.000Z"
       }
     ]
   },
@@ -2109,8 +2139,8 @@
     "id": 1381078,
     "title": "Love of Your Life",
     "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/c2bHsFBSvMPozJXBGuiIpCRh7hf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
     "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
     "theatrical": true,
     "trailer_published": "2026-09-09T13:59:49.000Z",
@@ -2388,24 +2418,6 @@
     ]
   },
   {
-    "id": 1544847,
-    "title": "Pradhama Drishtiya Kuttakkar",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/1pjYeZxNJ0OyXSYWaMcXflVvNAW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zmfUqsFcQs6BjLJStofM5MD2l7L.jpg",
-    "overview": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
-    "theatrical": false,
-    "trailer_published": "2026-09-01T11:36:03.000Z",
-    "videos": [
-      {
-        "key": "hf96obsJIGU",
-        "name": "Pradhama Drishtya Kuttakkar Official Trailer | Shahad | Parvathy | Vijayaragavan | Mathew Thomas",
-        "type": "Trailer",
-        "published_at": "2026-09-01T11:36:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1458857,
     "title": "Doing Life",
     "release_date": "2026-10-02",
@@ -2550,30 +2562,6 @@
     ]
   },
   {
-    "id": 1340102,
-    "title": "Lion Fist",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
-    "overview": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
-    "theatrical": false,
-    "trailer_published": "2026-08-21T16:00:01.000Z",
-    "videos": [
-      {
-        "key": "9JLxOm9VmGI",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-21T16:00:01.000Z"
-      },
-      {
-        "key": "BNLvZ-VKHbc",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-16T06:30:37.000Z"
-      }
-    ]
-  },
-  {
     "id": 1596248,
     "title": "If I Go Will They Miss Me",
     "release_date": "2026-09-11",
@@ -2704,7 +2692,7 @@
     "title": "By Any Means",
     "release_date": "2026-09-04",
     "poster": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
     "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
     "theatrical": true,
     "trailer_published": "2026-08-17T22:58:28.000Z",
@@ -3129,7 +3117,7 @@
     "id": 1148365,
     "title": "Matchbox the Movie",
     "release_date": "2026-10-05",
-    "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
     "theatrical": false,
@@ -3294,36 +3282,6 @@
     ]
   },
   {
-    "id": 1553200,
-    "title": "Rascal Does Not Dream of a Dear Friend",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/772MwRZDJQa4b0NPGs7Fn5cfBeG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iR3R7012MUISPSejxeGFEXHfhDE.jpg",
-    "overview": "Faced with the truth about Miori and Touko Kirishima, Sakuta must make a choice. This will be his final case of Adolescence Syndrome!",
-    "theatrical": false,
-    "trailer_published": "2026-06-25T17:00:38.000Z",
-    "videos": [
-      {
-        "key": "sFmnbdPwbrQ",
-        "name": "Rascal Does Not Dream of a Dear Friend  |  OFFICIAL TRAILER",
-        "type": "Trailer",
-        "published_at": "2026-06-25T17:00:38.000Z"
-      },
-      {
-        "key": "hIneMTqP_Gc",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-03-30T19:00:00.000Z"
-      },
-      {
-        "key": "tUyJc46lHCE",
-        "name": "Teaser Trailer [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2025-10-01T15:01:44.000Z"
-      }
-    ]
-  },
-  {
     "id": 1126097,
     "title": "Charlie Harper",
     "release_date": "2026-09-25",
@@ -3374,6 +3332,24 @@
         "name": "9.24.27",
         "type": "Teaser",
         "published_at": "2026-06-23T15:14:40.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1391239,
+    "title": "The Debut",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
+    "theatrical": true,
+    "trailer_published": "2026-06-23T12:59:06.000Z",
+    "videos": [
+      {
+        "key": "clyzHmBx43E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T12:59:06.000Z"
       }
     ]
   },
@@ -3464,6 +3440,36 @@
         "name": "Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-06-11T16:01:48.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1790272,
+    "title": "Wake",
+    "release_date": "2026-10-10",
+    "poster": "https://image.tmdb.org/t/p/w500/frdS2fCUV2pSkuG4tOxd351KZTx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/psCALJQWUVdTUJh13VNpBJyqlJf.jpg",
+    "overview": "After committing murder and disposing of the evidence, Ellie (Natasha Lockhart) seeks help in therapy following the tragic event in hope it destroys the sound, pain and fear she has since experienced. The mind is a powerful thing and her own...Let's say it has a mind of its own. Wake marks Leon's debut as an independent writer and director!'  Starring: Natasha Lockhart",
+    "theatrical": false,
+    "trailer_published": "2026-06-11T16:00:06.000Z",
+    "videos": [
+      {
+        "key": "J2RCcYDFSDs",
+        "name": "WAKE - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-11T16:00:06.000Z"
+      },
+      {
+        "key": "BDkh7iBo_R4",
+        "name": "WAKE - The Festival Journey (So Far)",
+        "type": "Trailer",
+        "published_at": "2025-12-28T20:00:06.000Z"
+      },
+      {
+        "key": "WHdbC0GTsuc",
+        "name": "WAKE - Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2025-02-09T18:00:06.000Z"
       }
     ]
   },
