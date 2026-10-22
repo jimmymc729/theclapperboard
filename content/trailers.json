@@ -426,6 +426,24 @@
     ]
   },
   {
+    "id": 1596275,
+    "title": "Drive - The Pretenders",
+    "release_date": "2026-10-28",
+    "poster": "https://image.tmdb.org/t/p/w500/9RkvLd07rrPllGD8Ya7B616CQkT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
+    "overview": "A young race car mechanic fakes an engagement to the most scandalous racing star on the scene\u2014officially for his reputation, secretly for her own chance behind the wheel. But soon the lie threatens to destroy everything, including what has long since become more than just a game.",
+    "theatrical": true,
+    "trailer_published": "2026-10-19T13:00:31.000Z",
+    "videos": [
+      {
+        "key": "-sV69CJwUwU",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-19T13:00:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -574,7 +592,7 @@
     "title": "Whalefall",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
     "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
     "theatrical": true,
     "trailer_published": "2026-10-16T18:02:47.000Z",
@@ -1442,6 +1460,30 @@
         "name": "Vampire Carnival | Official Trailer | Horror Brains",
         "type": "Trailer",
         "published_at": "2026-09-25T11:58:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1458099,
+    "title": "The Only Living Pickpocket in New York",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg",
+    "overview": "Harry Lehman is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily cancelled credit cards, and Harry struggles to make ends meet as he cares for his disabled wife, Rosie. When he unwittingly purloins and fences a valuable USB stick, Harry finds himself in a race against time to return the loot or face the rage of a vengeful crime family.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T19:05:11.000Z",
+    "videos": [
+      {
+        "key": "iXA7BmrBBxs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-06T15:00:56.000Z"
+      },
+      {
+        "key": "rCYjIPQLC8w",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-24T19:05:11.000Z"
       }
     ]
   },
@@ -2394,24 +2436,6 @@
     ]
   },
   {
-    "id": 1483525,
-    "title": "Possible Love",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T23:00:01.000Z",
-    "videos": [
-      {
-        "key": "zd3qXH9qN70",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-26T23:00:01.000Z"
-      }
-    ]
-  },
-  {
     "id": 1513253,
     "title": "Tiny Fugitives",
     "release_date": "2026-09-18",
@@ -2522,6 +2546,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-08-13T16:18:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1443151,
+    "title": "Double Trouble",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/2ecp59fHPF5Uq6vRQ6CJtyx4iAp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nt5xQvc0Tx8WcRoW9iHFiAaWYd8.jpg",
+    "overview": "Two witty sisters in Vegas get tangled in a holiday heist and join forces with an ex-MI6 guard to outmaneuver a master thief and recover a diamond gauntlet before Christmas.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T14:00:28.000Z",
+    "videos": [
+      {
+        "key": "gBYr2Ymc-lU",
+        "name": "Double Trouble Exclusive Trailer (2026)",
+        "type": "Trailer",
+        "published_at": "2026-08-20T14:00:28.000Z"
       }
     ]
   },
@@ -2850,24 +2892,6 @@
     ]
   },
   {
-    "id": 1458099,
-    "title": "The Only Living Pickpocket in New York",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg",
-    "overview": "Harry Lehman is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily cancelled credit cards, and Harry struggles to make ends meet as he cares for his disabled wife, Rosie. When he unwittingly purloins and fences a valuable USB stick, Harry finds himself in a race against time to return the loot or face the rage of a vengeful crime family.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T15:00:56.000Z",
-    "videos": [
-      {
-        "key": "iXA7BmrBBxs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-06T15:00:56.000Z"
-      }
-    ]
-  },
-  {
     "id": 1480503,
     "title": "CoComelon: The Movie",
     "release_date": "2027-02-19",
@@ -3015,8 +3039,8 @@
     "id": 1284046,
     "title": "Onslaught",
     "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/eAs7G3yFaULpfwfVdGvPo5HmFJS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
     "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
     "theatrical": true,
     "trailer_published": "2026-07-27T13:07:12.000Z",
@@ -3246,36 +3270,6 @@
     ]
   },
   {
-    "id": 1553200,
-    "title": "Rascal Does Not Dream of a Dear Friend",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/772MwRZDJQa4b0NPGs7Fn5cfBeG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iR3R7012MUISPSejxeGFEXHfhDE.jpg",
-    "overview": "Faced with the truth about Miori and Touko Kirishima, Sakuta must make a choice. This will be his final case of Adolescence Syndrome!",
-    "theatrical": false,
-    "trailer_published": "2026-06-25T17:00:38.000Z",
-    "videos": [
-      {
-        "key": "sFmnbdPwbrQ",
-        "name": "Rascal Does Not Dream of a Dear Friend  |  OFFICIAL TRAILER",
-        "type": "Trailer",
-        "published_at": "2026-06-25T17:00:38.000Z"
-      },
-      {
-        "key": "hIneMTqP_Gc",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-03-30T19:00:00.000Z"
-      },
-      {
-        "key": "tUyJc46lHCE",
-        "name": "Teaser Trailer [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2025-10-01T15:01:44.000Z"
-      }
-    ]
-  },
-  {
     "id": 1126097,
     "title": "Charlie Harper",
     "release_date": "2026-09-25",
@@ -3298,7 +3292,7 @@
     "title": "The Weight",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tD4qifPSyyhPCgZ0W4fNTcVDD2r.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
     "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he\u2019ll win his freedom.",
     "theatrical": true,
     "trailer_published": "2026-06-25T13:55:02.000Z",
@@ -3317,7 +3311,7 @@
     "release_date": "2027-09-24",
     "poster": "https://image.tmdb.org/t/p/w500/1mi6QRfUaSoe9pTvSY4L9AHdazh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3vvWLWzmBsjHxv8LfAdLiEMwHg0.jpg",
-    "overview": "A family goes on a camping trip and goes missing one by one after they hear strange noises in the forest.",
+    "overview": "A grieving family travels to the Black Hills Forest, where an attempt to say goodbye to their mother turns into something terrifying.",
     "theatrical": true,
     "trailer_published": "2026-06-23T15:14:40.000Z",
     "videos": [
