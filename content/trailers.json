@@ -1,37 +1,37 @@
 [
   {
-    "id": 1400940,
-    "title": "Clayface",
+    "id": 791523,
+    "title": "Wildwood",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
-    "trailer_published": "2026-10-22T02:06:56.000Z",
+    "trailer_published": "2026-10-22T23:44:54.000Z",
     "videos": [
       {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
+        "key": "bJQGtSeLPII",
         "name": "Final Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
+        "published_at": "2026-09-16T12:30:01.000Z"
       },
       {
-        "key": "OGO4Mqvo3jI",
+        "key": "dtr5JL1zkiM",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
+        "published_at": "2026-08-19T12:30:06.000Z"
       },
       {
-        "key": "-88nAic8-B4",
-        "name": "The chaos has begun. Clayface is now Certified Fresh on Rotten Tomatoes.",
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "SNt22U9ia1M",
+        "name": "Don\u2019t Miss Wildwood on the Big Screen!",
         "type": "Teaser",
-        "published_at": "2026-10-22T02:06:56.000Z"
+        "published_at": "2026-10-22T23:44:54.000Z"
       }
     ]
   },
@@ -43,7 +43,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
-    "trailer_published": "2026-10-21T20:17:26.000Z",
+    "trailer_published": "2026-10-22T19:11:13.000Z",
     "videos": [
       {
         "key": "Dr060OLTodE",
@@ -64,10 +64,82 @@
         "published_at": "2026-04-13T13:00:02.000Z"
       },
       {
-        "key": "qx75M_d6Mic",
-        "name": "A striking ensemble.",
+        "key": "dmOtXwQxf8c",
+        "name": "Witness the beginning of the revolution.",
         "type": "Teaser",
-        "published_at": "2026-10-21T20:17:26.000Z"
+        "published_at": "2026-10-22T19:11:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-10-22T18:01:33.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "Atfr5bPRUMU",
+        "name": "In Theaters November 6",
+        "type": "Teaser",
+        "published_at": "2026-10-22T18:01:33.000Z"
+      },
+      {
+        "key": "t1YwUPdX_p4",
+        "name": "Enjoy",
+        "type": "Teaser",
+        "published_at": "2026-10-21T18:08:51.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-22T16:00:29.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "pEqLlHXmJjQ",
+        "name": "It's time.",
+        "type": "Teaser",
+        "published_at": "2026-10-22T16:00:29.000Z"
       }
     ]
   },
@@ -79,7 +151,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
-    "trailer_published": "2026-10-21T19:06:35.000Z",
+    "trailer_published": "2026-10-22T16:00:18.000Z",
     "videos": [
       {
         "key": "VS3AcRBa9c8",
@@ -100,46 +172,10 @@
         "published_at": "2026-06-16T16:01:06.000Z"
       },
       {
-        "key": "xjADDXh4dKU",
+        "key": "Kx-m6pgSodY",
         "name": "In Theaters November 25",
         "type": "Teaser",
-        "published_at": "2026-10-21T19:06:35.000Z"
-      }
-    ]
-  },
-  {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-10-21T18:08:51.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "t1YwUPdX_p4",
-        "name": "Enjoy",
-        "type": "Teaser",
-        "published_at": "2026-10-21T18:08:51.000Z"
-      },
-      {
-        "key": "rDvJ5m9eeMM",
-        "name": "Poem",
-        "type": "Teaser",
-        "published_at": "2026-10-20T17:01:00.000Z"
+        "published_at": "2026-10-22T16:00:18.000Z"
       }
     ]
   },
@@ -147,7 +183,7 @@
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/xKCdkfKmEqS0mKpWgHTeWuISHS3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
     "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
     "theatrical": true,
@@ -255,7 +291,7 @@
     "id": 1380417,
     "title": "By Any Means",
     "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
     "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
     "theatrical": true,
@@ -320,42 +356,6 @@
         "name": "Watch at Home October 27",
         "type": "Teaser",
         "published_at": "2026-10-20T16:28:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-10-20T14:08:08.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "aGBz-swP9IE",
-        "name": "Light",
-        "type": "Teaser",
-        "published_at": "2026-10-20T14:08:08.000Z"
       }
     ]
   },
@@ -670,7 +670,7 @@
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-10-15T18:00:12.000Z",
@@ -740,6 +740,30 @@
         "name": "Official Trailer (English)",
         "type": "Trailer",
         "published_at": "2026-08-05T16:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1595124,
+    "title": "Steps",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T13:00:02.000Z",
+    "videos": [
+      {
+        "key": "tNV4i3BqUGY",
+        "name": "STEPS | Official Trailer | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-10-15T13:00:02.000Z"
+      },
+      {
+        "key": "Y0RW8EW08Dk",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-09-17T13:00:02.000Z"
       }
     ]
   },
@@ -1740,6 +1764,36 @@
     ]
   },
   {
+    "id": 1457866,
+    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
+    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T12:00:00.000Z",
+    "videos": [
+      {
+        "key": "RjEZaUBbUvU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-21T12:00:00.000Z"
+      },
+      {
+        "key": "hbU1zLAwj3w",
+        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "type": "Teaser",
+        "published_at": "2026-08-26T20:55:34.000Z"
+      },
+      {
+        "key": "ik0drfECnPo",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-09T01:43:08.000Z"
+      }
+    ]
+  },
+  {
     "id": 1480574,
     "title": "Just Play Dead",
     "release_date": "2026-08-28",
@@ -1872,42 +1926,6 @@
     ]
   },
   {
-    "id": 1437511,
-    "title": "How to Rob a Bank",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
-    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T13:00:09.000Z",
-    "videos": [
-      {
-        "key": "MVvWKh336m4",
-        "name": "Official UK Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-17T13:00:09.000Z"
-      },
-      {
-        "key": "B9XOzCUvFB8",
-        "name": "Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-17T12:59:58.000Z"
-      },
-      {
-        "key": "hoXld2b0TCs",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T13:02:07.000Z"
-      },
-      {
-        "key": "ORxw68y3lyw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T13:00:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1623256,
     "title": "The Storm",
     "release_date": "2026-10-15",
@@ -1929,7 +1947,7 @@
     "id": 1288069,
     "title": "Tenzing",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/a3G0yDUDoEJwzmHeIIrZmUCx8bW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
     "overview": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
     "theatrical": true,
@@ -2526,24 +2544,6 @@
     ]
   },
   {
-    "id": 1355228,
-    "title": "Gandhari",
-    "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-    "theatrical": false,
-    "trailer_published": "2026-08-25T10:38:05.000Z",
-    "videos": [
-      {
-        "key": "TRyBiPD1bUc",
-        "name": "GANDHARI - OFFICIAL TRAILER",
-        "type": "Trailer",
-        "published_at": "2026-08-25T10:38:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1596248,
     "title": "If I Go Will They Miss Me",
     "release_date": "2026-09-11",
@@ -2742,6 +2742,24 @@
     ]
   },
   {
+    "id": 1403836,
+    "title": "The Bluey Movie",
+    "release_date": "2027-08-06",
+    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
+    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
+    "theatrical": true,
+    "trailer_published": "2026-08-15T03:26:36.000Z",
+    "videos": [
+      {
+        "key": "I0YWGgZBiYc",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-08-15T03:26:36.000Z"
+      }
+    ]
+  },
+  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -2840,24 +2858,6 @@
         "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
         "type": "Teaser",
         "published_at": "2026-07-29T10:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1111295,
-    "title": "Crude Awakenings",
-    "release_date": "2026-08-25",
-    "poster": "https://image.tmdb.org/t/p/w500/vww1uAUCAXfLyyhy3bY21Co8XdB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kPaqVM5RFwEp00mxA7QRsF5gvSw.jpg",
-    "overview": "At a ruthless PR firm, an ambitious publicist takes on a notorious energy company at the promise of a promotion. As a mysterious sickness spreads throughout her firm, she must decide whether to sacrifice her morals in favour of corporate success.",
-    "theatrical": false,
-    "trailer_published": "2026-08-12T14:19:32.000Z",
-    "videos": [
-      {
-        "key": "cDpY2rOxaUI",
-        "name": "CRUDE AWAKENINGS | Official Trailer | Dark Comedy Movie (2026)",
-        "type": "Trailer",
-        "published_at": "2026-08-12T14:19:32.000Z"
       }
     ]
   },
