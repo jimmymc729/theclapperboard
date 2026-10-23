@@ -3,11 +3,11 @@
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
     "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
-    "trailer_published": "2026-10-22T23:44:54.000Z",
+    "trailer_published": "2026-10-23T10:11:44.000Z",
     "videos": [
       {
         "key": "bJQGtSeLPII",
@@ -28,10 +28,82 @@
         "published_at": "2026-05-13T12:29:57.000Z"
       },
       {
-        "key": "SNt22U9ia1M",
-        "name": "Don\u2019t Miss Wildwood on the Big Screen!",
+        "key": "XmAs9q3Md50",
+        "name": "Now Playing In Cinemas",
         "type": "Teaser",
-        "published_at": "2026-10-22T23:44:54.000Z"
+        "published_at": "2026-10-23T10:11:44.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-22T22:14:30.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "ixMpZbIkO90",
+        "name": "Intense, exciting, and holding nothing back.",
+        "type": "Teaser",
+        "published_at": "2026-10-22T22:14:30.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-22T22:07:31.000Z",
+    "videos": [
+      {
+        "key": "kA9NfV4pM_Q",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-20T19:05:34.000Z"
+      },
+      {
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
+      },
+      {
+        "key": "YeHPJ71pUzU",
+        "name": "The Baker's Wife",
+        "type": "Teaser",
+        "published_at": "2026-10-22T22:07:31.000Z"
       }
     ]
   },
@@ -39,7 +111,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -104,42 +176,6 @@
         "name": "Enjoy",
         "type": "Teaser",
         "published_at": "2026-10-21T18:08:51.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-22T16:00:29.000Z",
-    "videos": [
-      {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "pEqLlHXmJjQ",
-        "name": "It's time.",
-        "type": "Teaser",
-        "published_at": "2026-10-22T16:00:29.000Z"
       }
     ]
   },
@@ -212,42 +248,6 @@
         "name": "Tickets On Sale Now",
         "type": "Teaser",
         "published_at": "2026-10-20T16:08:19.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-20T19:05:34.000Z",
-    "videos": [
-      {
-        "key": "kA9NfV4pM_Q",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-20T19:05:34.000Z"
-      },
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
-      },
-      {
-        "key": "VT6lx-s6jyQ",
-        "name": "Hysteria",
-        "type": "Teaser",
-        "published_at": "2026-10-20T15:00:15.000Z"
       }
     ]
   },
@@ -634,7 +634,7 @@
     "title": "The Uprising",
     "release_date": "2026-09-10",
     "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
     "theatrical": true,
     "trailer_published": "2026-10-15T18:28:26.000Z",
@@ -755,7 +755,7 @@
     "videos": [
       {
         "key": "tNV4i3BqUGY",
-        "name": "STEPS | Official Trailer | Netflix",
+        "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-15T13:00:02.000Z"
       },
@@ -999,7 +999,7 @@
     "id": 1790935,
     "title": "Instadocs: AI Gone Wild",
     "release_date": "2026-10-12",
-    "poster": "https://image.tmdb.org/t/p/w500/ybMAd7Tkd3T7XlCv4Ps54r1yC1M.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/g2emP9oTYXzpNyxgti8GKhjOveB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
     "overview": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
     "theatrical": false,
@@ -1102,7 +1102,7 @@
     "title": "The Cat in the Hat",
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tqaEZxmZyzvN0bPXHRKmJHxXVVe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
     "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
     "theatrical": true,
     "trailer_published": "2026-10-01T16:00:22.000Z",
@@ -1305,7 +1305,7 @@
     "id": 1377237,
     "title": "Runner",
     "release_date": "2026-09-07",
-    "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "theatrical": true,
@@ -1760,36 +1760,6 @@
         "name": "Exclusively In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-08-27T07:07:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1457866,
-    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
-    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T12:00:00.000Z",
-    "videos": [
-      {
-        "key": "RjEZaUBbUvU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-21T12:00:00.000Z"
-      },
-      {
-        "key": "hbU1zLAwj3w",
-        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-        "type": "Teaser",
-        "published_at": "2026-08-26T20:55:34.000Z"
-      },
-      {
-        "key": "ik0drfECnPo",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-09T01:43:08.000Z"
       }
     ]
   },
@@ -2544,6 +2514,24 @@
     ]
   },
   {
+    "id": 1355228,
+    "title": "Gandhari",
+    "release_date": "2026-09-03",
+    "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
+    "theatrical": false,
+    "trailer_published": "2026-08-25T10:38:05.000Z",
+    "videos": [
+      {
+        "key": "TRyBiPD1bUc",
+        "name": "GANDHARI - OFFICIAL TRAILER",
+        "type": "Trailer",
+        "published_at": "2026-08-25T10:38:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1596248,
     "title": "If I Go Will They Miss Me",
     "release_date": "2026-09-11",
@@ -2800,7 +2788,7 @@
     "title": "The Musical",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n7k5GQrIOKYNs7IWsuslyo1b0XE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/475EwwQP3Lg0kqhSC0xnZC4XBBd.jpg",
     "overview": "Doug, a frustrated playwright and middle school theater teacher, learns his ex is dating his nemesis, the school principal. To get revenge and cost him a Blue Ribbon Award, Doug secretly stages the most inappropriate play imaginable.",
     "theatrical": true,
     "trailer_published": "2026-08-13T18:14:36.000Z",
@@ -2810,30 +2798,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-13T18:14:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1522689,
-    "title": "Why Did I Get Married Again?",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-    "theatrical": false,
-    "trailer_published": "2026-08-13T14:00:00.000Z",
-    "videos": [
-      {
-        "key": "VylsOZBYxQA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-13T14:00:00.000Z"
-      },
-      {
-        "key": "t_QUYXwkwss",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-09T12:00:00.000Z"
       }
     ]
   },
@@ -3340,7 +3304,7 @@
     "title": "The Weight",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
     "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he\u2019ll win his freedom.",
     "theatrical": true,
     "trailer_published": "2026-06-25T13:55:02.000Z",
@@ -3692,6 +3656,24 @@
         "name": "THE RESURRECTION OF THE CHRIST Parts One and Two - coming to theaters Spring 2027.",
         "type": "Teaser",
         "published_at": "2025-08-05T21:02:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1505644,
+    "title": "ENE Repeat",
+    "release_date": "2026-11-19",
+    "poster": "https://image.tmdb.org/t/p/w500/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ygh5XRm9EmEUsBpBPNHnVGmxcSl.jpg",
+    "overview": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and unexpected twists test their friendship.",
+    "theatrical": true,
+    "trailer_published": "2025-06-29T05:37:01.000Z",
+    "videos": [
+      {
+        "key": "l0FcBZJLY9I",
+        "name": "Motion Poster",
+        "type": "Teaser",
+        "published_at": "2025-06-29T05:37:01.000Z"
       }
     ]
   },
