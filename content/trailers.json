@@ -1,5 +1,41 @@
 [
   {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-23T21:29:41.000Z",
+    "videos": [
+      {
+        "key": "kA9NfV4pM_Q",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-20T19:05:34.000Z"
+      },
+      {
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
+      },
+      {
+        "key": "rgnFGOIWth0",
+        "name": "The Wicker Husband",
+        "type": "Teaser",
+        "published_at": "2026-10-23T21:29:41.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -7,7 +43,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
-    "trailer_published": "2026-10-23T17:30:01.000Z",
+    "trailer_published": "2026-10-23T19:00:36.000Z",
     "videos": [
       {
         "key": "f7jlCqdtwdM",
@@ -28,10 +64,10 @@
         "published_at": "2026-07-22T16:00:47.000Z"
       },
       {
-        "key": "Sde8-nqtMuc",
-        "name": "It's time to look fear in the face.",
+        "key": "IQzjobzE8bo",
+        "name": "Smile, it's Clayface Day!",
         "type": "Teaser",
-        "published_at": "2026-10-23T17:30:01.000Z"
+        "published_at": "2026-10-23T19:00:36.000Z"
       }
     ]
   },
@@ -96,42 +132,6 @@
     ]
   },
   {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-23T15:00:18.000Z",
-    "videos": [
-      {
-        "key": "kA9NfV4pM_Q",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-20T19:05:34.000Z"
-      },
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
-      },
-      {
-        "key": "qnV_B9SQJlk",
-        "name": "Now Playing",
-        "type": "Teaser",
-        "published_at": "2026-10-23T15:00:18.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400837,
     "title": "Other Mommy",
     "release_date": "2026-10-09",
@@ -164,6 +164,24 @@
         "name": "Halloween Ready",
         "type": "Teaser",
         "published_at": "2026-10-20T17:05:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1578079,
+    "title": "Dorothy",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
+    "overview": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
+    "theatrical": true,
+    "trailer_published": "2026-10-23T10:30:00.000Z",
+    "videos": [
+      {
+        "key": "jcBG6U5iX8Y",
+        "name": "Dorothy | Official Trailer | Karthik Subbaraj, Keerthy, Sananth, Rishikanth | Netflix India",
+        "type": "Trailer",
+        "published_at": "2026-10-23T10:30:00.000Z"
       }
     ]
   },
@@ -243,7 +261,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -380,6 +398,42 @@
         "name": "In Theaters November 25",
         "type": "Teaser",
         "published_at": "2026-10-22T16:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1727734,
+    "title": "Ali G: Who Iz I?",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory\u2026 but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+    "theatrical": true,
+    "trailer_published": "2026-10-22T10:30:24.000Z",
+    "videos": [
+      {
+        "key": "pV32AcPa-iA",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-09T13:00:04.000Z"
+      },
+      {
+        "key": "6t7C4qaHihE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-25T13:00:10.000Z"
+      },
+      {
+        "key": "BwwUmijcFJk",
+        "name": "We asked Ali G to read a standard content disclaimer. He had notes.",
+        "type": "Teaser",
+        "published_at": "2026-10-22T10:30:24.000Z"
+      },
+      {
+        "key": "fFP8J0WaY4c",
+        "name": "Boycott",
+        "type": "Teaser",
+        "published_at": "2026-10-20T11:54:51.000Z"
       }
     ]
   },
@@ -748,7 +802,7 @@
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-05",
     "poster": "https://image.tmdb.org/t/p/w500/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
     "trailer_published": "2026-10-15T14:00:39.000Z",
@@ -768,35 +822,11 @@
     ]
   },
   {
-    "id": 1595124,
-    "title": "Steps",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-    "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T13:00:02.000Z",
-    "videos": [
-      {
-        "key": "tNV4i3BqUGY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-15T13:00:02.000Z"
-      },
-      {
-        "key": "Y0RW8EW08Dk",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-09-17T13:00:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1453407,
     "title": "Gajab Raat",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
     "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
     "theatrical": false,
     "trailer_published": "2026-10-15T05:30:17.000Z",
@@ -836,6 +866,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1657630,
+    "title": "The Awakening",
+    "release_date": "2026-10-29",
+    "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/75MLVCmQ4QougShkx3OlUbJbuSK.jpg",
+    "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T10:15:41.000Z",
+    "videos": [
+      {
+        "key": "3mE11o3BkQo",
+        "name": "The Awakening | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-10-14T10:15:41.000Z"
       }
     ]
   },
@@ -1344,10 +1392,34 @@
     ]
   },
   {
+    "id": 1290418,
+    "title": "The Cycle",
+    "release_date": "2026-09-17",
+    "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+    "theatrical": false,
+    "trailer_published": "2026-09-28T17:53:12.000Z",
+    "videos": [
+      {
+        "key": "m8vcBN8uza8",
+        "name": "The Cycle | Official Trailer | Shudder",
+        "type": "Trailer",
+        "published_at": "2026-09-28T17:53:12.000Z"
+      },
+      {
+        "key": "87ekbcLWPN4",
+        "name": "THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder",
+        "type": "Trailer",
+        "published_at": "2026-07-27T19:15:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1422041,
-    "title": "LA BOLA NEGRA",
+    "title": "La bola negra",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
@@ -1908,24 +1980,6 @@
     ]
   },
   {
-    "id": 1578079,
-    "title": "Dorothy",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
-    "overview": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
-    "theatrical": true,
-    "trailer_published": "2026-09-18T12:30:52.000Z",
-    "videos": [
-      {
-        "key": "xh14FVEUcDA",
-        "name": "DOROTHY Official Trailer | Karthik Subbaraj | Keerthy Suresh, Sananth, Rishikanth",
-        "type": "Trailer",
-        "published_at": "2026-09-18T12:30:52.000Z"
-      }
-    ]
-  },
-  {
     "id": 1773759,
     "title": "Seriously Single Too",
     "release_date": "2026-10-16",
@@ -1940,6 +1994,42 @@
         "name": "Seriously Single Too | Official Trailer | AfricaOnNetflix",
         "type": "Trailer",
         "published_at": "2026-09-18T09:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437511,
+    "title": "How to Rob a Bank",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T13:00:09.000Z",
+    "videos": [
+      {
+        "key": "MVvWKh336m4",
+        "name": "Official UK Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T13:00:09.000Z"
+      },
+      {
+        "key": "B9XOzCUvFB8",
+        "name": "Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T12:59:58.000Z"
+      },
+      {
+        "key": "hoXld2b0TCs",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:02:07.000Z"
+      },
+      {
+        "key": "ORxw68y3lyw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:00:02.000Z"
       }
     ]
   },
@@ -2544,24 +2634,6 @@
     ]
   },
   {
-    "id": 1355228,
-    "title": "Gandhari",
-    "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-    "theatrical": false,
-    "trailer_published": "2026-08-25T10:38:05.000Z",
-    "videos": [
-      {
-        "key": "TRyBiPD1bUc",
-        "name": "GANDHARI - OFFICIAL TRAILER",
-        "type": "Trailer",
-        "published_at": "2026-08-25T10:38:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1596248,
     "title": "If I Go Will They Miss Me",
     "release_date": "2026-09-11",
@@ -2934,7 +3006,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
     "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-    "theatrical": false,
+    "theatrical": true,
     "trailer_published": "2026-08-06T12:32:42.000Z",
     "videos": [
       {
@@ -3003,7 +3075,7 @@
     "id": 1260649,
     "title": "Jumanji: Open World",
     "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/Vql0GLUnLtf0oQo2VQsTFqjXEo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qGFuvcXqQdXS5ZNblDlVTOmK6mq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pYN5Zjc3l1hj2hMeBbzRYDYTC1E.jpg",
     "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
     "theatrical": true,
@@ -3167,7 +3239,7 @@
     "release_date": "2026-09-11",
     "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
-    "overview": "A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, and something starts picking them off one by one.  Suspicion falls on Ricky, the troublemaker of the group. But the real threat is far worse.  Deep in the forest, wrapped in a labyrinth of webs, the group is pursued by a terrifying prehistoric arachnid that hunts by vibration. When every step could be their last, they only have one choice: Don't Move.  It's up to Megan to hold what's left of the group together and get them out alive.",
+    "overview": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
     "theatrical": true,
     "trailer_published": "2026-07-15T14:49:44.000Z",
     "videos": [
@@ -3456,36 +3528,6 @@
     ]
   },
   {
-    "id": 1790272,
-    "title": "Wake",
-    "release_date": "2026-10-10",
-    "poster": "https://image.tmdb.org/t/p/w500/frdS2fCUV2pSkuG4tOxd351KZTx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/psCALJQWUVdTUJh13VNpBJyqlJf.jpg",
-    "overview": "After committing murder and disposing of the evidence, Ellie (Natasha Lockhart) seeks help in therapy following the tragic event in hope it destroys the sound, pain and fear she has since experienced. The mind is a powerful thing and her own...Let's say it has a mind of its own. Wake marks Leon's debut as an independent writer and director!'  Starring: Natasha Lockhart",
-    "theatrical": false,
-    "trailer_published": "2026-06-11T16:00:06.000Z",
-    "videos": [
-      {
-        "key": "J2RCcYDFSDs",
-        "name": "WAKE - Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T16:00:06.000Z"
-      },
-      {
-        "key": "BDkh7iBo_R4",
-        "name": "WAKE - The Festival Journey (So Far)",
-        "type": "Trailer",
-        "published_at": "2025-12-28T20:00:06.000Z"
-      },
-      {
-        "key": "WHdbC0GTsuc",
-        "name": "WAKE - Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2025-02-09T18:00:06.000Z"
-      }
-    ]
-  },
-  {
     "id": 1384758,
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
@@ -3668,24 +3710,6 @@
         "name": "THE RESURRECTION OF THE CHRIST Parts One and Two - coming to theaters Spring 2027.",
         "type": "Teaser",
         "published_at": "2025-08-05T21:02:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1505644,
-    "title": "ENE Repeat",
-    "release_date": "2026-11-19",
-    "poster": "https://image.tmdb.org/t/p/w500/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ygh5XRm9EmEUsBpBPNHnVGmxcSl.jpg",
-    "overview": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and unexpected twists test their friendship.",
-    "theatrical": true,
-    "trailer_published": "2025-06-29T05:37:01.000Z",
-    "videos": [
-      {
-        "key": "l0FcBZJLY9I",
-        "name": "Motion Poster",
-        "type": "Teaser",
-        "published_at": "2025-06-29T05:37:01.000Z"
       }
     ]
   },
