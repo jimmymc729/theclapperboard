@@ -1,9 +1,45 @@
 [
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-24T16:00:26.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "4kAIkmSGt_A",
+        "name": "You heard them!",
+        "type": "Teaser",
+        "published_at": "2026-10-24T16:00:26.000Z"
+      }
+    ]
+  },
+  {
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -32,42 +68,6 @@
         "name": "The Wicker Husband",
         "type": "Teaser",
         "published_at": "2026-10-23T21:29:41.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-23T19:00:36.000Z",
-    "videos": [
-      {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "IQzjobzE8bo",
-        "name": "Smile, it's Clayface Day!",
-        "type": "Teaser",
-        "published_at": "2026-10-23T19:00:36.000Z"
       }
     ]
   },
@@ -369,7 +369,7 @@
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/dZVHrtaZa5MsuPc4gW72e3S9bii.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
@@ -621,7 +621,7 @@
     "id": 1596275,
     "title": "Drive - The Pretenders",
     "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/9RkvLd07rrPllGD8Ya7B616CQkT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/o1amTBOej7F2wdrTSKzGE6eG2CT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
     "overview": "A young race car mechanic fakes an engagement to the most scandalous racing star on the scene\u2014officially for his reputation, secretly for her own chance behind the wheel. But soon the lie threatens to destroy everything, including what has long since become more than just a game.",
     "theatrical": true,
@@ -818,6 +818,30 @@
         "name": "Official Trailer (English)",
         "type": "Trailer",
         "published_at": "2026-08-05T16:00:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1595124,
+    "title": "Steps",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T13:00:02.000Z",
+    "videos": [
+      {
+        "key": "tNV4i3BqUGY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T13:00:02.000Z"
+      },
+      {
+        "key": "Y0RW8EW08Dk",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-09-17T13:00:02.000Z"
       }
     ]
   },
@@ -1088,24 +1112,6 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-10-09T14:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1025231,
-    "title": "Junk",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/fyRoKPsLIZc4vNfaHxbAmY3cbX1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zMZvyVa0jQ8Citp0JCwfQ9LqjUl.jpg",
-    "overview": "It\u2019s nighttime in LA: a pill-addled screenwriter struggles with writer\u2019s block; across town, two young drifters with a lost dog search for their stolen car.",
-    "theatrical": false,
-    "trailer_published": "2026-10-08T16:00:14.000Z",
-    "videos": [
-      {
-        "key": "n7cWYpqt-bo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-08T16:00:14.000Z"
       }
     ]
   },
@@ -1403,13 +1409,13 @@
     "videos": [
       {
         "key": "m8vcBN8uza8",
-        "name": "The Cycle | Official Trailer | Shudder",
+        "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-28T17:53:12.000Z"
       },
       {
         "key": "87ekbcLWPN4",
-        "name": "THE CYCLE | Deborah Ann Woll, Jeffrey Donovan | Teaser Trailer | Shudder",
+        "name": "Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-07-27T19:15:01.000Z"
       }
@@ -1417,7 +1423,7 @@
   },
   {
     "id": 1422041,
-    "title": "La bola negra",
+    "title": "LA BOLA NEGRA",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
@@ -1750,7 +1756,7 @@
     "title": "Masterplan",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
     "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together \u2014 and try not to kill each other \u2014 if they want any chance at pulling off the heist of the century.",
     "theatrical": false,
     "trailer_published": "2026-09-23T13:00:33.000Z",
@@ -1966,7 +1972,7 @@
     "title": "Therapy Done Right",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
     "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
     "theatrical": false,
     "trailer_published": "2026-09-18T13:00:00.000Z",
@@ -1994,42 +2000,6 @@
         "name": "Seriously Single Too | Official Trailer | AfricaOnNetflix",
         "type": "Trailer",
         "published_at": "2026-09-18T09:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437511,
-    "title": "How to Rob a Bank",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
-    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
-    "theatrical": true,
-    "trailer_published": "2026-09-17T13:00:09.000Z",
-    "videos": [
-      {
-        "key": "MVvWKh336m4",
-        "name": "Official UK Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-17T13:00:09.000Z"
-      },
-      {
-        "key": "B9XOzCUvFB8",
-        "name": "Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-17T12:59:58.000Z"
-      },
-      {
-        "key": "hoXld2b0TCs",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T13:02:07.000Z"
-      },
-      {
-        "key": "ORxw68y3lyw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-02T13:00:02.000Z"
       }
     ]
   },
@@ -2634,6 +2604,42 @@
     ]
   },
   {
+    "id": 1355228,
+    "title": "Gandhari",
+    "release_date": "2026-09-03",
+    "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
+    "theatrical": false,
+    "trailer_published": "2026-08-25T10:38:05.000Z",
+    "videos": [
+      {
+        "key": "TRyBiPD1bUc",
+        "name": "GANDHARI - OFFICIAL TRAILER",
+        "type": "Trailer",
+        "published_at": "2026-08-25T10:38:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1729723,
+    "title": "Yellow Mirror",
+    "release_date": "2026-08-26",
+    "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
+    "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
+    "theatrical": false,
+    "trailer_published": "2026-08-24T18:00:49.000Z",
+    "videos": [
+      {
+        "key": "zNyZ6OlMbh0",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-24T18:00:49.000Z"
+      }
+    ]
+  },
+  {
     "id": 1596248,
     "title": "If I Go Will They Miss Me",
     "release_date": "2026-09-11",
@@ -2727,7 +2733,7 @@
     "id": 1585239,
     "title": "Club Kid",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
     "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
     "theatrical": true,
@@ -3576,24 +3582,6 @@
     ]
   },
   {
-    "id": 1735270,
-    "title": "Premada Oorali",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/6eP8D6HDRw315Gmmc7RmGBaeTyO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
-    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
-    "theatrical": true,
-    "trailer_published": "2026-04-17T11:53:31.000Z",
-    "videos": [
-      {
-        "key": "271GZatiFG0",
-        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
-        "type": "Teaser",
-        "published_at": "2026-04-17T11:53:31.000Z"
-      }
-    ]
-  },
-  {
     "id": 1280300,
     "title": "The Whistler",
     "release_date": "2026-04-17",
@@ -3639,7 +3627,7 @@
     "id": 1572116,
     "title": "Monster Mia",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/yQAczp5MMJs9neodhcm3spv9xtv.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/49lw5eVECEY30UIPwsYB78oj7Mh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
     "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
     "theatrical": true,
