@@ -1,5 +1,41 @@
 [
   {
+    "id": 1003596,
+    "title": "Avengers: Doomsday",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "theatrical": true,
+    "trailer_published": "2026-10-25T00:00:00.000Z",
+    "videos": [
+      {
+        "key": "X1aFkAkFASk",
+        "name": "Special Look",
+        "type": "Trailer",
+        "published_at": "2026-08-15T04:06:21.000Z"
+      },
+      {
+        "key": "irVNGjRFZGk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-20T13:00:20.000Z"
+      },
+      {
+        "key": "UfNu7pcR0e8",
+        "name": "In Theaters December 18",
+        "type": "Teaser",
+        "published_at": "2026-10-25T00:00:00.000Z"
+      },
+      {
+        "key": "nxDMRvDr4AQ",
+        "name": "Silence Your Phones",
+        "type": "Teaser",
+        "published_at": "2026-09-28T18:00:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -39,7 +75,7 @@
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -261,7 +297,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -800,7 +836,7 @@
   {
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
-    "release_date": "2026-11-05",
+    "release_date": "2026-11-04",
     "poster": "https://image.tmdb.org/t/p/w500/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
@@ -962,30 +998,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-13T18:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1050981,
-    "title": "Being Heumann",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oBnXYbdvloYAHttptpASZYmztft.jpg",
-    "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken\u2014not us.",
-    "theatrical": true,
-    "trailer_published": "2026-10-12T16:00:00.000Z",
-    "videos": [
-      {
-        "key": "CQp2pUXLvJk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-12T16:00:00.000Z"
-      },
-      {
-        "key": "9INUY8uKRyU",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-08-27T17:18:59.000Z"
       }
     ]
   },
@@ -1362,47 +1374,11 @@
     ]
   },
   {
-    "id": 1003596,
-    "title": "Avengers: Doomsday",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "theatrical": true,
-    "trailer_published": "2026-09-28T18:00:09.000Z",
-    "videos": [
-      {
-        "key": "X1aFkAkFASk",
-        "name": "Special Look",
-        "type": "Trailer",
-        "published_at": "2026-08-15T04:06:21.000Z"
-      },
-      {
-        "key": "irVNGjRFZGk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-20T13:00:20.000Z"
-      },
-      {
-        "key": "nxDMRvDr4AQ",
-        "name": "Silence Your Phones",
-        "type": "Teaser",
-        "published_at": "2026-09-28T18:00:09.000Z"
-      },
-      {
-        "key": "lqBdGDi3akg",
-        "name": "Get ready for Doomsday.",
-        "type": "Teaser",
-        "published_at": "2026-08-14T18:08:46.000Z"
-      }
-    ]
-  },
-  {
     "id": 1290418,
     "title": "The Cycle",
     "release_date": "2026-09-17",
     "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
     "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
     "theatrical": false,
     "trailer_published": "2026-09-28T17:53:12.000Z",
@@ -1423,7 +1399,7 @@
   },
   {
     "id": 1422041,
-    "title": "LA BOLA NEGRA",
+    "title": "La Bola Negra",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
@@ -1654,7 +1630,7 @@
     "title": "V/H/S/MIXTAPE",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yIDZiYea2Bah1yLYz14jlC89WJ5.jpg",
     "overview": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
     "theatrical": true,
     "trailer_published": "2026-09-24T15:00:26.000Z",
@@ -1664,6 +1640,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-24T15:00:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1515692,
+    "title": "Baththa",
+    "release_date": "2026-10-01",
+    "poster": "https://image.tmdb.org/t/p/w500/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
+    "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T14:11:15.000Z",
+    "videos": [
+      {
+        "key": "QAMyuZSvqWI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T14:11:15.000Z"
       }
     ]
   },
@@ -1756,7 +1750,7 @@
     "title": "Masterplan",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
     "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together \u2014 and try not to kill each other \u2014 if they want any chance at pulling off the heist of the century.",
     "theatrical": false,
     "trailer_published": "2026-09-23T13:00:33.000Z",
@@ -2190,6 +2184,24 @@
     ]
   },
   {
+    "id": 1630237,
+    "title": "Treasure Trekkers",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/vYBoaaExygl2OGlwoGqDlQ6CjBo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2TSjlZfzKZK0fTlmsgAftClNK2r.jpg",
+    "overview": "A 12-year-old monkey called Mip struggles to find his place in a world dominated by cats and rodents. A magic map sets him on a perilous quest in search of his roots in the distant land of Empathra and a journey that will teach him that kindness is a superpower.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T03:31:21.000Z",
+    "videos": [
+      {
+        "key": "aQAj4XsHGBE",
+        "name": "Will They Survive the Quest? Treasure Trekkers Official Trailer Drop",
+        "type": "Trailer",
+        "published_at": "2026-09-10T03:31:21.000Z"
+      }
+    ]
+  },
+  {
     "id": 1381078,
     "title": "Love of Your Life",
     "release_date": "2026-10-07",
@@ -2510,24 +2522,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-27T14:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1483525,
-    "title": "Possible Love",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T23:00:01.000Z",
-    "videos": [
-      {
-        "key": "zd3qXH9qN70",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-26T23:00:01.000Z"
       }
     ]
   },
@@ -3642,24 +3636,6 @@
     ]
   },
   {
-    "id": 1437195,
-    "title": "Livestream from Hell",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
-    "overview": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
-    "theatrical": false,
-    "trailer_published": "2025-09-30T05:03:05.000Z",
-    "videos": [
-      {
-        "key": "RvkFXSwqoyE",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2025-09-30T05:03:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 532652,
     "title": "The Resurrection of the Christ: Part One",
     "release_date": "2027-05-06",
@@ -3698,6 +3674,24 @@
         "name": "THE RESURRECTION OF THE CHRIST Parts One and Two - coming to theaters Spring 2027.",
         "type": "Teaser",
         "published_at": "2025-08-05T21:02:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1505644,
+    "title": "ENE Repeat",
+    "release_date": "2026-11-19",
+    "poster": "https://image.tmdb.org/t/p/w500/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ygh5XRm9EmEUsBpBPNHnVGmxcSl.jpg",
+    "overview": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and unexpected twists test their friendship.",
+    "theatrical": true,
+    "trailer_published": "2025-06-29T05:37:01.000Z",
+    "videos": [
+      {
+        "key": "l0FcBZJLY9I",
+        "name": "Motion Poster",
+        "type": "Teaser",
+        "published_at": "2025-06-29T05:37:01.000Z"
       }
     ]
   },
