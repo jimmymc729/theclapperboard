@@ -75,7 +75,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -164,6 +164,42 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-24T15:05:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1727734,
+    "title": "Ali G: Who Iz I?",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory\u2026 but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+    "theatrical": true,
+    "trailer_published": "2026-10-23T16:22:34.000Z",
+    "videos": [
+      {
+        "key": "pV32AcPa-iA",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-09T13:00:04.000Z"
+      },
+      {
+        "key": "6t7C4qaHihE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-25T13:00:10.000Z"
+      },
+      {
+        "key": "ANYUtxJ4Tzo",
+        "name": "Your next cinema trip is sorted",
+        "type": "Teaser",
+        "published_at": "2026-10-23T16:22:34.000Z"
+      },
+      {
+        "key": "BwwUmijcFJk",
+        "name": "We asked Ali G to read a standard content disclaimer. He had notes.",
+        "type": "Teaser",
+        "published_at": "2026-10-22T10:30:24.000Z"
       }
     ]
   },
@@ -438,38 +474,38 @@
     ]
   },
   {
-    "id": 1727734,
-    "title": "Ali G: Who Iz I?",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
-    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory\u2026 but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+    "id": 1286656,
+    "title": "I Play Rocky",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky\u2014he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
     "theatrical": true,
-    "trailer_published": "2026-10-22T10:30:24.000Z",
+    "trailer_published": "2026-10-22T16:00:07.000Z",
     "videos": [
       {
-        "key": "pV32AcPa-iA",
+        "key": "jq5oCjhQtIc",
         "name": "Official Trailer 2",
         "type": "Trailer",
-        "published_at": "2026-10-09T13:00:04.000Z"
+        "published_at": "2026-10-22T16:00:07.000Z"
       },
       {
-        "key": "6t7C4qaHihE",
+        "key": "Kpc4o2J28QE",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-22T08:33:05.000Z"
+      },
+      {
+        "key": "V_g_Ut0jO-0",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-25T13:00:10.000Z"
+        "published_at": "2026-07-15T13:00:51.000Z"
       },
       {
-        "key": "BwwUmijcFJk",
-        "name": "We asked Ali G to read a standard content disclaimer. He had notes.",
+        "key": "6v6WoOs2bcw",
+        "name": "In UK and Irish Cinemas November",
         "type": "Teaser",
-        "published_at": "2026-10-22T10:30:24.000Z"
-      },
-      {
-        "key": "fFP8J0WaY4c",
-        "name": "Boycott",
-        "type": "Teaser",
-        "published_at": "2026-10-20T11:54:51.000Z"
+        "published_at": "2026-10-15T14:40:24.000Z"
       }
     ]
   },
@@ -582,11 +618,29 @@
     ]
   },
   {
+    "id": 1780005,
+    "title": "Surviving Hurricane Otis",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+    "theatrical": false,
+    "trailer_published": "2026-10-20T15:35:06.000Z",
+    "videos": [
+      {
+        "key": "qC0HZLUXRXw",
+        "name": "Surviving Hurricane Otis \u2013 Official Trailer | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-10-20T15:35:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-14",
-    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/5bmH9lyNVEW6DXBf4rYx9Os7Fuo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-10-19T16:33:23.000Z",
@@ -676,7 +730,7 @@
     "title": "Verity",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
     "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
     "theatrical": true,
     "trailer_published": "2026-10-17T12:00:29.000Z",
@@ -801,7 +855,7 @@
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-04",
-    "poster": "https://image.tmdb.org/t/p/w500/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -849,7 +903,7 @@
     "id": 1453407,
     "title": "Gajab Raat",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/cEPqJ2HboM9KBj4CtVJFeCFojae.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
     "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
     "theatrical": false,
@@ -1124,24 +1178,6 @@
         "name": "Love Language | Official Trailer (HD) | Vertical",
         "type": "Trailer",
         "published_at": "2026-10-08T16:55:35.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1790935,
-    "title": "Instadocs: AI Gone Wild",
-    "release_date": "2026-10-12",
-    "poster": "https://image.tmdb.org/t/p/w500/g2emP9oTYXzpNyxgti8GKhjOveB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
-    "overview": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
-    "theatrical": false,
-    "trailer_published": "2026-10-07T15:30:00.000Z",
-    "videos": [
-      {
-        "key": "9l9rJAbLuhM",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-10-07T15:30:00.000Z"
       }
     ]
   },
@@ -1866,6 +1902,24 @@
     ]
   },
   {
+    "id": 1772549,
+    "title": "Pehla Pyaar Doosri Baar",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/tGS4b47RIpF3DTAkezHBqfYNTm2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iaVcws1W3owTlRSI8GKcov95UHS.jpg",
+    "overview": "Three friends attend their school reunion and enter into different relationships, discovering the trials, tribulations, allure, and absurdities of love.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T10:05:10.000Z",
+    "videos": [
+      {
+        "key": "fNIgVJooVUw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-21T10:05:10.000Z"
+      }
+    ]
+  },
+  {
     "id": 1480574,
     "title": "Just Play Dead",
     "release_date": "2026-08-28",
@@ -2184,24 +2238,6 @@
     ]
   },
   {
-    "id": 1630237,
-    "title": "Treasure Trekkers",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/vYBoaaExygl2OGlwoGqDlQ6CjBo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2TSjlZfzKZK0fTlmsgAftClNK2r.jpg",
-    "overview": "A 12-year-old monkey called Mip struggles to find his place in a world dominated by cats and rodents. A magic map sets him on a perilous quest in search of his roots in the distant land of Empathra and a journey that will teach him that kindness is a superpower.",
-    "theatrical": true,
-    "trailer_published": "2026-09-10T03:31:21.000Z",
-    "videos": [
-      {
-        "key": "aQAj4XsHGBE",
-        "name": "Will They Survive the Quest? Treasure Trekkers Official Trailer Drop",
-        "type": "Trailer",
-        "published_at": "2026-09-10T03:31:21.000Z"
-      }
-    ]
-  },
-  {
     "id": 1381078,
     "title": "Love of Your Life",
     "release_date": "2026-10-07",
@@ -2447,7 +2483,7 @@
     "videos": [
       {
         "key": "QZFOUWJULvU",
-        "name": "THE DEBUT trailer | BFI London Film Festival 2026",
+        "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-09-02T10:27:16.000Z"
       },
@@ -3282,42 +3318,6 @@
     ]
   },
   {
-    "id": 822653,
-    "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-    "release_date": "2027-01-16",
-    "poster": "https://image.tmdb.org/t/p/w500/g4kCd4rMuN7G3VQQDUT6mLbrBqQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xzm3RfWh932rS28WErNC3u8qzVm.jpg",
-    "overview": "After the events of Rebellion, the world appears to be in balance\u2014but that peace is fragile. As a new threat connected to Walpurgisnacht emerges, Homura Akemi is forced to face the consequences of her choices and question how far she is willing to go to protect Madoka.",
-    "theatrical": true,
-    "trailer_published": "2026-07-02T23:00:08.000Z",
-    "videos": [
-      {
-        "key": "rSe4mqP1Mj0",
-        "name": "Main Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-07-02T23:00:08.000Z"
-      },
-      {
-        "key": "g0CsWEIb6D4",
-        "name": "Official Trailer 3 [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-06-25T15:00:19.000Z"
-      },
-      {
-        "key": "3rdPRWNwJBM",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2025-07-15T12:45:25.000Z"
-      },
-      {
-        "key": "CxTenVJOw_o",
-        "name": "Official Trailer: SIDE Homura [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2024-11-01T09:05:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1300926,
     "title": "The Angry Birds Movie 3",
     "release_date": "2026-12-23",
@@ -3510,20 +3510,20 @@
     ]
   },
   {
-    "id": 1735270,
-    "title": "Premada Oorali",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/6eP8D6HDRw315Gmmc7RmGBaeTyO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
-    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
-    "theatrical": true,
-    "trailer_published": "2026-04-17T11:53:31.000Z",
+    "id": 890216,
+    "title": "Pacific",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/lxHviNCgIVv8juHBrwHJpR5wJ5b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g8RivCxBNzYeouwqUe15gmKWt3T.jpg",
+    "overview": "A group of young travelers are stranded on an island in the Pacific where they struggle to escape an evil presence kept hidden from mankind for centuries.",
+    "theatrical": false,
+    "trailer_published": "2026-05-05T17:22:54.000Z",
     "videos": [
       {
-        "key": "271GZatiFG0",
-        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
+        "key": "tgOveb3Pq0w",
+        "name": "PACIFICO (2026) a film by Gonzalo Gutierrez - Theatrical Teaser",
         "type": "Teaser",
-        "published_at": "2026-04-17T11:53:31.000Z"
+        "published_at": "2026-05-05T17:22:54.000Z"
       }
     ]
   },
