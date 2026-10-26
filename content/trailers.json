@@ -1,5 +1,77 @@
 [
   {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-10-25T21:00:01.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "zZ2P4vI0-n8",
+        "name": "Describe WILDWOOD in one word\u2026",
+        "type": "Teaser",
+        "published_at": "2026-10-25T21:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-25T17:47:53.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "1chYKqEXT4U",
+        "name": "Clayface made its mark and is the #1 MOVIE IN THE WORLD.",
+        "type": "Teaser",
+        "published_at": "2026-10-25T17:47:53.000Z"
+      }
+    ]
+  },
+  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
@@ -32,42 +104,6 @@
         "name": "Silence Your Phones",
         "type": "Teaser",
         "published_at": "2026-09-28T18:00:09.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-24T16:00:26.000Z",
-    "videos": [
-      {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "4kAIkmSGt_A",
-        "name": "You heard them!",
-        "type": "Teaser",
-        "published_at": "2026-10-24T16:00:26.000Z"
       }
     ]
   },
@@ -222,47 +258,11 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-10-23T10:11:44.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "XmAs9q3Md50",
-        "name": "Now Playing In Cinemas",
-        "type": "Teaser",
-        "published_at": "2026-10-23T10:11:44.000Z"
-      }
-    ]
-  },
-  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-10-23T02:30:38.000Z",
@@ -582,42 +582,6 @@
     ]
   },
   {
-    "id": 1384216,
-    "title": "The Dog Stars",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "theatrical": true,
-    "trailer_published": "2026-10-20T14:00:21.000Z",
-    "videos": [
-      {
-        "key": "-xSxaE1ClEE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T16:00:06.000Z"
-      },
-      {
-        "key": "sVCrTJdNtSs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-08T16:00:16.000Z"
-      },
-      {
-        "key": "cmzVY1goqwQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T23:01:30.000Z"
-      },
-      {
-        "key": "cMF_yOOYzAA",
-        "name": "Buy it on Digital October 27 and Own it on Blu-ray\u2122 December 1",
-        "type": "Teaser",
-        "published_at": "2026-10-20T14:00:21.000Z"
-      }
-    ]
-  },
-  {
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-14",
@@ -837,7 +801,7 @@
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-04",
-    "poster": "https://image.tmdb.org/t/p/w500/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -885,7 +849,7 @@
     "id": 1453407,
     "title": "Gajab Raat",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cEPqJ2HboM9KBj4CtVJFeCFojae.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
     "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
     "theatrical": false,
@@ -998,6 +962,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-13T18:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1793132,
+    "title": "Repo! This Movie: The Anatomy of a Cult",
+    "release_date": "2026-10-13",
+    "poster": "https://image.tmdb.org/t/p/w500/uHyaEQRk6N9MiC0y0gj8rpHyZrb.jpg",
+    "backdrop": "",
+    "overview": "Featuring insights from director Darren Lynn Bousman and cast members, a look at how the dark, cybergoth rock opera Repo! The Genetic Opera \u2013 originating from a modest theatrical stage play \u2013 blended industrial goth aesthetics, high-camp operatic numbers, and comic-book gore into an enduring midnight-movie cult classic. The feature-length documentary highlights the grassroots fan movement, shadowcasts, and interactive community gatherings, ala The Rocky Horror Picture Show.",
+    "theatrical": false,
+    "trailer_published": "2026-10-13T12:04:04.000Z",
+    "videos": [
+      {
+        "key": "SaFfp7tdp5w",
+        "name": "REPO! THIS MOVIE: The Anatomy of a Cult (Official Trailer)",
+        "type": "Trailer",
+        "published_at": "2026-10-13T12:04:04.000Z"
       }
     ]
   },
@@ -1124,6 +1106,24 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-10-09T14:00:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1371730,
+    "title": "Love Language",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
+    "overview": "Following a failed engagement, Lou discovers she has a talent for writing other people\u2019s wedding vows. Word spreads across Chicago\u2019s wedding scene and Lou\u2019s services are in high demand. She even has a new admirer in Dash. But everything changes when she\u2019s asked to write vows for Olivia, who\u2019s marrying Warren, Lou\u2019s old college flame.",
+    "theatrical": true,
+    "trailer_published": "2026-10-08T16:55:35.000Z",
+    "videos": [
+      {
+        "key": "hrXydegMePY",
+        "name": "Love Language | Official Trailer (HD) | Vertical",
+        "type": "Trailer",
+        "published_at": "2026-10-08T16:55:35.000Z"
       }
     ]
   },
@@ -1399,9 +1399,9 @@
   },
   {
     "id": 1422041,
-    "title": "La Bola Negra",
+    "title": "LA BOLA NEGRA",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
@@ -2020,7 +2020,7 @@
     "title": "Tenzing",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
     "overview": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
     "theatrical": true,
     "trailer_published": "2026-09-16T14:59:49.000Z",
@@ -2436,6 +2436,30 @@
     ]
   },
   {
+    "id": 1391239,
+    "title": "The Debut",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
+    "theatrical": true,
+    "trailer_published": "2026-09-02T10:27:16.000Z",
+    "videos": [
+      {
+        "key": "QZFOUWJULvU",
+        "name": "THE DEBUT trailer | BFI London Film Festival 2026",
+        "type": "Trailer",
+        "published_at": "2026-09-02T10:27:16.000Z"
+      },
+      {
+        "key": "clyzHmBx43E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T12:59:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1607127,
     "title": "One Last Shot",
     "release_date": "2026-09-22",
@@ -2616,24 +2640,6 @@
     ]
   },
   {
-    "id": 1729723,
-    "title": "Yellow Mirror",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
-    "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
-    "theatrical": false,
-    "trailer_published": "2026-08-24T18:00:49.000Z",
-    "videos": [
-      {
-        "key": "zNyZ6OlMbh0",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-24T18:00:49.000Z"
-      }
-    ]
-  },
-  {
     "id": 1596248,
     "title": "If I Go Will They Miss Me",
     "release_date": "2026-09-11",
@@ -2672,36 +2678,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-19T23:15:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1213243,
-    "title": "Toxic",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T16:00:14.000Z",
-    "videos": [
-      {
-        "key": "EfluEyQ5QIA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:14.000Z"
-      },
-      {
-        "key": "aF08WVSvCok",
-        "name": "Introducing Raya",
-        "type": "Trailer",
-        "published_at": "2026-01-08T04:40:00.000Z"
-      },
-      {
-        "key": "JQ7pytcXahw",
-        "name": "Ladies & Ladies",
-        "type": "Teaser",
-        "published_at": "2026-07-01T06:03:12.000Z"
       }
     ]
   },
@@ -2864,6 +2840,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-14T17:15:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1756943,
+    "title": "Sex Drive",
+    "release_date": "2026-08-28",
+    "poster": "https://image.tmdb.org/t/p/w500/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x1FztHH0DHLVxBZxOS6jsc9kE4f.jpg",
+    "overview": "Sheltered Sasha joins her uninhibited best friend Kelly on a getaway, but rescuing an amnesiac man turns their sexy escape into a deadly game of truth and deception.",
+    "theatrical": false,
+    "trailer_published": "2026-08-14T12:07:09.000Z",
+    "videos": [
+      {
+        "key": "Ng8K47rRbtY",
+        "name": "S3X DRIVE | WORLD PREMIERE THIS AUGUST 28 ONLY ON VMX",
+        "type": "Trailer",
+        "published_at": "2026-08-14T12:07:09.000Z"
       }
     ]
   },
@@ -3092,24 +3086,6 @@
         "name": "One. Last. Game. The final countdown begins.",
         "type": "Teaser",
         "published_at": "2026-07-29T01:00:14.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1516698,
-    "title": "The Last Sunrise",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-    "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-    "theatrical": false,
-    "trailer_published": "2026-07-28T13:59:57.000Z",
-    "videos": [
-      {
-        "key": "NhI2UpkFAFw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-28T13:59:57.000Z"
       }
     ]
   },
@@ -3420,48 +3396,6 @@
     ]
   },
   {
-    "id": 1391239,
-    "title": "The Debut",
-    "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
-    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
-    "theatrical": true,
-    "trailer_published": "2026-06-23T12:59:06.000Z",
-    "videos": [
-      {
-        "key": "clyzHmBx43E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T12:59:06.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1187326,
-    "title": "Tad and The Magic Lamp",
-    "release_date": "2026-08-26",
-    "poster": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-    "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
-    "theatrical": false,
-    "trailer_published": "2026-06-18T14:14:24.000Z",
-    "videos": [
-      {
-        "key": "8-Bjo_rXCkM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-18T14:14:24.000Z"
-      },
-      {
-        "key": "L9d1Ax3g6a8",
-        "name": "Tad and his friends are back! Don't miss the trailer for Tad and the Magic Lamp TOMORROW.",
-        "type": "Teaser",
-        "published_at": "2026-06-17T17:05:31.000Z"
-      }
-    ]
-  },
-  {
     "id": 1475440,
     "title": "Beyond Belief",
     "release_date": "2026-08-28",
@@ -3576,6 +3510,24 @@
     ]
   },
   {
+    "id": 1735270,
+    "title": "Premada Oorali",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/6eP8D6HDRw315Gmmc7RmGBaeTyO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
+    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
+    "theatrical": true,
+    "trailer_published": "2026-04-17T11:53:31.000Z",
+    "videos": [
+      {
+        "key": "271GZatiFG0",
+        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
+        "type": "Teaser",
+        "published_at": "2026-04-17T11:53:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1280300,
     "title": "The Whistler",
     "release_date": "2026-04-17",
@@ -3632,6 +3584,24 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-02-12T09:23:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437195,
+    "title": "Livestream from Hell",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+    "overview": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
+    "theatrical": false,
+    "trailer_published": "2025-09-30T05:03:05.000Z",
+    "videos": [
+      {
+        "key": "RvkFXSwqoyE",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-09-30T05:03:05.000Z"
       }
     ]
   },
