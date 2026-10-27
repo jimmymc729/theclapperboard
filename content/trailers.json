@@ -1,5 +1,77 @@
 [
   {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-10-26T18:04:45.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "VpTPbWkbmwg",
+        "name": "In Theaters November 6",
+        "type": "Teaser",
+        "published_at": "2026-10-26T18:04:45.000Z"
+      },
+      {
+        "key": "Atfr5bPRUMU",
+        "name": "In Theaters November 6",
+        "type": "Teaser",
+        "published_at": "2026-10-22T18:01:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1538497,
+    "title": "Hexed",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "theatrical": true,
+    "trailer_published": "2026-10-26T17:00:01.000Z",
+    "videos": [
+      {
+        "key": "VS3AcRBa9c8",
+        "name": "Tickets On Sale Now",
+        "type": "Trailer",
+        "published_at": "2026-10-20T23:50:14.000Z"
+      },
+      {
+        "key": "KXO21xZdUaM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-12T12:14:52.000Z"
+      },
+      {
+        "key": "mtC4sjABZNw",
+        "name": "Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-16T16:01:06.000Z"
+      },
+      {
+        "key": "eAME5SoB_rE",
+        "name": "Beef Has Beef",
+        "type": "Teaser",
+        "published_at": "2026-10-26T17:00:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
@@ -172,7 +244,7 @@
     "title": "Ali G: Who Iz I?",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
     "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory\u2026 but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
     "theatrical": true,
     "trailer_published": "2026-10-23T16:22:34.000Z",
@@ -287,7 +359,7 @@
     "videos": [
       {
         "key": "jcBG6U5iX8Y",
-        "name": "Dorothy | Official Trailer | Karthik Subbaraj, Keerthy, Sananth, Rishikanth | Netflix India",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-23T10:30:00.000Z"
       }
@@ -366,42 +438,6 @@
     ]
   },
   {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-10-22T18:01:33.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "Atfr5bPRUMU",
-        "name": "In Theaters November 6",
-        "type": "Teaser",
-        "published_at": "2026-10-22T18:01:33.000Z"
-      },
-      {
-        "key": "t1YwUPdX_p4",
-        "name": "Enjoy",
-        "type": "Teaser",
-        "published_at": "2026-10-21T18:08:51.000Z"
-      }
-    ]
-  },
-  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
@@ -434,42 +470,6 @@
         "name": "These reviews are getting to our head!",
         "type": "Teaser",
         "published_at": "2026-10-22T09:00:32.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1538497,
-    "title": "Hexed",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
-    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
-    "theatrical": true,
-    "trailer_published": "2026-10-22T16:00:18.000Z",
-    "videos": [
-      {
-        "key": "VS3AcRBa9c8",
-        "name": "Tickets On Sale Now",
-        "type": "Trailer",
-        "published_at": "2026-10-20T23:50:14.000Z"
-      },
-      {
-        "key": "KXO21xZdUaM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-12T12:14:52.000Z"
-      },
-      {
-        "key": "mtC4sjABZNw",
-        "name": "Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-16T16:01:06.000Z"
-      },
-      {
-        "key": "Kx-m6pgSodY",
-        "name": "In Theaters November 25",
-        "type": "Teaser",
-        "published_at": "2026-10-22T16:00:18.000Z"
       }
     ]
   },
@@ -652,6 +652,12 @@
         "published_at": "2026-09-30T15:00:04.000Z"
       },
       {
+        "key": "Xqws1EbGGCA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-07T15:35:34.000Z"
+      },
+      {
         "key": "mcrwcvad84U",
         "name": "Official Trailer",
         "type": "Trailer",
@@ -662,12 +668,6 @@
         "name": "What would you do if the love of your life showed up?",
         "type": "Teaser",
         "published_at": "2026-10-19T16:33:23.000Z"
-      },
-      {
-        "key": "0cETEt0WhU4",
-        "name": "That feeling of a new crush",
-        "type": "Teaser",
-        "published_at": "2026-10-18T17:04:47.000Z"
       }
     ]
   },
@@ -855,7 +855,7 @@
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-04",
-    "poster": "https://image.tmdb.org/t/p/w500/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -1042,7 +1042,7 @@
     "title": "Resident Evil",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "theatrical": true,
     "trailer_published": "2026-10-12T10:00:16.000Z",
@@ -2586,6 +2586,24 @@
     ]
   },
   {
+    "id": 1483525,
+    "title": "Possible Love",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T23:00:01.000Z",
+    "videos": [
+      {
+        "key": "zd3qXH9qN70",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-26T23:00:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1513253,
     "title": "Tiny Fugitives",
     "release_date": "2026-09-18",
@@ -2754,36 +2772,6 @@
     ]
   },
   {
-    "id": 1514026,
-    "title": "Buddy",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T15:00:02.000Z",
-    "videos": [
-      {
-        "key": "Pc9MbCNYn3k",
-        "name": "Official Teaser 3",
-        "type": "Teaser",
-        "published_at": "2026-08-18T15:00:02.000Z"
-      },
-      {
-        "key": "2sBRb7Mbg0A",
-        "name": "Official Teaser 2",
-        "type": "Teaser",
-        "published_at": "2026-07-21T14:59:39.000Z"
-      },
-      {
-        "key": "0mil0YgOtu8",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-09T14:59:50.000Z"
-      }
-    ]
-  },
-  {
     "id": 1447853,
     "title": "Oasis: Don't Look Back in Anger",
     "release_date": "2026-09-11",
@@ -2912,6 +2900,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-13T18:14:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1522689,
+    "title": "Why Did I Get Married Again?",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+    "theatrical": false,
+    "trailer_published": "2026-08-13T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "VylsOZBYxQA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-13T14:00:00.000Z"
+      },
+      {
+        "key": "t_QUYXwkwss",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-09T12:00:00.000Z"
       }
     ]
   },
@@ -3278,24 +3290,6 @@
         "name": "Cinemalaya 22: 2 VALID IDs | Trailer",
         "type": "Trailer",
         "published_at": "2026-07-14T17:02:45.000Z"
-      }
-    ]
-  },
-  {
-    "id": 860508,
-    "title": "The Whisper Man",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-    "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-    "theatrical": false,
-    "trailer_published": "2026-07-14T13:00:00.000Z",
-    "videos": [
-      {
-        "key": "ZHRR-1CKYIQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T13:00:00.000Z"
       }
     ]
   },
