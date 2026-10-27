@@ -1,5 +1,41 @@
 [
   {
+    "id": 1170608,
+    "title": "Dune: Part Three",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "theatrical": true,
+    "trailer_published": "2026-10-27T16:00:34.000Z",
+    "videos": [
+      {
+        "key": "uJqaGLmZpGo",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T16:00:34.000Z"
+      },
+      {
+        "key": "NdvqHc56lE0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-08T17:59:03.000Z"
+      },
+      {
+        "key": "3_9vCamtuPY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-17T16:19:02.000Z"
+      },
+      {
+        "key": "x2FMsIFNNFg",
+        "name": "Final. Trailer. Tomorrow.",
+        "type": "Teaser",
+        "published_at": "2026-10-27T02:28:48.000Z"
+      }
+    ]
+  },
+  {
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
@@ -148,7 +184,7 @@
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-10-25T00:00:00.000Z",
@@ -510,38 +546,20 @@
     ]
   },
   {
-    "id": 1170608,
-    "title": "Dune: Part Three",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "theatrical": true,
-    "trailer_published": "2026-10-20T21:52:01.000Z",
+    "id": 1590718,
+    "title": "Dhoomakethu",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4YxZxGPt702wGaNqgXwN6Jaq390.jpg",
+    "overview": "On the morning of his wedding, 36-year-old Kuttan wakes from a disturbing dream about his own death. As the day unfolds, familiar moments begin to repeat, and reality becomes increasingly difficult to distinguish from memory. Realising that something is terribly wrong, Kuttan races to uncover the truth before the day repeats itself.",
+    "theatrical": false,
+    "trailer_published": "2026-10-22T10:30:00.000Z",
     "videos": [
       {
-        "key": "NdvqHc56lE0",
-        "name": "Official Trailer",
+        "key": "-MnNEHE6Dd4",
+        "name": "Dhoomakethu | Official Trailer | Sajin Gopu, Nikhila Vimal, Shine Tom Chacko | Netflix India",
         "type": "Trailer",
-        "published_at": "2026-07-08T17:59:03.000Z"
-      },
-      {
-        "key": "3_9vCamtuPY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-17T16:19:02.000Z"
-      },
-      {
-        "key": "0w6Mx1EfzWk",
-        "name": "Your future contains many paths. Complete your journey.",
-        "type": "Teaser",
-        "published_at": "2026-10-20T21:52:01.000Z"
-      },
-      {
-        "key": "l2Kih6LaPao",
-        "name": "Tickets On Sale Now",
-        "type": "Teaser",
-        "published_at": "2026-10-20T16:08:19.000Z"
+        "published_at": "2026-10-22T10:30:00.000Z"
       }
     ]
   },
@@ -639,7 +657,7 @@
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-14",
-    "poster": "https://image.tmdb.org/t/p/w500/5bmH9lyNVEW6DXBf4rYx9Os7Fuo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
@@ -830,24 +848,6 @@
         "name": "Steps to saving the world: Digger style",
         "type": "Teaser",
         "published_at": "2026-10-15T18:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1440769,
-    "title": "The Beekeeper 2",
-    "release_date": "2027-01-15",
-    "poster": "https://image.tmdb.org/t/p/w500/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zdZmiPdzrBlioFVvROuA57kPs4G.jpg",
-    "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T14:44:46.000Z",
-    "videos": [
-      {
-        "key": "5HK3wimDxBI",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-15T14:44:46.000Z"
       }
     ]
   },
@@ -1169,7 +1169,7 @@
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
-    "overview": "Following a failed engagement, Lou discovers she has a talent for writing other people\u2019s wedding vows. Word spreads across Chicago\u2019s wedding scene and Lou\u2019s services are in high demand. She even has a new admirer in Dash. But everything changes when she\u2019s asked to write vows for Olivia, who\u2019s marrying Warren, Lou\u2019s old college flame.",
+    "overview": "After a failed engagement, a woman discovers a talent for writing wedding vows, but her growing success and new romance are complicated when she\u2019s hired to write vows for her former college flame\u2019s wedding.",
     "theatrical": true,
     "trailer_published": "2026-10-08T16:55:35.000Z",
     "videos": [
@@ -1343,7 +1343,7 @@
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boi\u00fana, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
+    "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
     "theatrical": true,
     "trailer_published": "2026-09-29T17:32:56.000Z",
     "videos": [
@@ -1435,9 +1435,9 @@
   },
   {
     "id": 1422041,
-    "title": "LA BOLA NEGRA",
+    "title": "La bola negra",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
@@ -2048,6 +2048,42 @@
         "name": "Seriously Single Too | Official Trailer | AfricaOnNetflix",
         "type": "Trailer",
         "published_at": "2026-09-18T09:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437511,
+    "title": "How to Rob a Bank",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "theatrical": true,
+    "trailer_published": "2026-09-17T13:00:09.000Z",
+    "videos": [
+      {
+        "key": "MVvWKh336m4",
+        "name": "Official UK Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T13:00:09.000Z"
+      },
+      {
+        "key": "B9XOzCUvFB8",
+        "name": "Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-17T12:59:58.000Z"
+      },
+      {
+        "key": "hoXld2b0TCs",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:02:07.000Z"
+      },
+      {
+        "key": "ORxw68y3lyw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-02T13:00:02.000Z"
       }
     ]
   },
@@ -2900,30 +2936,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-13T18:14:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1522689,
-    "title": "Why Did I Get Married Again?",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-    "theatrical": false,
-    "trailer_published": "2026-08-13T14:00:00.000Z",
-    "videos": [
-      {
-        "key": "VylsOZBYxQA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-13T14:00:00.000Z"
-      },
-      {
-        "key": "t_QUYXwkwss",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-09T12:00:00.000Z"
       }
     ]
   },
