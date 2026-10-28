@@ -1,5 +1,35 @@
 [
   {
+    "id": 1260649,
+    "title": "Jumanji: Open World",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/qGFuvcXqQdXS5ZNblDlVTOmK6mq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
+    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T13:00:39.000Z",
+    "videos": [
+      {
+        "key": "nIw1O3zvOfE",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T13:00:39.000Z"
+      },
+      {
+        "key": "zhApeaHMvfs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-29T00:59:43.000Z"
+      },
+      {
+        "key": "BJY2-UurJZs",
+        "name": "One. Last. Game. The final countdown begins.",
+        "type": "Teaser",
+        "published_at": "2026-07-29T01:00:14.000Z"
+      }
+    ]
+  },
+  {
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
@@ -36,10 +66,46 @@
     ]
   },
   {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-27T21:30:24.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "afWRt1K_N14",
+        "name": "He\u2019s making himself known. Clayface is the #1 MOVIE IN THE WORLD.",
+        "type": "Teaser",
+        "published_at": "2026-10-27T21:30:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
     "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
     "theatrical": true,
@@ -176,42 +242,6 @@
         "name": "Describe WILDWOOD in one word\u2026",
         "type": "Teaser",
         "published_at": "2026-10-25T21:00:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-25T17:47:53.000Z",
-    "videos": [
-      {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
-      },
-      {
-        "key": "1chYKqEXT4U",
-        "name": "Clayface made its mark and is the #1 MOVIE IN THE WORLD.",
-        "type": "Teaser",
-        "published_at": "2026-10-25T17:47:53.000Z"
       }
     ]
   },
@@ -691,10 +721,10 @@
   },
   {
     "id": 1596275,
-    "title": "Drive - The Pretenders",
+    "title": "Drive \u2013 The Pretenders",
     "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/c6Gx7JTc8pYyW2WH7yLWj5Rx66I.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
     "overview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
     "theatrical": false,
     "trailer_published": "2026-10-19T13:00:31.000Z",
@@ -873,8 +903,8 @@
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-04",
-    "poster": "https://image.tmdb.org/t/p/w500/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/shbnPhKP5MfD5jzQjNpNySY7nJD.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
     "trailer_published": "2026-10-15T14:00:39.000Z",
@@ -972,35 +1002,11 @@
     ]
   },
   {
-    "id": 1798903,
-    "title": "KILL/SAVE",
-    "release_date": "2026-11-17",
-    "poster": "https://image.tmdb.org/t/p/w500/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wxFZkoIejP9gzxrgEpZguyk0D03.jpg",
-    "overview": "In a locked-down megacity where reality is optional, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison \u2014 only to face a truth that challenges the very meaning of salvation and free will.",
-    "theatrical": true,
-    "trailer_published": "2026-10-14T16:00:25.000Z",
-    "videos": [
-      {
-        "key": "J1wMCqWqIbo",
-        "name": "KILL/SAVE \u2014 Official Teaser #2 (2026) | Sci-Fi Action",
-        "type": "Teaser",
-        "published_at": "2026-10-14T16:00:25.000Z"
-      },
-      {
-        "key": "ZexM5lCYVyk",
-        "name": "KILL/SAVE \u2014 Official Teaser (2026) | Sci-Fi Action",
-        "type": "Teaser",
-        "published_at": "2026-10-02T13:33:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1657630,
     "title": "The Awakening",
-    "release_date": "2026-10-29",
-    "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/75MLVCmQ4QougShkx3OlUbJbuSK.jpg",
+    "release_date": "2026-11-10",
+    "poster": "https://image.tmdb.org/t/p/w500/vNvHT0v9xt7dDTqYue2fWXePKi7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
     "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
     "theatrical": true,
     "trailer_published": "2026-10-14T10:15:41.000Z",
@@ -1226,6 +1232,24 @@
         "name": "Love Language | Official Trailer (HD) | Vertical",
         "type": "Trailer",
         "published_at": "2026-10-08T16:55:35.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1790935,
+    "title": "Instadocs: AI Gone Wild",
+    "release_date": "2026-10-12",
+    "poster": "https://image.tmdb.org/t/p/w500/g2emP9oTYXzpNyxgti8GKhjOveB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
+    "overview": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
+    "theatrical": false,
+    "trailer_published": "2026-10-07T15:30:00.000Z",
+    "videos": [
+      {
+        "key": "9l9rJAbLuhM",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-10-07T15:30:00.000Z"
       }
     ]
   },
@@ -1461,7 +1485,7 @@
     "id": 1290418,
     "title": "The Cycle",
     "release_date": "2026-09-17",
-    "poster": "https://image.tmdb.org/t/p/w500/AcU8RcD1nNxzN38ocxrjd8Jpfzl.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
     "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
     "theatrical": false,
@@ -1483,7 +1507,7 @@
   },
   {
     "id": 1422041,
-    "title": "LA BOLA NEGRA",
+    "title": "La bola negra",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
@@ -1635,7 +1659,7 @@
     "id": 1755291,
     "title": "NAZA",
     "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
     "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
     "theatrical": true,
@@ -1731,7 +1755,7 @@
     "id": 1515692,
     "title": "Baththa",
     "release_date": "2026-10-01",
-    "poster": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/n8Df1H1TmcmZfjGgWh5uQyRFzHy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
     "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
     "theatrical": true,
@@ -2174,30 +2198,6 @@
         "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
         "type": "Teaser",
         "published_at": "2026-09-12T16:00:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1318467,
-    "title": "The Last Kiss",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
-    "theatrical": false,
-    "trailer_published": "2026-09-15T20:34:42.000Z",
-    "videos": [
-      {
-        "key": "lAKtuOVkAgU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T19:03:09.000Z"
-      },
-      {
-        "key": "Vgf-eANUdE0",
-        "name": "Watch at Home September 15",
-        "type": "Teaser",
-        "published_at": "2026-09-15T20:34:42.000Z"
       }
     ]
   },
@@ -2664,6 +2664,24 @@
     ]
   },
   {
+    "id": 1496696,
+    "title": "Breeder",
+    "release_date": "2026-10-28",
+    "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T16:30:01.000Z",
+    "videos": [
+      {
+        "key": "9MeILB0M274",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T16:30:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -2810,30 +2828,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-19T12:07:41.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1447853,
-    "title": "Oasis: Don't Look Back in Anger",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T13:00:07.000Z",
-    "videos": [
-      {
-        "key": "X9sIYLtgc_s",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-18T13:00:07.000Z"
-      },
-      {
-        "key": "drszHQJtR7o",
-        "name": "Official Documentary Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-04T14:59:06.000Z"
       }
     ]
   },
@@ -3116,30 +3110,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-06-26T13:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1260649,
-    "title": "Jumanji: Open World",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/qGFuvcXqQdXS5ZNblDlVTOmK6mq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pYN5Zjc3l1hj2hMeBbzRYDYTC1E.jpg",
-    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
-    "theatrical": true,
-    "trailer_published": "2026-07-29T01:00:14.000Z",
-    "videos": [
-      {
-        "key": "zhApeaHMvfs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-29T00:59:43.000Z"
-      },
-      {
-        "key": "BJY2-UurJZs",
-        "name": "One. Last. Game. The final countdown begins.",
-        "type": "Teaser",
-        "published_at": "2026-07-29T01:00:14.000Z"
       }
     ]
   },
@@ -3536,6 +3506,24 @@
         "name": "PACIFICO (2026) a film by Gonzalo Gutierrez - Theatrical Teaser",
         "type": "Teaser",
         "published_at": "2026-05-05T17:22:54.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1735270,
+    "title": "Premada Oorali",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/6eP8D6HDRw315Gmmc7RmGBaeTyO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
+    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
+    "theatrical": true,
+    "trailer_published": "2026-04-17T11:53:31.000Z",
+    "videos": [
+      {
+        "key": "271GZatiFG0",
+        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
+        "type": "Teaser",
+        "published_at": "2026-04-17T11:53:31.000Z"
       }
     ]
   },
