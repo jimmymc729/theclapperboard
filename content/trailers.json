@@ -1,5 +1,41 @@
 [
   {
+    "id": 1538497,
+    "title": "Hexed",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T00:44:28.000Z",
+    "videos": [
+      {
+        "key": "IuosV-TRxDU",
+        "name": "Tickets On Sale",
+        "type": "Trailer",
+        "published_at": "2026-10-28T00:44:28.000Z"
+      },
+      {
+        "key": "VS3AcRBa9c8",
+        "name": "Tickets On Sale Now",
+        "type": "Trailer",
+        "published_at": "2026-10-20T23:50:14.000Z"
+      },
+      {
+        "key": "KXO21xZdUaM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-12T12:14:52.000Z"
+      },
+      {
+        "key": "mtC4sjABZNw",
+        "name": "Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-16T16:01:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
@@ -72,38 +108,38 @@
     ]
   },
   {
-    "id": 1538497,
-    "title": "Hexed",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
-    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
-    "trailer_published": "2026-10-26T17:00:01.000Z",
+    "trailer_published": "2026-10-26T14:14:40.000Z",
     "videos": [
       {
-        "key": "VS3AcRBa9c8",
-        "name": "Tickets On Sale Now",
+        "key": "kA9NfV4pM_Q",
+        "name": "Final Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-20T23:50:14.000Z"
+        "published_at": "2026-10-20T19:05:34.000Z"
       },
       {
-        "key": "KXO21xZdUaM",
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-12T12:14:52.000Z"
+        "published_at": "2026-07-30T14:00:01.000Z"
       },
       {
-        "key": "mtC4sjABZNw",
-        "name": "Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-16T16:01:06.000Z"
-      },
-      {
-        "key": "eAME5SoB_rE",
-        "name": "Beef Has Beef",
+        "key": "K2BBDSW5BKU",
+        "name": "In UK Cinemas Friday",
         "type": "Teaser",
-        "published_at": "2026-10-26T17:00:01.000Z"
+        "published_at": "2026-10-26T14:14:40.000Z"
       }
     ]
   },
@@ -212,42 +248,6 @@
         "name": "Silence Your Phones",
         "type": "Teaser",
         "published_at": "2026-09-28T18:00:09.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-23T21:29:41.000Z",
-    "videos": [
-      {
-        "key": "kA9NfV4pM_Q",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-20T19:05:34.000Z"
-      },
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
-      },
-      {
-        "key": "rgnFGOIWth0",
-        "name": "The Wicker Husband",
-        "type": "Teaser",
-        "published_at": "2026-10-23T21:29:41.000Z"
       }
     ]
   },
@@ -693,10 +693,10 @@
     "id": 1596275,
     "title": "Drive - The Pretenders",
     "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/o1amTBOej7F2wdrTSKzGE6eG2CT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
-    "overview": "A young race car mechanic fakes an engagement to the most scandalous racing star on the scene\u2014officially for his reputation, secretly for her own chance behind the wheel. But soon the lie threatens to destroy everything, including what has long since become more than just a game.",
-    "theatrical": true,
+    "poster": "https://image.tmdb.org/t/p/w500/c6Gx7JTc8pYyW2WH7yLWj5Rx66I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
+    "overview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
+    "theatrical": false,
     "trailer_published": "2026-10-19T13:00:31.000Z",
     "videos": [
       {
@@ -747,8 +747,8 @@
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
     "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
     "theatrical": true,
     "trailer_published": "2026-10-17T12:00:29.000Z",
@@ -852,10 +852,28 @@
     ]
   },
   {
+    "id": 1440769,
+    "title": "The Beekeeper 2",
+    "release_date": "2027-01-15",
+    "poster": "https://image.tmdb.org/t/p/w500/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zdZmiPdzrBlioFVvROuA57kPs4G.jpg",
+    "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T14:44:46.000Z",
+    "videos": [
+      {
+        "key": "5HK3wimDxBI",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T14:44:46.000Z"
+      }
+    ]
+  },
+  {
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-04",
-    "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -872,6 +890,12 @@
         "name": "Official Trailer (English)",
         "type": "Trailer",
         "published_at": "2026-08-05T16:00:16.000Z"
+      },
+      {
+        "key": "I6WuD0p7XVU",
+        "name": "TRAILER TOMORROW.",
+        "type": "Teaser",
+        "published_at": "2026-10-14T16:14:59.000Z"
       }
     ]
   },
@@ -944,6 +968,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1798903,
+    "title": "KILL/SAVE",
+    "release_date": "2026-11-17",
+    "poster": "https://image.tmdb.org/t/p/w500/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wxFZkoIejP9gzxrgEpZguyk0D03.jpg",
+    "overview": "In a locked-down megacity where reality is optional, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison \u2014 only to face a truth that challenges the very meaning of salvation and free will.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T16:00:25.000Z",
+    "videos": [
+      {
+        "key": "J1wMCqWqIbo",
+        "name": "KILL/SAVE \u2014 Official Teaser #2 (2026) | Sci-Fi Action",
+        "type": "Teaser",
+        "published_at": "2026-10-14T16:00:25.000Z"
+      },
+      {
+        "key": "ZexM5lCYVyk",
+        "name": "KILL/SAVE \u2014 Official Teaser (2026) | Sci-Fi Action",
+        "type": "Teaser",
+        "published_at": "2026-10-02T13:33:13.000Z"
       }
     ]
   },
@@ -1042,7 +1090,7 @@
     "title": "Resident Evil",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "theatrical": true,
     "trailer_published": "2026-10-12T10:00:16.000Z",
@@ -1413,7 +1461,7 @@
     "id": 1290418,
     "title": "The Cycle",
     "release_date": "2026-09-17",
-    "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/AcU8RcD1nNxzN38ocxrjd8Jpfzl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
     "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
     "theatrical": false,
@@ -1435,7 +1483,7 @@
   },
   {
     "id": 1422041,
-    "title": "La bola negra",
+    "title": "LA BOLA NEGRA",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
@@ -1683,7 +1731,7 @@
     "id": 1515692,
     "title": "Baththa",
     "release_date": "2026-10-01",
-    "poster": "https://image.tmdb.org/t/p/w500/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
     "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
     "theatrical": true,
@@ -1828,7 +1876,7 @@
     "title": "The Beast",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tv4GxpgGF4n8bhBYgJg0ZyAUylF.jpg",
     "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
     "theatrical": true,
     "trailer_published": "2026-09-22T16:07:42.000Z",
@@ -1866,38 +1914,32 @@
     ]
   },
   {
-    "id": 1383750,
-    "title": "Rise of the Footsoldier: Retribution",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/qJ4UV7YnAweTjosfSzDG80j1nd0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fBsKkb6ZaxfFLqHVF1YSHzmXlMn.jpg",
-    "overview": "Tate battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
-    "theatrical": false,
-    "trailer_published": "2026-09-21T13:13:32.000Z",
+    "id": 1457866,
+    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
+    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T12:00:00.000Z",
     "videos": [
       {
-        "key": "1E2Dmm8fyWc",
-        "name": "Full Official Trailer",
+        "key": "RjEZaUBbUvU",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-21T13:10:26.000Z"
+        "published_at": "2026-09-21T12:00:00.000Z"
       },
       {
-        "key": "en-gnmXWYVg",
-        "name": "Yours to own October 12",
+        "key": "hbU1zLAwj3w",
+        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
         "type": "Teaser",
-        "published_at": "2026-09-21T13:13:32.000Z"
+        "published_at": "2026-08-26T20:55:34.000Z"
       },
       {
-        "key": "1e7mH66lrCg",
-        "name": "Exclusively In Cinemas from August 28",
-        "type": "Teaser",
-        "published_at": "2026-09-09T06:58:01.000Z"
-      },
-      {
-        "key": "l3ELytmHHBw",
-        "name": "Exclusively In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-08-27T07:07:01.000Z"
+        "key": "ik0drfECnPo",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-09T01:43:08.000Z"
       }
     ]
   },
@@ -1916,30 +1958,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-21T10:05:10.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1480574,
-    "title": "Just Play Dead",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
-    "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T08:38:27.000Z",
-    "videos": [
-      {
-        "key": "LfpPh2pW0Oo",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-21T08:38:27.000Z"
-      },
-      {
-        "key": "LlAajeOoFBo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-12T16:54:48.000Z"
       }
     ]
   },
@@ -2160,6 +2178,30 @@
     ]
   },
   {
+    "id": 1318467,
+    "title": "The Last Kiss",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+    "theatrical": false,
+    "trailer_published": "2026-09-15T20:34:42.000Z",
+    "videos": [
+      {
+        "key": "lAKtuOVkAgU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T19:03:09.000Z"
+      },
+      {
+        "key": "Vgf-eANUdE0",
+        "name": "Watch at Home September 15",
+        "type": "Teaser",
+        "published_at": "2026-09-15T20:34:42.000Z"
+      }
+    ]
+  },
+  {
     "id": 1751701,
     "title": "After Impact",
     "release_date": "2026-09-15",
@@ -2342,42 +2384,6 @@
         "name": "Only In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-09-09T06:57:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 843352,
-    "title": "Legend of the White Dragon",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/k0L5ZQP4PjdNziVGvcOeaihXyCc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
-    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
-    "theatrical": true,
-    "trailer_published": "2026-09-07T14:24:53.000Z",
-    "videos": [
-      {
-        "key": "eqcTr34Y1Zw",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-07T14:24:53.000Z"
-      },
-      {
-        "key": "TJ5bCaaGIx4",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-07T17:02:16.000Z"
-      },
-      {
-        "key": "1iyMrYA4pBo",
-        "name": "This is what legends are made of.",
-        "type": "Teaser",
-        "published_at": "2026-09-01T21:23:15.000Z"
-      },
-      {
-        "key": "1kuCIcqv_sw",
-        "name": "Happy Power Rangers Day!",
-        "type": "Teaser",
-        "published_at": "2026-08-28T21:00:18.000Z"
       }
     ]
   },
@@ -2904,24 +2910,6 @@
     ]
   },
   {
-    "id": 1756943,
-    "title": "Sex Drive",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5fPMOvgKCDmvJHL3zbeldOiTwDr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x1FztHH0DHLVxBZxOS6jsc9kE4f.jpg",
-    "overview": "Sheltered Sasha joins her uninhibited best friend Kelly on a getaway, but rescuing an amnesiac man turns their sexy escape into a deadly game of truth and deception.",
-    "theatrical": false,
-    "trailer_published": "2026-08-14T12:07:09.000Z",
-    "videos": [
-      {
-        "key": "Ng8K47rRbtY",
-        "name": "S3X DRIVE | WORLD PREMIERE THIS AUGUST 28 ONLY ON VMX",
-        "type": "Trailer",
-        "published_at": "2026-08-14T12:07:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1579941,
     "title": "The Musical",
     "release_date": "2026-09-18",
@@ -2936,6 +2924,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-13T18:14:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1522689,
+    "title": "Why Did I Get Married Again?",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+    "theatrical": false,
+    "trailer_published": "2026-08-13T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "VylsOZBYxQA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-13T14:00:00.000Z"
+      },
+      {
+        "key": "t_QUYXwkwss",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-09T12:00:00.000Z"
       }
     ]
   },
@@ -2990,24 +3002,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-06-23T14:01:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1631807,
-    "title": "The Secret Woman",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
-    "overview": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
-    "theatrical": false,
-    "trailer_published": "2026-08-07T07:00:00.000Z",
-    "videos": [
-      {
-        "key": "FldeGkt4e4k",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-07T07:00:00.000Z"
       }
     ]
   },
@@ -3234,6 +3228,36 @@
     ]
   },
   {
+    "id": 1562777,
+    "title": "The Stunt Driver",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+    "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+    "theatrical": true,
+    "trailer_published": "2026-07-21T16:15:38.000Z",
+    "videos": [
+      {
+        "key": "dcbRqIuFAiE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-21T16:15:38.000Z"
+      },
+      {
+        "key": "H65PPLCO0os",
+        "name": "Official Teaser Trailer #2",
+        "type": "Trailer",
+        "published_at": "2026-07-04T13:30:34.000Z"
+      },
+      {
+        "key": "7CrvMbeIIY4",
+        "name": "Official Teaser #1",
+        "type": "Teaser",
+        "published_at": "2026-07-01T13:15:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1386315,
     "title": "The Runner",
     "release_date": "2026-09-02",
@@ -3398,24 +3422,6 @@
         "name": "9.24.27",
         "type": "Teaser",
         "published_at": "2026-06-23T15:14:40.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1475440,
-    "title": "Beyond Belief",
-    "release_date": "2026-08-28",
-    "poster": "https://image.tmdb.org/t/p/w500/f0dJH9KrWIPShBiYdtwmx73G25W.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n7s0lvihAjngM2zZieoDmwqjsti.jpg",
-    "overview": "An aspiring teenage rock star trains for a marathon after hearing a mysterious voice.",
-    "theatrical": true,
-    "trailer_published": "2026-06-16T15:00:03.000Z",
-    "videos": [
-      {
-        "key": "R-5dDVHnYA0",
-        "name": "BEYOND BELIEF | Official Trailer | Intrigue Films",
-        "type": "Trailer",
-        "published_at": "2026-06-16T15:00:03.000Z"
       }
     ]
   },
