@@ -40,7 +40,7 @@
     "title": "Clayface",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
     "trailer_published": "2026-10-28T18:29:26.000Z",
@@ -68,6 +68,30 @@
         "name": "Look at him now.",
         "type": "Teaser",
         "published_at": "2026-10-28T18:29:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1126097,
+    "title": "Charlie Harper",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wNj3vgm13CyKb04xIq7NQ8zTY1e.jpg",
+    "overview": "As an ambitious chef and her struggling partner move to a new city to start fresh, the stark divide in their drives tests the limits of their love.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T17:00:50.000Z",
+    "videos": [
+      {
+        "key": "Syp1bGpWTSs",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T17:00:50.000Z"
+      },
+      {
+        "key": "3EwAPmmNBU4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-25T15:00:00.000Z"
       }
     ]
   },
@@ -111,7 +135,7 @@
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
     "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
@@ -147,7 +171,7 @@
     "id": 1260649,
     "title": "Jumanji: Open World",
     "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/qGFuvcXqQdXS5ZNblDlVTOmK6mq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kUXMq9n9FXXxvSIngMboskx53Pt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
     "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
     "theatrical": true,
@@ -285,7 +309,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -455,7 +479,7 @@
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
-    "overview": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
+    "overview": "In rural Tamil Nadu, two inseparable childhood friends navigate a world shaped by caste, violence and toxic masculinity, until a compassionate woman enters their lives and quietly challenges the social order around them.",
     "theatrical": true,
     "trailer_published": "2026-10-23T10:30:00.000Z",
     "videos": [
@@ -507,7 +531,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -615,7 +639,7 @@
     "id": 1590718,
     "title": "Dhoomakethu",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/bxUSscHMoCkPFRrF40Vtncmcpdw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ma7nFrXqSiA8FxAxqhyk4zoP58x.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4YxZxGPt702wGaNqgXwN6Jaq390.jpg",
     "overview": "On the morning of his wedding, 36-year-old Kuttan wakes from a disturbing dream about his own death. As the day unfolds, familiar moments begin to repeat, and reality becomes increasingly difficult to distinguish from memory. Realising that something is terribly wrong, Kuttan races to uncover the truth before the day repeats itself.",
     "theatrical": true,
@@ -623,9 +647,57 @@
     "videos": [
       {
         "key": "-MnNEHE6Dd4",
-        "name": "Dhoomakethu | Official Trailer | Sajin Gopu, Nikhila Vimal, Shine Tom Chacko | Netflix India",
+        "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-10-22T10:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437981,
+    "title": "Coward",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
+    "overview": "Surrounded by brutality but bound by tenderness, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
+    "theatrical": true,
+    "trailer_published": "2026-10-21T20:41:56.000Z",
+    "videos": [
+      {
+        "key": "T1SAZTIZnrQ",
+        "name": "Coward - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-21T20:41:56.000Z"
+      },
+      {
+        "key": "wF_pSyIW8I0",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-21T12:00:29.000Z"
+      },
+      {
+        "key": "zELcqKfRKOI",
+        "name": "COWARD trailer | BFI London Film Festival 2026 \u2013 7-18 October",
+        "type": "Trailer",
+        "published_at": "2026-09-07T08:34:38.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1316999,
+    "title": "Tangles",
+    "release_date": "2026-11-27",
+    "poster": "https://image.tmdb.org/t/p/w500/agQGw5Cux2CYaxI8UHlLbta2bgw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hc0rBryUFk893Zo1P1tODmOxaJw.jpg",
+    "overview": "A young woman is forced to return to the conservative small town where her bizarre family lives to take care of her mother, having to deal with the cruel reality of her mom's Alzheimer disease and become the daughter they need.",
+    "theatrical": true,
+    "trailer_published": "2026-10-21T16:15:24.000Z",
+    "videos": [
+      {
+        "key": "mdGrH_f4wJw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-21T16:15:24.000Z"
       }
     ]
   },
@@ -1038,6 +1110,30 @@
     ]
   },
   {
+    "id": 1798903,
+    "title": "KILL/SAVE",
+    "release_date": "2026-11-17",
+    "poster": "https://image.tmdb.org/t/p/w500/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wxFZkoIejP9gzxrgEpZguyk0D03.jpg",
+    "overview": "In a locked-down megacity where reality is optional, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison \u2014 only to face a truth that challenges the very meaning of salvation and free will.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T16:00:25.000Z",
+    "videos": [
+      {
+        "key": "J1wMCqWqIbo",
+        "name": "KILL/SAVE \u2014 Official Teaser #2 (2026) | Sci-Fi Action",
+        "type": "Teaser",
+        "published_at": "2026-10-14T16:00:25.000Z"
+      },
+      {
+        "key": "ZexM5lCYVyk",
+        "name": "KILL/SAVE \u2014 Official Teaser (2026) | Sci-Fi Action",
+        "type": "Teaser",
+        "published_at": "2026-10-02T13:33:13.000Z"
+      }
+    ]
+  },
+  {
     "id": 1228834,
     "title": "The Fix",
     "release_date": "2026-09-11",
@@ -1268,24 +1364,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-08T15:01:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1790935,
-    "title": "Instadocs: AI Gone Wild",
-    "release_date": "2026-10-12",
-    "poster": "https://image.tmdb.org/t/p/w500/g2emP9oTYXzpNyxgti8GKhjOveB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
-    "overview": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
-    "theatrical": false,
-    "trailer_published": "2026-10-07T15:30:00.000Z",
-    "videos": [
-      {
-        "key": "9l9rJAbLuhM",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-10-07T15:30:00.000Z"
       }
     ]
   },
@@ -1788,24 +1866,6 @@
     ]
   },
   {
-    "id": 1515692,
-    "title": "Baththa",
-    "release_date": "2026-10-01",
-    "poster": "https://image.tmdb.org/t/p/w500/n8Df1H1TmcmZfjGgWh5uQyRFzHy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
-    "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T14:11:15.000Z",
-    "videos": [
-      {
-        "key": "QAMyuZSvqWI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T14:11:15.000Z"
-      }
-    ]
-  },
-  {
     "id": 848700,
     "title": "Minotaur",
     "release_date": "2026-11-20",
@@ -1970,36 +2030,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-22T14:59:47.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1457866,
-    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/8jSyV5i8aFYPiO3c3B9YUu14hN2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
-    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T12:00:00.000Z",
-    "videos": [
-      {
-        "key": "RjEZaUBbUvU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-21T12:00:00.000Z"
-      },
-      {
-        "key": "hbU1zLAwj3w",
-        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-        "type": "Teaser",
-        "published_at": "2026-08-26T20:55:34.000Z"
-      },
-      {
-        "key": "ik0drfECnPo",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-09T01:43:08.000Z"
       }
     ]
   },
@@ -2238,6 +2268,30 @@
     ]
   },
   {
+    "id": 1318467,
+    "title": "The Last Kiss",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+    "theatrical": false,
+    "trailer_published": "2026-09-15T20:34:42.000Z",
+    "videos": [
+      {
+        "key": "lAKtuOVkAgU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T19:03:09.000Z"
+      },
+      {
+        "key": "Vgf-eANUdE0",
+        "name": "Watch at Home September 15",
+        "type": "Teaser",
+        "published_at": "2026-09-15T20:34:42.000Z"
+      }
+    ]
+  },
+  {
     "id": 1751701,
     "title": "After Impact",
     "release_date": "2026-09-15",
@@ -2348,6 +2402,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-10T17:00:03.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1630237,
+    "title": "Treasure Trekkers",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/vYBoaaExygl2OGlwoGqDlQ6CjBo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2TSjlZfzKZK0fTlmsgAftClNK2r.jpg",
+    "overview": "A 12-year-old monkey called Mip struggles to find his place in a world dominated by cats and rodents. A magic map sets him on a perilous quest in search of his roots in the distant land of Empathra and a journey that will teach him that kindness is a superpower.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T03:31:21.000Z",
+    "videos": [
+      {
+        "key": "aQAj4XsHGBE",
+        "name": "Will They Survive the Quest? Treasure Trekkers Official Trailer Drop",
+        "type": "Trailer",
+        "published_at": "2026-09-10T03:31:21.000Z"
       }
     ]
   },
@@ -2540,6 +2612,36 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-23T12:59:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1596301,
+    "title": "Mum, I'm Alien Pregnant",
+    "release_date": "2026-01-23",
+    "poster": "https://image.tmdb.org/t/p/w500/RXfZ8QjllkTvNKyj7aTetQ8ywO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg",
+    "overview": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
+    "theatrical": false,
+    "trailer_published": "2026-09-02T06:59:24.000Z",
+    "videos": [
+      {
+        "key": "usXu0Zf5-Tg",
+        "name": "Official Trailer #2",
+        "type": "Trailer",
+        "published_at": "2026-09-02T06:59:24.000Z"
+      },
+      {
+        "key": "3jGYW1fzIw0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-01T17:30:06.000Z"
+      },
+      {
+        "key": "lcYk4JfCvVI",
+        "name": "Mother's Day Teaser",
+        "type": "Teaser",
+        "published_at": "2026-05-10T00:00:50.000Z"
       }
     ]
   },
@@ -2852,24 +2954,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-17T15:00:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1403836,
-    "title": "The Bluey Movie",
-    "release_date": "2027-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
-    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
-    "theatrical": true,
-    "trailer_published": "2026-08-15T03:26:36.000Z",
-    "videos": [
-      {
-        "key": "I0YWGgZBiYc",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-15T03:26:36.000Z"
       }
     ]
   },
@@ -3348,24 +3432,6 @@
     ]
   },
   {
-    "id": 1126097,
-    "title": "Charlie Harper",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wNj3vgm13CyKb04xIq7NQ8zTY1e.jpg",
-    "overview": "As an ambitious chef and her struggling partner move to a new city to start fresh, the stark divide in their drives tests the limits of their love.",
-    "theatrical": true,
-    "trailer_published": "2026-06-25T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "3EwAPmmNBU4",
-        "name": "Charlie Harper - Official Trailer | Emilia Jones, Nick Robinson | Only in Theaters September 25",
-        "type": "Trailer",
-        "published_at": "2026-06-25T15:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1433583,
     "title": "The Weight",
     "release_date": "2026-09-18",
@@ -3494,42 +3560,6 @@
         "name": "Evil Dead Wrath has begun its bloody production.",
         "type": "Teaser",
         "published_at": "2026-02-21T17:00:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": 890216,
-    "title": "Pacific",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/lxHviNCgIVv8juHBrwHJpR5wJ5b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g8RivCxBNzYeouwqUe15gmKWt3T.jpg",
-    "overview": "A group of young travelers are stranded on an island in the Pacific where they struggle to escape an evil presence kept hidden from mankind for centuries.",
-    "theatrical": false,
-    "trailer_published": "2026-05-05T17:22:54.000Z",
-    "videos": [
-      {
-        "key": "tgOveb3Pq0w",
-        "name": "PACIFICO (2026) a film by Gonzalo Gutierrez - Theatrical Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-05T17:22:54.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1735270,
-    "title": "Premada Oorali",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/6eP8D6HDRw315Gmmc7RmGBaeTyO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
-    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
-    "theatrical": true,
-    "trailer_published": "2026-04-17T11:53:31.000Z",
-    "videos": [
-      {
-        "key": "271GZatiFG0",
-        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
-        "type": "Teaser",
-        "published_at": "2026-04-17T11:53:31.000Z"
       }
     ]
   },
