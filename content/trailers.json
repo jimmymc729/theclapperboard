@@ -345,7 +345,7 @@
     "id": 1515692,
     "title": "Baththa",
     "release_date": "2026-10-01",
-    "poster": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cWY636zXGECkRHbrqhQdFyP9n69.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5sBnZMT1aJ6cBvehKOzOOLdI6bz.jpg",
     "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
     "theatrical": true,
@@ -363,7 +363,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/bl9Ha0PGgsC3erpEbJrdY9PPkUa.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -550,7 +550,7 @@
     "title": "Ebenezer",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-10-23T02:30:38.000Z",
@@ -738,24 +738,6 @@
     ]
   },
   {
-    "id": 1316999,
-    "title": "Tangles",
-    "release_date": "2026-11-27",
-    "poster": "https://image.tmdb.org/t/p/w500/agQGw5Cux2CYaxI8UHlLbta2bgw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hc0rBryUFk893Zo1P1tODmOxaJw.jpg",
-    "overview": "A young woman is forced to return to the conservative small town where her bizarre family lives to take care of her mother, having to deal with the cruel reality of her mom's Alzheimer disease and become the daughter they need.",
-    "theatrical": true,
-    "trailer_published": "2026-10-21T16:15:24.000Z",
-    "videos": [
-      {
-        "key": "mdGrH_f4wJw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-21T16:15:24.000Z"
-      }
-    ]
-  },
-  {
     "id": 1380417,
     "title": "By Any Means",
     "release_date": "2026-09-04",
@@ -936,6 +918,24 @@
     ]
   },
   {
+    "id": 1541477,
+    "title": "You, Me, Us",
+    "release_date": "2026-10-29",
+    "poster": "https://image.tmdb.org/t/p/w500/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+    "overview": "A couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities.",
+    "theatrical": false,
+    "trailer_published": "2026-10-18T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "XjUt3Fv_f-Y",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-18T10:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1283515,
     "title": "Verity",
     "release_date": "2026-10-02",
@@ -968,6 +968,24 @@
         "name": "In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-10-08T08:00:29.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1767346,
+    "title": "Redemption River",
+    "release_date": "2026-10-15",
+    "poster": "https://image.tmdb.org/t/p/w500/dnja8LV61libQbsLO2LSeFZ4bxE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ePApeQuTziXtUx3ClTAwmGb9e0P.jpg",
+    "overview": "Stranded after a rafting accident, a couple on the brink of collapse must come together to escape the unforgiving wilderness.",
+    "theatrical": false,
+    "trailer_published": "2026-10-16T22:00:02.000Z",
+    "videos": [
+      {
+        "key": "_xzyDCV_Sp4",
+        "name": "Redemption River | Official Trailer | Now Streaming | Angel",
+        "type": "Trailer",
+        "published_at": "2026-10-16T22:00:02.000Z"
       }
     ]
   },
@@ -1065,7 +1083,7 @@
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-04",
-    "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cIVqxRhzCIJPTAE2RhH9rumvYKi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -1160,30 +1178,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1798903,
-    "title": "KILL/SAVE",
-    "release_date": "2026-11-17",
-    "poster": "https://image.tmdb.org/t/p/w500/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wxFZkoIejP9gzxrgEpZguyk0D03.jpg",
-    "overview": "In a locked-down megacity where reality is optional, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison \u2014 only to face a truth that challenges the very meaning of salvation and free will.",
-    "theatrical": true,
-    "trailer_published": "2026-10-14T16:00:25.000Z",
-    "videos": [
-      {
-        "key": "J1wMCqWqIbo",
-        "name": "KILL/SAVE \u2014 Official Teaser #2 (2026) | Sci-Fi Action",
-        "type": "Teaser",
-        "published_at": "2026-10-14T16:00:25.000Z"
-      },
-      {
-        "key": "ZexM5lCYVyk",
-        "name": "KILL/SAVE \u2014 Official Teaser (2026) | Sci-Fi Action",
-        "type": "Teaser",
-        "published_at": "2026-10-02T13:33:13.000Z"
       }
     ]
   },
@@ -1407,7 +1401,7 @@
     "id": 1657630,
     "title": "The Awakening",
     "release_date": "2026-11-10",
-    "poster": "https://image.tmdb.org/t/p/w500/vNvHT0v9xt7dDTqYue2fWXePKi7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
     "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
     "theatrical": true,
@@ -1758,24 +1752,6 @@
     ]
   },
   {
-    "id": 1788735,
-    "title": "Family Guy Happy Hell-o-ween",
-    "release_date": "2026-10-05",
-    "poster": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
-    "overview": "After unexpectedly dying and being sent to Hell, Stewie and Brian\u2019s constant nagging leads The Devil to quit, passing control of Hell to them.",
-    "theatrical": false,
-    "trailer_published": "2026-09-25T18:00:28.000Z",
-    "videos": [
-      {
-        "key": "dqCtpH7muKA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-25T18:00:28.000Z"
-      }
-    ]
-  },
-  {
     "id": 1790284,
     "title": "The Opera!",
     "release_date": "2026-10-02",
@@ -1916,6 +1892,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-24T15:00:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1131943,
+    "title": "Madden",
+    "release_date": "2026-11-11",
+    "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T13:10:37.000Z",
+    "videos": [
+      {
+        "key": "xzh7HzLXXpk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:10:37.000Z"
+      },
+      {
+        "key": "KjOL6n0F0T8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-12-26T02:41:22.000Z"
       }
     ]
   },
@@ -2088,6 +2088,36 @@
     ]
   },
   {
+    "id": 1457866,
+    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/8jSyV5i8aFYPiO3c3B9YUu14hN2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
+    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-09-21T12:00:00.000Z",
+    "videos": [
+      {
+        "key": "RjEZaUBbUvU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-21T12:00:00.000Z"
+      },
+      {
+        "key": "hbU1zLAwj3w",
+        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "type": "Teaser",
+        "published_at": "2026-08-26T20:55:34.000Z"
+      },
+      {
+        "key": "ik0drfECnPo",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-09T01:43:08.000Z"
+      }
+    ]
+  },
+  {
     "id": 1772549,
     "title": "Pehla Pyaar Doosri Baar",
     "release_date": "2026-10-23",
@@ -2196,24 +2226,6 @@
     ]
   },
   {
-    "id": 1773759,
-    "title": "Seriously Single Too",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/ocSY3cX4g6hxy4EkQWXPjrrdzCI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
-    "overview": "Dineo and Noni \u2014 besties meant to take on the party scene together \u2014 suddenly face their biggest fear when Noni's boyfriend spontaneously propose.",
-    "theatrical": false,
-    "trailer_published": "2026-09-18T09:00:00.000Z",
-    "videos": [
-      {
-        "key": "YnsY_9q7m6U",
-        "name": "Seriously Single Too | Official Trailer | AfricaOnNetflix",
-        "type": "Trailer",
-        "published_at": "2026-09-18T09:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1437511,
     "title": "How to Rob a Bank",
     "release_date": "2026-11-13",
@@ -2318,6 +2330,42 @@
         "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
         "type": "Teaser",
         "published_at": "2026-09-12T16:00:24.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1021848,
+    "title": "Queen at Sea",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/308iVAhH5ByQb0wvaJmY3o79apn.jpg",
+    "overview": "As advanced dementia erodes an older woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interests, navigating love and the fragile boundaries between care, protection and autonomy.",
+    "theatrical": true,
+    "trailer_published": "2026-09-16T07:00:39.000Z",
+    "videos": [
+      {
+        "key": "UVyH8QYENxI",
+        "name": "Official US Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-27T16:00:19.000Z"
+      },
+      {
+        "key": "AyYaNvtC2i0",
+        "name": "Official UK & IRE Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:06.000Z"
+      },
+      {
+        "key": "A7cm7ZJGtVI",
+        "name": "In Cinemas 18 September",
+        "type": "Teaser",
+        "published_at": "2026-09-16T07:00:39.000Z"
+      },
+      {
+        "key": "5H8rRfVFEgg",
+        "name": "The powerful drama QUEEN AT SEA is coming to cinemas on 18 September.",
+        "type": "Teaser",
+        "published_at": "2026-09-11T15:40:42.000Z"
       }
     ]
   },
@@ -2546,6 +2594,24 @@
         "name": "Only In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-09-09T06:57:07.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1620080,
+    "title": "Less of a Stranger",
+    "release_date": "2026-10-07",
+    "poster": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kKoviQTDH6p9a37CfNoKscxMg4Z.jpg",
+    "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
+    "theatrical": false,
+    "trailer_published": "2026-09-08T07:00:00.000Z",
+    "videos": [
+      {
+        "key": "jx0RiYbSuuc",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-08T07:00:00.000Z"
       }
     ]
   },
@@ -2805,7 +2871,7 @@
     "id": 1477104,
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/gayX49siwXf8eNs16rtk1fI91Ey.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
     "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
     "theatrical": true,
@@ -2984,24 +3050,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-14T17:15:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1579941,
-    "title": "The Musical",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/475EwwQP3Lg0kqhSC0xnZC4XBBd.jpg",
-    "overview": "Doug, a frustrated playwright and middle school theater teacher, learns his ex is dating his nemesis, the school principal. To get revenge and cost him a Blue Ribbon Award, Doug secretly stages the most inappropriate play imaginable.",
-    "theatrical": true,
-    "trailer_published": "2026-08-13T18:14:36.000Z",
-    "videos": [
-      {
-        "key": "DaDzxM68BYc",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-13T18:14:36.000Z"
       }
     ]
   },
@@ -3614,24 +3662,6 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-02-12T09:23:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437195,
-    "title": "Livestream from Hell",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
-    "overview": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
-    "theatrical": false,
-    "trailer_published": "2025-09-30T05:03:05.000Z",
-    "videos": [
-      {
-        "key": "RvkFXSwqoyE",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2025-09-30T05:03:05.000Z"
       }
     ]
   },
