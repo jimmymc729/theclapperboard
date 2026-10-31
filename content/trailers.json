@@ -7,7 +7,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
-    "trailer_published": "2026-10-30T18:30:04.000Z",
+    "trailer_published": "2026-10-31T10:00:22.000Z",
     "videos": [
       {
         "key": "l_Ozo1xUgbU",
@@ -22,16 +22,52 @@
         "published_at": "2026-07-23T23:44:46.000Z"
       },
       {
+        "key": "ynUWewP6YDc",
+        "name": "Things that would send a Victorian child in a coma",
+        "type": "Teaser",
+        "published_at": "2026-10-31T10:00:22.000Z"
+      },
+      {
         "key": "Q-nNAJB2xa4",
         "name": "The BAH HUMBUG! Tickets for Ebenezer are on sale NOW",
         "type": "Teaser",
         "published_at": "2026-10-30T18:30:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-10-30T07:30:55.000Z",
+    "videos": [
+      {
+        "key": "kA9NfV4pM_Q",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-20T19:05:34.000Z"
       },
       {
-        "key": "-a31dcrCNqo",
-        "name": "Scrooge's biggest nightmare is just beginning.",
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
+      },
+      {
+        "key": "Q0040HMQEME",
+        "name": "Star-studded. Crafted to perfection.",
         "type": "Teaser",
-        "published_at": "2026-10-23T02:30:38.000Z"
+        "published_at": "2026-10-30T07:30:55.000Z"
       }
     ]
   },
@@ -108,42 +144,6 @@
     ]
   },
   {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-29T11:32:35.000Z",
-    "videos": [
-      {
-        "key": "kA9NfV4pM_Q",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-20T19:05:34.000Z"
-      },
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
-      },
-      {
-        "key": "Moa22dUG5ko",
-        "name": "In UK Cinemas Tomorrow. Bring your baskets.",
-        "type": "Teaser",
-        "published_at": "2026-10-29T11:32:35.000Z"
-      }
-    ]
-  },
-  {
     "id": 1126097,
     "title": "Charlie Harper",
     "release_date": "2026-09-25",
@@ -207,7 +207,7 @@
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
     "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
@@ -306,6 +306,42 @@
     ]
   },
   {
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T02:55:51.000Z",
+    "videos": [
+      {
+        "key": "R8ANzYpaZaY",
+        "name": "Official International Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-31T11:05:33.000Z"
+      },
+      {
+        "key": "MfHEZw7Xw_c",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T21:00:09.000Z"
+      },
+      {
+        "key": "gM4LkaXwGuY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-10T12:58:35.000Z"
+      },
+      {
+        "key": "5QwNaYwslzE",
+        "name": "In Cinemas Now",
+        "type": "Teaser",
+        "published_at": "2026-10-28T02:55:51.000Z"
+      }
+    ]
+  },
+  {
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
@@ -399,7 +435,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -575,7 +611,7 @@
     "videos": [
       {
         "key": "jcBG6U5iX8Y",
-        "name": "Official Trailer [Subtitled]",
+        "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-10-23T10:30:00.000Z"
       }
@@ -693,7 +729,7 @@
     "id": 1590718,
     "title": "Dhoomakethu",
     "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/bxUSscHMoCkPFRrF40Vtncmcpdw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4YxZxGPt702wGaNqgXwN6Jaq390.jpg",
     "overview": "On the morning of his wedding, 36-year-old Kuttan wakes from a disturbing dream about his own death. As the day unfolds, familiar moments begin to repeat, and reality becomes increasingly difficult to distinguish from memory. Realising that something is terribly wrong, Kuttan races to uncover the truth before the day repeats itself.",
     "theatrical": true,
@@ -704,6 +740,36 @@
         "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-10-22T10:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437981,
+    "title": "Coward",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
+    "overview": "Surrounded by brutality but bound by tenderness, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
+    "theatrical": true,
+    "trailer_published": "2026-10-21T20:41:56.000Z",
+    "videos": [
+      {
+        "key": "T1SAZTIZnrQ",
+        "name": "Coward - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-21T20:41:56.000Z"
+      },
+      {
+        "key": "wF_pSyIW8I0",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-21T12:00:29.000Z"
+      },
+      {
+        "key": "zELcqKfRKOI",
+        "name": "COWARD trailer | BFI London Film Festival 2026 \u2013 7-18 October",
+        "type": "Trailer",
+        "published_at": "2026-09-07T08:34:38.000Z"
       }
     ]
   },
@@ -812,42 +878,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-19T13:00:31.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1281331,
-    "title": "The Social Reckoning",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "theatrical": true,
-    "trailer_published": "2026-10-19T10:00:20.000Z",
-    "videos": [
-      {
-        "key": "R8ANzYpaZaY",
-        "name": "Official International Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-31T11:05:33.000Z"
-      },
-      {
-        "key": "MfHEZw7Xw_c",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T21:00:09.000Z"
-      },
-      {
-        "key": "gM4LkaXwGuY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-10T12:58:35.000Z"
-      },
-      {
-        "key": "2spv4SBqumw",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-10-19T10:00:20.000Z"
       }
     ]
   },
@@ -1098,30 +1128,6 @@
     ]
   },
   {
-    "id": 1798903,
-    "title": "KILL/SAVE",
-    "release_date": "2026-11-17",
-    "poster": "https://image.tmdb.org/t/p/w500/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wxFZkoIejP9gzxrgEpZguyk0D03.jpg",
-    "overview": "In a locked-down megacity where reality is optional, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison \u2014 only to face a truth that challenges the very meaning of salvation and free will.",
-    "theatrical": true,
-    "trailer_published": "2026-10-14T16:00:25.000Z",
-    "videos": [
-      {
-        "key": "J1wMCqWqIbo",
-        "name": "KILL/SAVE \u2014 Official Teaser #2 (2026) | Sci-Fi Action",
-        "type": "Teaser",
-        "published_at": "2026-10-14T16:00:25.000Z"
-      },
-      {
-        "key": "ZexM5lCYVyk",
-        "name": "KILL/SAVE \u2014 Official Teaser (2026) | Sci-Fi Action",
-        "type": "Teaser",
-        "published_at": "2026-10-02T13:33:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1228834,
     "title": "The Fix",
     "release_date": "2026-09-11",
@@ -1320,24 +1326,6 @@
     ]
   },
   {
-    "id": 1371730,
-    "title": "Love Language",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
-    "overview": "After a failed engagement, a woman discovers a talent for writing wedding vows, but her growing success and new romance are complicated when she\u2019s hired to write vows for her former college flame\u2019s wedding.",
-    "theatrical": true,
-    "trailer_published": "2026-10-08T16:55:35.000Z",
-    "videos": [
-      {
-        "key": "hrXydegMePY",
-        "name": "Love Language | Official Trailer (HD) | Vertical",
-        "type": "Trailer",
-        "published_at": "2026-10-08T16:55:35.000Z"
-      }
-    ]
-  },
-  {
     "id": 1657630,
     "title": "The Awakening",
     "release_date": "2026-11-10",
@@ -1352,6 +1340,78 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-08T15:01:38.000Z"
+      }
+    ]
+  },
+  {
+    "id": 939541,
+    "title": "Christmas at the Kringles",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/oVxkhheRVWSacimUZBuMemQX85E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yZq46gEwwXKzJRemlC0qPPBJmvt.jpg",
+    "overview": "The Severson family move to a suburban neighborhood where their next-door neighbors, the Kringles, celebrate Christmas year-round. But when their son becomes increasingly attached to the unusual family, Mark and Julie begin to suspect that their neighbors aren't quite what they seem.",
+    "theatrical": true,
+    "trailer_published": "2026-10-08T14:01:12.000Z",
+    "videos": [
+      {
+        "key": "IsGccGqcNNE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-08T14:01:12.000Z"
+      },
+      {
+        "key": "zql0pXIpELI",
+        "name": "Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T15:02:48.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1507696,
+    "title": "Apocalypse Z: New World",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "overview": "The Canary Islands have become Europe\u2019s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+    "theatrical": false,
+    "trailer_published": "2026-10-08T13:52:55.000Z",
+    "videos": [
+      {
+        "key": "BIEzwpyawtw",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-08T13:52:55.000Z"
+      },
+      {
+        "key": "_SGPFqySL6c",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-21T10:50:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1697911,
+    "title": "Drummer Boy",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5KF459N6jOfRV7kV9XV7ZQdCLKK.jpg",
+    "overview": "As America\u2019s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss, Drummer Boy turns the Revolution into a deeply human story of faith, forgiveness, and the belief that no person is born to live in chains or be forgotten.",
+    "theatrical": true,
+    "trailer_published": "2026-10-06T20:00:06.000Z",
+    "videos": [
+      {
+        "key": "rXaR4nXRvOY",
+        "name": "DRUMMER BOY | Official Trailer | In Theaters Nov 6 | Angel",
+        "type": "Trailer",
+        "published_at": "2026-10-06T20:00:06.000Z"
+      },
+      {
+        "key": "wlm_vxf4PaM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-07-29T14:00:17.000Z"
       }
     ]
   },
@@ -1443,7 +1503,7 @@
     "id": 1117898,
     "title": "The Cat in the Hat",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
     "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
     "theatrical": true,
@@ -1854,30 +1914,6 @@
     ]
   },
   {
-    "id": 1131943,
-    "title": "Madden",
-    "release_date": "2026-11-11",
-    "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T13:10:37.000Z",
-    "videos": [
-      {
-        "key": "xzh7HzLXXpk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:10:37.000Z"
-      },
-      {
-        "key": "KjOL6n0F0T8",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2025-12-26T02:41:22.000Z"
-      }
-    ]
-  },
-  {
     "id": 848700,
     "title": "Minotaur",
     "release_date": "2026-11-20",
@@ -1982,6 +2018,24 @@
         "name": "Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-07-09T12:00:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1261763,
+    "title": "Don't Trouble the Trouble",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/A0uqqpeLhGfOsW6muky7xvLd8Qf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
+    "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T10:08:21.000Z",
+    "videos": [
+      {
+        "key": "CyuQsFP1Jww",
+        "name": "Dont Trouble The Trouble - Telugu Trailer | Fahadh Fassil, Ssara | Bhairava | SS Rajamouli | Oct 2nd",
+        "type": "Trailer",
+        "published_at": "2026-09-23T10:08:21.000Z"
       }
     ]
   },
@@ -2130,6 +2184,24 @@
     ]
   },
   {
+    "id": 1154730,
+    "title": "La Gradiva",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg",
+    "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
+    "theatrical": true,
+    "trailer_published": "2026-09-18T23:08:33.000Z",
+    "videos": [
+      {
+        "key": "5yY6V9MbEoE",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-18T23:08:33.000Z"
+      }
+    ]
+  },
+  {
     "id": 1340102,
     "title": "Lion Fist",
     "release_date": "2026-09-15",
@@ -2238,6 +2310,30 @@
     ]
   },
   {
+    "id": 961214,
+    "title": "Reawakened Man",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/5SHFK1EoJeYy9jPHWX32LDsMNAG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kiDd05NykJBIoEvJPSG5SOd7qc6.jpg",
+    "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
+    "theatrical": false,
+    "trailer_published": "2026-09-17T00:04:02.000Z",
+    "videos": [
+      {
+        "key": "FU3hfOVkPYI",
+        "name": "Reawakened Man | Official Main Trailer | INTL",
+        "type": "Trailer",
+        "published_at": "2026-09-17T00:04:02.000Z"
+      },
+      {
+        "key": "xYCXTTxsBpA",
+        "name": "Reawakened Man | Official Teaser Trailer | INTL",
+        "type": "Teaser",
+        "published_at": "2026-08-20T01:00:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1288069,
     "title": "Tenzing",
     "release_date": "2026-10-09",
@@ -2288,42 +2384,6 @@
         "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
         "type": "Teaser",
         "published_at": "2026-09-12T16:00:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1021848,
-    "title": "Queen at Sea",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/308iVAhH5ByQb0wvaJmY3o79apn.jpg",
-    "overview": "As advanced dementia erodes an older woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interests, navigating love and the fragile boundaries between care, protection and autonomy.",
-    "theatrical": true,
-    "trailer_published": "2026-09-16T07:00:39.000Z",
-    "videos": [
-      {
-        "key": "UVyH8QYENxI",
-        "name": "Official US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-27T16:00:19.000Z"
-      },
-      {
-        "key": "AyYaNvtC2i0",
-        "name": "Official UK & IRE Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:06.000Z"
-      },
-      {
-        "key": "A7cm7ZJGtVI",
-        "name": "In Cinemas 18 September",
-        "type": "Teaser",
-        "published_at": "2026-09-16T07:00:39.000Z"
-      },
-      {
-        "key": "5H8rRfVFEgg",
-        "name": "The powerful drama QUEEN AT SEA is coming to cinemas on 18 September.",
-        "type": "Teaser",
-        "published_at": "2026-09-11T15:40:42.000Z"
       }
     ]
   },
@@ -2528,24 +2588,6 @@
         "name": "Only In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-09-09T06:57:07.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1620080,
-    "title": "Less of a Stranger",
-    "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kKoviQTDH6p9a37CfNoKscxMg4Z.jpg",
-    "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
-    "theatrical": false,
-    "trailer_published": "2026-09-08T07:00:00.000Z",
-    "videos": [
-      {
-        "key": "jx0RiYbSuuc",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-08T07:00:00.000Z"
       }
     ]
   },
@@ -3020,30 +3062,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-14T17:15:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1522689,
-    "title": "Why Did I Get Married Again?",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-    "theatrical": false,
-    "trailer_published": "2026-08-13T14:00:00.000Z",
-    "videos": [
-      {
-        "key": "VylsOZBYxQA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-13T14:00:00.000Z"
-      },
-      {
-        "key": "t_QUYXwkwss",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-09T12:00:00.000Z"
       }
     ]
   },
@@ -3692,24 +3710,6 @@
         "name": "THE RESURRECTION OF THE CHRIST Parts One and Two - coming to theaters Spring 2027.",
         "type": "Teaser",
         "published_at": "2025-08-05T21:02:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1505644,
-    "title": "ENE Repeat",
-    "release_date": "2026-11-19",
-    "poster": "https://image.tmdb.org/t/p/w500/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ygh5XRm9EmEUsBpBPNHnVGmxcSl.jpg",
-    "overview": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and unexpected twists test their friendship.",
-    "theatrical": true,
-    "trailer_published": "2025-06-29T05:37:01.000Z",
-    "videos": [
-      {
-        "key": "l0FcBZJLY9I",
-        "name": "Motion Poster",
-        "type": "Teaser",
-        "published_at": "2025-06-29T05:37:01.000Z"
       }
     ]
   },
