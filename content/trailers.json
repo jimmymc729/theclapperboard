@@ -1,5 +1,41 @@
 [
   {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-10-30T18:30:04.000Z",
+    "videos": [
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "Q-nNAJB2xa4",
+        "name": "The BAH HUMBUG! Tickets for Ebenezer are on sale NOW",
+        "type": "Teaser",
+        "published_at": "2026-10-30T18:30:04.000Z"
+      },
+      {
+        "key": "-a31dcrCNqo",
+        "name": "Scrooge's biggest nightmare is just beginning.",
+        "type": "Teaser",
+        "published_at": "2026-10-23T02:30:38.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -345,7 +381,7 @@
     "id": 1515692,
     "title": "Baththa",
     "release_date": "2026-10-01",
-    "poster": "https://image.tmdb.org/t/p/w500/cWY636zXGECkRHbrqhQdFyP9n69.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5sBnZMT1aJ6cBvehKOzOOLdI6bz.jpg",
     "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
     "theatrical": true,
@@ -546,46 +582,10 @@
     ]
   },
   {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-10-23T02:30:38.000Z",
-    "videos": [
-      {
-        "key": "l_Ozo1xUgbU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-01T12:59:47.000Z"
-      },
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "-a31dcrCNqo",
-        "name": "Scrooge's biggest nightmare is just beginning.",
-        "type": "Teaser",
-        "published_at": "2026-10-23T02:30:38.000Z"
-      },
-      {
-        "key": "SCFJGEtBrOQ",
-        "name": "Bah! Humbug! No Christmas cheer here.",
-        "type": "Teaser",
-        "published_at": "2026-10-22T04:00:26.000Z"
-      }
-    ]
-  },
-  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -704,72 +704,6 @@
         "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-10-22T10:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437981,
-    "title": "Coward",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
-    "overview": "Surrounded by brutality but bound by tenderness, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
-    "theatrical": true,
-    "trailer_published": "2026-10-21T20:41:56.000Z",
-    "videos": [
-      {
-        "key": "T1SAZTIZnrQ",
-        "name": "Coward - Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-21T20:41:56.000Z"
-      },
-      {
-        "key": "wF_pSyIW8I0",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-10-21T12:00:29.000Z"
-      },
-      {
-        "key": "zELcqKfRKOI",
-        "name": "COWARD trailer | BFI London Film Festival 2026 \u2013 7-18 October",
-        "type": "Trailer",
-        "published_at": "2026-09-07T08:34:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1380417,
-    "title": "By Any Means",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
-    "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-    "theatrical": true,
-    "trailer_published": "2026-10-20T16:55:41.000Z",
-    "videos": [
-      {
-        "key": "S9mToIovAck",
-        "name": "Watch At Home",
-        "type": "Trailer",
-        "published_at": "2026-10-20T16:55:41.000Z"
-      },
-      {
-        "key": "fvnyrBnUx4E",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-12T14:00:18.000Z"
-      },
-      {
-        "key": "ej8pjisr0Pc",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-03T13:00:38.000Z"
-      },
-      {
-        "key": "v2r-T3r2R_o",
-        "name": "This your sign to lock in, by any means.",
-        "type": "Teaser",
-        "published_at": "2026-08-17T22:58:28.000Z"
       }
     ]
   },
@@ -922,7 +856,7 @@
     "title": "You, Me, Us",
     "release_date": "2026-10-29",
     "poster": "https://image.tmdb.org/t/p/w500/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
     "overview": "A couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities.",
     "theatrical": false,
     "trailer_published": "2026-10-18T10:00:00.000Z",
@@ -968,24 +902,6 @@
         "name": "In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-10-08T08:00:29.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1767346,
-    "title": "Redemption River",
-    "release_date": "2026-10-15",
-    "poster": "https://image.tmdb.org/t/p/w500/dnja8LV61libQbsLO2LSeFZ4bxE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ePApeQuTziXtUx3ClTAwmGb9e0P.jpg",
-    "overview": "Stranded after a rafting accident, a couple on the brink of collapse must come together to escape the unforgiving wilderness.",
-    "theatrical": false,
-    "trailer_published": "2026-10-16T22:00:02.000Z",
-    "videos": [
-      {
-        "key": "_xzyDCV_Sp4",
-        "name": "Redemption River | Official Trailer | Now Streaming | Angel",
-        "type": "Trailer",
-        "published_at": "2026-10-16T22:00:02.000Z"
       }
     ]
   },
@@ -1083,7 +999,7 @@
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-04",
-    "poster": "https://image.tmdb.org/t/p/w500/cIVqxRhzCIJPTAE2RhH9rumvYKi.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -1178,6 +1094,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1798903,
+    "title": "KILL/SAVE",
+    "release_date": "2026-11-17",
+    "poster": "https://image.tmdb.org/t/p/w500/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wxFZkoIejP9gzxrgEpZguyk0D03.jpg",
+    "overview": "In a locked-down megacity where reality is optional, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison \u2014 only to face a truth that challenges the very meaning of salvation and free will.",
+    "theatrical": true,
+    "trailer_published": "2026-10-14T16:00:25.000Z",
+    "videos": [
+      {
+        "key": "J1wMCqWqIbo",
+        "name": "KILL/SAVE \u2014 Official Teaser #2 (2026) | Sci-Fi Action",
+        "type": "Teaser",
+        "published_at": "2026-10-14T16:00:25.000Z"
+      },
+      {
+        "key": "ZexM5lCYVyk",
+        "name": "KILL/SAVE \u2014 Official Teaser (2026) | Sci-Fi Action",
+        "type": "Teaser",
+        "published_at": "2026-10-02T13:33:13.000Z"
       }
     ]
   },
@@ -1401,7 +1341,7 @@
     "id": 1657630,
     "title": "The Awakening",
     "release_date": "2026-11-10",
-    "poster": "https://image.tmdb.org/t/p/w500/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
     "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
     "theatrical": true,
@@ -1568,6 +1508,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-05-27T13:00:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1571955,
+    "title": "Collision Course",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+    "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+    "theatrical": false,
+    "trailer_published": "2026-09-30T13:00:00.000Z",
+    "videos": [
+      {
+        "key": "8hVLhaK619k",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-30T13:00:00.000Z"
       }
     ]
   },
@@ -2370,30 +2328,6 @@
     ]
   },
   {
-    "id": 1318467,
-    "title": "The Last Kiss",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
-    "theatrical": false,
-    "trailer_published": "2026-09-15T20:34:42.000Z",
-    "videos": [
-      {
-        "key": "lAKtuOVkAgU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T19:03:09.000Z"
-      },
-      {
-        "key": "Vgf-eANUdE0",
-        "name": "Watch at Home September 15",
-        "type": "Teaser",
-        "published_at": "2026-09-15T20:34:42.000Z"
-      }
-    ]
-  },
-  {
     "id": 1751701,
     "title": "After Impact",
     "release_date": "2026-09-15",
@@ -3000,6 +2934,42 @@
     ]
   },
   {
+    "id": 1380417,
+    "title": "By Any Means",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
+    "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+    "theatrical": true,
+    "trailer_published": "2026-08-17T22:58:28.000Z",
+    "videos": [
+      {
+        "key": "fvnyrBnUx4E",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-12T14:00:18.000Z"
+      },
+      {
+        "key": "ej8pjisr0Pc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-03T13:00:38.000Z"
+      },
+      {
+        "key": "v2r-T3r2R_o",
+        "name": "This your sign to lock in, by any means.",
+        "type": "Teaser",
+        "published_at": "2026-08-17T22:58:28.000Z"
+      },
+      {
+        "key": "zP7sUzNRzJY",
+        "name": "The system was broken, so the FBI hired the mob to solve a murder by any means.",
+        "type": "Teaser",
+        "published_at": "2026-08-05T17:18:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 1376400,
     "title": "Crawlers",
     "release_date": "2026-10-16",
@@ -3294,24 +3264,6 @@
     ]
   },
   {
-    "id": 1482547,
-    "title": "Zip Wire",
-    "release_date": "2026-08-31",
-    "poster": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yIwdIsM2Nr6EaiWy23mQqxvmoNh.jpg",
-    "overview": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery \u2014 and herself \u2014 before it's too late.",
-    "theatrical": false,
-    "trailer_published": "2026-07-27T08:54:11.000Z",
-    "videos": [
-      {
-        "key": "M9tHmu0wNHM",
-        "name": "UK Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-27T08:54:11.000Z"
-      }
-    ]
-  },
-  {
     "id": 1148365,
     "title": "Matchbox the Movie",
     "release_date": "2026-10-05",
@@ -3510,6 +3462,24 @@
     ]
   },
   {
+    "id": 1792914,
+    "title": "Log 15",
+    "release_date": "2026-10-29",
+    "poster": "https://image.tmdb.org/t/p/w500/6MqBwshl0Lu9a5ImgFbdBX7aA69.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ovd3BtCJo4ycWSwtQXi2U0aYWet.jpg",
+    "overview": "Driven to save her mother from Alzheimer's, a desperate woman documents her radical experiments to unlock the human mind, only to discover the footage she is recording is actively rewriting her own reality.",
+    "theatrical": false,
+    "trailer_published": "2026-06-18T14:32:44.000Z",
+    "videos": [
+      {
+        "key": "XHnl_0yi5vo",
+        "name": "Log15 Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-18T14:32:44.000Z"
+      }
+    ]
+  },
+  {
     "id": 421892,
     "title": "Shrek 5",
     "release_date": "2027-06-30",
@@ -3662,6 +3632,24 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-02-12T09:23:11.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1428295,
+    "title": "Comrade Kalyan",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zsAbkmTkGE3l98Jhvdiy7ybNFo8.jpg",
+    "overview": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+    "theatrical": true,
+    "trailer_published": "2025-10-02T06:36:04.000Z",
+    "videos": [
+      {
+        "key": "KwTUn9PTCAk",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2025-10-02T06:36:04.000Z"
       }
     ]
   },
