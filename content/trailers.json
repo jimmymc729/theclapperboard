@@ -96,6 +96,42 @@
     ]
   },
   {
+    "id": 1260649,
+    "title": "Jumanji: Open World",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
+    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "theatrical": true,
+    "trailer_published": "2026-10-31T10:00:23.000Z",
+    "videos": [
+      {
+        "key": "nIw1O3zvOfE",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T13:00:39.000Z"
+      },
+      {
+        "key": "zhApeaHMvfs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-29T00:59:43.000Z"
+      },
+      {
+        "key": "T3zCAP6Z8gg",
+        "name": "It's easily done",
+        "type": "Teaser",
+        "published_at": "2026-10-31T10:00:23.000Z"
+      },
+      {
+        "key": "BJY2-UurJZs",
+        "name": "One. Last. Game. The final countdown begins.",
+        "type": "Teaser",
+        "published_at": "2026-07-29T01:00:14.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -354,36 +390,6 @@
     ]
   },
   {
-    "id": 1260649,
-    "title": "Jumanji: Open World",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
-    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
-    "theatrical": true,
-    "trailer_published": "2026-10-28T13:00:39.000Z",
-    "videos": [
-      {
-        "key": "nIw1O3zvOfE",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T13:00:39.000Z"
-      },
-      {
-        "key": "zhApeaHMvfs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-29T00:59:43.000Z"
-      },
-      {
-        "key": "BJY2-UurJZs",
-        "name": "One. Last. Game. The final countdown begins.",
-        "type": "Teaser",
-        "published_at": "2026-07-29T01:00:14.000Z"
-      }
-    ]
-  },
-  {
     "id": 1452168,
     "title": "Behemoth!",
     "release_date": "2026-12-04",
@@ -549,7 +555,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/bqAHPSEyRkM4BpkncGFCKjBXf9p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -1407,7 +1413,7 @@
     "id": 1657630,
     "title": "The Awakening",
     "release_date": "2026-11-10",
-    "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
     "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
     "theatrical": true,
@@ -1425,7 +1431,7 @@
     "id": 1507696,
     "title": "Apocalypse Z: New World",
     "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/wgPGAKuojOd3ncsNbxMDuU4uRn0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
     "overview": "The Canary Islands have become Europe\u2019s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
     "theatrical": false,
@@ -2346,30 +2352,6 @@
     ]
   },
   {
-    "id": 961214,
-    "title": "Reawakened Man",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/5SHFK1EoJeYy9jPHWX32LDsMNAG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kiDd05NykJBIoEvJPSG5SOd7qc6.jpg",
-    "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
-    "theatrical": false,
-    "trailer_published": "2026-09-17T00:04:02.000Z",
-    "videos": [
-      {
-        "key": "FU3hfOVkPYI",
-        "name": "Reawakened Man | Official Main Trailer | INTL",
-        "type": "Trailer",
-        "published_at": "2026-09-17T00:04:02.000Z"
-      },
-      {
-        "key": "xYCXTTxsBpA",
-        "name": "Reawakened Man | Official Teaser Trailer | INTL",
-        "type": "Teaser",
-        "published_at": "2026-08-20T01:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1288069,
     "title": "Tenzing",
     "release_date": "2026-10-09",
@@ -2592,6 +2574,24 @@
     ]
   },
   {
+    "id": 1620080,
+    "title": "Less of a Stranger",
+    "release_date": "2026-10-07",
+    "poster": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kKoviQTDH6p9a37CfNoKscxMg4Z.jpg",
+    "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
+    "theatrical": false,
+    "trailer_published": "2026-09-08T07:00:00.000Z",
+    "videos": [
+      {
+        "key": "jx0RiYbSuuc",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-08T07:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1712451,
     "title": "Resident Dead",
     "release_date": "2026-09-04",
@@ -2678,24 +2678,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-23T12:59:06.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437925,
-    "title": "Moulin",
-    "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg",
-    "overview": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Arm\u00e9e Secr\u00e8te.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
-    "theatrical": false,
-    "trailer_published": "2026-09-01T23:50:31.000Z",
-    "videos": [
-      {
-        "key": "nBpFEz3rj_0",
-        "name": "BIFF2026 Trailer | \uc7a5 \ubb3c\ub7ad Moulin | \uc544\uc774\ucf58",
-        "type": "Trailer",
-        "published_at": "2026-09-01T23:50:31.000Z"
       }
     ]
   },
@@ -2812,7 +2794,7 @@
     "title": "Tiny Fugitives",
     "release_date": "2026-09-18",
     "poster": "https://image.tmdb.org/t/p/w500/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/15jKdedj6I13GLWHM9wiyGQe7OX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dWuKeIxbWszZgnxtQYw9vH8mw6h.jpg",
     "overview": "A reckless group of twelve year olds set out on a mission to spend the rest of their lives at sleepaway camp. They'll just have to get past Bob - the camp's deranged, relentless, 50-year-old lifer counselor.",
     "theatrical": true,
     "trailer_published": "2026-08-26T17:11:54.000Z",
@@ -2998,7 +2980,7 @@
     "title": "By Any Means",
     "release_date": "2026-09-04",
     "poster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nw9Q3idNO8EsTPnvr8vBJTpkWGA.jpg",
     "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
     "theatrical": true,
     "trailer_published": "2026-08-17T22:58:28.000Z",
@@ -3590,6 +3572,24 @@
         "name": "Evil Dead Wrath has begun its bloody production.",
         "type": "Teaser",
         "published_at": "2026-02-21T17:00:28.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1735270,
+    "title": "Premada Oorali",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/xscq9uIXNfOmItRzPiYOX6wTfnI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
+    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
+    "theatrical": true,
+    "trailer_published": "2026-04-17T11:53:31.000Z",
+    "videos": [
+      {
+        "key": "271GZatiFG0",
+        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
+        "type": "Teaser",
+        "published_at": "2026-04-17T11:53:31.000Z"
       }
     ]
   },
