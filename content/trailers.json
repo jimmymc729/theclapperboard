@@ -1,5 +1,101 @@
 [
   {
+    "id": 1300968,
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "theatrical": true,
+    "trailer_published": "2026-10-31T18:01:44.000Z",
+    "videos": [
+      {
+        "key": "Dr060OLTodE",
+        "name": "Official Fan Edit Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T13:01:31.000Z"
+      },
+      {
+        "key": "lYXtL5TreOE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-16T13:00:01.000Z"
+      },
+      {
+        "key": "fS35YSjopjE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T13:00:02.000Z"
+      },
+      {
+        "key": "5mrT-BDo5_A",
+        "name": "history is about to begin.",
+        "type": "Teaser",
+        "published_at": "2026-10-31T18:01:44.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400940,
+    "title": "Clayface",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-31T16:30:02.000Z",
+    "videos": [
+      {
+        "key": "f7jlCqdtwdM",
+        "name": "The Plane",
+        "type": "Trailer",
+        "published_at": "2026-10-15T21:39:27.000Z"
+      },
+      {
+        "key": "KCR-rz0YfD4",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:11.000Z"
+      },
+      {
+        "key": "OGO4Mqvo3jI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T16:00:47.000Z"
+      },
+      {
+        "key": "F1jCd_tMEDM",
+        "name": "Anything for her.",
+        "type": "Teaser",
+        "published_at": "2026-10-31T16:30:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1376400,
+    "title": "Crawlers",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+    "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
+    "theatrical": true,
+    "trailer_published": "2026-10-31T15:04:33.000Z",
+    "videos": [
+      {
+        "key": "4DowjB87tRE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T15:00:07.000Z"
+      },
+      {
+        "key": "crt8_rLGs0I",
+        "name": "Live your best life with \u2018Crawlers\u2019.",
+        "type": "Teaser",
+        "published_at": "2026-10-31T15:04:33.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -32,6 +128,24 @@
         "name": "The BAH HUMBUG! Tickets for Ebenezer are on sale NOW",
         "type": "Teaser",
         "published_at": "2026-10-30T18:30:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1813355,
+    "title": "A Story of Derry",
+    "release_date": "2026-10-31",
+    "poster": "https://image.tmdb.org/t/p/w500/q2XCoT6AqBANz0mKmkgVeo4PyRQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+    "theatrical": false,
+    "trailer_published": "2026-10-31T07:51:43.000Z",
+    "videos": [
+      {
+        "key": "iOjzJsHS0M0",
+        "name": "IT's a surprise Halloween treat.",
+        "type": "Teaser",
+        "published_at": "2026-10-31T07:51:43.000Z"
       }
     ]
   },
@@ -72,38 +186,38 @@
     ]
   },
   {
-    "id": 1400940,
-    "title": "Clayface",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "id": 939541,
+    "title": "Christmas at the Kringles",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/oVxkhheRVWSacimUZBuMemQX85E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yZq46gEwwXKzJRemlC0qPPBJmvt.jpg",
+    "overview": "The Severson family move to a suburban neighborhood where their next-door neighbors, the Kringles, celebrate Christmas year-round. But when their son becomes increasingly attached to the unusual family, Mark and Julie begin to suspect that their neighbors aren't quite what they seem.",
     "theatrical": true,
-    "trailer_published": "2026-10-29T20:34:47.000Z",
+    "trailer_published": "2026-10-29T19:46:46.000Z",
     "videos": [
       {
-        "key": "f7jlCqdtwdM",
-        "name": "The Plane",
-        "type": "Trailer",
-        "published_at": "2026-10-15T21:39:27.000Z"
-      },
-      {
-        "key": "KCR-rz0YfD4",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:00:11.000Z"
-      },
-      {
-        "key": "OGO4Mqvo3jI",
+        "key": "IsGccGqcNNE",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-22T16:00:47.000Z"
+        "published_at": "2026-10-08T14:01:12.000Z"
       },
       {
-        "key": "RltKy6ApnBU",
-        "name": "The new face of Halloween.",
+        "key": "zql0pXIpELI",
+        "name": "Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T15:02:48.000Z"
+      },
+      {
+        "key": "fei-haLw0HU",
+        "name": "Final Teaser | Epidemic of JOY",
         "type": "Teaser",
-        "published_at": "2026-10-29T20:34:47.000Z"
+        "published_at": "2026-10-29T19:46:46.000Z"
+      },
+      {
+        "key": "HfyTonB-J8E",
+        "name": ":15 Spot",
+        "type": "Teaser",
+        "published_at": "2026-10-21T18:25:18.000Z"
       }
     ]
   },
@@ -435,7 +549,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bqAHPSEyRkM4BpkncGFCKjBXf9p.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -618,42 +732,6 @@
     ]
   },
   {
-    "id": 1300968,
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "theatrical": true,
-    "trailer_published": "2026-10-22T19:11:13.000Z",
-    "videos": [
-      {
-        "key": "Dr060OLTodE",
-        "name": "Official Fan Edit Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T13:01:31.000Z"
-      },
-      {
-        "key": "lYXtL5TreOE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-16T13:00:01.000Z"
-      },
-      {
-        "key": "fS35YSjopjE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T13:00:02.000Z"
-      },
-      {
-        "key": "dmOtXwQxf8c",
-        "name": "Witness the beginning of the revolution.",
-        "type": "Teaser",
-        "published_at": "2026-10-22T19:11:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
@@ -718,10 +796,10 @@
         "published_at": "2026-07-15T13:00:51.000Z"
       },
       {
-        "key": "6v6WoOs2bcw",
+        "key": "ugEvb0Iqlo8",
         "name": "In UK and Irish Cinemas November",
         "type": "Teaser",
-        "published_at": "2026-10-15T14:40:24.000Z"
+        "published_at": "2026-10-22T10:04:20.000Z"
       }
     ]
   },
@@ -1340,30 +1418,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-08T15:01:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 939541,
-    "title": "Christmas at the Kringles",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/oVxkhheRVWSacimUZBuMemQX85E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yZq46gEwwXKzJRemlC0qPPBJmvt.jpg",
-    "overview": "The Severson family move to a suburban neighborhood where their next-door neighbors, the Kringles, celebrate Christmas year-round. But when their son becomes increasingly attached to the unusual family, Mark and Julie begin to suspect that their neighbors aren't quite what they seem.",
-    "theatrical": true,
-    "trailer_published": "2026-10-08T14:01:12.000Z",
-    "videos": [
-      {
-        "key": "IsGccGqcNNE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-08T14:01:12.000Z"
-      },
-      {
-        "key": "zql0pXIpELI",
-        "name": "Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T15:02:48.000Z"
       }
     ]
   },
@@ -2022,24 +2076,6 @@
     ]
   },
   {
-    "id": 1261763,
-    "title": "Don't Trouble the Trouble",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/A0uqqpeLhGfOsW6muky7xvLd8Qf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
-    "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T10:08:21.000Z",
-    "videos": [
-      {
-        "key": "CyuQsFP1Jww",
-        "name": "Dont Trouble The Trouble - Telugu Trailer | Fahadh Fassil, Ssara | Bhairava | SS Rajamouli | Oct 2nd",
-        "type": "Trailer",
-        "published_at": "2026-09-23T10:08:21.000Z"
-      }
-    ]
-  },
-  {
     "id": 1779385,
     "title": "Pixar Artist Short: One Shot Productions",
     "release_date": "2026-09-22",
@@ -2441,7 +2477,7 @@
       },
       {
         "key": "8gjOXAjeisY",
-        "name": "Trailer",
+        "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-03T16:11:01.000Z"
       }
@@ -2556,42 +2592,6 @@
     ]
   },
   {
-    "id": 1101412,
-    "title": "Fall 2: Deadpoint",
-    "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "theatrical": true,
-    "trailer_published": "2026-09-09T06:57:23.000Z",
-    "videos": [
-      {
-        "key": "Krs0VDIjhmE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-07-29T15:00:03.000Z"
-      },
-      {
-        "key": "Rsztt5qDj_A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-04T15:00:06.000Z"
-      },
-      {
-        "key": "SVdAt0NjTTc",
-        "name": "Only In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-09-09T06:57:23.000Z"
-      },
-      {
-        "key": "mX3NrGbKmIg",
-        "name": "Only In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-09-09T06:57:07.000Z"
-      }
-    ]
-  },
-  {
     "id": 1712451,
     "title": "Resident Dead",
     "release_date": "2026-09-04",
@@ -2678,6 +2678,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-23T12:59:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437925,
+    "title": "Moulin",
+    "release_date": "2026-10-28",
+    "poster": "https://image.tmdb.org/t/p/w500/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg",
+    "overview": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Arm\u00e9e Secr\u00e8te.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
+    "theatrical": false,
+    "trailer_published": "2026-09-01T23:50:31.000Z",
+    "videos": [
+      {
+        "key": "nBpFEz3rj_0",
+        "name": "BIFF2026 Trailer | \uc7a5 \ubb3c\ub7ad Moulin | \uc544\uc774\ucf58",
+        "type": "Trailer",
+        "published_at": "2026-09-01T23:50:31.000Z"
       }
     ]
   },
@@ -3008,24 +3026,6 @@
         "name": "The system was broken, so the FBI hired the mob to solve a murder by any means.",
         "type": "Teaser",
         "published_at": "2026-08-05T17:18:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1376400,
-    "title": "Crawlers",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
-    "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
-    "theatrical": true,
-    "trailer_published": "2026-08-17T15:00:07.000Z",
-    "videos": [
-      {
-        "key": "4DowjB87tRE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T15:00:07.000Z"
       }
     ]
   },
@@ -3639,7 +3639,7 @@
     "id": 1572116,
     "title": "Monster Mia",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/49lw5eVECEY30UIPwsYB78oj7Mh.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rlAFhlAdaUoujDxWRxBCVwM8esY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
     "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
     "theatrical": true,
