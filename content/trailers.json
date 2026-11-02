@@ -1,5 +1,41 @@
 [
   {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-11-02T17:02:13.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "Ht0JPjbyOEg",
+        "name": "Big Twists",
+        "type": "Teaser",
+        "published_at": "2026-11-02T17:02:13.000Z"
+      },
+      {
+        "key": "7p1YR6I1BHM",
+        "name": "Molotov Cocktail",
+        "type": "Teaser",
+        "published_at": "2026-11-01T19:00:04.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -32,6 +68,42 @@
         "name": "An entrance worth answering the door for",
         "type": "Teaser",
         "published_at": "2026-10-31T18:00:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400336,
+    "title": "Focker-in-Law",
+    "release_date": "2026-11-27",
+    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+    "theatrical": true,
+    "trailer_published": "2026-11-01T01:00:32.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "aaUjo1ErFKE",
+        "name": "The circle of trust must be respected",
+        "type": "Teaser",
+        "published_at": "2026-11-01T01:00:32.000Z"
+      },
+      {
+        "key": "T7f6l8AvjZo",
+        "name": "Nothing like some friendly competition",
+        "type": "Teaser",
+        "published_at": "2026-10-29T12:10:45.000Z"
       }
     ]
   },
@@ -189,7 +261,7 @@
     "id": 1813355,
     "title": "A Story of Derry",
     "release_date": "2026-10-31",
-    "poster": "https://image.tmdb.org/t/p/w500/q2XCoT6AqBANz0mKmkgVeo4PyRQ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "theatrical": false,
@@ -240,12 +312,30 @@
     ]
   },
   {
+    "id": 1773374,
+    "title": "Adopting St. Nick",
+    "release_date": "2026-10-31",
+    "poster": "https://image.tmdb.org/t/p/w500/vjia4mDV197Y3alxTK5Gzm8zA65.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uqZYqJxSFga7Nbh6eIS0DScEM6y.jpg",
+    "overview": "A single mother finds unexpected romance while helping her daughter connect with a Santa-like resident at a retirement community.",
+    "theatrical": false,
+    "trailer_published": "2026-10-30T00:02:21.000Z",
+    "videos": [
+      {
+        "key": "PIcEzQK4jwE",
+        "name": "Adopting St. Nick | Sneak Peek | Amy Groening & Michael Rady | Hallmark Channel",
+        "type": "Trailer",
+        "published_at": "2026-10-30T00:02:21.000Z"
+      }
+    ]
+  },
+  {
     "id": 939541,
     "title": "Christmas at the Kringles",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/oVxkhheRVWSacimUZBuMemQX85E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yZq46gEwwXKzJRemlC0qPPBJmvt.jpg",
-    "overview": "The Severson family move to a suburban neighborhood where their next-door neighbors, the Kringles, celebrate Christmas year-round. But when their son becomes increasingly attached to the unusual family, Mark and Julie begin to suspect that their neighbors aren't quite what they seem.",
+    "overview": "After moving to a quiet suburban neighborhood, the Seversons meet the Kringles, a family that celebrates Christmas year-round. When Mark, the father, discovers the Kringles' sinister yuletide intentions, he teams up with a badass Santa in a high-stakes, action-packed fight to save his family.",
     "theatrical": true,
     "trailer_published": "2026-10-29T19:46:46.000Z",
     "videos": [
@@ -276,42 +366,6 @@
     ]
   },
   {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-27",
-    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
-    "theatrical": true,
-    "trailer_published": "2026-10-29T12:10:45.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "T7f6l8AvjZo",
-        "name": "Nothing like some friendly competition",
-        "type": "Teaser",
-        "published_at": "2026-10-29T12:10:45.000Z"
-      },
-      {
-        "key": "Sz0zWCXwgE8",
-        "name": "The Fockers are Back",
-        "type": "Teaser",
-        "published_at": "2026-10-28T12:18:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 1126097,
     "title": "Charlie Harper",
     "release_date": "2026-09-25",
@@ -332,42 +386,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-25T15:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-10-28T17:00:34.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "lInzOLTvx7g",
-        "name": "See It Early",
-        "type": "Teaser",
-        "published_at": "2026-10-28T17:00:34.000Z"
-      },
-      {
-        "key": "KHM_2UeKja4",
-        "name": "Nine Days",
-        "type": "Teaser",
-        "published_at": "2026-10-28T16:01:57.000Z"
       }
     ]
   },
@@ -738,24 +756,6 @@
     ]
   },
   {
-    "id": 1578079,
-    "title": "Dorothy",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
-    "overview": "In rural Tamil Nadu, two inseparable childhood friends navigate a world shaped by caste, violence and toxic masculinity, until a compassionate woman enters their lives and quietly challenges the social order around them.",
-    "theatrical": true,
-    "trailer_published": "2026-10-23T10:30:00.000Z",
-    "videos": [
-      {
-        "key": "jcBG6U5iX8Y",
-        "name": "Official Trailer [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-10-23T10:30:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
@@ -876,6 +876,24 @@
     ]
   },
   {
+    "id": 1802464,
+    "title": "Meethe Mein Kya Hai",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/xTJYIPjyuCbkc7zEtfAFJfVDSV5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5UkQUYXkG4iJH5Ova55lkxDPiCB.jpg",
+    "overview": "A young widower's grief eases at a joyful Diwali reunion \u2014 until his sister's surprise marriage throws the family into chaos.",
+    "theatrical": false,
+    "trailer_published": "2026-10-21T08:30:00.000Z",
+    "videos": [
+      {
+        "key": "Jg8Gz0evaZw",
+        "name": "Meethe Mein Kya Hai | Official Trailer | Ritwik Bhowmik, Ayesha Raza | Netflix India",
+        "type": "Trailer",
+        "published_at": "2026-10-21T08:30:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1465063,
     "title": "Forgotten Island",
     "release_date": "2026-09-25",
@@ -971,7 +989,7 @@
     "release_date": "2026-10-28",
     "poster": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-    "overview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
+    "overview": "A young mechanic fakes an engagement with racing's most scandalous star \u2014 officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything \u2014 including what's already become so much more than just a deal.",
     "theatrical": false,
     "trailer_published": "2026-10-19T13:00:31.000Z",
     "videos": [
@@ -980,6 +998,30 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-19T13:00:31.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1731816,
+    "title": "Kudrat 1968: High Council",
+    "release_date": "2026-10-29",
+    "poster": "https://image.tmdb.org/t/p/w500/mdohHU9ysOhOpPCxYTdlCeS2C4W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mUMMWDv8Ly4wRVF54ZdGETEGuSv.jpg",
+    "overview": "When Abbas returned to KUDRAT, the school was suddenly besieged by authorities following the death of a student, a tragedy the administration had long kept hidden. Tensions between the elite students and the scholarship students reached a breaking point. While Piji was determined to bring down Pa, Abbas and Kuda fought to uphold justice and expose the dark secrets threatening the entire institution.",
+    "theatrical": false,
+    "trailer_published": "2026-10-19T12:00:10.000Z",
+    "videos": [
+      {
+        "key": "wdobl7V79zQ",
+        "name": "KUDRAT 1968: HIGH COUNCIL - OFFICIAL TRAILER | DI PAWAGAM 29 OKTOBER 2026",
+        "type": "Trailer",
+        "published_at": "2026-10-19T12:00:10.000Z"
+      },
+      {
+        "key": "A-hxDLeaWnY",
+        "name": "KUDRAT 1968: HIGH COUNCIL - OFFICIAL TEASER TRAILER | AKAN DATANG DI PAWAGAM",
+        "type": "Teaser",
+        "published_at": "2026-10-15T16:00:09.000Z"
       }
     ]
   },
@@ -1132,7 +1174,7 @@
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-04",
     "poster": "https://image.tmdb.org/t/p/w500/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bkhPaFOiqc9GeLMdf1D44KbozRH.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
     "trailer_published": "2026-10-15T14:00:39.000Z",
@@ -1161,7 +1203,7 @@
     "id": 1595124,
     "title": "Steps",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
     "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
     "theatrical": true,
@@ -1431,7 +1473,7 @@
     "id": 1657630,
     "title": "The Awakening",
     "release_date": "2026-11-10",
-    "poster": "https://image.tmdb.org/t/p/w500/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
     "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
     "theatrical": true,
@@ -1900,7 +1942,7 @@
     "title": "NAZA",
     "release_date": "2026-09-30",
     "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/inju8joDtL7KHtlFEGjFZ2UuqFa.jpg",
     "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
     "theatrical": true,
     "trailer_published": "2026-09-25T14:46:09.000Z",
@@ -1992,6 +2034,30 @@
     ]
   },
   {
+    "id": 1131943,
+    "title": "Madden",
+    "release_date": "2026-11-11",
+    "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T13:10:37.000Z",
+    "videos": [
+      {
+        "key": "xzh7HzLXXpk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:10:37.000Z"
+      },
+      {
+        "key": "KjOL6n0F0T8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-12-26T02:41:22.000Z"
+      }
+    ]
+  },
+  {
     "id": 848700,
     "title": "Minotaur",
     "release_date": "2026-11-20",
@@ -2034,30 +2100,6 @@
     ]
   },
   {
-    "id": 1096228,
-    "title": "Musk",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg",
-    "overview": "An incisive look behind the legend of Elon Musk, the world\u2019s most heralded 'inventor-entrepreneur' who has enormous influence on the world in which we all live.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T20:35:04.000Z",
-    "videos": [
-      {
-        "key": "eY_8SyndC10",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T20:35:04.000Z"
-      },
-      {
-        "key": "oYwso9mF-fA",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-07T21:00:11.000Z"
-      }
-    ]
-  },
-  {
     "id": 1787570,
     "title": "Changed Forever",
     "release_date": "2026-09-27",
@@ -2096,6 +2138,24 @@
         "name": "Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-07-09T12:00:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1261763,
+    "title": "Don't Trouble the Trouble",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
+    "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T10:08:21.000Z",
+    "videos": [
+      {
+        "key": "CyuQsFP1Jww",
+        "name": "Dont Trouble The Trouble - Telugu Trailer | Fahadh Fassil, Ssara | Bhairava | SS Rajamouli | Oct 2nd",
+        "type": "Trailer",
+        "published_at": "2026-09-23T10:08:21.000Z"
       }
     ]
   },
@@ -2163,8 +2223,8 @@
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/8jSyV5i8aFYPiO3c3B9YUu14hN2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/44iyquHYfSInzp7rYYQyRV1Ndtk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
     "trailer_published": "2026-09-21T12:00:00.000Z",
@@ -2272,7 +2332,7 @@
     "title": "La Gradiva",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dZVZkmzHLnobFszwYZ9DybvhUHW.jpg",
     "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
     "theatrical": true,
     "trailer_published": "2026-09-18T23:08:33.000Z",
@@ -2634,6 +2694,24 @@
     ]
   },
   {
+    "id": 1718545,
+    "title": "Phreaker",
+    "release_date": "2026-09-17",
+    "poster": "https://image.tmdb.org/t/p/w500/dO2Za3FASEdNiYe3LqfBlvjHwzo.jpg",
+    "backdrop": "",
+    "overview": "Inspired by true events. Before there were hackers, there were phreakers. A blind teenager joins the early underworld of \"phone freaks\" where he learns to hack his way to money, power, and eventually, a place on the FBI's most wanted list.",
+    "theatrical": false,
+    "trailer_published": "2026-09-04T20:37:31.000Z",
+    "videos": [
+      {
+        "key": "nUTeWniGzxw",
+        "name": "Phreaker (2026) - Movie Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-04T20:37:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1712451,
     "title": "Resident Dead",
     "release_date": "2026-09-04",
@@ -2720,24 +2798,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-23T12:59:06.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437925,
-    "title": "Moulin",
-    "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg",
-    "overview": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Arm\u00e9e Secr\u00e8te.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
-    "theatrical": false,
-    "trailer_published": "2026-09-01T23:50:31.000Z",
-    "videos": [
-      {
-        "key": "nBpFEz3rj_0",
-        "name": "BIFF2026 Trailer | \uc7a5 \ubb3c\ub7ad Moulin | \uc544\uc774\ucf58",
-        "type": "Trailer",
-        "published_at": "2026-09-01T23:50:31.000Z"
       }
     ]
   },
@@ -2850,24 +2910,6 @@
     ]
   },
   {
-    "id": 1513253,
-    "title": "Tiny Fugitives",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dWuKeIxbWszZgnxtQYw9vH8mw6h.jpg",
-    "overview": "A reckless group of twelve year olds set out on a mission to spend the rest of their lives at sleepaway camp. They'll just have to get past Bob - the camp's deranged, relentless, 50-year-old lifer counselor.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T17:11:54.000Z",
-    "videos": [
-      {
-        "key": "C0uuH03Wnks",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T17:11:54.000Z"
-      }
-    ]
-  },
-  {
     "id": 1496696,
     "title": "Breeder",
     "release_date": "2026-10-28",
@@ -2958,30 +3000,6 @@
     ]
   },
   {
-    "id": 1596248,
-    "title": "If I Go Will They Miss Me",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mvAazk3iHE2H6I8bzN56cMz1ZH7.jpg",
-    "overview": "In Watts, California, a 12-year-old boy attempts to connect with his distant father following his incarceration while sensing mysterious visions, from airplanes and Greek gods, that seem to follow him through his everyday world.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T16:40:08.000Z",
-    "videos": [
-      {
-        "key": "aej2y_BBBFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-20T16:40:08.000Z"
-      },
-      {
-        "key": "ziViSCpx1KA",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-08-13T16:18:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1336166,
     "title": "Rolling Loud: The Movie",
     "release_date": "2026-10-02",
@@ -3018,24 +3036,6 @@
     ]
   },
   {
-    "id": 1585239,
-    "title": "Club Kid",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
-    "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T12:07:41.000Z",
-    "videos": [
-      {
-        "key": "guKEdb_iRXw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:07:41.000Z"
-      }
-    ]
-  },
-  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -3050,6 +3050,30 @@
         "name": "Ghost Market, arriving in Spring 2028!",
         "type": "Teaser",
         "published_at": "2026-08-15T03:04:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1522689,
+    "title": "Why Did I Get Married Again?",
+    "release_date": "2026-09-09",
+    "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+    "theatrical": false,
+    "trailer_published": "2026-08-13T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "VylsOZBYxQA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-13T14:00:00.000Z"
+      },
+      {
+        "key": "t_QUYXwkwss",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-09T12:00:00.000Z"
       }
     ]
   },
@@ -3615,7 +3639,7 @@
     "id": 1572116,
     "title": "Monster Mia",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/rlAFhlAdaUoujDxWRxBCVwM8esY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rEIgF9W6OXJiHpM1fXLVVMqQlfF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
     "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
     "theatrical": true,
@@ -3626,24 +3650,6 @@
         "name": "Trailer",
         "type": "Trailer",
         "published_at": "2026-02-12T09:23:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1428295,
-    "title": "Comrade Kalyan",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zsAbkmTkGE3l98Jhvdiy7ybNFo8.jpg",
-    "overview": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-    "theatrical": true,
-    "trailer_published": "2025-10-02T06:36:04.000Z",
-    "videos": [
-      {
-        "key": "KwTUn9PTCAk",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2025-10-02T06:36:04.000Z"
       }
     ]
   },
