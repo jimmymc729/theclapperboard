@@ -1,5 +1,41 @@
 [
   {
+    "id": 1195803,
+    "title": "Wicker",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "theatrical": true,
+    "trailer_published": "2026-11-03T09:55:25.000Z",
+    "videos": [
+      {
+        "key": "kA9NfV4pM_Q",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-20T19:05:34.000Z"
+      },
+      {
+        "key": "UVAki9SGrlg",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:15.000Z"
+      },
+      {
+        "key": "HP0BWBWn14I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:00:01.000Z"
+      },
+      {
+        "key": "IZdMadXCV7E",
+        "name": "The most talked-about film of the year is FINALLY here.",
+        "type": "Teaser",
+        "published_at": "2026-11-03T09:55:25.000Z"
+      }
+    ]
+  },
+  {
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
@@ -32,6 +68,36 @@
         "name": "Molotov Cocktail",
         "type": "Teaser",
         "published_at": "2026-11-01T19:00:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1457866,
+    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/5jiz8gmp2PtPsRxAR1Cm05UzqnL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
+    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+    "theatrical": true,
+    "trailer_published": "2026-11-02T16:15:30.000Z",
+    "videos": [
+      {
+        "key": "RjEZaUBbUvU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-21T12:00:00.000Z"
+      },
+      {
+        "key": "hbU1zLAwj3w",
+        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "type": "Teaser",
+        "published_at": "2026-08-26T20:55:34.000Z"
+      },
+      {
+        "key": "hlOfU1Lv9Pc",
+        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH Official Trailer 2 (2026) Brad Pitt, Netflix",
+        "type": "Trailer",
+        "published_at": "2026-11-02T16:15:30.000Z"
       }
     ]
   },
@@ -276,42 +342,6 @@
     ]
   },
   {
-    "id": 1195803,
-    "title": "Wicker",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-30T07:30:55.000Z",
-    "videos": [
-      {
-        "key": "kA9NfV4pM_Q",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-20T19:05:34.000Z"
-      },
-      {
-        "key": "UVAki9SGrlg",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:15.000Z"
-      },
-      {
-        "key": "HP0BWBWn14I",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-30T14:00:01.000Z"
-      },
-      {
-        "key": "Q0040HMQEME",
-        "name": "Star-studded. Crafted to perfection.",
-        "type": "Teaser",
-        "published_at": "2026-10-30T07:30:55.000Z"
-      }
-    ]
-  },
-  {
     "id": 1773374,
     "title": "Adopting St. Nick",
     "release_date": "2026-10-31",
@@ -362,6 +392,24 @@
         "name": ":15 Spot",
         "type": "Teaser",
         "published_at": "2026-10-21T18:25:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1268053,
+    "title": "Winnie the Pooh: Blood and Honey: The Lost Years",
+    "release_date": "2027-01-21",
+    "poster": "https://image.tmdb.org/t/p/w500/ed7c0fV7atZyGZ031Ci0D61HSnm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cbjEec6ONqBsWKYUymyJp77TJMy.jpg",
+    "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother\u2019s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles\u2019 terrifying show.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T20:00:09.000Z",
+    "videos": [
+      {
+        "key": "RZmT7JiCO-s",
+        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
+        "type": "Trailer",
+        "published_at": "2026-10-28T20:00:09.000Z"
       }
     ]
   },
@@ -591,7 +639,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -940,7 +988,7 @@
     "title": "Sense and Sensibility",
     "release_date": "2026-10-14",
     "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-10-19T16:33:23.000Z",
@@ -1335,7 +1383,7 @@
     "id": 1423191,
     "title": "Resident Evil",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "theatrical": true,
@@ -1436,6 +1484,24 @@
         "name": "Meet the future of friendship.",
         "type": "Teaser",
         "published_at": "2026-08-22T00:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1297467,
+    "title": "The Exorcist: Martyrs",
+    "release_date": "2027-03-12",
+    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
+    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
+    "theatrical": true,
+    "trailer_published": "2026-10-09T22:31:45.000Z",
+    "videos": [
+      {
+        "key": "iIEYfH-jg1Y",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T22:31:45.000Z"
       }
     ]
   },
@@ -1984,7 +2050,7 @@
     "title": "The Only Living Pickpocket in New York",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uyNEBMVB9cqE7VkACf3TicGAVrU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oahXjJ0UxnkJthITntGMrXVXQsJ.jpg",
     "overview": "Harry Lehman is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily cancelled credit cards, and Harry struggles to make ends meet as he cares for his disabled wife, Rosie. When he unwittingly purloins and fences a valuable USB stick, Harry finds himself in a race against time to return the loot or face the rage of a vengeful crime family.",
     "theatrical": true,
     "trailer_published": "2026-09-24T19:05:11.000Z",
@@ -2018,30 +2084,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-24T15:00:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1131943,
-    "title": "Madden",
-    "release_date": "2026-11-11",
-    "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T13:10:37.000Z",
-    "videos": [
-      {
-        "key": "xzh7HzLXXpk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:10:37.000Z"
-      },
-      {
-        "key": "KjOL6n0F0T8",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2025-12-26T02:41:22.000Z"
       }
     ]
   },
@@ -2084,30 +2126,6 @@
         "name": "GREMLINS 3 Official Teaser (2028)",
         "type": "Teaser",
         "published_at": "2026-09-24T00:14:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1096228,
-    "title": "Musk",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg",
-    "overview": "An incisive look behind the legend of Elon Musk, the world\u2019s most heralded 'inventor-entrepreneur' who has enormous influence on the world in which we all live.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T20:35:04.000Z",
-    "videos": [
-      {
-        "key": "eY_8SyndC10",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T20:35:04.000Z"
-      },
-      {
-        "key": "oYwso9mF-fA",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-07T21:00:11.000Z"
       }
     ]
   },
@@ -2228,30 +2246,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-22T14:59:47.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1457866,
-    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/44iyquHYfSInzp7rYYQyRV1Ndtk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
-    "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T12:00:00.000Z",
-    "videos": [
-      {
-        "key": "RjEZaUBbUvU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-21T12:00:00.000Z"
-      },
-      {
-        "key": "hbU1zLAwj3w",
-        "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-        "type": "Teaser",
-        "published_at": "2026-08-26T20:55:34.000Z"
       }
     ]
   },
@@ -2926,7 +2920,7 @@
     "title": "Possible Love",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vJkTGJn9BM4dSStR8XBApTF8e5J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
     "trailer_published": "2026-08-26T23:00:01.000Z",
@@ -2976,6 +2970,24 @@
     ]
   },
   {
+    "id": 1505305,
+    "title": "Immortal",
+    "release_date": "2026-09-04",
+    "poster": "https://image.tmdb.org/t/p/w500/9wGj5f5AAOVZ8nHvEy5SaHlmogH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4akmXHqanJ2r7efr9tyJT08oFMm.jpg",
+    "overview": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
+    "theatrical": false,
+    "trailer_published": "2026-08-26T12:33:38.000Z",
+    "videos": [
+      {
+        "key": "iOMvWcMo8cA",
+        "name": "Immortal - Trailer | GV Prakash | Kayadu Lohar | Sam CS | Mariyappan Chinna | Arunkumar Dhanasekaran",
+        "type": "Trailer",
+        "published_at": "2026-08-26T12:33:38.000Z"
+      }
+    ]
+  },
+  {
     "id": 1477104,
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "release_date": "2026-09-18",
@@ -3008,30 +3020,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-03-18T17:00:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1596248,
-    "title": "If I Go Will They Miss Me",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mvAazk3iHE2H6I8bzN56cMz1ZH7.jpg",
-    "overview": "In Watts, California, a 12-year-old boy attempts to connect with his distant father following his incarceration while sensing mysterious visions, from airplanes and Greek gods, that seem to follow him through his everyday world.",
-    "theatrical": true,
-    "trailer_published": "2026-08-20T16:40:08.000Z",
-    "videos": [
-      {
-        "key": "aej2y_BBBFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-20T16:40:08.000Z"
-      },
-      {
-        "key": "ziViSCpx1KA",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-08-13T16:18:16.000Z"
       }
     ]
   },
@@ -3090,24 +3078,6 @@
     ]
   },
   {
-    "id": 1403836,
-    "title": "The Bluey Movie",
-    "release_date": "2027-08-06",
-    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
-    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
-    "theatrical": true,
-    "trailer_published": "2026-08-15T03:26:36.000Z",
-    "videos": [
-      {
-        "key": "I0YWGgZBiYc",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-15T03:26:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -3146,6 +3116,30 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-09T12:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1556321,
+    "title": "Death Whisperer: Saming the Werebeast",
+    "release_date": "2026-09-29",
+    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
+    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
+    "theatrical": false,
+    "trailer_published": "2026-08-13T09:00:10.000Z",
+    "videos": [
+      {
+        "key": "BP2_TUBOS6U",
+        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
+        "type": "Teaser",
+        "published_at": "2026-08-13T09:00:10.000Z"
+      },
+      {
+        "key": "M_e4IfKbmGo",
+        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
+        "type": "Teaser",
+        "published_at": "2026-07-29T10:00:36.000Z"
       }
     ]
   },
