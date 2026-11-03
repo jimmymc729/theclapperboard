@@ -209,7 +209,7 @@
     "release_date": "2026-12-25",
     "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
-    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us\u2014as Jumanji breaks free of its console, unleashing its chaos into our world.",
     "theatrical": true,
     "trailer_published": "2026-10-31T10:00:23.000Z",
     "videos": [
@@ -575,7 +575,7 @@
     "release_date": "2026-10-01",
     "poster": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5sBnZMT1aJ6cBvehKOzOOLdI6bz.jpg",
-    "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+    "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two.",
     "theatrical": true,
     "trailer_published": "2026-10-27T10:30:00.000Z",
     "videos": [
@@ -756,6 +756,24 @@
     ]
   },
   {
+    "id": 1578079,
+    "title": "Dorothy",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
+    "overview": "In rural Tamil Nadu, two inseparable childhood friends navigate a world shaped by caste, violence and toxic masculinity, until a compassionate woman enters their lives and quietly challenges the social order around them.",
+    "theatrical": true,
+    "trailer_published": "2026-10-23T10:30:00.000Z",
+    "videos": [
+      {
+        "key": "jcBG6U5iX8Y",
+        "name": "Official Trailer [ENG SUB]",
+        "type": "Trailer",
+        "published_at": "2026-10-23T10:30:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
@@ -842,36 +860,6 @@
         "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-10-22T10:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437981,
-    "title": "Coward",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
-    "overview": "Surrounded by brutality but bound by tenderness, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
-    "theatrical": true,
-    "trailer_published": "2026-10-21T20:41:56.000Z",
-    "videos": [
-      {
-        "key": "T1SAZTIZnrQ",
-        "name": "Coward - Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-21T20:41:56.000Z"
-      },
-      {
-        "key": "wF_pSyIW8I0",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-10-21T12:00:29.000Z"
-      },
-      {
-        "key": "zELcqKfRKOI",
-        "name": "COWARD trailer | BFI London Film Festival 2026 \u2013 7-18 October",
-        "type": "Trailer",
-        "published_at": "2026-09-07T08:34:38.000Z"
       }
     ]
   },
@@ -2100,6 +2088,30 @@
     ]
   },
   {
+    "id": 1096228,
+    "title": "Musk",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg",
+    "overview": "An incisive look behind the legend of Elon Musk, the world\u2019s most heralded 'inventor-entrepreneur' who has enormous influence on the world in which we all live.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T20:35:04.000Z",
+    "videos": [
+      {
+        "key": "eY_8SyndC10",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T20:35:04.000Z"
+      },
+      {
+        "key": "oYwso9mF-fA",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-07T21:00:11.000Z"
+      }
+    ]
+  },
+  {
     "id": 1787570,
     "title": "Changed Forever",
     "release_date": "2026-09-27",
@@ -2240,12 +2252,6 @@
         "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
         "type": "Teaser",
         "published_at": "2026-08-26T20:55:34.000Z"
-      },
-      {
-        "key": "ik0drfECnPo",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-09T01:43:08.000Z"
       }
     ]
   },
@@ -2450,6 +2456,30 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-17T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 961214,
+    "title": "Reawakened Man",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/5SHFK1EoJeYy9jPHWX32LDsMNAG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kiDd05NykJBIoEvJPSG5SOd7qc6.jpg",
+    "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
+    "theatrical": false,
+    "trailer_published": "2026-09-17T00:04:02.000Z",
+    "videos": [
+      {
+        "key": "FU3hfOVkPYI",
+        "name": "Reawakened Man | Official Main Trailer | INTL",
+        "type": "Trailer",
+        "published_at": "2026-09-17T00:04:02.000Z"
+      },
+      {
+        "key": "xYCXTTxsBpA",
+        "name": "Reawakened Man | Official Teaser Trailer | INTL",
+        "type": "Teaser",
+        "published_at": "2026-08-20T01:00:16.000Z"
       }
     ]
   },
@@ -2982,20 +3012,26 @@
     ]
   },
   {
-    "id": 1355228,
-    "title": "Gandhari",
-    "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
-    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-    "theatrical": false,
-    "trailer_published": "2026-08-25T10:38:05.000Z",
+    "id": 1596248,
+    "title": "If I Go Will They Miss Me",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mvAazk3iHE2H6I8bzN56cMz1ZH7.jpg",
+    "overview": "In Watts, California, a 12-year-old boy attempts to connect with his distant father following his incarceration while sensing mysterious visions, from airplanes and Greek gods, that seem to follow him through his everyday world.",
+    "theatrical": true,
+    "trailer_published": "2026-08-20T16:40:08.000Z",
     "videos": [
       {
-        "key": "TRyBiPD1bUc",
-        "name": "GANDHARI - OFFICIAL TRAILER",
+        "key": "aej2y_BBBFs",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-25T10:38:05.000Z"
+        "published_at": "2026-08-20T16:40:08.000Z"
+      },
+      {
+        "key": "ziViSCpx1KA",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-08-13T16:18:16.000Z"
       }
     ]
   },
@@ -3032,6 +3068,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-19T14:00:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1585239,
+    "title": "Club Kid",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+    "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T12:07:41.000Z",
+    "videos": [
+      {
+        "key": "guKEdb_iRXw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:07:41.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1403836,
+    "title": "The Bluey Movie",
+    "release_date": "2027-08-06",
+    "poster": "https://image.tmdb.org/t/p/w500/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ccrcF3gENlag93FIquvZoALi7Ia.jpg",
+    "overview": "On an action-packed day, a big surprise changes everything for Bluey and her family.",
+    "theatrical": true,
+    "trailer_published": "2026-08-15T03:26:36.000Z",
+    "videos": [
+      {
+        "key": "I0YWGgZBiYc",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-08-15T03:26:36.000Z"
       }
     ]
   },
@@ -3074,30 +3146,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-09T12:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1556321,
-    "title": "Death Whisperer: Saming the Werebeast",
-    "release_date": "2026-09-29",
-    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
-    "theatrical": false,
-    "trailer_published": "2026-08-13T09:00:10.000Z",
-    "videos": [
-      {
-        "key": "BP2_TUBOS6U",
-        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
-        "type": "Teaser",
-        "published_at": "2026-08-13T09:00:10.000Z"
-      },
-      {
-        "key": "M_e4IfKbmGo",
-        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
-        "type": "Teaser",
-        "published_at": "2026-07-29T10:00:36.000Z"
       }
     ]
   },
@@ -3204,24 +3252,6 @@
     ]
   },
   {
-    "id": 1506560,
-    "title": "Clash of the Thundermans",
-    "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
-    "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans\u2019 future.",
-    "theatrical": false,
-    "trailer_published": "2026-08-04T18:36:23.000Z",
-    "videos": [
-      {
-        "key": "Tui9Jpmyb6Q",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-04T18:36:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1437396,
     "title": "Your Mother Your Mother Your Mother",
     "release_date": "2026-09-25",
@@ -3312,24 +3342,6 @@
     ]
   },
   {
-    "id": 1386315,
-    "title": "The Runner",
-    "release_date": "2026-09-02",
-    "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-    "theatrical": false,
-    "trailer_published": "2026-07-16T15:00:28.000Z",
-    "videos": [
-      {
-        "key": "zz4rsZLcauY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T15:00:28.000Z"
-      }
-    ]
-  },
-  {
     "id": 1294189,
     "title": "The Mongoose",
     "release_date": "2026-10-30",
@@ -3362,24 +3374,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-15T14:49:44.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1137844,
-    "title": "Mayday",
-    "release_date": "2026-09-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-    "theatrical": false,
-    "trailer_published": "2026-07-14T12:59:55.000Z",
-    "videos": [
-      {
-        "key": "om5Un9X720M",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T12:59:55.000Z"
       }
     ]
   },
@@ -3636,20 +3630,20 @@
     ]
   },
   {
-    "id": 1572116,
-    "title": "Monster Mia",
+    "id": 1428295,
+    "title": "Comrade Kalyan",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/rEIgF9W6OXJiHpM1fXLVVMqQlfF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
-    "overview": "12-year-old Mia and her scruffy pet rat Quentin are sent to the mysterious Rotwood Academy after one too many problems at school. The new school gives her the creeps, and Mia needs to figure a way out before the students realize she isn't a monster like them! But the vice principal Van Vlad hosts a particular dislike for humans, and Mia is scared he has seen through her act...",
+    "poster": "https://image.tmdb.org/t/p/w500/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zsAbkmTkGE3l98Jhvdiy7ybNFo8.jpg",
+    "overview": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
     "theatrical": true,
-    "trailer_published": "2026-02-12T09:23:11.000Z",
+    "trailer_published": "2025-10-02T06:36:04.000Z",
     "videos": [
       {
-        "key": "CbqDABPksnw",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-12T09:23:11.000Z"
+        "key": "KwTUn9PTCAk",
+        "name": "Teaser",
+        "type": "Teaser",
+        "published_at": "2025-10-02T06:36:04.000Z"
       }
     ]
   },
