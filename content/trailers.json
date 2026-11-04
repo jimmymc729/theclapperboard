@@ -1,11 +1,47 @@
 [
   {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-11-04T13:20:45.000Z",
+    "videos": [
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "NfleL2f_12o",
+        "name": "October Vs November",
+        "type": "Teaser",
+        "published_at": "2026-11-04T13:20:45.000Z"
+      },
+      {
+        "key": "adkGqtihOOk",
+        "name": "It Is Time",
+        "type": "Teaser",
+        "published_at": "2026-11-04T11:37:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1300926,
     "title": "The Angry Birds Movie 3",
     "release_date": "2026-12-23",
     "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet - surviving fatherhood - while saving the world.",
+    "overview": "Red faces his greatest challenge yet\u2014surviving fatherhood\u2026 while saving the world.",
     "theatrical": true,
     "trailer_published": "2026-11-03T17:04:08.000Z",
     "videos": [
@@ -168,38 +204,26 @@
     ]
   },
   {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "id": 1137888,
+    "title": "The Man with the Bag",
+    "release_date": "2026-12-02",
+    "poster": "https://image.tmdb.org/t/p/w500/s5nq2q5tB9N0nUYsZE9LR1BuQw6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pi8c5iEPamGFaZSnxaMSVSLhMlr.jpg",
+    "overview": "After Santa\u2019s magic bag is stolen, he turns to his naughty list to find Vance, a thief, to help him get it back. Along with his daughter, Santa, and a group of misfits, Vance will have to pull off the greatest heist of his life to save Christmas.",
     "theatrical": true,
-    "trailer_published": "2026-11-01T23:00:32.000Z",
+    "trailer_published": "2026-11-02T13:59:59.000Z",
     "videos": [
       {
-        "key": "l_Ozo1xUgbU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-01T12:59:47.000Z"
-      },
-      {
-        "key": "A7lyvgnDuDE",
+        "key": "PEVkJHLq4rQ",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
+        "published_at": "2026-11-02T13:59:59.000Z"
       },
       {
-        "key": "hruR9KZi2Xg",
-        "name": "Ever been ghosted three times in one night?",
+        "key": "Lyztl-xEeFM",
+        "name": "Official Teaser",
         "type": "Teaser",
-        "published_at": "2026-11-01T23:00:32.000Z"
-      },
-      {
-        "key": "6HyCISKTEMc",
-        "name": "An entrance worth answering the door for",
-        "type": "Teaser",
-        "published_at": "2026-10-31T18:00:13.000Z"
+        "published_at": "2026-09-30T12:59:50.000Z"
       }
     ]
   },
@@ -404,24 +428,6 @@
         "name": "IT's a surprise Halloween treat.",
         "type": "Teaser",
         "published_at": "2026-10-31T07:51:43.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1773374,
-    "title": "Adopting St. Nick",
-    "release_date": "2026-10-31",
-    "poster": "https://image.tmdb.org/t/p/w500/vjia4mDV197Y3alxTK5Gzm8zA65.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uqZYqJxSFga7Nbh6eIS0DScEM6y.jpg",
-    "overview": "A single mother finds unexpected romance while helping her daughter connect with a Santa-like resident at a retirement community.",
-    "theatrical": false,
-    "trailer_published": "2026-10-30T00:02:21.000Z",
-    "videos": [
-      {
-        "key": "PIcEzQK4jwE",
-        "name": "Adopting St. Nick | Sneak Peek | Amy Groening & Michael Rady | Hallmark Channel",
-        "type": "Trailer",
-        "published_at": "2026-10-30T00:02:21.000Z"
       }
     ]
   },
@@ -648,20 +654,32 @@
     ]
   },
   {
-    "id": 1796328,
-    "title": "La toile",
+    "id": 1458300,
+    "title": "The Mosquito Bowl",
     "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/93IYPILeLLbrs3BIQqG4tNJoPgF.jpg",
-    "backdrop": "",
-    "overview": "In an isolated house, a father and his son discover a painting that seems disturbingly alive. When their darkest nightmares begin bleeding into reality, a sinister presence emerges from the canvas, feeding on buried trauma and forgotten memories.",
-    "theatrical": false,
-    "trailer_published": "2026-10-27T18:09:16.000Z",
+    "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+    "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+    "theatrical": true,
+    "trailer_published": "2026-10-27T18:30:00.000Z",
     "videos": [
       {
-        "key": "NaXlGNNPmu0",
-        "name": "OFFICIAL TRAILER | THE CANVAS",
+        "key": "F6YDzPfjH4I",
+        "name": "Red Band Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-27T18:09:16.000Z"
+        "published_at": "2026-10-27T18:30:00.000Z"
+      },
+      {
+        "key": "CPFkLjHfKoc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-12T12:00:00.000Z"
+      },
+      {
+        "key": "-rWIE3-SIOg",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-09T12:00:00.000Z"
       }
     ]
   },
@@ -971,7 +989,7 @@
     "videos": [
       {
         "key": "Jg8Gz0evaZw",
-        "name": "Meethe Mein Kya Hai | Official Trailer | Ritwik Bhowmik, Ayesha Raza | Netflix India",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-21T08:30:00.000Z"
       }
@@ -1536,24 +1554,6 @@
     ]
   },
   {
-    "id": 1297467,
-    "title": "The Exorcist: Martyrs",
-    "release_date": "2027-03-12",
-    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
-    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T22:31:45.000Z",
-    "videos": [
-      {
-        "key": "iIEYfH-jg1Y",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T22:31:45.000Z"
-      }
-    ]
-  },
-  {
     "id": 1512493,
     "title": "LEGO Friends: Heartlake the Musical",
     "release_date": "2026-10-16",
@@ -1780,7 +1780,7 @@
     "title": "Primetime",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
     "theatrical": true,
     "trailer_published": "2026-09-30T13:30:33.000Z",
@@ -2010,24 +2010,6 @@
     ]
   },
   {
-    "id": 1788735,
-    "title": "Family Guy Happy Hell-o-ween",
-    "release_date": "2026-10-05",
-    "poster": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
-    "overview": "After unexpectedly dying and being sent to Hell, Stewie and Brian\u2019s constant nagging leads The Devil to quit, passing control of Hell to them.",
-    "theatrical": false,
-    "trailer_published": "2026-09-25T18:00:28.000Z",
-    "videos": [
-      {
-        "key": "dqCtpH7muKA",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-25T18:00:28.000Z"
-      }
-    ]
-  },
-  {
     "id": 1790284,
     "title": "The Opera!",
     "release_date": "2026-10-02",
@@ -2252,24 +2234,6 @@
         "name": "Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-07-09T12:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1261763,
-    "title": "Don't Trouble the Trouble",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
-    "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T10:08:21.000Z",
-    "videos": [
-      {
-        "key": "CyuQsFP1Jww",
-        "name": "Dont Trouble The Trouble - Telugu Trailer | Fahadh Fassil, Ssara | Bhairava | SS Rajamouli | Oct 2nd",
-        "type": "Trailer",
-        "published_at": "2026-09-23T10:08:21.000Z"
       }
     ]
   },
@@ -2616,6 +2580,30 @@
     ]
   },
   {
+    "id": 1318467,
+    "title": "The Last Kiss",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+    "overview": "A young woman discovers she can foresee the death of anyone she kisses, and when a vision predicts her crush will die in a murder spree targeting her closest friends, she races to uncover the killer before more lives are lost.",
+    "theatrical": false,
+    "trailer_published": "2026-09-15T20:34:42.000Z",
+    "videos": [
+      {
+        "key": "lAKtuOVkAgU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T19:03:09.000Z"
+      },
+      {
+        "key": "Vgf-eANUdE0",
+        "name": "Watch at Home September 15",
+        "type": "Teaser",
+        "published_at": "2026-09-15T20:34:42.000Z"
+      }
+    ]
+  },
+  {
     "id": 1751701,
     "title": "After Impact",
     "release_date": "2026-09-15",
@@ -2928,6 +2916,30 @@
     ]
   },
   {
+    "id": 1596296,
+    "title": "The History of Concrete",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
+    "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
+    "theatrical": true,
+    "trailer_published": "2026-08-27T15:03:13.000Z",
+    "videos": [
+      {
+        "key": "O05arcJjOd0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-27T15:03:13.000Z"
+      },
+      {
+        "key": "hF7vGlfTg6w",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-04T14:04:22.000Z"
+      }
+    ]
+  },
+  {
     "id": 1492640,
     "title": "UNABOMBER",
     "release_date": "2026-09-25",
@@ -3086,6 +3098,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-19T12:07:41.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1447853,
+    "title": "Oasis: Don't Look Back in Anger",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T13:00:07.000Z",
+    "videos": [
+      {
+        "key": "X9sIYLtgc_s",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-18T13:00:07.000Z"
+      },
+      {
+        "key": "drszHQJtR7o",
+        "name": "Official Documentary Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-04T14:59:06.000Z"
       }
     ]
   },
@@ -3352,7 +3388,7 @@
     "title": "The Mongoose",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "theatrical": true,
     "trailer_published": "2026-07-15T17:00:06.000Z",
@@ -3599,7 +3635,7 @@
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
-    "overview": "Sonic the Hedgehog, joined by a new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
+    "overview": "When a new threat emerges from a fractured timeline, Team Sonic find themselves facing an adventure unlike anything they've encountered before. With the Chaos Emeralds scattered across different periods in time,  Sonic\u2014alongside new friends and old\u2014must journey through the past, present, and future to recover them before a dangerous alternate timeline becomes reality.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
     "videos": [
