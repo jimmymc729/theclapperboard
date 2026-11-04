@@ -1,5 +1,71 @@
 [
   {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet - surviving fatherhood - while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-11-03T17:04:08.000Z",
+    "videos": [
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "wbK9N2rT0tI",
+        "name": "Trailer #2 Announcement",
+        "type": "Teaser",
+        "published_at": "2026-11-03T17:04:08.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-11-03T14:00:19.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "w6pdNIgBT0s",
+        "name": "Now's not the time, Curtis.",
+        "type": "Teaser",
+        "published_at": "2026-11-03T14:00:19.000Z"
+      }
+    ]
+  },
+  {
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
@@ -438,42 +504,6 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
-    "theatrical": true,
-    "trailer_published": "2026-10-28T17:00:05.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "LF1NMUUIkNM",
-        "name": "Dark Magic Awaits This Halloween.",
-        "type": "Teaser",
-        "published_at": "2026-10-28T17:00:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1452168,
     "title": "Behemoth!",
     "release_date": "2026-12-04",
@@ -614,6 +644,24 @@
         "name": "Words without power. Watch the final trailer for Dune: Part Three.",
         "type": "Teaser",
         "published_at": "2026-10-27T20:20:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1796328,
+    "title": "La toile",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/93IYPILeLLbrs3BIQqG4tNJoPgF.jpg",
+    "backdrop": "",
+    "overview": "In an isolated house, a father and his son discover a painting that seems disturbingly alive. When their darkest nightmares begin bleeding into reality, a sinister presence emerges from the canvas, feeding on buried trauma and forgotten memories.",
+    "theatrical": false,
+    "trailer_published": "2026-10-27T18:09:16.000Z",
+    "videos": [
+      {
+        "key": "NaXlGNNPmu0",
+        "name": "OFFICIAL TRAILER | THE CANVAS",
+        "type": "Trailer",
+        "published_at": "2026-10-27T18:09:16.000Z"
       }
     ]
   },
@@ -861,7 +909,7 @@
     "id": 1286656,
     "title": "I Play Rocky",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/c0KUggz86JiqSU92eJBgrxmkrL3.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
     "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky\u2014he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
     "theatrical": true,
@@ -1208,9 +1256,9 @@
   {
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
-    "release_date": "2026-11-04",
-    "poster": "https://image.tmdb.org/t/p/w500/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bkhPaFOiqc9GeLMdf1D44KbozRH.jpg",
+    "release_date": "2026-11-05",
+    "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
     "trailer_published": "2026-10-15T14:00:39.000Z",
@@ -1562,6 +1610,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-21T10:50:05.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1792170,
+    "title": "Model Citizen",
+    "release_date": "2026-11-03",
+    "poster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
+    "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can\u2019t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+    "theatrical": false,
+    "trailer_published": "2026-10-07T15:00:02.000Z",
+    "videos": [
+      {
+        "key": "VczwWXoMKL0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-07T15:00:02.000Z"
       }
     ]
   },
@@ -1940,6 +2006,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-29T12:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1788735,
+    "title": "Family Guy Happy Hell-o-ween",
+    "release_date": "2026-10-05",
+    "poster": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+    "overview": "After unexpectedly dying and being sent to Hell, Stewie and Brian\u2019s constant nagging leads The Devil to quit, passing control of Hell to them.",
+    "theatrical": false,
+    "trailer_published": "2026-09-25T18:00:28.000Z",
+    "videos": [
+      {
+        "key": "dqCtpH7muKA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-25T18:00:28.000Z"
       }
     ]
   },
@@ -2592,42 +2676,6 @@
     ]
   },
   {
-    "id": 1554956,
-    "title": "The Incomer",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/nGnI5tT7qstkld94S8m4c68noZt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tcm829PtxDSomGOEXxzO7c0sK3p.jpg",
-    "overview": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
-    "theatrical": true,
-    "trailer_published": "2026-09-12T15:00:16.000Z",
-    "videos": [
-      {
-        "key": "vJ6TSvmnUEE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T15:05:27.000Z"
-      },
-      {
-        "key": "41srA-UCUQQ",
-        "name": "Learn the way of the gull.",
-        "type": "Teaser",
-        "published_at": "2026-09-12T15:00:16.000Z"
-      },
-      {
-        "key": "xu_cNf0o9Ek",
-        "name": "\"One of the best films of the year.\"",
-        "type": "Teaser",
-        "published_at": "2026-09-09T17:00:04.000Z"
-      },
-      {
-        "key": "u93o6hbziEg",
-        "name": "In UK Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-09-04T07:10:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1610703,
     "title": "Infirmary",
     "release_date": "2026-10-02",
@@ -2732,24 +2780,6 @@
         "name": "Phreaker (2026) - Movie Trailer",
         "type": "Trailer",
         "published_at": "2026-09-04T20:37:31.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1712451,
-    "title": "Resident Dead",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
-    "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
-    "theatrical": false,
-    "trailer_published": "2026-09-03T22:19:26.000Z",
-    "videos": [
-      {
-        "key": "M1vupS1Tzfg",
-        "name": "RESIDENT DEAD || Official Trailer || The Asylum Movie Channel",
-        "type": "Trailer",
-        "published_at": "2026-09-03T22:19:26.000Z"
       }
     ]
   },
@@ -2966,24 +2996,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-26T13:59:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1505305,
-    "title": "Immortal",
-    "release_date": "2026-09-04",
-    "poster": "https://image.tmdb.org/t/p/w500/9wGj5f5AAOVZ8nHvEy5SaHlmogH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4akmXHqanJ2r7efr9tyJT08oFMm.jpg",
-    "overview": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
-    "theatrical": false,
-    "trailer_published": "2026-08-26T12:33:38.000Z",
-    "videos": [
-      {
-        "key": "iOMvWcMo8cA",
-        "name": "Immortal - Trailer | GV Prakash | Kayadu Lohar | Sam CS | Mariyappan Chinna | Arunkumar Dhanasekaran",
-        "type": "Trailer",
-        "published_at": "2026-08-26T12:33:38.000Z"
       }
     ]
   },
@@ -3368,30 +3380,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-15T14:49:44.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1300926,
-    "title": "The Angry Birds Movie 3",
-    "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet - surviving fatherhood - while saving the world.",
-    "theatrical": true,
-    "trailer_published": "2026-06-29T13:00:01.000Z",
-    "videos": [
-      {
-        "key": "a9DB_aUMzME",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T13:00:01.000Z"
-      },
-      {
-        "key": "8_nX4qQU1Wc",
-        "name": "NOW IN PRODUCTION!",
-        "type": "Teaser",
-        "published_at": "2024-06-06T14:30:02.000Z"
       }
     ]
   },
