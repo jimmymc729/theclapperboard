@@ -1,5 +1,131 @@
 [
   {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-11-04T20:25:57.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "nEBEwRQR3Ms",
+        "name": "Democracy",
+        "type": "Teaser",
+        "published_at": "2026-11-04T20:25:57.000Z"
+      },
+      {
+        "key": "OhmOm7OZuUg",
+        "name": "In Theaters This Friday",
+        "type": "Teaser",
+        "published_at": "2026-11-04T17:01:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400336,
+    "title": "Focker-in-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+    "theatrical": true,
+    "trailer_published": "2026-11-04T20:00:22.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "NO2ZmajL9oU",
+        "name": "Seated as Fock....",
+        "type": "Teaser",
+        "published_at": "2026-11-04T20:00:22.000Z"
+      },
+      {
+        "key": "aaUjo1ErFKE",
+        "name": "The circle of trust must be respected",
+        "type": "Teaser",
+        "published_at": "2026-11-01T01:00:32.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1519780,
+    "title": "Diary of a Wimpy Kid Christmas: The Getaway",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/q6SR12TFod8m2izUb3b9eUCn7b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9f4GBEZVAqoIxgmmrpfZTsNA5QV.jpg",
+    "overview": "With the stress of the holidays fast approaching, the Heffley family \u2013 to Greg's dismay \u2013 makes a last-minute decision to escape to an all-inclusive island resort for some much-needed rest and relaxation. As hilarious hijinks ensue, the Heffleys soon discover that paradise may not be everything it's cracked up to be.",
+    "theatrical": true,
+    "trailer_published": "2026-11-04T17:05:16.000Z",
+    "videos": [
+      {
+        "key": "O8JuMijNEAU",
+        "name": "Streaming December 4 on Disney+",
+        "type": "Trailer",
+        "published_at": "2026-11-04T17:05:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet\u2014surviving fatherhood\u2026 while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-11-04T13:59:35.000Z",
+    "videos": [
+      {
+        "key": "FjYzudbOzlY",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-11-04T13:59:35.000Z"
+      },
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "wbK9N2rT0tI",
+        "name": "Trailer #2 Announcement",
+        "type": "Teaser",
+        "published_at": "2026-11-03T17:04:08.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -36,40 +162,10 @@
     ]
   },
   {
-    "id": 1300926,
-    "title": "The Angry Birds Movie 3",
-    "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet\u2014surviving fatherhood\u2026 while saving the world.",
-    "theatrical": true,
-    "trailer_published": "2026-11-03T17:04:08.000Z",
-    "videos": [
-      {
-        "key": "a9DB_aUMzME",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T13:00:01.000Z"
-      },
-      {
-        "key": "wbK9N2rT0tI",
-        "name": "Trailer #2 Announcement",
-        "type": "Teaser",
-        "published_at": "2026-11-03T17:04:08.000Z"
-      },
-      {
-        "key": "8_nX4qQU1Wc",
-        "name": "NOW IN PRODUCTION!",
-        "type": "Teaser",
-        "published_at": "2024-06-06T14:30:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
     "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "theatrical": true,
@@ -138,46 +234,10 @@
     ]
   },
   {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-11-02T17:02:13.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "Ht0JPjbyOEg",
-        "name": "Big Twists",
-        "type": "Teaser",
-        "published_at": "2026-11-02T17:02:13.000Z"
-      },
-      {
-        "key": "7p1YR6I1BHM",
-        "name": "Molotov Cocktail",
-        "type": "Teaser",
-        "published_at": "2026-11-01T19:00:04.000Z"
-      }
-    ]
-  },
-  {
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/5jiz8gmp2PtPsRxAR1Cm05UzqnL.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -224,42 +284,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-30T12:59:50.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-27",
-    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
-    "theatrical": true,
-    "trailer_published": "2026-11-01T01:00:32.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "aaUjo1ErFKE",
-        "name": "The circle of trust must be respected",
-        "type": "Teaser",
-        "published_at": "2026-11-01T01:00:32.000Z"
-      },
-      {
-        "key": "T7f6l8AvjZo",
-        "name": "Nothing like some friendly competition",
-        "type": "Teaser",
-        "published_at": "2026-10-29T12:10:45.000Z"
       }
     ]
   },
@@ -356,6 +380,42 @@
         "name": "Live your best life with \u2018Crawlers\u2019.",
         "type": "Teaser",
         "published_at": "2026-10-31T15:04:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1465063,
+    "title": "Forgotten Island",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "theatrical": true,
+    "trailer_published": "2026-10-31T12:02:36.000Z",
+    "videos": [
+      {
+        "key": "PhgY8cOJiQA",
+        "name": "Get Tickets",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:21:37.000Z"
+      },
+      {
+        "key": "f7mFVeWnVLw",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T13:00:21.000Z"
+      },
+      {
+        "key": "a8RHqN93qfo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-25T15:00:10.000Z"
+      },
+      {
+        "key": "5W9P3nKcQcI",
+        "name": "Things I Quote Daily",
+        "type": "Teaser",
+        "published_at": "2026-10-31T12:02:36.000Z"
       }
     ]
   },
@@ -927,7 +987,7 @@
     "id": 1286656,
     "title": "I Play Rocky",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/c0KUggz86JiqSU92eJBgrxmkrL3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
     "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky\u2014he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
     "theatrical": true,
@@ -992,42 +1052,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-21T08:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-10-20T16:28:38.000Z",
-    "videos": [
-      {
-        "key": "PhgY8cOJiQA",
-        "name": "Get Tickets",
-        "type": "Trailer",
-        "published_at": "2026-09-08T15:21:37.000Z"
-      },
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
-      },
-      {
-        "key": "kSvXGYZi4w8",
-        "name": "Watch at Home October 27",
-        "type": "Teaser",
-        "published_at": "2026-10-20T16:28:38.000Z"
       }
     ]
   },
@@ -1276,7 +1300,7 @@
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-05",
     "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
     "trailer_published": "2026-10-15T14:00:39.000Z",
@@ -1442,6 +1466,24 @@
         "name": "REPO! THIS MOVIE: The Anatomy of a Cult (Official Trailer)",
         "type": "Trailer",
         "published_at": "2026-10-13T12:04:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1570488,
+    "title": "A Dog's Perfect Christmas",
+    "release_date": "2026-11-04",
+    "poster": "https://image.tmdb.org/t/p/w500/wCBlcfbVPiK0mc13mgJDEoxRBHB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+    "theatrical": false,
+    "trailer_published": "2026-10-12T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "L18ih13Bf-U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-12T14:00:00.000Z"
       }
     ]
   },
@@ -1637,7 +1679,7 @@
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5KF459N6jOfRV7kV9XV7ZQdCLKK.jpg",
-    "overview": "As America\u2019s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss, Drummer Boy turns the Revolution into a deeply human story of faith, forgiveness, and the belief that no person is born to live in chains or be forgotten.",
+    "overview": "As America\u2019s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family search for freedom. Through battle and loss, music carries hope in a deeply human story of faith and forgiveness.",
     "theatrical": true,
     "trailer_published": "2026-10-06T20:00:06.000Z",
     "videos": [
@@ -1816,7 +1858,7 @@
     "title": "Collision Course",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xDw1Qm73qioQKCOx2VP5w4CBusL.jpg",
     "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
     "theatrical": false,
     "trailer_published": "2026-09-30T13:00:00.000Z",
@@ -2754,24 +2796,6 @@
     ]
   },
   {
-    "id": 1718545,
-    "title": "Phreaker",
-    "release_date": "2026-09-17",
-    "poster": "https://image.tmdb.org/t/p/w500/dO2Za3FASEdNiYe3LqfBlvjHwzo.jpg",
-    "backdrop": "",
-    "overview": "Inspired by true events. Before there were hackers, there were phreakers. A blind teenager joins the early underworld of \"phone freaks\" where he learns to hack his way to money, power, and eventually, a place on the FBI's most wanted list.",
-    "theatrical": false,
-    "trailer_published": "2026-09-04T20:37:31.000Z",
-    "videos": [
-      {
-        "key": "nUTeWniGzxw",
-        "name": "Phreaker (2026) - Movie Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-04T20:37:31.000Z"
-      }
-    ]
-  },
-  {
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
@@ -3098,30 +3122,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-19T12:07:41.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1447853,
-    "title": "Oasis: Don't Look Back in Anger",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-    "theatrical": true,
-    "trailer_published": "2026-08-18T13:00:07.000Z",
-    "videos": [
-      {
-        "key": "X9sIYLtgc_s",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-18T13:00:07.000Z"
-      },
-      {
-        "key": "drszHQJtR7o",
-        "name": "Official Documentary Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-04T14:59:06.000Z"
       }
     ]
   },
