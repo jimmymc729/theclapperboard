@@ -1,5 +1,23 @@
 [
   {
+    "id": 1340208,
+    "title": "Kar\u014dshi",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/uqoAVeeWEixiKe7iiyHYP46yiSs.jpg",
+    "backdrop": "",
+    "overview": "In a near-future Manhattan corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker's death, he exposes the violent system hidden beneath its polished surface.",
+    "theatrical": true,
+    "trailer_published": "2026-11-05T16:01:18.000Z",
+    "videos": [
+      {
+        "key": "jQHoAsDcjVU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-05T16:01:18.000Z"
+      }
+    ]
+  },
+  {
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
@@ -131,7 +149,7 @@
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "overview": "An elderly miser named Sonny O\u2019dell embarks on a supernatural journey across Jaywick after visits from the ghost of his former business partner Sani and the Spirits of Primetime Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-11-04T13:20:45.000Z",
     "videos": [
@@ -230,6 +248,30 @@
         "name": "The most talked-about film of the year is FINALLY here.",
         "type": "Teaser",
         "published_at": "2026-11-03T09:55:25.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1805509,
+    "title": "Last Moon",
+    "release_date": "2026-09-24",
+    "poster": "https://image.tmdb.org/t/p/w500/35FFqxaFBQjMPA6FFWOdIZBjDAm.jpg",
+    "backdrop": "",
+    "overview": "Last Moon is a frontier nightmare set in the Old West. A former bounty hunter living under a new name believes he has buried his violent past on a remote wilderness farm, but when a savage creature emerges from the forest and tears his family apart, he is forced back into the life he tried to escape. As he and his young daughter track the creature through the darkening woods, a horrifying truth emerges: the monster hunting them is not just a wolf, but the living consequence of a massacre he committed years earlier. Blending the mythic brutality of the Western with the primal terror of werewolf folklore, Last Moon is a haunting tale of vengeance, guilt, and sins that refuse to stay buried.",
+    "theatrical": false,
+    "trailer_published": "2026-11-02T16:38:34.000Z",
+    "videos": [
+      {
+        "key": "vgxOk-O4LpE",
+        "name": "LAST MOON | Werewolf Western Horror Teaser (2026)",
+        "type": "Teaser",
+        "published_at": "2026-11-02T16:38:34.000Z"
+      },
+      {
+        "key": "Ni2fuDoVe-I",
+        "name": "LAST MOON | Werewolf Western Horror Teaser",
+        "type": "Teaser",
+        "published_at": "2026-11-02T16:30:52.000Z"
       }
     ]
   },
@@ -478,7 +520,7 @@
     "title": "A Story of Derry",
     "release_date": "2026-10-31",
     "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "theatrical": false,
     "trailer_published": "2026-10-31T07:51:43.000Z",
@@ -934,7 +976,7 @@
     "title": "Dorothy",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wlJmF47IHYwzVpG1qA6aYA0UHj.jpg",
     "overview": "In rural Tamil Nadu, two inseparable childhood friends navigate a world shaped by caste, violence and toxic masculinity, until a compassionate woman enters their lives and quietly challenges the social order around them.",
     "theatrical": true,
     "trailer_published": "2026-10-23T10:30:00.000Z",
@@ -1300,7 +1342,7 @@
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-05",
     "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
     "trailer_published": "2026-10-15T14:00:39.000Z",
@@ -1322,30 +1364,6 @@
         "name": "TRAILER TOMORROW.",
         "type": "Teaser",
         "published_at": "2026-10-14T16:14:59.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1595124,
-    "title": "Steps",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-    "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T13:00:02.000Z",
-    "videos": [
-      {
-        "key": "tNV4i3BqUGY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-15T13:00:02.000Z"
-      },
-      {
-        "key": "Y0RW8EW08Dk",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-09-17T13:00:02.000Z"
       }
     ]
   },
@@ -1858,7 +1876,7 @@
     "title": "Collision Course",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xDw1Qm73qioQKCOx2VP5w4CBusL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
     "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
     "theatrical": false,
     "trailer_published": "2026-09-30T13:00:00.000Z",
@@ -2104,7 +2122,7 @@
     "title": "NAZA",
     "release_date": "2026-09-30",
     "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/inju8joDtL7KHtlFEGjFZ2UuqFa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qkuEfYYOZTW6ymbZMeyJeYQaMd7.jpg",
     "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
     "theatrical": true,
     "trailer_published": "2026-09-25T14:46:09.000Z",
@@ -2340,24 +2358,6 @@
     ]
   },
   {
-    "id": 1772549,
-    "title": "Pehla Pyaar Doosri Baar",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/tGS4b47RIpF3DTAkezHBqfYNTm2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iaVcws1W3owTlRSI8GKcov95UHS.jpg",
-    "overview": "Three friends attend their school reunion and enter into different relationships, discovering the trials, tribulations, allure, and absurdities of love.",
-    "theatrical": true,
-    "trailer_published": "2026-09-21T10:05:10.000Z",
-    "videos": [
-      {
-        "key": "fNIgVJooVUw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-21T10:05:10.000Z"
-      }
-    ]
-  },
-  {
     "id": 1302904,
     "title": "Practical Magic 2",
     "release_date": "2026-09-11",
@@ -2547,7 +2547,7 @@
     "id": 961214,
     "title": "Reawakened Man",
     "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/5SHFK1EoJeYy9jPHWX32LDsMNAG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bHRuUxWm7PsbUWOxh9ipgsulPx8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kiDd05NykJBIoEvJPSG5SOd7qc6.jpg",
     "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
     "theatrical": false,
@@ -2589,7 +2589,7 @@
     "id": 1198654,
     "title": "Bad Apples",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/vGUAC8EOizemwwbWk9JbFrhpVz4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
     "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
     "theatrical": true,
@@ -2618,30 +2618,6 @@
         "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
         "type": "Teaser",
         "published_at": "2026-09-12T16:00:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1318467,
-    "title": "The Last Kiss",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-    "overview": "A young woman discovers she can foresee the death of anyone she kisses, and when a vision predicts her crush will die in a murder spree targeting her closest friends, she races to uncover the killer before more lives are lost.",
-    "theatrical": false,
-    "trailer_published": "2026-09-15T20:34:42.000Z",
-    "videos": [
-      {
-        "key": "lAKtuOVkAgU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T19:03:09.000Z"
-      },
-      {
-        "key": "Vgf-eANUdE0",
-        "name": "Watch at Home September 15",
-        "type": "Teaser",
-        "published_at": "2026-09-15T20:34:42.000Z"
       }
     ]
   },
@@ -2792,6 +2768,24 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-08T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1456196,
+    "title": "Thella Kaagitham",
+    "release_date": "2026-10-01",
+    "poster": "https://image.tmdb.org/t/p/w500/siqVI5n20WTpE5C8u76pqRAHZxW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/om9NZwnnAfFRHDglfMHG7qiojdd.jpg",
+    "overview": "Two teenagers discover first love amid the innocence, mischief, and uncertainties of adolescence. As they fall deeper for each other, the choices they make begin to carry consequences neither is prepared for.",
+    "theatrical": true,
+    "trailer_published": "2026-09-05T06:37:13.000Z",
+    "videos": [
+      {
+        "key": "ZgSE001steA",
+        "name": "Thellakaagitham - Official Teaser | Harsh Roshan | Nakshatra | Ramesh Bandreddi",
+        "type": "Trailer",
+        "published_at": "2026-09-05T06:37:13.000Z"
       }
     ]
   },
@@ -2985,7 +2979,7 @@
     "id": 1483525,
     "title": "Possible Love",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
@@ -3126,6 +3120,30 @@
     ]
   },
   {
+    "id": 1447853,
+    "title": "Oasis: Don't Look Back in Anger",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+    "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+    "theatrical": true,
+    "trailer_published": "2026-08-18T13:00:07.000Z",
+    "videos": [
+      {
+        "key": "X9sIYLtgc_s",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-18T13:00:07.000Z"
+      },
+      {
+        "key": "drszHQJtR7o",
+        "name": "Official Documentary Teaser",
+        "type": "Teaser",
+        "published_at": "2026-07-04T14:59:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -3240,30 +3258,6 @@
     ]
   },
   {
-    "id": 1643135,
-    "title": "Run Hide Fight: Infidels",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xSrMnN6IBmNgQqAbECRPZO8Ielv.jpg",
-    "overview": "When radical Islamist terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
-    "theatrical": false,
-    "trailer_published": "2026-08-06T14:01:29.000Z",
-    "videos": [
-      {
-        "key": "sF4OZoLcCD0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-06T14:01:29.000Z"
-      },
-      {
-        "key": "KoLkuCo0PNc",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-25T13:46:32.000Z"
-      }
-    ]
-  },
-  {
     "id": 1376856,
     "title": "The Paradise",
     "release_date": "2026-09-23",
@@ -3354,41 +3348,11 @@
     ]
   },
   {
-    "id": 1562777,
-    "title": "The Stunt Driver",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
-    "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
-    "theatrical": true,
-    "trailer_published": "2026-07-21T16:15:38.000Z",
-    "videos": [
-      {
-        "key": "dcbRqIuFAiE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T16:15:38.000Z"
-      },
-      {
-        "key": "H65PPLCO0os",
-        "name": "Official Teaser Trailer #2",
-        "type": "Trailer",
-        "published_at": "2026-07-04T13:30:34.000Z"
-      },
-      {
-        "key": "7CrvMbeIIY4",
-        "name": "Official Teaser #1",
-        "type": "Teaser",
-        "published_at": "2026-07-01T13:15:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1294189,
     "title": "The Mongoose",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "theatrical": true,
     "trailer_published": "2026-07-15T17:00:06.000Z",
@@ -3441,8 +3405,8 @@
     "id": 1433583,
     "title": "The Weight",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bsrd6ItRwNrg3DGlUDYrEy1S9C1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
     "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he\u2019ll win his freedom.",
     "theatrical": true,
     "trailer_published": "2026-06-25T13:55:02.000Z",
@@ -3591,7 +3555,7 @@
     "id": 1735270,
     "title": "Premada Oorali",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/xscq9uIXNfOmItRzPiYOX6wTfnI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fL2Tu70IOltH63UUHcy618scbQ0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
     "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
     "theatrical": true,
@@ -3662,6 +3626,24 @@
         "name": "Teaser",
         "type": "Teaser",
         "published_at": "2025-10-02T06:36:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437195,
+    "title": "Livestream from Hell",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+    "overview": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
+    "theatrical": false,
+    "trailer_published": "2025-09-30T05:03:05.000Z",
+    "videos": [
+      {
+        "key": "RvkFXSwqoyE",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-09-30T05:03:05.000Z"
       }
     ]
   },
