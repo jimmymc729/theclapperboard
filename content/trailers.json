@@ -1,5 +1,41 @@
 [
   {
+    "id": 1400336,
+    "title": "Focker-in-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+    "theatrical": true,
+    "trailer_published": "2026-11-06T11:05:40.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "Y4IReZF3oIc",
+        "name": "Don\u2019t underestimate Olivia Jones",
+        "type": "Teaser",
+        "published_at": "2026-11-06T11:05:40.000Z"
+      },
+      {
+        "key": "NO2ZmajL9oU",
+        "name": "Seated as Fock....",
+        "type": "Teaser",
+        "published_at": "2026-11-04T20:00:22.000Z"
+      }
+    ]
+  },
+  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
@@ -54,6 +90,66 @@
     ]
   },
   {
+    "id": 656908,
+    "title": "Ramayana: Rise of a Legend",
+    "release_date": "2026-11-05",
+    "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "theatrical": true,
+    "trailer_published": "2026-11-05T12:01:11.000Z",
+    "videos": [
+      {
+        "key": "AYkPRN874m8",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T14:00:39.000Z"
+      },
+      {
+        "key": "74nF-FWAS6M",
+        "name": "Official Trailer (English)",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:00:16.000Z"
+      },
+      {
+        "key": "D_D1RKoya70",
+        "name": "The wait is over. The legend begins.",
+        "type": "Teaser",
+        "published_at": "2026-11-05T12:01:11.000Z"
+      },
+      {
+        "key": "j2eyq8QltRs",
+        "name": "One week until an epic adventure you\u2019ll remember forever [Dubbed]",
+        "type": "Teaser",
+        "published_at": "2026-10-29T15:00:29.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1124006,
+    "title": "Lords of War",
+    "release_date": "2027-01-22",
+    "poster": "https://image.tmdb.org/t/p/w500/66mWiwl4sbg0mV0sxdR7XV5oUOw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3VzDu5gtVMtXLTnpEj6jPn110LV.jpg",
+    "overview": "Yuri Orlov, the world's most famous arms dealer, discovers that he has a son, Anton who is trying to outdo his father by raising an army of mercenaries to fight in America's Middle Eastern conflicts, triggering a father-son rivalry.",
+    "theatrical": true,
+    "trailer_published": "2026-11-04T23:13:46.000Z",
+    "videos": [
+      {
+        "key": "lCihLS6X4vk",
+        "name": "Lords of War | Trailer Oficial Subtitulado Espa\u00f1ol Latino | Vertical #lordsofwar #nicolascage",
+        "type": "Trailer",
+        "published_at": "2026-11-04T23:13:46.000Z"
+      },
+      {
+        "key": "8Agbs-8qpxs",
+        "name": "LORD OF WAR 2 Official Teaser Trailer (2026) Nicolas Cage",
+        "type": "Teaser",
+        "published_at": "2026-11-04T16:09:23.000Z"
+      }
+    ]
+  },
+  {
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
@@ -86,42 +182,6 @@
         "name": "In Theaters This Friday",
         "type": "Teaser",
         "published_at": "2026-11-04T17:01:13.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
-    "theatrical": true,
-    "trailer_published": "2026-11-04T20:00:22.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "NO2ZmajL9oU",
-        "name": "Seated as Fock....",
-        "type": "Teaser",
-        "published_at": "2026-11-04T20:00:22.000Z"
-      },
-      {
-        "key": "aaUjo1ErFKE",
-        "name": "The circle of trust must be respected",
-        "type": "Teaser",
-        "published_at": "2026-11-01T01:00:32.000Z"
       }
     ]
   },
@@ -185,7 +245,7 @@
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
-    "overview": "An elderly miser named Sonny O\u2019dell embarks on a supernatural journey across Jaywick after visits from the ghost of his former business partner Sani and the Spirits of Primetime Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-11-04T13:20:45.000Z",
     "videos": [
@@ -604,7 +664,7 @@
     "title": "A Story of Derry",
     "release_date": "2026-10-31",
     "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "theatrical": false,
     "trailer_published": "2026-10-31T07:51:43.000Z",
@@ -614,24 +674,6 @@
         "name": "IT's a surprise Halloween treat.",
         "type": "Teaser",
         "published_at": "2026-10-31T07:51:43.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1480665,
-    "title": "The Hunchback: Soul of Paris",
-    "release_date": "2026-11-27",
-    "poster": "https://image.tmdb.org/t/p/w500/ohAHJlZqmvoRBrJ3Cnfx66GSlZp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fILFJb7okqkNdzAataH4CxywwZX.jpg",
-    "overview": "As cholera threatens to ravage the city of Paris in 1830, a hunchback hunted for medical experiments is caught between political turmoil and impossible love.",
-    "theatrical": true,
-    "trailer_published": "2026-10-30T16:45:52.000Z",
-    "videos": [
-      {
-        "key": "fd8SnbJtgUE",
-        "name": "THE HUNCHBACK: Soul of Paris Official Trailer (2026)",
-        "type": "Trailer",
-        "published_at": "2026-10-30T16:45:52.000Z"
       }
     ]
   },
@@ -673,19 +715,19 @@
   },
   {
     "id": 1268053,
-    "title": "Winnie the Pooh: Blood and Honey: The Lost Years",
+    "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
     "release_date": "2027-01-21",
     "poster": "https://image.tmdb.org/t/p/w500/ed7c0fV7atZyGZ031Ci0D61HSnm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cbjEec6ONqBsWKYUymyJp77TJMy.jpg",
     "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother\u2019s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles\u2019 terrifying show.",
     "theatrical": true,
-    "trailer_published": "2026-10-28T20:00:09.000Z",
+    "trailer_published": "2026-10-28T20:33:29.000Z",
     "videos": [
       {
-        "key": "RZmT7JiCO-s",
-        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
+        "key": "swcW56xOU3o",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-28T20:00:09.000Z"
+        "published_at": "2026-10-28T20:33:29.000Z"
       }
     ]
   },
@@ -789,7 +831,7 @@
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nhbgwTVrx9YgAZWJXu0Etc0OJ76.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
@@ -904,7 +946,7 @@
     "title": "Ali G: Who Iz I?",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h7gas4rrcaSitLgF2ODry3Wz9KZ.jpg",
     "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory\u2026 but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
     "theatrical": true,
     "trailer_published": "2026-10-23T16:22:34.000Z",
@@ -968,24 +1010,6 @@
         "name": "don't hold your breath",
         "type": "Teaser",
         "published_at": "2026-10-23T16:00:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1578079,
-    "title": "Dorothy",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wlJmF47IHYwzVpG1qA6aYA0UHj.jpg",
-    "overview": "In rural Tamil Nadu, two inseparable childhood friends navigate a world shaped by caste, violence and toxic masculinity, until a compassionate woman enters their lives and quietly challenges the social order around them.",
-    "theatrical": true,
-    "trailer_published": "2026-10-23T10:30:00.000Z",
-    "videos": [
-      {
-        "key": "jcBG6U5iX8Y",
-        "name": "Official Trailer [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-10-23T10:30:00.000Z"
       }
     ]
   },
@@ -1284,36 +1308,6 @@
     ]
   },
   {
-    "id": 656908,
-    "title": "Ramayana: Rise of a Legend",
-    "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T14:00:39.000Z",
-    "videos": [
-      {
-        "key": "AYkPRN874m8",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-15T14:00:39.000Z"
-      },
-      {
-        "key": "74nF-FWAS6M",
-        "name": "Official Trailer (English)",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:00:16.000Z"
-      },
-      {
-        "key": "I6WuD0p7XVU",
-        "name": "TRAILER TOMORROW.",
-        "type": "Teaser",
-        "published_at": "2026-10-14T16:14:59.000Z"
-      }
-    ]
-  },
-  {
     "id": 1595124,
     "title": "Steps",
     "release_date": "2026-11-20",
@@ -1584,24 +1578,6 @@
     ]
   },
   {
-    "id": 1297467,
-    "title": "The Exorcist: Martyrs",
-    "release_date": "2027-03-12",
-    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
-    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T22:31:45.000Z",
-    "videos": [
-      {
-        "key": "iIEYfH-jg1Y",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T22:31:45.000Z"
-      }
-    ]
-  },
-  {
     "id": 1512493,
     "title": "LEGO Friends: Heartlake the Musical",
     "release_date": "2026-10-16",
@@ -1676,6 +1652,42 @@
         "name": "\u0e41\u0e01\u0e4a\u0e07\u0e42\u0e2d\u0e40\u0e27\u0e2d\u0e23\u0e4c | \u0e15\u0e31\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23 | Netflix",
         "type": "Trailer",
         "published_at": "2026-10-08T05:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1241478,
+    "title": "Jimmy",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/c3fWnsg5VEP5EhYZ4oY2NpFrrU1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2q3oieEIadF90wOtm9WGX5vrqUR.jpg",
+    "overview": "A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.",
+    "theatrical": true,
+    "trailer_published": "2026-10-08T03:12:29.000Z",
+    "videos": [
+      {
+        "key": "4nrB_T3F53Y",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-08T03:12:29.000Z"
+      },
+      {
+        "key": "EURriesRel0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-20T13:00:00.000Z"
+      },
+      {
+        "key": "56hqQ2_s2c4",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2025-12-17T14:07:18.000Z"
+      },
+      {
+        "key": "95lTzSbu1xQ",
+        "name": "Service Over Stardom",
+        "type": "Teaser",
+        "published_at": "2026-07-01T13:13:08.000Z"
       }
     ]
   },
@@ -2602,7 +2614,7 @@
     "title": "Tenzing",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
     "overview": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
     "theatrical": true,
     "trailer_published": "2026-09-16T14:59:49.000Z",
@@ -3028,7 +3040,7 @@
     "title": "Possible Love",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
     "trailer_published": "2026-08-26T23:00:01.000Z",
@@ -3288,6 +3300,36 @@
     ]
   },
   {
+    "id": 1379486,
+    "title": "Victorian Psycho",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg",
+    "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be\u2014but the truth may be far more dangerous than they imagine.",
+    "theatrical": true,
+    "trailer_published": "2026-07-30T14:33:38.000Z",
+    "videos": [
+      {
+        "key": "sDiFol_2j2I",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-30T14:33:38.000Z"
+      },
+      {
+        "key": "eLtzPZvvJRs",
+        "name": "Teaser 4K",
+        "type": "Teaser",
+        "published_at": "2026-05-21T20:20:54.000Z"
+      },
+      {
+        "key": "nIRsEH9OAUk",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-05-21T12:01:22.000Z"
+      }
+    ]
+  },
+  {
     "id": 621304,
     "title": "Children of Blood and Bone",
     "release_date": "2027-01-15",
@@ -3328,7 +3370,7 @@
     "title": "The Mongoose",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "theatrical": true,
     "trailer_published": "2026-07-15T17:00:06.000Z",
