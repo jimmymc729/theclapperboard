@@ -7,7 +7,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
     "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
     "theatrical": true,
-    "trailer_published": "2026-11-06T19:58:57.000Z",
+    "trailer_published": "2026-11-07T18:01:08.000Z",
     "videos": [
       {
         "key": "kqxuamKxRTo",
@@ -22,16 +22,16 @@
         "published_at": "2026-03-19T13:00:19.000Z"
       },
       {
+        "key": "aSDmmXWGyM0",
+        "name": "Now Playing in Theaters",
+        "type": "Teaser",
+        "published_at": "2026-11-07T18:01:08.000Z"
+      },
+      {
         "key": "O2dkL1TxG9M",
         "name": "Now Playing in Theaters",
         "type": "Teaser",
         "published_at": "2026-11-06T19:58:57.000Z"
-      },
-      {
-        "key": "Zr1_Iwi4JEE",
-        "name": "Now Playing",
-        "type": "Teaser",
-        "published_at": "2026-11-06T17:01:29.000Z"
       }
     ]
   },
@@ -105,8 +105,8 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-05T18:11:06.000Z",
@@ -195,7 +195,7 @@
     "id": 656908,
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
@@ -320,9 +320,9 @@
   {
     "id": 1503762,
     "title": "Sense and Sensibility",
-    "release_date": "2026-10-14",
+    "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "theatrical": true,
     "trailer_published": "2026-11-03T20:21:29.000Z",
@@ -825,7 +825,7 @@
     "id": 1538497,
     "title": "Hexed",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/nhbgwTVrx9YgAZWJXu0Etc0OJ76.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
@@ -1689,7 +1689,7 @@
     "id": 1241478,
     "title": "Jimmy",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/c3fWnsg5VEP5EhYZ4oY2NpFrrU1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/xcMiTqj4kvSnUHhSLZ1WUvI9rzH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2q3oieEIadF90wOtm9WGX5vrqUR.jpg",
     "overview": "A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.",
     "theatrical": true,
@@ -2964,6 +2964,24 @@
     ]
   },
   {
+    "id": 1532997,
+    "title": "Dead Howling",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/i1vpLPnHVAZq1CyJlpVS8YI7a93.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bL2mZNrVdeNNOICyuFfPJq7YA4s.jpg",
+    "overview": "A werewolf hunts zombies after losing his family. He meets two humans seeking sanctuary and joins their quest, protecting them with his powers. Their journey grows perilous as zombies start evolving.",
+    "theatrical": false,
+    "trailer_published": "2026-09-01T10:09:28.000Z",
+    "videos": [
+      {
+        "key": "vtq4FIrKuFo",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-01T10:09:28.000Z"
+      }
+    ]
+  },
+  {
     "id": 1458857,
     "title": "Doing Life",
     "release_date": "2026-10-02",
@@ -3146,24 +3164,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-19T23:15:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1759875,
-    "title": "The Militia",
-    "release_date": "2026-09-08",
-    "poster": "https://image.tmdb.org/t/p/w500/bBAeq5GAt6QKUL5eS0UalflLysH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
-    "overview": "Daniel Pierce dreams of joining the local Militia alongside his father once he turns eighteen, but when his Dad becomes the target of the local Sheriff, Daniel and his friends form their own militia in a troubled effort to save him.",
-    "theatrical": false,
-    "trailer_published": "2026-08-19T14:00:06.000Z",
-    "videos": [
-      {
-        "key": "xH6J4dVgtPw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T14:00:06.000Z"
       }
     ]
   },
