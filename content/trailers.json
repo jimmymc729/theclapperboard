@@ -4,7 +4,7 @@
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
     "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
     "theatrical": true,
     "trailer_published": "2026-11-07T18:01:08.000Z",
@@ -70,7 +70,7 @@
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
     "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
     "theatrical": true,
     "trailer_published": "2026-11-06T11:05:40.000Z",
@@ -105,8 +105,8 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-05T18:11:06.000Z",
@@ -444,6 +444,24 @@
     ]
   },
   {
+    "id": 1600653,
+    "title": "The 12 Dates of Christmas",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
+    "overview": "Christina Walker, a successful shop owner who has devoted her energy to her career at the expense of her dating life, goes on 12 dates in the 12 weeks leading up to Christmas hoping to find Mr. Right.",
+    "theatrical": false,
+    "trailer_published": "2026-11-02T20:02:43.000Z",
+    "videos": [
+      {
+        "key": "AGFqDK6CT0U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-02T20:02:43.000Z"
+      }
+    ]
+  },
+  {
     "id": 1137888,
     "title": "The Man with the Bag",
     "release_date": "2026-12-02",
@@ -658,7 +676,7 @@
     "title": "A Story of Derry",
     "release_date": "2026-10-31",
     "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "theatrical": false,
     "trailer_published": "2026-10-31T07:51:43.000Z",
@@ -2002,7 +2020,7 @@
     "title": "Angel and the Badman",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qsXgcngz1gH7kRzJfzxU4gCktDn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hULWeQoEJUhiZ6NlANxsLoMJJ5p.jpg",
     "overview": "A wounded outlaw finds unexpected mercy in the care of a rancher's daughter. The hope of love pulls him toward a different life until the law, and his violent past, close in on his new home. Now he must choose the kind of man he'll become.",
     "theatrical": true,
     "trailer_published": "2026-09-29T16:00:07.000Z",
@@ -2059,9 +2077,9 @@
   },
   {
     "id": 1422041,
-    "title": "LA BOLA NEGRA",
+    "title": "La Bola Negra",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "theatrical": true,
@@ -2154,24 +2172,6 @@
     ]
   },
   {
-    "id": 1755291,
-    "title": "NAZA",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qkuEfYYOZTW6ymbZMeyJeYQaMd7.jpg",
-    "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T14:46:09.000Z",
-    "videos": [
-      {
-        "key": "40KW6knYMo4",
-        "name": "Exclusive Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-25T14:46:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1425472,
     "title": "The Rescue",
     "release_date": "2027-01-29",
@@ -2250,6 +2250,30 @@
     ]
   },
   {
+    "id": 1381221,
+    "title": "Misty Green",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+    "overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T13:00:23.000Z",
+    "videos": [
+      {
+        "key": "5SohUK9E_eo",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:00:23.000Z"
+      },
+      {
+        "key": "ACaWuqeLpSk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-22T13:00:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 848700,
     "title": "Minotaur",
     "release_date": "2026-11-20",
@@ -2312,24 +2336,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-07T21:00:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1787570,
-    "title": "Changed Forever",
-    "release_date": "2026-09-27",
-    "poster": "https://image.tmdb.org/t/p/w500/vPZG3dtUAqex4FaY9kBnsKxAXTF.jpg",
-    "backdrop": "",
-    "overview": "CHANGED FOREVER tells the raw and inspiring true story of Alexis, a woman consumed by the darkness of addiction, teetering on the brink of self-destruction. Her life is a whirlwind of bad choices and devastating consequences, leaving her isolated and hopeless. Just when she believes all is lost, a flicker of faith ignites within her. Driven by desperation, her unwavering faith culminates in a profound, life-altering encounter with God, an experience that shatters her old life and rebuilds her from the ground up. CHANGED FOREVER follows Alexis's arduous journey to sobriety, healing, and ultimately, redemption. More than just a story of overcoming addiction, CHANGED FOREVER is a testament to the transformative power of faith and prayer, offering a beacon of hope to anyone struggling to find their own new beginning.",
-    "theatrical": true,
-    "trailer_published": "2026-09-23T19:32:15.000Z",
-    "videos": [
-      {
-        "key": "lKxW7DU5Wyc",
-        "name": "CHANGED FOREVER | Official Trailer | JC Films Real Story",
-        "type": "Trailer",
-        "published_at": "2026-09-23T19:32:15.000Z"
       }
     ]
   },
@@ -2404,7 +2410,7 @@
     "title": "Paper Tiger",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1VhgzeA0tBbd7GtAw1d2nL3UUBk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg",
     "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "theatrical": true,
     "trailer_published": "2026-09-22T16:00:25.000Z",
@@ -2534,24 +2540,6 @@
         "name": "From the producers of  \u201cThe Last Kumite\u201d and screenwriter of  \u201cNo Retreat, No Surrender\u201d",
         "type": "Teaser",
         "published_at": "2026-09-14T15:00:31.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1487317,
-    "title": "Therapy Done Right",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
-    "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
-    "theatrical": false,
-    "trailer_published": "2026-09-18T13:00:00.000Z",
-    "videos": [
-      {
-        "key": "DgZQwmjdcp8",
-        "name": "Lo dejamos ac\u00e1 | Tr\u00e1iler oficial | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-09-18T13:00:00.000Z"
       }
     ]
   },
@@ -3078,24 +3066,6 @@
     ]
   },
   {
-    "id": 1496696,
-    "title": "Breeder",
-    "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
-    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T16:30:01.000Z",
-    "videos": [
-      {
-        "key": "9MeILB0M274",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T16:30:01.000Z"
-      }
-    ]
-  },
-  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -3408,6 +3378,30 @@
     ]
   },
   {
+    "id": 1567149,
+    "title": "Kamen Rider Kabuto 20th: \u200b\u200bThe One Who Inherits the Heavens",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/5LBfnGFPXn5hUmywY7L4jDTEi9E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A9D1tp0USj38oBIFk32P3YVouo3.jpg",
+    "overview": "20 years after the events of the series, humans and Worms are walking towards the path of coexistence. However, ZECT is secretly developing a new Masked Rider System. Yui Kagami, the son of Arata Kagami/Kamen Rider Gatack is qualified to use the new system. Arata Kagami also investigates a ZECT conspiracy all by himself, but a shadow of an unexpected person appears before him...!",
+    "theatrical": false,
+    "trailer_published": "2026-07-10T02:00:26.000Z",
+    "videos": [
+      {
+        "key": "Dzi6MrhZH2w",
+        "name": "Kamen Rider Kabuto 20th Anniversary: The One Who Inherits the Heavens - 60-Second Teaser",
+        "type": "Trailer",
+        "published_at": "2026-07-10T02:00:26.000Z"
+      },
+      {
+        "key": "MUv5YoXHT08",
+        "name": "\"Kamen Rider Kabuto 20th Anniversary: \u200b\u200bThe One Who Inherits the Heavens\" Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-03-23T02:14:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 1618200,
     "title": "The Dark Heaven",
     "release_date": "2026-09-18",
@@ -3632,6 +3626,24 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1733243,
+    "title": "Sight & Sound Presents: JOSHUA\u2014Live!",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/tAJJBIUQyXFSFs0JdwHx2VnUikL.jpg",
+    "backdrop": "",
+    "overview": "Journey alongside the people of Israel as they navigate their new-found freedom in an unforgiving wilderness. When Joshua is called to replace Moses as their faithful leader, tensions mount in the midst of dwindling supplies and approaching armies. With one last fortified city standing between the Israelites and the Promised Land, unexpected help emerges from behind enemy lines and Joshua's trust in God's plan is put to the ultimate test.  Filmed in front of a live audience, this special event invites you to experience one of the most redemptive stories of the Bible come to life like never before!",
+    "theatrical": true,
+    "trailer_published": "2026-01-23T17:30:53.000Z",
+    "videos": [
+      {
+        "key": "G2UnTTQGh58",
+        "name": "JOSHUA | Premiering 2026 in Lancaster, PA  | Sight & Sound Theatres\u00ae",
+        "type": "Teaser",
+        "published_at": "2026-01-23T17:30:53.000Z"
       }
     ]
   },
