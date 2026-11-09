@@ -1,5 +1,29 @@
 [
   {
+    "id": 1480503,
+    "title": "CoComelon: The Movie",
+    "release_date": "2027-02-19",
+    "poster": "https://image.tmdb.org/t/p/w500/hLkIFdfDq0LuHDfRUzSU2DRiPW4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
+    "overview": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
+    "theatrical": true,
+    "trailer_published": "2026-11-09T16:00:33.000Z",
+    "videos": [
+      {
+        "key": "HGZZJClFIa0",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-08-06T15:00:21.000Z"
+      },
+      {
+        "key": "JciwN7x6mB8",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-09T16:00:33.000Z"
+      }
+    ]
+  },
+  {
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
@@ -1134,6 +1158,36 @@
     ]
   },
   {
+    "id": 1437981,
+    "title": "Coward",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
+    "overview": "Surrounded by brutality but bound by a tender intimacy, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
+    "theatrical": true,
+    "trailer_published": "2026-10-21T20:41:56.000Z",
+    "videos": [
+      {
+        "key": "T1SAZTIZnrQ",
+        "name": "Coward - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-21T20:41:56.000Z"
+      },
+      {
+        "key": "wF_pSyIW8I0",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-21T12:00:29.000Z"
+      },
+      {
+        "key": "zELcqKfRKOI",
+        "name": "COWARD trailer | BFI London Film Festival 2026 \u2013 7-18 October",
+        "type": "Trailer",
+        "published_at": "2026-09-07T08:34:38.000Z"
+      }
+    ]
+  },
+  {
     "id": 1802464,
     "title": "Meethe Mein Kya Hai",
     "release_date": "2026-10-30",
@@ -1696,6 +1750,12 @@
         "published_at": "2026-10-08T13:52:55.000Z"
       },
       {
+        "key": "ZOSw6sx43fA",
+        "name": "Apocalypse Z: The Beginning of the End (2024) | English",
+        "type": "Trailer",
+        "published_at": "2024-10-16T02:00:21.000Z"
+      },
+      {
         "key": "_SGPFqySL6c",
         "name": "Official Teaser",
         "type": "Teaser",
@@ -1772,30 +1832,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-07T15:00:02.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1599230,
-    "title": "Elsinore",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
-    "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-07T09:00:05.000Z",
-    "videos": [
-      {
-        "key": "TpNEh5vvAns",
-        "name": "International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-07T09:00:05.000Z"
-      },
-      {
-        "key": "SzopCeFAWF0",
-        "name": "US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-28T15:00:01.000Z"
       }
     ]
   },
@@ -2190,6 +2226,24 @@
     ]
   },
   {
+    "id": 1755291,
+    "title": "NAZA",
+    "release_date": "2026-09-30",
+    "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qkuEfYYOZTW6ymbZMeyJeYQaMd7.jpg",
+    "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T14:46:09.000Z",
+    "videos": [
+      {
+        "key": "40KW6knYMo4",
+        "name": "Exclusive Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-25T14:46:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1425472,
     "title": "The Rescue",
     "release_date": "2027-01-29",
@@ -2526,24 +2580,6 @@
     ]
   },
   {
-    "id": 1487317,
-    "title": "Therapy Done Right",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
-    "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
-    "theatrical": false,
-    "trailer_published": "2026-09-18T13:00:00.000Z",
-    "videos": [
-      {
-        "key": "DgZQwmjdcp8",
-        "name": "Lo dejamos ac\u00e1 | Tr\u00e1iler oficial | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-09-18T13:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1437511,
     "title": "How to Rob a Bank",
     "release_date": "2026-11-13",
@@ -2826,24 +2862,6 @@
     ]
   },
   {
-    "id": 1456196,
-    "title": "Thella Kaagitham",
-    "release_date": "2026-10-01",
-    "poster": "https://image.tmdb.org/t/p/w500/siqVI5n20WTpE5C8u76pqRAHZxW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/om9NZwnnAfFRHDglfMHG7qiojdd.jpg",
-    "overview": "Two teenagers discover first love amid the innocence, mischief, and uncertainties of adolescence. As they fall deeper for each other, the choices they make begin to carry consequences neither is prepared for.",
-    "theatrical": true,
-    "trailer_published": "2026-09-05T06:37:13.000Z",
-    "videos": [
-      {
-        "key": "ZgSE001steA",
-        "name": "Thellakaagitham - Official Teaser | Harsh Roshan | Nakshatra | Ramesh Bandreddi",
-        "type": "Trailer",
-        "published_at": "2026-09-05T06:37:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
@@ -3053,7 +3071,7 @@
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+    "overview": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning with the fallout from Ho Seok\u2019s firing from his factory job after a violently suppressed labor union strike. The well-off Lee Ye Ji, a documentary filmmaker, with her businessman husband, Sang-woo, has decided to make a movie about job layoffs and wants to make Mi-Ok and Ho-Seok her main camera subjects.",
     "theatrical": true,
     "trailer_published": "2026-08-26T23:00:01.000Z",
     "videos": [
@@ -3156,6 +3174,24 @@
     ]
   },
   {
+    "id": 1049064,
+    "title": "Mahendragiri Vaaraahi",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qfZSKbfit41qcjBOvUDWV2v9WEz.jpg",
+    "overview": "Siddharth, an atheist and skeptic, is drawn into a mysterious journey surrounding the ancient Varahi temple at Mahendragiri. As he uncovers secrets connected to the sacred site, he is forced to confront forces beyond his understanding, challenging his beliefs and changing his perception of faith, destiny, and the supernatural.",
+    "theatrical": false,
+    "trailer_published": "2026-08-15T13:37:48.000Z",
+    "videos": [
+      {
+        "key": "LaT_k0FSg0c",
+        "name": "Mahendragiri Varahi - Teaser | Sumanth | Meenakshi Goswami | Aishwarya Rajesh | Anup Rubens",
+        "type": "Trailer",
+        "published_at": "2026-08-15T13:37:48.000Z"
+      }
+    ]
+  },
+  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -3170,24 +3206,6 @@
         "name": "Ghost Market, arriving in Spring 2028!",
         "type": "Teaser",
         "published_at": "2026-08-15T03:04:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1480503,
-    "title": "CoComelon: The Movie",
-    "release_date": "2027-02-19",
-    "poster": "https://image.tmdb.org/t/p/w500/dDYSKF9VWmcgOy2sruIJkHs5DDG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
-    "overview": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T15:00:21.000Z",
-    "videos": [
-      {
-        "key": "HGZZJClFIa0",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-08-06T15:00:21.000Z"
       }
     ]
   },
@@ -3222,11 +3240,29 @@
     ]
   },
   {
+    "id": 1743695,
+    "title": "El Club del Pie Izquierdo",
+    "release_date": "2026-09-10",
+    "poster": "https://image.tmdb.org/t/p/w500/v6b6cclN83KM8AM6NLSphumlstO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6dDCdPSp7ULB1zYimKDE9D48795.jpg",
+    "overview": "A forty-year-old office worker of Mexico City, realizes that he has been trapped in a car and a desk for years. He finds a dance academy, enrolls in reggaeton classes with strict teacher Paulina, and finds renewal. Remake of the Japanese film 'Shall We Dance?'",
+    "theatrical": false,
+    "trailer_published": "2026-08-04T16:13:23.000Z",
+    "videos": [
+      {
+        "key": "aun-sucm0rw",
+        "name": "El Club del Pie Izquierdo l Tr\u00e1iler Oficial",
+        "type": "Trailer",
+        "published_at": "2026-08-04T16:13:23.000Z"
+      }
+    ]
+  },
+  {
     "id": 1437396,
     "title": "Your Mother Your Mother Your Mother",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/45Mbs6dmn2W0hvuyxXPDkKREHpP.jpg",
     "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him \u2013 and the beliefs threatening to unravel within.",
     "theatrical": true,
     "trailer_published": "2026-08-03T13:00:03.000Z",
@@ -3587,7 +3623,7 @@
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
-    "overview": "Sonic the Hedgehog, joined by new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
+    "overview": "When a new threat emerges from a fractured timeline, Team Sonic find themselves facing an adventure unlike anything they've encountered before. With the Chaos Emeralds scattered across different periods in time, Sonic\u2014alongside new friends and old\u2014must journey through the past, present, and future to recover them before a dangerous alternate timeline becomes reality.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
     "videos": [
@@ -3596,24 +3632,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1733243,
-    "title": "Sight & Sound Presents: JOSHUA\u2014Live!",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/tAJJBIUQyXFSFs0JdwHx2VnUikL.jpg",
-    "backdrop": "",
-    "overview": "Journey alongside the people of Israel as they navigate their new-found freedom in an unforgiving wilderness. When Joshua is called to replace Moses as their faithful leader, tensions mount in the midst of dwindling supplies and approaching armies. With one last fortified city standing between the Israelites and the Promised Land, unexpected help emerges from behind enemy lines and Joshua's trust in God's plan is put to the ultimate test.  Filmed in front of a live audience, this special event invites you to experience one of the most redemptive stories of the Bible come to life like never before!",
-    "theatrical": true,
-    "trailer_published": "2026-01-23T17:30:53.000Z",
-    "videos": [
-      {
-        "key": "G2UnTTQGh58",
-        "name": "JOSHUA | Premiering 2026 in Lancaster, PA  | Sight & Sound Theatres\u00ae",
-        "type": "Teaser",
-        "published_at": "2026-01-23T17:30:53.000Z"
       }
     ]
   },
@@ -3683,7 +3701,7 @@
     "release_date": "2027-03-26",
     "poster": "https://image.tmdb.org/t/p/w500/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gLjZC1YGcujC82DF5subtEXWg7F.jpg",
-    "overview": "Godzilla and Kong return in an all-new adventure as Earth's greatest titans face an unthinkable threat from beyond the stars. When a cosmic predator, Apex, sets its sights on Earth, only the combined might of monsters and humanity can avert total extinction.",
+    "overview": "Godzilla and Kong return in an all-new adventure as Earth's greatest titans face an unthinkable threat from beyond the stars. When an Apex cosmic predator sets its sights on Earth, only the combined might of monsters and humanity can avert total extinction.",
     "theatrical": true,
     "trailer_published": "2025-05-09T16:00:12.000Z",
     "videos": [
