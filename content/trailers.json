@@ -36,6 +36,42 @@
     ]
   },
   {
+    "id": 1260649,
+    "title": "Jumanji: Open World",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
+    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us\u2014as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "theatrical": true,
+    "trailer_published": "2026-11-07T08:30:39.000Z",
+    "videos": [
+      {
+        "key": "nIw1O3zvOfE",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T13:00:39.000Z"
+      },
+      {
+        "key": "zhApeaHMvfs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-29T00:59:43.000Z"
+      },
+      {
+        "key": "RfVHb05uHV0",
+        "name": "The game isn't over yet. Get ready to play again!",
+        "type": "Teaser",
+        "published_at": "2026-11-07T08:30:39.000Z"
+      },
+      {
+        "key": "LWU6wPi1LDQ",
+        "name": "The wild just entered the chat",
+        "type": "Teaser",
+        "published_at": "2026-11-03T06:58:20.000Z"
+      }
+    ]
+  },
+  {
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
@@ -105,7 +141,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -526,7 +562,7 @@
     "title": "Clayface",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
     "trailer_published": "2026-10-31T16:30:02.000Z",
@@ -614,42 +650,6 @@
         "name": "Things I Quote Daily",
         "type": "Teaser",
         "published_at": "2026-10-31T12:02:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1260649,
-    "title": "Jumanji: Open World",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
-    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us\u2014as Jumanji breaks free of its console, unleashing its chaos into our world.",
-    "theatrical": true,
-    "trailer_published": "2026-10-31T10:00:23.000Z",
-    "videos": [
-      {
-        "key": "nIw1O3zvOfE",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T13:00:39.000Z"
-      },
-      {
-        "key": "zhApeaHMvfs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-29T00:59:43.000Z"
-      },
-      {
-        "key": "T3zCAP6Z8gg",
-        "name": "It's easily done",
-        "type": "Teaser",
-        "published_at": "2026-10-31T10:00:23.000Z"
-      },
-      {
-        "key": "BJY2-UurJZs",
-        "name": "One. Last. Game. The final countdown begins.",
-        "type": "Teaser",
-        "published_at": "2026-07-29T01:00:14.000Z"
       }
     ]
   },
@@ -800,6 +800,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-07-14T13:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1261763,
+    "title": "Don't Trouble the Trouble",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
+    "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T10:30:00.000Z",
+    "videos": [
+      {
+        "key": "JWrpYyk1hrY",
+        "name": "Don't Trouble The Trouble | Official Trailer | Fahadh Faasil | Ssara Palekar | Netflix India",
+        "type": "Trailer",
+        "published_at": "2026-10-28T10:30:00.000Z"
       }
     ]
   },
@@ -1029,7 +1047,7 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8nP4lF51Ea861YfHEEqhZBLYv3e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -2430,42 +2448,6 @@
     ]
   },
   {
-    "id": 1302904,
-    "title": "Practical Magic 2",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "theatrical": true,
-    "trailer_published": "2026-09-19T19:30:29.000Z",
-    "videos": [
-      {
-        "key": "Ho10_4IX1jE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-24T16:00:38.000Z"
-      },
-      {
-        "key": "iSWP2feb4rw",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-20T16:01:08.000Z"
-      },
-      {
-        "key": "_de_g6qhKDw",
-        "name": "Audiences are loving Practical Magic 2!",
-        "type": "Teaser",
-        "published_at": "2026-09-19T19:30:29.000Z"
-      },
-      {
-        "key": "wbov5sBHwNM",
-        "name": "Summon your tickets today! Consider this your sign to see Practical Magic 2 in theaters.",
-        "type": "Teaser",
-        "published_at": "2026-09-13T16:00:08.000Z"
-      }
-    ]
-  },
-  {
     "id": 1561336,
     "title": "2 Valid IDs",
     "release_date": "2026-10-21",
@@ -2540,6 +2522,24 @@
         "name": "From the producers of  \u201cThe Last Kumite\u201d and screenwriter of  \u201cNo Retreat, No Surrender\u201d",
         "type": "Teaser",
         "published_at": "2026-09-14T15:00:31.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1487317,
+    "title": "Therapy Done Right",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
+    "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
+    "theatrical": false,
+    "trailer_published": "2026-09-18T13:00:00.000Z",
+    "videos": [
+      {
+        "key": "DgZQwmjdcp8",
+        "name": "Lo dejamos ac\u00e1 | Tr\u00e1iler oficial | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-09-18T13:00:00.000Z"
       }
     ]
   },
@@ -3174,36 +3174,6 @@
     ]
   },
   {
-    "id": 1440098,
-    "title": "Drawn Together",
-    "release_date": "2026-09-09",
-    "poster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-    "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
-    "theatrical": false,
-    "trailer_published": "2026-08-10T18:30:23.000Z",
-    "videos": [
-      {
-        "key": "WlGzP8FvsfY",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-10T18:30:23.000Z"
-      },
-      {
-        "key": "J_dWSteW_7Y",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-10T14:00:01.000Z"
-      },
-      {
-        "key": "WIxUv1zSNU4",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-23T14:01:26.000Z"
-      }
-    ]
-  },
-  {
     "id": 1480503,
     "title": "CoComelon: The Movie",
     "release_date": "2027-02-19",
@@ -3617,7 +3587,7 @@
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
-    "overview": "When a new threat emerges from a fractured timeline, Team Sonic find themselves facing an adventure unlike anything they've encountered before. With the Chaos Emeralds scattered across different periods in time,  Sonic\u2014alongside new friends and old\u2014must journey through the past, present, and future to recover them before a dangerous alternate timeline becomes reality.",
+    "overview": "Sonic the Hedgehog, joined by new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
     "videos": [
