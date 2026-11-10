@@ -1,5 +1,29 @@
 [
   {
+    "id": 1391239,
+    "title": "The Debut",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/qk8qWJxM9hZSbSjSoEz0LAzcoPb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
+    "theatrical": true,
+    "trailer_published": "2026-11-10T14:00:15.000Z",
+    "videos": [
+      {
+        "key": "lF9n06SMDPU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-11-10T14:00:15.000Z"
+      },
+      {
+        "key": "clyzHmBx43E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-23T12:59:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1480503,
     "title": "CoComelon: The Movie",
     "release_date": "2027-02-19",
@@ -288,12 +312,36 @@
     ]
   },
   {
+    "id": 1124006,
+    "title": "Lords of War",
+    "release_date": "2027-01-22",
+    "poster": "https://image.tmdb.org/t/p/w500/66mWiwl4sbg0mV0sxdR7XV5oUOw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3VzDu5gtVMtXLTnpEj6jPn110LV.jpg",
+    "overview": "Yuri Orlov, the world's most famous arms dealer, discovers that he has a son, Anton who is trying to outdo his father by raising an army of mercenaries to fight in America's Middle Eastern conflicts, triggering a father-son rivalry.",
+    "theatrical": true,
+    "trailer_published": "2026-11-04T23:13:46.000Z",
+    "videos": [
+      {
+        "key": "lCihLS6X4vk",
+        "name": "Lords of War | Trailer Oficial Subtitulado Espa\u00f1ol Latino | Vertical #lordsofwar #nicolascage",
+        "type": "Trailer",
+        "published_at": "2026-11-04T23:13:46.000Z"
+      },
+      {
+        "key": "8Agbs-8qpxs",
+        "name": "LORD OF WAR 2 Official Teaser Trailer (2026) Nicolas Cage",
+        "type": "Teaser",
+        "published_at": "2026-11-04T16:09:23.000Z"
+      }
+    ]
+  },
+  {
     "id": 1519780,
     "title": "Diary of a Wimpy Kid Christmas: The Getaway",
     "release_date": "2026-12-04",
     "poster": "https://image.tmdb.org/t/p/w500/q6SR12TFod8m2izUb3b9eUCn7b.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dmcmY8WQ6CkPf0ag3Qagrxy8i6w.jpg",
-    "overview": "With the stress of the holidays fast approaching, the Heffley family \u2013 to Greg's dismay \u2013 makes a last-minute decision to escape to an all-inclusive island resort for some much-needed rest and relaxation. As hilarious hijinks ensue, the Heffleys soon discover that paradise may not be everything it's cracked up to be.",
+    "overview": "With the stress of the holidays fast approaching, the Heffley family\u2014to Greg's dismay\u2014makes a last-minute decision to escape to an all-inclusive island resort for some much-needed rest and relaxation. As hilarious hijinks ensue, the Heffleys soon discover that paradise may not be everything it's cracked up to be.",
     "theatrical": true,
     "trailer_published": "2026-11-04T17:05:16.000Z",
     "videos": [
@@ -346,7 +394,7 @@
     "title": "Ebenezer",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-11-04T13:20:45.000Z",
@@ -942,6 +990,24 @@
     ]
   },
   {
+    "id": 1616419,
+    "title": "The Good Lawyer",
+    "release_date": "2026-11-09",
+    "poster": "https://image.tmdb.org/t/p/w500/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+    "overview": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
+    "theatrical": false,
+    "trailer_published": "2026-10-26T14:53:37.000Z",
+    "videos": [
+      {
+        "key": "3Ep7Rq24jDA",
+        "name": "The Good Lawyer | Official Hindi Trailer | Netflix Original Film",
+        "type": "Trailer",
+        "published_at": "2026-10-26T14:53:37.000Z"
+      }
+    ]
+  },
+  {
     "id": 1266643,
     "title": "Day Drinker",
     "release_date": "2027-03-26",
@@ -1326,6 +1392,24 @@
     ]
   },
   {
+    "id": 1798383,
+    "title": "Wolves Up Close with Bertie Gregory",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nQiSQg10DvoaXLFeqkPSDGv6vF7.jpg",
+    "overview": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
+    "theatrical": false,
+    "trailer_published": "2026-10-15T15:59:56.000Z",
+    "videos": [
+      {
+        "key": "3hCMUaREGL8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T15:59:56.000Z"
+      }
+    ]
+  },
+  {
     "id": 1440769,
     "title": "The Beekeeper 2",
     "release_date": "2027-01-15",
@@ -1340,30 +1424,6 @@
         "name": "Official Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-10-15T14:44:46.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1595124,
-    "title": "Steps",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-    "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T13:00:02.000Z",
-    "videos": [
-      {
-        "key": "tNV4i3BqUGY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-15T13:00:02.000Z"
-      },
-      {
-        "key": "Y0RW8EW08Dk",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-09-17T13:00:02.000Z"
       }
     ]
   },
@@ -1617,7 +1677,7 @@
     "id": 1657630,
     "title": "The Awakening",
     "release_date": "2026-11-10",
-    "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/AhP971WogMHbF5iKJPKi6e6oaya.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
     "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
     "theatrical": false,
@@ -1792,7 +1852,7 @@
     "title": "Heart of the Beast",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "theatrical": true,
     "trailer_published": "2026-10-05T13:55:38.000Z",
@@ -2097,7 +2157,7 @@
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
@@ -2128,7 +2188,7 @@
     "title": "NAZA",
     "release_date": "2026-09-30",
     "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qkuEfYYOZTW6ymbZMeyJeYQaMd7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/inju8joDtL7KHtlFEGjFZ2UuqFa.jpg",
     "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
     "theatrical": true,
     "trailer_published": "2026-09-25T14:46:09.000Z",
@@ -2156,24 +2216,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-25T13:00:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1634905,
-    "title": "Vampire Carnival",
-    "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/ihxByv2GHUxz7g82mhVlYp9pCj3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qlI7haUeRut1fJFuB1YITNWkmCy.jpg",
-    "overview": "When a grief-stricken young woman visits a mysterious, traveling carnival in her small town, she becomes seduced into a dangerous world of pleasure and deception.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T11:58:20.000Z",
-    "videos": [
-      {
-        "key": "ZiseQc567b4",
-        "name": "Vampire Carnival | Official Trailer | Horror Brains",
-        "type": "Trailer",
-        "published_at": "2026-09-25T11:58:20.000Z"
       }
     ]
   },
@@ -2742,24 +2784,6 @@
     ]
   },
   {
-    "id": 1620080,
-    "title": "Less of a Stranger",
-    "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kKoviQTDH6p9a37CfNoKscxMg4Z.jpg",
-    "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
-    "theatrical": false,
-    "trailer_published": "2026-09-08T07:00:00.000Z",
-    "videos": [
-      {
-        "key": "jx0RiYbSuuc",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-08T07:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
@@ -2808,26 +2832,20 @@
     ]
   },
   {
-    "id": 1391239,
-    "title": "The Debut",
-    "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
-    "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
+    "id": 1528009,
+    "title": "The Restoration at Grayson Manor",
+    "release_date": "2026-10-29",
+    "poster": "https://image.tmdb.org/t/p/w500/m9aKkiCwlQWri27z9WEwezfkUcw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eOassvwSzhNfHzPA00XtDD0jYs4.jpg",
+    "overview": "The foundations of Grayson Manor are shaken when an accident leaves Boyd Grayson handless and his mother invests in radical new technology to help him.",
     "theatrical": true,
-    "trailer_published": "2026-09-02T10:27:16.000Z",
+    "trailer_published": "2026-09-01T17:18:38.000Z",
     "videos": [
       {
-        "key": "QZFOUWJULvU",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-02T10:27:16.000Z"
-      },
-      {
-        "key": "clyzHmBx43E",
+        "key": "eb2OTdBLKUg",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-06-23T12:59:06.000Z"
+        "published_at": "2026-09-01T17:18:38.000Z"
       }
     ]
   },
@@ -3000,24 +3018,6 @@
     ]
   },
   {
-    "id": 1496696,
-    "title": "Breeder",
-    "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
-    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
-    "theatrical": true,
-    "trailer_published": "2026-08-26T16:30:01.000Z",
-    "videos": [
-      {
-        "key": "9MeILB0M274",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T16:30:01.000Z"
-      }
-    ]
-  },
-  {
     "id": 1032863,
     "title": "The Love Hypothesis",
     "release_date": "2026-09-23",
@@ -3170,6 +3170,24 @@
         "name": "Glimpse : RAW STATEMENT",
         "type": "Teaser",
         "published_at": "2025-03-03T05:47:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1078446,
+    "title": "Violent Night 2",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/78dChJs7doULSEhIiOvGUcXQRGU.jpg",
+    "overview": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he\u2019ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
+    "theatrical": true,
+    "trailer_published": "2026-08-04T15:00:15.000Z",
+    "videos": [
+      {
+        "key": "FmM2giDwLAE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-04T15:00:15.000Z"
       }
     ]
   },
@@ -3431,7 +3449,7 @@
     "release_date": "2027-03-05",
     "poster": "https://image.tmdb.org/t/p/w500/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/etB2OT0nUknOAPZV7EgbEbt6HJh.jpg",
-    "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he\u2019s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose \u2014 unless Venice gets the better of him first.",
+    "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he\u2019s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose\u2014unless Venice gets the better of him first.",
     "theatrical": true,
     "trailer_published": "2026-06-11T16:01:48.000Z",
     "videos": [
@@ -3548,24 +3566,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1145110,
-    "title": "King",
-    "release_date": "2026-12-24",
-    "poster": "https://image.tmdb.org/t/p/w500/Aq5J3pzesN7WJLIzEkWD2b4FqV9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mjiDUz5idO9LrJC40JphKmSqjfF.jpg",
-    "overview": "Mentor and disciple embark on a perilous journey, pushing their survival skills to the limit against overwhelming odds and unforgiving environments.",
-    "theatrical": true,
-    "trailer_published": "2025-11-02T06:00:59.000Z",
-    "videos": [
-      {
-        "key": "Uu2QK9Z9X5E",
-        "name": "Title Reveal [ENG SUB]",
-        "type": "Teaser",
-        "published_at": "2025-11-02T06:00:59.000Z"
       }
     ]
   },
