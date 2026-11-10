@@ -130,7 +130,7 @@
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AttXyiHvoOlqYXmAgO8EmgSt5ZC.jpg",
     "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
     "theatrical": true,
     "trailer_published": "2026-11-06T11:05:40.000Z",
@@ -549,7 +549,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -642,42 +642,6 @@
     ]
   },
   {
-    "id": 1465063,
-    "title": "Forgotten Island",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "theatrical": true,
-    "trailer_published": "2026-10-31T12:02:36.000Z",
-    "videos": [
-      {
-        "key": "PhgY8cOJiQA",
-        "name": "Get Tickets",
-        "type": "Trailer",
-        "published_at": "2026-09-08T15:21:37.000Z"
-      },
-      {
-        "key": "f7mFVeWnVLw",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T13:00:21.000Z"
-      },
-      {
-        "key": "a8RHqN93qfo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-25T15:00:10.000Z"
-      },
-      {
-        "key": "5W9P3nKcQcI",
-        "name": "Things I Quote Daily",
-        "type": "Teaser",
-        "published_at": "2026-10-31T12:02:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1290035,
     "title": "Avaraachan & Sons",
     "release_date": "2026-10-02",
@@ -764,6 +728,12 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-28T20:33:29.000Z"
+      },
+      {
+        "key": "RZmT7JiCO-s",
+        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
+        "type": "Trailer",
+        "published_at": "2026-10-28T20:00:09.000Z"
       }
     ]
   },
@@ -1320,42 +1290,6 @@
     ]
   },
   {
-    "id": 977942,
-    "title": "The Uprising",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kAlAFblqBI6aGXItR4DRpT5Tozg.jpg",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T18:28:26.000Z",
-    "videos": [
-      {
-        "key": "lyhCxZN4Ro8",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T17:02:51.000Z"
-      },
-      {
-        "key": "ZVkrhHebz1Q",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-16T15:00:03.000Z"
-      },
-      {
-        "key": "Tmf3wFh6Bgc",
-        "name": "Watch at Home September 29",
-        "type": "Teaser",
-        "published_at": "2026-10-15T18:28:26.000Z"
-      },
-      {
-        "key": "g4EqU8TSR6I",
-        "name": "In Cinemas Everywhere Now",
-        "type": "Teaser",
-        "published_at": "2026-10-09T09:06:37.000Z"
-      }
-    ]
-  },
-  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -1478,42 +1412,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-20T14:03:57.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1228834,
-    "title": "The Fix",
-    "release_date": "2026-09-11",
-    "poster": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-    "theatrical": true,
-    "trailer_published": "2026-10-13T20:00:43.000Z",
-    "videos": [
-      {
-        "key": "l5Luvr9TRRc",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-26T14:07:41.000Z"
-      },
-      {
-        "key": "NYC0v8xqQdM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T17:02:01.000Z"
-      },
-      {
-        "key": "hfXhfC6GzJw",
-        "name": "Watch at Home",
-        "type": "Teaser",
-        "published_at": "2026-10-13T20:00:43.000Z"
-      },
-      {
-        "key": "Ua3wq0ApsDM",
-        "name": ":15 Spot",
-        "type": "Teaser",
-        "published_at": "2026-09-07T23:29:30.000Z"
       }
     ]
   },
@@ -1722,7 +1620,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
     "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-    "theatrical": true,
+    "theatrical": false,
     "trailer_published": "2026-10-08T15:01:38.000Z",
     "videos": [
       {
@@ -2199,7 +2097,7 @@
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
@@ -2436,6 +2334,24 @@
     ]
   },
   {
+    "id": 940009,
+    "title": "Ray Gunn",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
+    "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
+    "theatrical": true,
+    "trailer_published": "2026-09-23T13:00:02.000Z",
+    "videos": [
+      {
+        "key": "VL-xjzQFWsY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1779385,
     "title": "Pixar Artist Short: One Shot Productions",
     "release_date": "2026-09-22",
@@ -2502,6 +2418,24 @@
     ]
   },
   {
+    "id": 1776531,
+    "title": "Clown Panic",
+    "release_date": "2026-10-12",
+    "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+    "overview": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze.",
+    "theatrical": false,
+    "trailer_published": "2026-09-22T14:59:47.000Z",
+    "videos": [
+      {
+        "key": "Br2CiuQF-Ow",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-22T14:59:47.000Z"
+      }
+    ]
+  },
+  {
     "id": 1561336,
     "title": "2 Valid IDs",
     "release_date": "2026-10-21",
@@ -2544,38 +2478,20 @@
     ]
   },
   {
-    "id": 1340102,
-    "title": "Lion Fist",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
-    "overview": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
+    "id": 1487317,
+    "title": "Therapy Done Right",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
+    "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
     "theatrical": false,
-    "trailer_published": "2026-09-18T17:00:04.000Z",
+    "trailer_published": "2026-09-18T13:00:00.000Z",
     "videos": [
       {
-        "key": "9JLxOm9VmGI",
-        "name": "Trailer",
+        "key": "DgZQwmjdcp8",
+        "name": "Lo dejamos ac\u00e1 | Tr\u00e1iler oficial | Netflix",
         "type": "Trailer",
-        "published_at": "2026-08-21T16:00:01.000Z"
-      },
-      {
-        "key": "Jz-h04pJF5Q",
-        "name": "Now available to rent digitally,in US and UK.",
-        "type": "Teaser",
-        "published_at": "2026-09-18T17:00:04.000Z"
-      },
-      {
-        "key": "V4xU2Q5kRfg",
-        "name": "Martial arts legends on screen!",
-        "type": "Teaser",
-        "published_at": "2026-09-15T17:00:32.000Z"
-      },
-      {
-        "key": "Pne7gJhlX1w",
-        "name": "From the producers of  \u201cThe Last Kumite\u201d and screenwriter of  \u201cNo Retreat, No Surrender\u201d",
-        "type": "Teaser",
-        "published_at": "2026-09-14T15:00:31.000Z"
+        "published_at": "2026-09-18T13:00:00.000Z"
       }
     ]
   },
@@ -2584,7 +2500,7 @@
     "title": "How to Rob a Bank",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
     "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
     "theatrical": true,
     "trailer_published": "2026-09-17T13:00:09.000Z",
@@ -2672,42 +2588,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-16T14:59:49.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1198654,
-    "title": "Bad Apples",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
-    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
-    "theatrical": true,
-    "trailer_published": "2026-09-16T14:00:35.000Z",
-    "videos": [
-      {
-        "key": "4nhu80EmVQE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-09T16:33:32.000Z"
-      },
-      {
-        "key": "nuaX1aU5EbM",
-        "name": "Troublemaker? It\u2019s hard to say.",
-        "type": "Teaser",
-        "published_at": "2026-09-16T14:00:35.000Z"
-      },
-      {
-        "key": "rXli3ZXxISA",
-        "name": "It only takes one.",
-        "type": "Teaser",
-        "published_at": "2026-09-13T14:00:16.000Z"
-      },
-      {
-        "key": "TkNGg8NU9Fo",
-        "name": "\"Saoirse Ronan has never been better\u201d - Empire.",
-        "type": "Teaser",
-        "published_at": "2026-09-12T16:00:24.000Z"
       }
     ]
   },
@@ -2862,6 +2742,24 @@
     ]
   },
   {
+    "id": 1620080,
+    "title": "Less of a Stranger",
+    "release_date": "2026-10-07",
+    "poster": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kKoviQTDH6p9a37CfNoKscxMg4Z.jpg",
+    "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
+    "theatrical": false,
+    "trailer_published": "2026-09-08T07:00:00.000Z",
+    "videos": [
+      {
+        "key": "jx0RiYbSuuc",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-08T07:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
@@ -2966,6 +2864,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-01T15:13:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1544847,
+    "title": "Pradhama Drishtiya Kuttakkar",
+    "release_date": "2026-09-11",
+    "poster": "https://image.tmdb.org/t/p/w500/yJ78kbekUBZMcxla1lXABI9o2wL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zmfUqsFcQs6BjLJStofM5MD2l7L.jpg",
+    "overview": "After her husband's tragic death, Aleena joins the police force through a compassionate appointment. What begins as a quiet new chapter soon turns into a high-stakes battle of wits and courage, testing everything she believes about justice, loyalty, and herself.",
+    "theatrical": false,
+    "trailer_published": "2026-09-01T11:36:03.000Z",
+    "videos": [
+      {
+        "key": "hf96obsJIGU",
+        "name": "Pradhama Drishtya Kuttakkar Official Trailer | Shahad | Parvathy | Vijayaragavan | Mathew Thomas",
+        "type": "Trailer",
+        "published_at": "2026-09-01T11:36:03.000Z"
       }
     ]
   },
@@ -3080,6 +2996,24 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-08-26T23:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1496696,
+    "title": "Breeder",
+    "release_date": "2026-10-28",
+    "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
+    "theatrical": true,
+    "trailer_published": "2026-08-26T16:30:01.000Z",
+    "videos": [
+      {
+        "key": "9MeILB0M274",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-26T16:30:01.000Z"
       }
     ]
   },
@@ -3240,24 +3174,6 @@
     ]
   },
   {
-    "id": 1743695,
-    "title": "El Club del Pie Izquierdo",
-    "release_date": "2026-09-10",
-    "poster": "https://image.tmdb.org/t/p/w500/v6b6cclN83KM8AM6NLSphumlstO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6dDCdPSp7ULB1zYimKDE9D48795.jpg",
-    "overview": "A forty-year-old office worker of Mexico City, realizes that he has been trapped in a car and a desk for years. He finds a dance academy, enrolls in reggaeton classes with strict teacher Paulina, and finds renewal. Remake of the Japanese film 'Shall We Dance?'",
-    "theatrical": false,
-    "trailer_published": "2026-08-04T16:13:23.000Z",
-    "videos": [
-      {
-        "key": "aun-sucm0rw",
-        "name": "El Club del Pie Izquierdo l Tr\u00e1iler Oficial",
-        "type": "Trailer",
-        "published_at": "2026-08-04T16:13:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1437396,
     "title": "Your Mother Your Mother Your Mother",
     "release_date": "2026-09-25",
@@ -3286,7 +3202,7 @@
     "title": "Victorian Psycho",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
     "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be\u2014but the truth may be far more dangerous than they imagine.",
     "theatrical": true,
     "trailer_published": "2026-07-30T14:33:38.000Z",
@@ -3532,7 +3448,7 @@
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
     "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1QUe4ShpyvOLGzqXRvU86WRBpuy.jpg",
     "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
     "theatrical": true,
     "trailer_published": "2026-06-04T16:00:18.000Z",
@@ -3623,7 +3539,7 @@
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
-    "overview": "When a new threat emerges from a fractured timeline, Team Sonic find themselves facing an adventure unlike anything they've encountered before. With the Chaos Emeralds scattered across different periods in time, Sonic\u2014alongside new friends and old\u2014must journey through the past, present, and future to recover them before a dangerous alternate timeline becomes reality.",
+    "overview": "The fourth installment in the Sonic the Hedgehog film franchise. Sonic teams up with Amy Rose to take on Metal Sonic, a relentless new robotic rival built to destroy him.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
     "videos": [
