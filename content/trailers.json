@@ -1,5 +1,29 @@
 [
   {
+    "id": 1124006,
+    "title": "Lords of War",
+    "release_date": "2027-01-22",
+    "poster": "https://image.tmdb.org/t/p/w500/66mWiwl4sbg0mV0sxdR7XV5oUOw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3VzDu5gtVMtXLTnpEj6jPn110LV.jpg",
+    "overview": "Yuri Orlov, the world's most famous arms dealer, discovers that he has a son, Anton who is trying to outdo his father by raising an army of mercenaries to fight in America's Middle Eastern conflicts, triggering a father-son rivalry.",
+    "theatrical": true,
+    "trailer_published": "2026-11-11T15:55:19.000Z",
+    "videos": [
+      {
+        "key": "3HPNGrjd4fk",
+        "name": "Official Teaser #2",
+        "type": "Teaser",
+        "published_at": "2026-11-11T15:55:19.000Z"
+      },
+      {
+        "key": "6ANmtY7Xtwg",
+        "name": "Official Teaser #1",
+        "type": "Teaser",
+        "published_at": "2026-11-04T15:55:13.000Z"
+      }
+    ]
+  },
+  {
     "id": 1391239,
     "title": "The Debut",
     "release_date": "2026-12-11",
@@ -52,10 +76,76 @@
         "published_at": "2026-11-10T09:37:29.000Z"
       },
       {
-        "key": "Y4IReZF3oIc",
-        "name": "Don\u2019t underestimate Olivia Jones",
+        "key": "nB9Pzgsw1HY",
+        "name": "This Focker Shocker flick is coming your way!",
         "type": "Teaser",
-        "published_at": "2026-11-06T11:05:40.000Z"
+        "published_at": "2026-11-07T06:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-11-10T01:30:37.000Z",
+    "videos": [
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "sCSGWqbYRpA",
+        "name": "A joyous announcement.",
+        "type": "Teaser",
+        "published_at": "2026-11-10T01:30:37.000Z"
+      },
+      {
+        "key": "NfleL2f_12o",
+        "name": "October Vs November",
+        "type": "Teaser",
+        "published_at": "2026-11-04T13:20:45.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1376400,
+    "title": "Crawlers",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+    "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
+    "theatrical": true,
+    "trailer_published": "2026-11-09T22:24:02.000Z",
+    "videos": [
+      {
+        "key": "4DowjB87tRE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-17T15:00:07.000Z"
+      },
+      {
+        "key": "f-4HdE22_Qs",
+        "name": "Craving a creature feature?",
+        "type": "Teaser",
+        "published_at": "2026-11-09T22:24:02.000Z"
+      },
+      {
+        "key": "crt8_rLGs0I",
+        "name": "Live your best life with \u2018Crawlers\u2019.",
+        "type": "Teaser",
+        "published_at": "2026-10-31T15:04:33.000Z"
       }
     ]
   },
@@ -189,7 +279,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -312,30 +402,6 @@
     ]
   },
   {
-    "id": 1124006,
-    "title": "Lords of War",
-    "release_date": "2027-01-22",
-    "poster": "https://image.tmdb.org/t/p/w500/66mWiwl4sbg0mV0sxdR7XV5oUOw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3VzDu5gtVMtXLTnpEj6jPn110LV.jpg",
-    "overview": "Yuri Orlov, the world's most famous arms dealer, discovers that he has a son, Anton who is trying to outdo his father by raising an army of mercenaries to fight in America's Middle Eastern conflicts, triggering a father-son rivalry.",
-    "theatrical": true,
-    "trailer_published": "2026-11-04T23:13:46.000Z",
-    "videos": [
-      {
-        "key": "lCihLS6X4vk",
-        "name": "Lords of War | Trailer Oficial Subtitulado Espa\u00f1ol Latino | Vertical #lordsofwar #nicolascage",
-        "type": "Trailer",
-        "published_at": "2026-11-04T23:13:46.000Z"
-      },
-      {
-        "key": "8Agbs-8qpxs",
-        "name": "LORD OF WAR 2 Official Teaser Trailer (2026) Nicolas Cage",
-        "type": "Teaser",
-        "published_at": "2026-11-04T16:09:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1519780,
     "title": "Diary of a Wimpy Kid Christmas: The Getaway",
     "release_date": "2026-12-04",
@@ -390,42 +456,6 @@
     ]
   },
   {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/wbTHJ5VzOjEq02PYHkLAL7yhhBn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-11-04T13:20:45.000Z",
-    "videos": [
-      {
-        "key": "l_Ozo1xUgbU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-01T12:59:47.000Z"
-      },
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "NfleL2f_12o",
-        "name": "October Vs November",
-        "type": "Teaser",
-        "published_at": "2026-11-04T13:20:45.000Z"
-      },
-      {
-        "key": "adkGqtihOOk",
-        "name": "It Is Time",
-        "type": "Teaser",
-        "published_at": "2026-11-04T11:37:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
@@ -465,7 +495,7 @@
     "id": 1400837,
     "title": "Other Mommy",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
     "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "theatrical": true,
@@ -666,30 +696,6 @@
     ]
   },
   {
-    "id": 1376400,
-    "title": "Crawlers",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
-    "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
-    "theatrical": true,
-    "trailer_published": "2026-10-31T15:04:33.000Z",
-    "videos": [
-      {
-        "key": "4DowjB87tRE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T15:00:07.000Z"
-      },
-      {
-        "key": "crt8_rLGs0I",
-        "name": "Live your best life with \u2018Crawlers\u2019.",
-        "type": "Teaser",
-        "published_at": "2026-10-31T15:04:33.000Z"
-      }
-    ]
-  },
-  {
     "id": 1290035,
     "title": "Avaraachan & Sons",
     "release_date": "2026-10-02",
@@ -786,26 +792,26 @@
     ]
   },
   {
-    "id": 1126097,
-    "title": "Charlie Harper",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wNj3vgm13CyKb04xIq7NQ8zTY1e.jpg",
-    "overview": "As an ambitious chef and her struggling partner move to a new city to start fresh, the stark divide in their drives tests the limits of their love.",
+    "id": 1308980,
+    "title": "Falling",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/qDcws8pGIRgxwq7CoSL1MbFbvEz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qRL4a5J8unmbDbnwdEMFsXWm0J8.jpg",
+    "overview": "Jack, while quick-witted, charming, and avoidant, finally risks opening his heart when he starts dating Jillian. He never expected, though, that his best friend Johnny would fall for her, too.",
     "theatrical": true,
-    "trailer_published": "2026-10-28T17:00:50.000Z",
+    "trailer_published": "2026-10-28T16:58:35.000Z",
     "videos": [
       {
-        "key": "Syp1bGpWTSs",
+        "key": "7e_3_oJktV8",
         "name": "UK Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-28T17:00:50.000Z"
+        "published_at": "2026-10-28T16:58:35.000Z"
       },
       {
-        "key": "3EwAPmmNBU4",
+        "key": "WwjN0j3GDDQ",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-06-25T15:00:00.000Z"
+        "published_at": "2026-09-23T14:27:21.000Z"
       }
     ]
   },
@@ -1434,6 +1440,24 @@
     ]
   },
   {
+    "id": 1563627,
+    "title": "A Better Jianghu",
+    "release_date": "2026-09-27",
+    "poster": "https://image.tmdb.org/t/p/w500/350om1pKdv14AdTWxpwqEYR9WrS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6neOr2yjCdnVFUzI5xIOvo6sxuf.jpg",
+    "overview": "Two individuals, the scholar Shen Fang and the knight-errant Luo Han, steal a huge sum of silver from the official Qin Hui to support the anti-Jin rebels, devising a grand deception to combat the imperial guard and rally people from all walks of life to their cause during the Southern Song Dynasty.",
+    "theatrical": false,
+    "trailer_published": "2026-10-15T09:27:58.000Z",
+    "videos": [
+      {
+        "key": "r81yPl6sVQA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T09:27:58.000Z"
+      }
+    ]
+  },
+  {
     "id": 1453407,
     "title": "Gajab Raat",
     "release_date": "2026-10-23",
@@ -1640,30 +1664,6 @@
         "name": "Meet the future of friendship.",
         "type": "Teaser",
         "published_at": "2026-08-22T00:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1428295,
-    "title": "Comrade Kalyan",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zsAbkmTkGE3l98Jhvdiy7ybNFo8.jpg",
-    "overview": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
-    "theatrical": true,
-    "trailer_published": "2026-10-10T01:53:47.000Z",
-    "videos": [
-      {
-        "key": "_BpLjq8wW5I",
-        "name": "Comrade Kalyan - Official Trailer | Sree Vishnu | Mahima Nambiar | Janakiram Marella",
-        "type": "Trailer",
-        "published_at": "2026-10-10T01:53:47.000Z"
-      },
-      {
-        "key": "KwTUn9PTCAk",
-        "name": "Teaser",
-        "type": "Teaser",
-        "published_at": "2025-10-02T06:36:04.000Z"
       }
     ]
   },
@@ -2250,6 +2250,24 @@
     ]
   },
   {
+    "id": 1634905,
+    "title": "Vampire Carnival",
+    "release_date": "2026-10-07",
+    "poster": "https://image.tmdb.org/t/p/w500/ihxByv2GHUxz7g82mhVlYp9pCj3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qlI7haUeRut1fJFuB1YITNWkmCy.jpg",
+    "overview": "When a grief-stricken young woman visits a mysterious, traveling carnival in her small town, she becomes seduced into a dangerous world of pleasure and deception.",
+    "theatrical": true,
+    "trailer_published": "2026-09-25T11:58:20.000Z",
+    "videos": [
+      {
+        "key": "ZiseQc567b4",
+        "name": "Vampire Carnival | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-09-25T11:58:20.000Z"
+      }
+    ]
+  },
+  {
     "id": 1458099,
     "title": "The Only Living Pickpocket in New York",
     "release_date": "2026-10-16",
@@ -2490,24 +2508,6 @@
     ]
   },
   {
-    "id": 1776531,
-    "title": "Clown Panic",
-    "release_date": "2026-10-12",
-    "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/51M331d6lEMidnZlAEbTKox5ih4.jpg",
-    "overview": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze.",
-    "theatrical": false,
-    "trailer_published": "2026-09-22T14:59:47.000Z",
-    "videos": [
-      {
-        "key": "Br2CiuQF-Ow",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-22T14:59:47.000Z"
-      }
-    ]
-  },
-  {
     "id": 1561336,
     "title": "2 Valid IDs",
     "release_date": "2026-10-21",
@@ -2550,29 +2550,11 @@
     ]
   },
   {
-    "id": 1487317,
-    "title": "Therapy Done Right",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
-    "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
-    "theatrical": false,
-    "trailer_published": "2026-09-18T13:00:00.000Z",
-    "videos": [
-      {
-        "key": "DgZQwmjdcp8",
-        "name": "Lo dejamos ac\u00e1 | Tr\u00e1iler oficial | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-09-18T13:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1437511,
     "title": "How to Rob a Bank",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/8sMzu56Nok5WlEXCRdflEgshYQO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
     "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
     "theatrical": true,
     "trailer_published": "2026-09-17T13:00:09.000Z",
@@ -2678,6 +2660,30 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-09-15T23:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1318467,
+    "title": "The Last Kiss",
+    "release_date": "2026-09-15",
+    "poster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+    "overview": "A young woman discovers she can foresee the death of anyone she kisses, and when a vision predicts her crush will die in a murder spree targeting her closest friends, she races to uncover the killer before more lives are lost.",
+    "theatrical": false,
+    "trailer_published": "2026-09-15T20:34:42.000Z",
+    "videos": [
+      {
+        "key": "lAKtuOVkAgU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T19:03:09.000Z"
+      },
+      {
+        "key": "Vgf-eANUdE0",
+        "name": "Watch at Home September 15",
+        "type": "Teaser",
+        "published_at": "2026-09-15T20:34:42.000Z"
       }
     ]
   },
@@ -2810,24 +2816,6 @@
         "name": "Drishyam: The Conclusion - Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
         "type": "Trailer",
         "published_at": "2026-09-09T07:43:50.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1620080,
-    "title": "Less of a Stranger",
-    "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kKoviQTDH6p9a37CfNoKscxMg4Z.jpg",
-    "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
-    "theatrical": false,
-    "trailer_published": "2026-09-08T07:00:00.000Z",
-    "videos": [
-      {
-        "key": "jx0RiYbSuuc",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-08T07:00:00.000Z"
       }
     ]
   },
@@ -3258,6 +3246,30 @@
     ]
   },
   {
+    "id": 1596249,
+    "title": "Ha-Chan, Shake Your Booty!",
+    "release_date": "2026-09-23",
+    "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dEu8lwu4q6k3m8xOLxGJzYoxjix.jpg",
+    "overview": "Haru and Luis love competing in Tokyo\u2019s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly.",
+    "theatrical": true,
+    "trailer_published": "2026-07-29T15:03:02.000Z",
+    "videos": [
+      {
+        "key": "Ik4lJmXgR6U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-29T15:03:02.000Z"
+      },
+      {
+        "key": "GIrVOYiO1Uk",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-05-14T18:04:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 621304,
     "title": "Children of Blood and Bone",
     "release_date": "2027-01-15",
@@ -3298,7 +3310,7 @@
     "title": "The Mongoose",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "theatrical": true,
     "trailer_published": "2026-07-15T17:00:06.000Z",
@@ -3460,7 +3472,7 @@
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
     "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1QUe4ShpyvOLGzqXRvU86WRBpuy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
     "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
     "theatrical": true,
     "trailer_published": "2026-06-04T16:00:18.000Z",
@@ -3564,20 +3576,20 @@
     ]
   },
   {
-    "id": 1733243,
-    "title": "Sight & Sound Presents: JOSHUA\u2014Live!",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/tAJJBIUQyXFSFs0JdwHx2VnUikL.jpg",
-    "backdrop": "",
-    "overview": "Journey alongside the people of Israel as they navigate their new-found freedom in an unforgiving wilderness. When Joshua is called to replace Moses as their faithful leader, tensions mount in the midst of dwindling supplies and approaching armies. With one last fortified city standing between the Israelites and the Promised Land, unexpected help emerges from behind enemy lines and Joshua's trust in God's plan is put to the ultimate test.  Filmed in front of a live audience, this special event invites you to experience one of the most redemptive stories of the Bible come to life like never before!",
-    "theatrical": true,
-    "trailer_published": "2026-01-23T17:30:53.000Z",
+    "id": 1314786,
+    "title": "Agent Zeta",
+    "release_date": "2026-03-20",
+    "poster": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
+    "overview": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ci\u00e9naga\" decades ago in Colombia. Zeta, the CNI's best operative, must hunt and protect the sole survivor, facing his deadliest global mission yet. Top Colombian agent Alfa will join Zeta, seemingly knowing more about \"Ci\u00e9naga\"'s secrets than him.",
+    "theatrical": false,
+    "trailer_published": "2026-02-17T21:29:43.000Z",
     "videos": [
       {
-        "key": "G2UnTTQGh58",
-        "name": "JOSHUA | Premiering 2026 in Lancaster, PA  | Sight & Sound Theatres\u00ae",
-        "type": "Teaser",
-        "published_at": "2026-01-23T17:30:53.000Z"
+        "key": "d56tjzLzYZM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-17T21:29:43.000Z"
       }
     ]
   },
