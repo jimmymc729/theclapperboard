@@ -1,5 +1,131 @@
 [
   {
+    "id": 1452168,
+    "title": "Behemoth!",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
+    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+    "theatrical": true,
+    "trailer_published": "2026-11-11T19:58:56.000Z",
+    "videos": [
+      {
+        "key": "I6tMFYT9s7E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T13:00:22.000Z"
+      },
+      {
+        "key": "h4U49V7daAA",
+        "name": "Monster",
+        "type": "Teaser",
+        "published_at": "2026-11-11T19:58:56.000Z"
+      },
+      {
+        "key": "AU-RKacXbZ0",
+        "name": "Get Tickets Now",
+        "type": "Teaser",
+        "published_at": "2026-11-10T18:00:10.000Z"
+      },
+      {
+        "key": "NbhaXZT-cO0",
+        "name": "In Theaters December 4.",
+        "type": "Teaser",
+        "published_at": "2026-11-09T14:02:08.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1300968,
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "theatrical": true,
+    "trailer_published": "2026-11-11T19:00:37.000Z",
+    "videos": [
+      {
+        "key": "Dr060OLTodE",
+        "name": "Official Fan Edit Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T13:01:31.000Z"
+      },
+      {
+        "key": "lYXtL5TreOE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-16T13:00:01.000Z"
+      },
+      {
+        "key": "fS35YSjopjE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T13:00:02.000Z"
+      },
+      {
+        "key": "dVGzrcpTD7s",
+        "name": "A victor to remember.",
+        "type": "Teaser",
+        "published_at": "2026-11-11T19:00:37.000Z"
+      }
+    ]
+  },
+  {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-11-11T19:00:09.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "OV3-edcmVMA",
+        "name": "Redacted",
+        "type": "Teaser",
+        "published_at": "2026-11-11T19:00:09.000Z"
+      },
+      {
+        "key": "oHjRbcWvHIc",
+        "name": "Gay Cheese",
+        "type": "Teaser",
+        "published_at": "2026-11-10T21:58:32.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1234139,
+    "title": "Jailer 2",
+    "release_date": "2026-10-14",
+    "poster": "https://image.tmdb.org/t/p/w500/1ei2UWNDRx5xKR7HjvEj17qExvL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+    "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+    "theatrical": true,
+    "trailer_published": "2026-11-11T18:35:39.000Z",
+    "videos": [
+      {
+        "key": "3vkHWYL2JmA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-11T18:35:39.000Z"
+      }
+    ]
+  },
+  {
     "id": 1124006,
     "title": "Lords of War",
     "release_date": "2027-01-22",
@@ -24,6 +150,30 @@
     ]
   },
   {
+    "id": 1340208,
+    "title": "Kar\u014dshi",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/xOwetUoCyca3yYlqZ5rlElgXiTV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9BV0sX13uzERMgamOFslyFD5Dqk.jpg",
+    "overview": "In a near-future Manhattan corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker's death, he exposes the violent system hidden beneath its polished surface.",
+    "theatrical": true,
+    "trailer_published": "2026-11-10T18:00:37.000Z",
+    "videos": [
+      {
+        "key": "jQHoAsDcjVU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-05T16:01:18.000Z"
+      },
+      {
+        "key": "-AF8E2LvtRA",
+        "name": "Their success is your sacrifice.",
+        "type": "Teaser",
+        "published_at": "2026-11-10T18:00:37.000Z"
+      }
+    ]
+  },
+  {
     "id": 1391239,
     "title": "The Debut",
     "release_date": "2026-12-11",
@@ -44,6 +194,72 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-23T12:59:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1440769,
+    "title": "The Beekeeper 2",
+    "release_date": "2027-01-15",
+    "poster": "https://image.tmdb.org/t/p/w500/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zdZmiPdzrBlioFVvROuA57kPs4G.jpg",
+    "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
+    "theatrical": true,
+    "trailer_published": "2026-11-10T13:00:19.000Z",
+    "videos": [
+      {
+        "key": "5HK3wimDxBI",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T14:44:46.000Z"
+      },
+      {
+        "key": "teIDMUDFslQ",
+        "name": "Statham \ud83e\udd1d Irons",
+        "type": "Teaser",
+        "published_at": "2026-11-10T13:00:19.000Z"
+      },
+      {
+        "key": "S7OOWTXcrRk",
+        "name": "It's heating up.",
+        "type": "Teaser",
+        "published_at": "2026-11-04T14:00:36.000Z"
+      }
+    ]
+  },
+  {
+    "id": 656908,
+    "title": "Ramayana: Rise of a Legend",
+    "release_date": "2026-11-05",
+    "poster": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "theatrical": true,
+    "trailer_published": "2026-11-10T11:00:18.000Z",
+    "videos": [
+      {
+        "key": "AYkPRN874m8",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T14:00:39.000Z"
+      },
+      {
+        "key": "74nF-FWAS6M",
+        "name": "Official Trailer (English)",
+        "type": "Trailer",
+        "published_at": "2026-08-05T16:00:16.000Z"
+      },
+      {
+        "key": "goXqZKvxEu8",
+        "name": "Let the sound of RAMAYANA: RISE OF A LEGEND by Hans Zimmer and A.R. Rahman take you on a journey.",
+        "type": "Teaser",
+        "published_at": "2026-11-10T11:00:18.000Z"
+      },
+      {
+        "key": "D_D1RKoya70",
+        "name": "The wait is over. The legend begins.",
+        "type": "Teaser",
+        "published_at": "2026-11-05T12:01:11.000Z"
       }
     ]
   },
@@ -174,38 +390,38 @@
     ]
   },
   {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "id": 1437396,
+    "title": "Your Mother Your Mother Your Mother",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/45Mbs6dmn2W0hvuyxXPDkKREHpP.jpg",
+    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him \u2013 and the beliefs threatening to unravel within.",
     "theatrical": true,
-    "trailer_published": "2026-11-07T18:01:08.000Z",
+    "trailer_published": "2026-11-09T14:27:30.000Z",
     "videos": [
       {
-        "key": "kqxuamKxRTo",
+        "key": "uEcoV-ngH38",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
+        "published_at": "2026-08-03T13:00:03.000Z"
       },
       {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "aSDmmXWGyM0",
-        "name": "Now Playing in Theaters",
+        "key": "8k3N5dTGUh4",
+        "name": "Unmatched levels of aura.",
         "type": "Teaser",
-        "published_at": "2026-11-07T18:01:08.000Z"
+        "published_at": "2026-11-09T14:27:30.000Z"
       },
       {
-        "key": "O2dkL1TxG9M",
-        "name": "Now Playing in Theaters",
+        "key": "AM-lxg9DuDk",
+        "name": "In UK Cinemas November 20",
         "type": "Teaser",
-        "published_at": "2026-11-06T19:58:57.000Z"
+        "published_at": "2026-11-02T16:00:10.000Z"
+      },
+      {
+        "key": "hCXfh1oB3oc",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-06-26T13:00:22.000Z"
       }
     ]
   },
@@ -249,7 +465,7 @@
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/5jO6rhfethzH7xdWl6KCOxCNCzQ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yQggulnRAvssNRGpxOMf8CfVim6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -312,24 +528,6 @@
     ]
   },
   {
-    "id": 1340208,
-    "title": "Kar\u014dshi",
-    "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/xOwetUoCyca3yYlqZ5rlElgXiTV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9BV0sX13uzERMgamOFslyFD5Dqk.jpg",
-    "overview": "In a near-future Manhattan corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker's death, he exposes the violent system hidden beneath its polished surface.",
-    "theatrical": true,
-    "trailer_published": "2026-11-05T16:01:18.000Z",
-    "videos": [
-      {
-        "key": "jQHoAsDcjVU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-05T16:01:18.000Z"
-      }
-    ]
-  },
-  {
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
@@ -362,42 +560,6 @@
         "name": "Charming",
         "type": "Teaser",
         "published_at": "2026-11-05T12:42:10.000Z"
-      }
-    ]
-  },
-  {
-    "id": 656908,
-    "title": "Ramayana: Rise of a Legend",
-    "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "theatrical": true,
-    "trailer_published": "2026-11-05T12:01:11.000Z",
-    "videos": [
-      {
-        "key": "AYkPRN874m8",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-15T14:00:39.000Z"
-      },
-      {
-        "key": "74nF-FWAS6M",
-        "name": "Official Trailer (English)",
-        "type": "Trailer",
-        "published_at": "2026-08-05T16:00:16.000Z"
-      },
-      {
-        "key": "D_D1RKoya70",
-        "name": "The wait is over. The legend begins.",
-        "type": "Teaser",
-        "published_at": "2026-11-05T12:01:11.000Z"
-      },
-      {
-        "key": "j2eyq8QltRs",
-        "name": "One week until an epic adventure you\u2019ll remember forever",
-        "type": "Teaser",
-        "published_at": "2026-10-29T15:00:29.000Z"
       }
     ]
   },
@@ -624,42 +786,6 @@
     ]
   },
   {
-    "id": 1300968,
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "theatrical": true,
-    "trailer_published": "2026-10-31T18:01:44.000Z",
-    "videos": [
-      {
-        "key": "Dr060OLTodE",
-        "name": "Official Fan Edit Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T13:01:31.000Z"
-      },
-      {
-        "key": "lYXtL5TreOE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-16T13:00:01.000Z"
-      },
-      {
-        "key": "fS35YSjopjE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T13:00:02.000Z"
-      },
-      {
-        "key": "5mrT-BDo5_A",
-        "name": "history is about to begin.",
-        "type": "Teaser",
-        "published_at": "2026-10-31T18:01:44.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -812,60 +938,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-23T14:27:21.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1452168,
-    "title": "Behemoth!",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gI3s8kkXsG0VHkpWjtZBKOz6sOk.jpg",
-    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
-    "theatrical": true,
-    "trailer_published": "2026-10-28T13:00:22.000Z",
-    "videos": [
-      {
-        "key": "I6tMFYT9s7E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T13:00:22.000Z"
-      },
-      {
-        "key": "xOiIgN2n2v8",
-        "name": "London Film Festival",
-        "type": "Teaser",
-        "published_at": "2026-09-02T14:15:15.000Z"
-      },
-      {
-        "key": "nlHocRZln8c",
-        "name": "NYFF Announcement",
-        "type": "Teaser",
-        "published_at": "2026-07-28T15:09:54.000Z"
-      },
-      {
-        "key": "TrMGdrCJ5Ck",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-14T13:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1261763,
-    "title": "Don't Trouble the Trouble",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
-    "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
-    "theatrical": true,
-    "trailer_published": "2026-10-28T10:30:00.000Z",
-    "videos": [
-      {
-        "key": "JWrpYyk1hrY",
-        "name": "Don't Trouble The Trouble | Official Trailer | Fahadh Faasil | Ssara Palekar | Netflix India",
-        "type": "Trailer",
-        "published_at": "2026-10-28T10:30:00.000Z"
       }
     ]
   },
@@ -1344,6 +1416,42 @@
     ]
   },
   {
+    "id": 1394740,
+    "title": "Tazza: The Song of Beelzebub",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/nmVCk33Heit7ePc2tqJijyy444f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/w5OX3u2SpMVRU0sol0mtIaf4LSI.jpg",
+    "overview": "Jang Taeyoung, who believes he has everything after building a successful online casino business, loses it all to his former best friend and namesake, Park Taeyoung. The two reunite on the international poker circuit for a high-stakes battle of revenge.",
+    "theatrical": true,
+    "trailer_published": "2026-10-16T16:59:32.000Z",
+    "videos": [
+      {
+        "key": "qRIuZlQuh30",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-25T14:43:58.000Z"
+      },
+      {
+        "key": "sSvUg0--XEc",
+        "name": "Int'l, Censored Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-08-04T03:07:59.000Z"
+      },
+      {
+        "key": "xZ90Y7OOiOI",
+        "name": "TAZZA: THE SONG OF BEELZEBUB is here. Experience the high-stakes action, now playing in theaters. [Subtitled]",
+        "type": "Teaser",
+        "published_at": "2026-10-16T16:59:32.000Z"
+      },
+      {
+        "key": "1O0rBRrYXaI",
+        "name": "Teaser Trailer [Subtitled]",
+        "type": "Teaser",
+        "published_at": "2026-09-10T16:23:23.000Z"
+      }
+    ]
+  },
+  {
     "id": 1248832,
     "title": "Digger",
     "release_date": "2026-10-02",
@@ -1394,24 +1502,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-15T15:59:56.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1440769,
-    "title": "The Beekeeper 2",
-    "release_date": "2027-01-15",
-    "poster": "https://image.tmdb.org/t/p/w500/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zdZmiPdzrBlioFVvROuA57kPs4G.jpg",
-    "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T14:44:46.000Z",
-    "videos": [
-      {
-        "key": "5HK3wimDxBI",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-15T14:44:46.000Z"
       }
     ]
   },
@@ -1810,7 +1900,7 @@
     "title": "Model Citizen",
     "release_date": "2026-11-03",
     "poster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
     "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can\u2019t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
     "theatrical": false,
     "trailer_published": "2026-10-07T15:00:02.000Z",
@@ -2250,24 +2340,6 @@
     ]
   },
   {
-    "id": 1634905,
-    "title": "Vampire Carnival",
-    "release_date": "2026-10-07",
-    "poster": "https://image.tmdb.org/t/p/w500/ihxByv2GHUxz7g82mhVlYp9pCj3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qlI7haUeRut1fJFuB1YITNWkmCy.jpg",
-    "overview": "When a grief-stricken young woman visits a mysterious, traveling carnival in her small town, she becomes seduced into a dangerous world of pleasure and deception.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T11:58:20.000Z",
-    "videos": [
-      {
-        "key": "ZiseQc567b4",
-        "name": "Vampire Carnival | Official Trailer | Horror Brains",
-        "type": "Trailer",
-        "published_at": "2026-09-25T11:58:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1458099,
     "title": "The Only Living Pickpocket in New York",
     "release_date": "2026-10-16",
@@ -2553,7 +2625,7 @@
     "id": 1437511,
     "title": "How to Rob a Bank",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/8sMzu56Nok5WlEXCRdflEgshYQO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
     "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
     "theatrical": true,
@@ -3023,7 +3095,7 @@
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-    "overview": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning with the fallout from Ho Seok\u2019s firing from his factory job after a violently suppressed labor union strike. The well-off Lee Ye Ji, a documentary filmmaker, with her businessman husband, Sang-woo, has decided to make a movie about job layoffs and wants to make Mi-Ok and Ho-Seok her main camera subjects.",
+    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "theatrical": true,
     "trailer_published": "2026-08-26T23:00:01.000Z",
     "videos": [
@@ -3188,30 +3260,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-04T15:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437396,
-    "title": "Your Mother Your Mother Your Mother",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/45Mbs6dmn2W0hvuyxXPDkKREHpP.jpg",
-    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him \u2013 and the beliefs threatening to unravel within.",
-    "theatrical": true,
-    "trailer_published": "2026-08-03T13:00:03.000Z",
-    "videos": [
-      {
-        "key": "uEcoV-ngH38",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-03T13:00:03.000Z"
-      },
-      {
-        "key": "hCXfh1oB3oc",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-06-26T13:00:22.000Z"
       }
     ]
   },
