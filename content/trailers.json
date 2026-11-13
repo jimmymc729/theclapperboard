@@ -1,5 +1,29 @@
 [
   {
+    "id": 1497464,
+    "title": "Gatto",
+    "release_date": "2027-03-05",
+    "poster": "https://image.tmdb.org/t/p/w500/jNDWZ8hV7LHATIhaA3pDV5iWWcZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/etB2OT0nUknOAPZV7EgbEbt6HJh.jpg",
+    "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he\u2019s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose\u2014unless Venice gets the better of him first.",
+    "theatrical": true,
+    "trailer_published": "2026-11-12T17:00:37.000Z",
+    "videos": [
+      {
+        "key": "fq7Q-dtIZeM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-12T17:00:37.000Z"
+      },
+      {
+        "key": "NIKfR_uF_d0",
+        "name": "Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-06-11T16:01:48.000Z"
+      }
+    ]
+  },
+  {
     "id": 940009,
     "title": "Ray Gunn",
     "release_date": "2026-12-04",
@@ -11,7 +35,7 @@
     "videos": [
       {
         "key": "oAmCTknTA6I",
-        "name": "Ray Gunn | Official Trailer #2 | Netflix",
+        "name": "Official Trailer #2",
         "type": "Trailer",
         "published_at": "2026-11-12T14:30:02.000Z"
       },
@@ -44,6 +68,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-28T13:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400336,
+    "title": "Focker-in-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+    "theatrical": true,
+    "trailer_published": "2026-11-12T12:00:17.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "cOttHmexRJo",
+        "name": "Things are getting a little hairy in the Focker household.",
+        "type": "Teaser",
+        "published_at": "2026-11-12T12:00:17.000Z"
+      },
+      {
+        "key": "CgPC08-A-xs",
+        "name": "He took \u201cCircle of Trust\u201d a bit too literally.",
+        "type": "Teaser",
+        "published_at": "2026-11-10T09:37:29.000Z"
       }
     ]
   },
@@ -195,15 +255,15 @@
     "id": 1234139,
     "title": "Jailer 2",
     "release_date": "2026-10-14",
-    "poster": "https://image.tmdb.org/t/p/w500/1ei2UWNDRx5xKR7HjvEj17qExvL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9buHDeAkU84GF98MCFdopBRGKvr.jpg",
     "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
     "theatrical": true,
     "trailer_published": "2026-11-11T18:35:39.000Z",
     "videos": [
       {
         "key": "3vkHWYL2JmA",
-        "name": "Official Trailer [Subtitled]",
+        "name": "Official Prime Video Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-11-11T18:35:39.000Z"
       }
@@ -348,42 +408,6 @@
     ]
   },
   {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
-    "theatrical": true,
-    "trailer_published": "2026-11-10T09:37:29.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "CgPC08-A-xs",
-        "name": "He took \u201cCircle of Trust\u201d a bit too literally.",
-        "type": "Teaser",
-        "published_at": "2026-11-10T09:37:29.000Z"
-      },
-      {
-        "key": "nB9Pzgsw1HY",
-        "name": "This Focker Shocker flick is coming your way!",
-        "type": "Teaser",
-        "published_at": "2026-11-07T06:00:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -446,36 +470,6 @@
         "name": "Live your best life with \u2018Crawlers\u2019.",
         "type": "Teaser",
         "published_at": "2026-10-31T15:04:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 607833,
-    "title": "The Intern",
-    "release_date": "2026-10-25",
-    "poster": "https://image.tmdb.org/t/p/w500/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
-    "overview": "Ki-ho, a retiree with 37 years of experience, joins fashion start-up WOO22 a senior intern, he struggles with its digital, unconventional culture. Despite their differences, Ki-ho and Sun-woo, the start-up's young CEO, learn from each other and form an unexpected bond.",
-    "theatrical": false,
-    "trailer_published": "2026-11-09T18:00:22.000Z",
-    "videos": [
-      {
-        "key": "kLFZrwE4b7M",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-11-09T18:00:22.000Z"
-      },
-      {
-        "key": "XMp9ietHc8A",
-        "name": "Only In Cinemas 1 October",
-        "type": "Trailer",
-        "published_at": "2026-09-16T03:15:36.000Z"
-      },
-      {
-        "key": "I9vTsavhOKc",
-        "name": "Only In Cinemas 1 October",
-        "type": "Trailer",
-        "published_at": "2026-09-14T02:45:38.000Z"
       }
     ]
   },
@@ -642,6 +636,42 @@
     ]
   },
   {
+    "id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "release_date": "2026-11-03",
+    "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "theatrical": true,
+    "trailer_published": "2026-11-05T17:00:30.000Z",
+    "videos": [
+      {
+        "key": "Pu0pH5BuCPM",
+        "name": "Official Trailer 3 [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-11-05T17:00:30.000Z"
+      },
+      {
+        "key": "pWJjYoqVSjQ",
+        "name": "Official Trailer 2 [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-11T12:00:36.000Z"
+      },
+      {
+        "key": "-9MA9BnA7Uo",
+        "name": "Official UK Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-08T14:00:05.000Z"
+      },
+      {
+        "key": "kw0YhiqOPFg",
+        "name": "Official 1.43:1 Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-08T13:55:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
@@ -699,7 +729,7 @@
     "id": 1300926,
     "title": "The Angry Birds Movie 3",
     "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/xyml31x5gu23tOMIFJ43XO4aTD6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
     "overview": "Red faces his greatest challenge yet\u2014surviving fatherhood\u2026 while saving the world.",
     "theatrical": true,
@@ -972,6 +1002,30 @@
     ]
   },
   {
+    "id": 1268053,
+    "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
+    "release_date": "2027-01-21",
+    "poster": "https://image.tmdb.org/t/p/w500/ed7c0fV7atZyGZ031Ci0D61HSnm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cbjEec6ONqBsWKYUymyJp77TJMy.jpg",
+    "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother\u2019s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles\u2019 terrifying show.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T20:33:29.000Z",
+    "videos": [
+      {
+        "key": "swcW56xOU3o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T20:33:29.000Z"
+      },
+      {
+        "key": "RZmT7JiCO-s",
+        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
+        "type": "Trailer",
+        "published_at": "2026-10-28T20:00:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -1076,6 +1130,30 @@
         "name": "Words without power. Watch the final trailer for Dune: Part Three.",
         "type": "Teaser",
         "published_at": "2026-10-27T20:20:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1518204,
+    "title": "Allen",
+    "release_date": "2026-11-12",
+    "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+    "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated \u2014 and unexpected.",
+    "theatrical": false,
+    "trailer_published": "2026-10-27T19:00:00.000Z",
+    "videos": [
+      {
+        "key": "P8G5Y25W3eA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T19:00:00.000Z"
+      },
+      {
+        "key": "ptDdR2BMmsA",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-10-14T19:30:00.000Z"
       }
     ]
   },
@@ -1422,47 +1500,11 @@
     ]
   },
   {
-    "id": 1394740,
-    "title": "Tazza: The Song of Beelzebub",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/nmVCk33Heit7ePc2tqJijyy444f.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/w5OX3u2SpMVRU0sol0mtIaf4LSI.jpg",
-    "overview": "Jang Taeyoung, who believes he has everything after building a successful online casino business, loses it all to his former best friend and namesake, Park Taeyoung. The two reunite on the international poker circuit for a high-stakes battle of revenge.",
-    "theatrical": true,
-    "trailer_published": "2026-10-16T16:59:32.000Z",
-    "videos": [
-      {
-        "key": "qRIuZlQuh30",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-25T14:43:58.000Z"
-      },
-      {
-        "key": "sSvUg0--XEc",
-        "name": "Int'l, Censored Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-08-04T03:07:59.000Z"
-      },
-      {
-        "key": "xZ90Y7OOiOI",
-        "name": "TAZZA: THE SONG OF BEELZEBUB is here. Experience the high-stakes action, now playing in theaters. [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2026-10-16T16:59:32.000Z"
-      },
-      {
-        "key": "1O0rBRrYXaI",
-        "name": "Teaser Trailer [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2026-09-10T16:23:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1559980,
     "title": "The Gospel of Christmas",
     "release_date": "2026-11-11",
-    "poster": "https://image.tmdb.org/t/p/w500/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
     "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
     "theatrical": false,
     "trailer_published": "2026-10-16T14:00:00.000Z",
@@ -1550,6 +1592,30 @@
         "name": "The Blair Witch Project (2027 Movie) \u2013 Teaser Trailer | In Theaters 9.24",
         "type": "Teaser",
         "published_at": "2026-10-15T14:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1595124,
+    "title": "Steps",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T13:00:02.000Z",
+    "videos": [
+      {
+        "key": "tNV4i3BqUGY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T13:00:02.000Z"
+      },
+      {
+        "key": "Y0RW8EW08Dk",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-09-17T13:00:02.000Z"
       }
     ]
   },
@@ -1688,42 +1754,6 @@
         "name": "In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-10-03T03:00:03.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1381071,
-    "title": "Godzilla Minus Zero",
-    "release_date": "2026-11-03",
-    "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "theatrical": true,
-    "trailer_published": "2026-10-11T12:00:36.000Z",
-    "videos": [
-      {
-        "key": "pWJjYoqVSjQ",
-        "name": "Official Trailer 2 [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-10-11T12:00:36.000Z"
-      },
-      {
-        "key": "-9MA9BnA7Uo",
-        "name": "Official UK Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-08T14:00:05.000Z"
-      },
-      {
-        "key": "kw0YhiqOPFg",
-        "name": "Official 1.43:1 Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-08T13:55:06.000Z"
-      },
-      {
-        "key": "Xmy-Z3dHMd8",
-        "name": "Official Teaser [Subtitled]",
-        "type": "Teaser",
-        "published_at": "2026-07-09T13:55:06.000Z"
       }
     ]
   },
@@ -2616,30 +2646,6 @@
     ]
   },
   {
-    "id": 1381273,
-    "title": "Paper Tiger",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg",
-    "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
-    "theatrical": true,
-    "trailer_published": "2026-09-22T16:00:25.000Z",
-    "videos": [
-      {
-        "key": "MLwTyQOhBkw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-22T16:00:25.000Z"
-      },
-      {
-        "key": "ldCb77jXIsM",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-10T16:00:22.000Z"
-      }
-    ]
-  },
-  {
     "id": 1561336,
     "title": "2 Valid IDs",
     "release_date": "2026-10-21",
@@ -2718,24 +2724,6 @@
     ]
   },
   {
-    "id": 1623256,
-    "title": "The Storm",
-    "release_date": "2026-10-15",
-    "poster": "https://image.tmdb.org/t/p/w500/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-    "overview": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
-    "theatrical": false,
-    "trailer_published": "2026-09-17T07:00:00.000Z",
-    "videos": [
-      {
-        "key": "Zfb-62tjT_Y",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-17T07:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 961214,
     "title": "Reawakened Man",
     "release_date": "2026-09-30",
@@ -2774,6 +2762,30 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-16T14:59:49.000Z"
+      }
+    ]
+  },
+  {
+    "id": 607833,
+    "title": "The Intern",
+    "release_date": "2026-10-25",
+    "poster": "https://image.tmdb.org/t/p/w500/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
+    "overview": "Ki-ho, a retiree with 37 years of experience, joins fashion start-up WOO22 a senior intern, he struggles with its digital, unconventional culture. Despite their differences, Ki-ho and Sun-woo, the start-up's young CEO, learn from each other and form an unexpected bond.",
+    "theatrical": false,
+    "trailer_published": "2026-09-16T03:15:36.000Z",
+    "videos": [
+      {
+        "key": "XMp9ietHc8A",
+        "name": "Only In Cinemas 1 October [ENG SUB]",
+        "type": "Trailer",
+        "published_at": "2026-09-16T03:15:36.000Z"
+      },
+      {
+        "key": "I9vTsavhOKc",
+        "name": "Only In Cinemas 1 October [ENG SUB]",
+        "type": "Teaser",
+        "published_at": "2026-09-14T02:45:38.000Z"
       }
     ]
   },
@@ -2910,6 +2922,54 @@
     ]
   },
   {
+    "id": 1492198,
+    "title": "Artificial",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/2bz0HPE8OFOqnyvl8sCdVDIg1KX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qt79gpmITExaeb3Y74gxgkVSvaZ.jpg",
+    "overview": "In November 2023, amidst the height of a global AI boom, OpenAI co-founder Ilya Sutskever teamed with the company board to make one of the defining decisions that has drastically reshaped the company as we know it, the firing of current CEO Sam Altman. This controversial decision would lead to immense backlash, ultimately resulting in Altman's return five days later.",
+    "theatrical": true,
+    "trailer_published": "2026-09-08T15:00:25.000Z",
+    "videos": [
+      {
+        "key": "rDZplZFnbOk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:00:25.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1408207,
+    "title": "Zero A.D.: The Birth of Christ",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mH4RXqdkpOzdV3730HDfssPUQvb.jpg",
+    "overview": "A star rises over Bethlehem as Christ is born. But when Herod orders the slaughter of the innocents, Mary and Joseph must protect the child promised to save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-09-08T15:00:01.000Z",
+    "videos": [
+      {
+        "key": "lRF1Etsd4wo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:00:01.000Z"
+      },
+      {
+        "key": "JpZ7y72u-c8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-07-31T23:30:08.000Z"
+      },
+      {
+        "key": "vWVQYdAUvb8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-04-02T15:56:07.000Z"
+      }
+    ]
+  },
+  {
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
@@ -2930,24 +2990,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-28T16:13:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1484085,
-    "title": "Atonement",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/zQPB0tL1sH1r54EDlqMugYqmcuu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1H3Jfx6JstIY1P3ePh04zp5HOTc.jpg",
-    "overview": "In the early days of the Iraq War, a split-second decision made by a U.S. Marine during a tense standoff devastates an Iraqi family. Years later, aided by a New Yorker journalist, he seeks to reconcile with the family he destroyed.",
-    "theatrical": true,
-    "trailer_published": "2026-09-03T19:42:12.000Z",
-    "videos": [
-      {
-        "key": "RBhp78Xt01w",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T19:42:12.000Z"
       }
     ]
   },
@@ -3044,24 +3086,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-01T15:13:20.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1532997,
-    "title": "Dead Howling",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/i1vpLPnHVAZq1CyJlpVS8YI7a93.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bL2mZNrVdeNNOICyuFfPJq7YA4s.jpg",
-    "overview": "A werewolf hunts zombies after losing his family. He meets two humans seeking sanctuary and joins their quest, protecting them with his powers. Their journey grows perilous as zombies start evolving.",
-    "theatrical": false,
-    "trailer_published": "2026-09-01T10:09:28.000Z",
-    "videos": [
-      {
-        "key": "vtq4FIrKuFo",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T10:09:28.000Z"
       }
     ]
   },
@@ -3516,24 +3540,6 @@
     ]
   },
   {
-    "id": 1497464,
-    "title": "Gatto",
-    "release_date": "2027-03-05",
-    "poster": "https://image.tmdb.org/t/p/w500/jNDWZ8hV7LHATIhaA3pDV5iWWcZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/etB2OT0nUknOAPZV7EgbEbt6HJh.jpg",
-    "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he\u2019s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose\u2014unless Venice gets the better of him first.",
-    "theatrical": true,
-    "trailer_published": "2026-06-11T16:01:48.000Z",
-    "videos": [
-      {
-        "key": "NIKfR_uF_d0",
-        "name": "Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-06-11T16:01:48.000Z"
-      }
-    ]
-  },
-  {
     "id": 1384758,
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
@@ -3585,7 +3591,7 @@
     "id": 1735270,
     "title": "Premada Oorali",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/fL2Tu70IOltH63UUHcy618scbQ0.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yZ1CNb3lo1BwMKiSGz0vJbcfdC2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
     "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
     "theatrical": true,
