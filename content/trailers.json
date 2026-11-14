@@ -1,5 +1,65 @@
 [
   {
+    "id": 1737740,
+    "title": "Fresh Meat",
+    "release_date": "2026-10-12",
+    "poster": "https://image.tmdb.org/t/p/w500/pDO9mCRhWEtl6MRTksWZ1bPBrnZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/19OqRmY4zc6oDLsEODGi9RSmt2I.jpg",
+    "overview": "In the back of a butcher shop, a little girl watches terrifying tales on a screen that must be fed. As its appetite grows, her father must find increasingly gruesome ways to keep the show going.",
+    "theatrical": true,
+    "trailer_published": "2026-11-13T23:15:04.000Z",
+    "videos": [
+      {
+        "key": "qZlhHntlcBk",
+        "name": "Now on Digital!",
+        "type": "Trailer",
+        "published_at": "2026-11-13T23:15:04.000Z"
+      },
+      {
+        "key": "HrFLrIrFQyI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T17:15:39.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1003596,
+    "title": "Avengers: Doomsday",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "theatrical": true,
+    "trailer_published": "2026-11-13T18:37:30.000Z",
+    "videos": [
+      {
+        "key": "X1aFkAkFASk",
+        "name": "Special Look",
+        "type": "Trailer",
+        "published_at": "2026-08-15T04:06:21.000Z"
+      },
+      {
+        "key": "irVNGjRFZGk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-20T13:00:20.000Z"
+      },
+      {
+        "key": "Kl7nG1nD0mk",
+        "name": "Countdown to Avengers: Doomsday - Every Moment on Disney+",
+        "type": "Teaser",
+        "published_at": "2026-11-13T18:37:30.000Z"
+      },
+      {
+        "key": "MPdfLEkLTPw",
+        "name": "The Doomsday Global Tour Is Coming.",
+        "type": "Teaser",
+        "published_at": "2026-11-05T18:11:06.000Z"
+      }
+    ]
+  },
+  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
@@ -32,6 +92,42 @@
         "name": "One week. One epic story.",
         "type": "Teaser",
         "published_at": "2026-11-13T17:00:39.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1260649,
+    "title": "Jumanji: Open World",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
+    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us\u2014as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "theatrical": true,
+    "trailer_published": "2026-11-13T14:54:57.000Z",
+    "videos": [
+      {
+        "key": "nIw1O3zvOfE",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T13:00:39.000Z"
+      },
+      {
+        "key": "zhApeaHMvfs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-29T00:59:43.000Z"
+      },
+      {
+        "key": "NFrRSNtzfpI",
+        "name": "Welcome to Jumanji, where danger comes in all shapes and sizes",
+        "type": "Teaser",
+        "published_at": "2026-11-13T14:54:57.000Z"
+      },
+      {
+        "key": "RfVHb05uHV0",
+        "name": "The game isn't over yet. Get ready to play again!",
+        "type": "Teaser",
+        "published_at": "2026-11-07T08:30:39.000Z"
       }
     ]
   },
@@ -272,6 +368,24 @@
         "name": "The colours of WILDWOOD.",
         "type": "Teaser",
         "published_at": "2026-11-12T11:15:10.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1215889,
+    "title": "Daayra",
+    "release_date": "2026-09-18",
+    "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
+    "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
+    "theatrical": true,
+    "trailer_published": "2026-11-12T10:30:00.000Z",
+    "videos": [
+      {
+        "key": "nb4Qb89zgmU",
+        "name": "Daayra | Official Trailer | Kareena Kapoor, Prithviraj, Meghna Gulzar | Netflix India",
+        "type": "Trailer",
+        "published_at": "2026-11-12T10:30:00.000Z"
       }
     ]
   },
@@ -534,42 +648,6 @@
     ]
   },
   {
-    "id": 1260649,
-    "title": "Jumanji: Open World",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
-    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us\u2014as Jumanji breaks free of its console, unleashing its chaos into our world.",
-    "theatrical": true,
-    "trailer_published": "2026-11-07T08:30:39.000Z",
-    "videos": [
-      {
-        "key": "nIw1O3zvOfE",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T13:00:39.000Z"
-      },
-      {
-        "key": "zhApeaHMvfs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-29T00:59:43.000Z"
-      },
-      {
-        "key": "RfVHb05uHV0",
-        "name": "The game isn't over yet. Get ready to play again!",
-        "type": "Teaser",
-        "published_at": "2026-11-07T08:30:39.000Z"
-      },
-      {
-        "key": "LWU6wPi1LDQ",
-        "name": "The wild just entered the chat",
-        "type": "Teaser",
-        "published_at": "2026-11-03T06:58:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
@@ -596,42 +674,6 @@
         "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
         "type": "Teaser",
         "published_at": "2026-08-26T20:55:34.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1003596,
-    "title": "Avengers: Doomsday",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "theatrical": true,
-    "trailer_published": "2026-11-05T18:11:06.000Z",
-    "videos": [
-      {
-        "key": "X1aFkAkFASk",
-        "name": "Special Look",
-        "type": "Trailer",
-        "published_at": "2026-08-15T04:06:21.000Z"
-      },
-      {
-        "key": "irVNGjRFZGk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-20T13:00:20.000Z"
-      },
-      {
-        "key": "MPdfLEkLTPw",
-        "name": "The Doomsday Global Tour Is Coming.",
-        "type": "Teaser",
-        "published_at": "2026-11-05T18:11:06.000Z"
-      },
-      {
-        "key": "UfNu7pcR0e8",
-        "name": "In Theaters December 18",
-        "type": "Teaser",
-        "published_at": "2026-10-25T00:00:00.000Z"
       }
     ]
   },
@@ -1384,7 +1426,7 @@
     "title": "Coward",
     "release_date": "2026-12-25",
     "poster": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AmnN2nLZaY9GPHNko5H7M5mqsMG.jpg",
     "overview": "Surrounded by brutality but bound by a tender intimacy, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
     "theatrical": true,
     "trailer_published": "2026-10-21T20:41:56.000Z",
@@ -1406,24 +1448,6 @@
         "name": "COWARD trailer | BFI London Film Festival 2026 \u2013 7-18 October",
         "type": "Trailer",
         "published_at": "2026-09-07T08:34:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1802464,
-    "title": "Meethe Mein Kya Hai",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/xTJYIPjyuCbkc7zEtfAFJfVDSV5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5UkQUYXkG4iJH5Ova55lkxDPiCB.jpg",
-    "overview": "A young widower's grief eases at a joyful Diwali reunion \u2014 until his sister's surprise marriage throws the family into chaos.",
-    "theatrical": false,
-    "trailer_published": "2026-10-21T08:30:00.000Z",
-    "videos": [
-      {
-        "key": "Jg8Gz0evaZw",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-10-21T08:30:00.000Z"
       }
     ]
   },
@@ -2070,6 +2094,24 @@
     ]
   },
   {
+    "id": 1543469,
+    "title": "Heartland",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "overview": "A former country star, Misty Jones, comes out of seclusion to investigate the disappearance of her missing niece, a rising country musician and must grapple with her own past and Nashville\u2019s seedy underbelly. Her search uncovers a murky side of Nashville where no one, including Misty, is who they seem.",
+    "theatrical": false,
+    "trailer_published": "2026-10-06T13:00:00.000Z",
+    "videos": [
+      {
+        "key": "ziIz59enN1c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-06T13:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1236045,
     "title": "Animals",
     "release_date": "2026-10-09",
@@ -2520,24 +2562,6 @@
     ]
   },
   {
-    "id": 1737740,
-    "title": "Fresh Meat",
-    "release_date": "2026-10-12",
-    "poster": "https://image.tmdb.org/t/p/w500/pDO9mCRhWEtl6MRTksWZ1bPBrnZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/19OqRmY4zc6oDLsEODGi9RSmt2I.jpg",
-    "overview": "In the back of a butcher shop, a little girl watches terrifying tales on a screen that must be fed. As its appetite grows, her father must find increasingly gruesome ways to keep the show going.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T17:15:39.000Z",
-    "videos": [
-      {
-        "key": "HrFLrIrFQyI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T17:15:39.000Z"
-      }
-    ]
-  },
-  {
     "id": 1515139,
     "title": "Back to the Beginning: Ozzy's Final Bow",
     "release_date": "2026-10-28",
@@ -2754,26 +2778,26 @@
     ]
   },
   {
-    "id": 1561336,
-    "title": "2 Valid IDs",
-    "release_date": "2026-10-21",
-    "poster": "https://image.tmdb.org/t/p/w500/czzvlkANCVTtJKzl01a2yZ4ooBE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6qX6bRpcAsAMQ68iDBRQlDFWJyy.jpg",
-    "overview": "A poor farmer, unable to claim a remittance because she lacks the required two valid IDs, finds herself in a situation that challenges her character, beliefs, and morality.",
-    "theatrical": false,
-    "trailer_published": "2026-09-19T04:00:04.000Z",
+    "id": 1381273,
+    "title": "Paper Tiger",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg",
+    "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
+    "theatrical": true,
+    "trailer_published": "2026-09-22T16:00:25.000Z",
     "videos": [
       {
-        "key": "TbJXOHeBfWw",
-        "name": "2 Valid IDs (2026) Official Trailer #2 - Pokwang, Merryl Soriano, Joey Marquez | Theatrical Release",
+        "key": "MLwTyQOhBkw",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-19T04:00:04.000Z"
+        "published_at": "2026-09-22T16:00:25.000Z"
       },
       {
-        "key": "VxuGPUkWOPs",
-        "name": "Cinemalaya 22: 2 VALID IDs | Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T17:02:45.000Z"
+        "key": "ldCb77jXIsM",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-08-10T16:00:22.000Z"
       }
     ]
   },
@@ -3354,36 +3378,6 @@
     ]
   },
   {
-    "id": 1376856,
-    "title": "The Paradise",
-    "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-    "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-    "theatrical": true,
-    "trailer_published": "2026-08-06T12:32:42.000Z",
-    "videos": [
-      {
-        "key": "Y3xewv1ZnHc",
-        "name": "Official Teaser [ENG SUB]",
-        "type": "Teaser",
-        "published_at": "2026-08-06T12:32:42.000Z"
-      },
-      {
-        "key": "6B2T6prycwk",
-        "name": "Glimpse",
-        "type": "Teaser",
-        "published_at": "2025-03-03T05:47:23.000Z"
-      },
-      {
-        "key": "NkZFnpDhdCk",
-        "name": "Glimpse : RAW STATEMENT",
-        "type": "Teaser",
-        "published_at": "2025-03-03T05:47:08.000Z"
-      }
-    ]
-  },
-  {
     "id": 1078446,
     "title": "Violent Night 2",
     "release_date": "2026-12-04",
@@ -3532,7 +3526,7 @@
     "title": "Shrek 5",
     "release_date": "2027-06-30",
     "poster": "https://image.tmdb.org/t/p/w500/m9jLiemA7t2umlXKptDwtIUHU8l.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bn73lDlt8WBkgdCwbhCodej8603.jpg",
     "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure, this time in the magical city of Further Further Away.",
     "theatrical": true,
     "trailer_published": "2026-06-16T15:00:03.000Z",
