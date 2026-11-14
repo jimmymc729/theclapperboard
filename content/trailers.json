@@ -24,11 +24,47 @@
     ]
   },
   {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-11-13T21:00:21.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "RPpFc_oKcZc",
+        "name": "Now Playing in Theaters",
+        "type": "Teaser",
+        "published_at": "2026-11-13T21:00:21.000Z"
+      },
+      {
+        "key": "DFU3m78ltwk",
+        "name": "Suspense",
+        "type": "Teaser",
+        "published_at": "2026-11-13T01:25:35.000Z"
+      }
+    ]
+  },
+  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-13T18:37:30.000Z",
@@ -63,7 +99,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -160,46 +196,10 @@
         "published_at": "2026-11-13T02:04:09.000Z"
       },
       {
-        "key": "cOttHmexRJo",
-        "name": "Things are getting a little hairy in the Focker household.",
+        "key": "erLs3A91-00",
+        "name": "We\u2019re so back with these two.",
         "type": "Teaser",
-        "published_at": "2026-11-12T12:00:17.000Z"
-      }
-    ]
-  },
-  {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-11-13T01:25:35.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "DFU3m78ltwk",
-        "name": "Suspense",
-        "type": "Teaser",
-        "published_at": "2026-11-13T01:25:35.000Z"
-      },
-      {
-        "key": "QLmK1Yu9xG0",
-        "name": "Now Playing in Theaters Everywhere",
-        "type": "Teaser",
-        "published_at": "2026-11-12T21:58:58.000Z"
+        "published_at": "2026-11-12T23:00:08.000Z"
       }
     ]
   },
@@ -390,32 +390,14 @@
     ]
   },
   {
-    "id": 1234139,
-    "title": "Jailer 2",
-    "release_date": "2026-10-14",
-    "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-    "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
-    "theatrical": true,
-    "trailer_published": "2026-11-11T18:35:39.000Z",
-    "videos": [
-      {
-        "key": "3vkHWYL2JmA",
-        "name": "Official Prime Video Trailer [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-11-11T18:35:39.000Z"
-      }
-    ]
-  },
-  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
-    "trailer_published": "2026-11-11T01:00:20.000Z",
+    "trailer_published": "2026-11-12T09:00:14.000Z",
     "videos": [
       {
         "key": "l_Ozo1xUgbU",
@@ -430,16 +412,34 @@
         "published_at": "2026-07-23T23:44:46.000Z"
       },
       {
+        "key": "xEXdGeCPPIM",
+        "name": "The past, present and future all lead here.",
+        "type": "Teaser",
+        "published_at": "2026-11-12T09:00:14.000Z"
+      },
+      {
         "key": "O8Soqw-97Cs",
         "name": "Get ready to get ghosted.",
         "type": "Teaser",
         "published_at": "2026-11-11T01:00:20.000Z"
-      },
+      }
+    ]
+  },
+  {
+    "id": 1234139,
+    "title": "Jailer 2",
+    "release_date": "2026-10-14",
+    "poster": "https://image.tmdb.org/t/p/w500/1ei2UWNDRx5xKR7HjvEj17qExvL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+    "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+    "theatrical": true,
+    "trailer_published": "2026-11-11T18:35:39.000Z",
+    "videos": [
       {
-        "key": "Y8smJCZUgMY",
-        "name": "It\u2019s Scrooge Season.",
-        "type": "Teaser",
-        "published_at": "2026-11-10T07:00:28.000Z"
+        "key": "3vkHWYL2JmA",
+        "name": "Official Prime Video Trailer [ENG SUB]",
+        "type": "Trailer",
+        "published_at": "2026-11-11T18:35:39.000Z"
       }
     ]
   },
@@ -768,6 +768,24 @@
     ]
   },
   {
+    "id": 1780407,
+    "title": "Snoopy Presents: 12 Days of Snoopy",
+    "release_date": "2026-11-12",
+    "poster": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
+    "overview": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+    "theatrical": false,
+    "trailer_published": "2026-11-04T13:59:51.000Z",
+    "videos": [
+      {
+        "key": "xUQh-Yj__bA",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-04T13:59:51.000Z"
+      }
+    ]
+  },
+  {
     "id": 1300926,
     "title": "The Angry Birds Movie 3",
     "release_date": "2026-12-23",
@@ -1058,30 +1076,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-29T03:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1268053,
-    "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
-    "release_date": "2027-01-21",
-    "poster": "https://image.tmdb.org/t/p/w500/ed7c0fV7atZyGZ031Ci0D61HSnm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cbjEec6ONqBsWKYUymyJp77TJMy.jpg",
-    "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother\u2019s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles\u2019 terrifying show.",
-    "theatrical": true,
-    "trailer_published": "2026-10-28T20:33:29.000Z",
-    "videos": [
-      {
-        "key": "swcW56xOU3o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T20:33:29.000Z"
-      },
-      {
-        "key": "RZmT7JiCO-s",
-        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
-        "type": "Trailer",
-        "published_at": "2026-10-28T20:00:09.000Z"
       }
     ]
   },
@@ -1654,7 +1648,7 @@
     "title": "Wolves Up Close with Bertie Gregory",
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nQiSQg10DvoaXLFeqkPSDGv6vF7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8uRYkZe2pbQ3m0l7pwb52I2dJyB.jpg",
     "overview": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
     "theatrical": false,
     "trailer_published": "2026-10-15T15:59:56.000Z",
@@ -1814,6 +1808,30 @@
         "name": "REPO! THIS MOVIE: The Anatomy of a Cult (Official Trailer)",
         "type": "Trailer",
         "published_at": "2026-10-13T12:04:04.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1050981,
+    "title": "Being Heumann",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+    "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken\u2014not us.",
+    "theatrical": true,
+    "trailer_published": "2026-10-12T16:00:00.000Z",
+    "videos": [
+      {
+        "key": "CQp2pUXLvJk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-12T16:00:00.000Z"
+      },
+      {
+        "key": "9INUY8uKRyU",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-08-27T17:18:59.000Z"
       }
     ]
   },
@@ -2430,24 +2448,6 @@
     ]
   },
   {
-    "id": 1790284,
-    "title": "The Opera!",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/9sEfDdBkNGb0ffYrzQ9GMKDiHKV.jpg",
-    "backdrop": "",
-    "overview": "The Three Chaps; Prescott, Chogurt, and Dr. Wilbert, await to see Lady Hogsmash LIVE at The Opera. While appreciating some lobby art, a horrific travesty unfolds, leaving The Chaps to wonder if they'll make it out of The Opera House on a high note.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T17:12:50.000Z",
-    "videos": [
-      {
-        "key": "g4GjT78O7xU",
-        "name": "The Opera! - Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-25T17:12:50.000Z"
-      }
-    ]
-  },
-  {
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
@@ -2625,7 +2625,7 @@
     "id": 1381221,
     "title": "Misty Green",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/j8NF67FguTCH8tGu7Du6n8DMcSt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
     "overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
     "theatrical": true,
@@ -2758,7 +2758,7 @@
     "title": "The Beast",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tv4GxpgGF4n8bhBYgJg0ZyAUylF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
     "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
     "theatrical": true,
     "trailer_published": "2026-09-22T16:07:42.000Z",
@@ -2782,7 +2782,7 @@
     "title": "Paper Tiger",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6S41dEoKH2cxw20QgLxhnsQoLQF.jpg",
     "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "theatrical": true,
     "trailer_published": "2026-09-22T16:00:25.000Z",
@@ -3036,20 +3036,20 @@
     ]
   },
   {
-    "id": 1269325,
-    "title": "Drishyam: The Conclusion",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+    "id": 1492198,
+    "title": "Artificial",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/2bz0HPE8OFOqnyvl8sCdVDIg1KX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qt79gpmITExaeb3Y74gxgkVSvaZ.jpg",
+    "overview": "In November 2023, amidst the height of a global AI boom, OpenAI co-founder Ilya Sutskever teamed with the company board to make one of the defining decisions that has drastically reshaped the company as we know it, the firing of current CEO Sam Altman. This controversial decision would lead to immense backlash, ultimately resulting in Altman's return five days later.",
     "theatrical": true,
-    "trailer_published": "2026-09-09T07:43:50.000Z",
+    "trailer_published": "2026-09-08T15:00:25.000Z",
     "videos": [
       {
-        "key": "MFQFxsDWbA8",
-        "name": "Drishyam: The Conclusion - Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
+        "key": "rDZplZFnbOk",
+        "name": "Official Teaser Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-09T07:43:50.000Z"
+        "published_at": "2026-09-08T15:00:25.000Z"
       }
     ]
   },
