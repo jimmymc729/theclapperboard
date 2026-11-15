@@ -1,5 +1,41 @@
 [
   {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-11-14T19:04:14.000Z",
+    "videos": [
+      {
+        "key": "D-n-lqKVr78",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-01T14:33:51.000Z"
+      },
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "BmYmv1JrzQ4",
+        "name": "The #1 Movie in the World kicks off the holiday season.",
+        "type": "Teaser",
+        "published_at": "2026-11-14T19:04:14.000Z"
+      }
+    ]
+  },
+  {
     "id": 1737740,
     "title": "Fresh Meat",
     "release_date": "2026-10-12",
@@ -390,42 +426,6 @@
     ]
   },
   {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-11-12T09:00:14.000Z",
-    "videos": [
-      {
-        "key": "D-n-lqKVr78",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-01T14:33:51.000Z"
-      },
-      {
-        "key": "l_Ozo1xUgbU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-01T12:59:47.000Z"
-      },
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "xEXdGeCPPIM",
-        "name": "The past, present and future all lead here.",
-        "type": "Teaser",
-        "published_at": "2026-11-12T09:00:14.000Z"
-      }
-    ]
-  },
-  {
     "id": 1234139,
     "title": "Jailer 2",
     "release_date": "2026-10-14",
@@ -584,6 +584,36 @@
         "name": "Live your best life with \u2018Crawlers\u2019.",
         "type": "Teaser",
         "published_at": "2026-10-31T15:04:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 607833,
+    "title": "The Intern",
+    "release_date": "2026-10-25",
+    "poster": "https://image.tmdb.org/t/p/w500/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
+    "overview": "Ki-ho, a retiree with 37 years of experience, joins fashion start-up WOO22 a senior intern, he struggles with its digital, unconventional culture. Despite their differences, Ki-ho and Sun-woo, the start-up's young CEO, learn from each other and form an unexpected bond.",
+    "theatrical": false,
+    "trailer_published": "2026-11-09T18:00:22.000Z",
+    "videos": [
+      {
+        "key": "kLFZrwE4b7M",
+        "name": "The Intern (2026) | Official Trailer | Warner Bros. Entertainment",
+        "type": "Trailer",
+        "published_at": "2026-11-09T18:00:22.000Z"
+      },
+      {
+        "key": "XMp9ietHc8A",
+        "name": "Only In Cinemas 1 October [ENG SUB]",
+        "type": "Trailer",
+        "published_at": "2026-09-16T03:15:36.000Z"
+      },
+      {
+        "key": "I9vTsavhOKc",
+        "name": "Only In Cinemas 1 October [ENG SUB]",
+        "type": "Teaser",
+        "published_at": "2026-09-14T02:45:38.000Z"
       }
     ]
   },
@@ -750,11 +780,35 @@
     ]
   },
   {
+    "id": 1493572,
+    "title": "Parivarik ManuRanjan",
+    "release_date": "2026-11-12",
+    "poster": "https://image.tmdb.org/t/p/w500/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9j9DtcTGSSZJVrimys2emN5kVh3.jpg",
+    "overview": "Ranjan Dubey, Lucknow's most eligible bachelor, finds his search for a bride taking an unexpected turn when Helen, his charming new househelp, walks into his life. With everyone having an opinion on this unlikely duo, will their companionship blossom into love?",
+    "theatrical": false,
+    "trailer_published": "2026-11-05T11:47:21.000Z",
+    "videos": [
+      {
+        "key": "ym4y_aPk0io",
+        "name": "Parivarik ManuRanjan | Official Trailer | Sony LIV | Streaming from 13 November",
+        "type": "Trailer",
+        "published_at": "2026-11-05T11:47:21.000Z"
+      },
+      {
+        "key": "Rem5PB5kR1U",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-10-23T10:50:07.000Z"
+      }
+    ]
+  },
+  {
     "id": 1519780,
     "title": "Diary of a Wimpy Kid Christmas: The Getaway",
     "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/q6SR12TFod8m2izUb3b9eUCn7b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dmcmY8WQ6CkPf0ag3Qagrxy8i6w.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/3yqKz67ZbcqYNJcjz7ZqGcnggyc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/11duoXZ23yJPBSUdfyhK7FtZKlD.jpg",
     "overview": "With the stress of the holidays fast approaching, the Heffley family\u2014to Greg's dismay\u2014makes a last-minute decision to escape to an all-inclusive island resort for some much-needed rest and relaxation. As hilarious hijinks ensue, the Heffleys soon discover that paradise may not be everything it's cracked up to be.",
     "theatrical": true,
     "trailer_published": "2026-11-04T17:05:16.000Z",
@@ -986,24 +1040,6 @@
         "name": "Anything for her.",
         "type": "Teaser",
         "published_at": "2026-10-31T16:30:02.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1290035,
-    "title": "Avaraachan & Sons",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/wRKg0WoPV0D3bCl1B5jJtcRdU1Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fvfXiUaexUqCitmOftGBXgNO6Of.jpg",
-    "overview": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
-    "theatrical": true,
-    "trailer_published": "2026-10-31T09:30:00.000Z",
-    "videos": [
-      {
-        "key": "yqGZoRyHrzA",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-10-31T09:30:00.000Z"
       }
     ]
   },
@@ -1329,7 +1365,7 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8nP4lF51Ea861YfHEEqhZBLYv3e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -1442,6 +1478,24 @@
         "name": "COWARD trailer | BFI London Film Festival 2026 \u2013 7-18 October",
         "type": "Trailer",
         "published_at": "2026-09-07T08:34:38.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1802464,
+    "title": "Meethe Mein Kya Hai",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/xTJYIPjyuCbkc7zEtfAFJfVDSV5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5UkQUYXkG4iJH5Ova55lkxDPiCB.jpg",
+    "overview": "A young widower's grief eases at a joyful Diwali reunion \u2014 until his sister's surprise marriage throws the family into chaos.",
+    "theatrical": false,
+    "trailer_published": "2026-10-21T08:30:00.000Z",
+    "videos": [
+      {
+        "key": "Jg8Gz0evaZw",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-21T08:30:00.000Z"
       }
     ]
   },
@@ -1922,6 +1976,24 @@
         "name": "Meet the future of friendship.",
         "type": "Teaser",
         "published_at": "2026-08-22T00:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1297467,
+    "title": "The Exorcist: Martyrs",
+    "release_date": "2027-03-12",
+    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
+    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
+    "theatrical": true,
+    "trailer_published": "2026-10-09T22:31:45.000Z",
+    "videos": [
+      {
+        "key": "iIEYfH-jg1Y",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T22:31:45.000Z"
       }
     ]
   },
@@ -2598,30 +2670,6 @@
     ]
   },
   {
-    "id": 1131943,
-    "title": "Madden",
-    "release_date": "2026-11-18",
-    "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T13:10:37.000Z",
-    "videos": [
-      {
-        "key": "xzh7HzLXXpk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T13:10:37.000Z"
-      },
-      {
-        "key": "KjOL6n0F0T8",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2025-12-26T02:41:22.000Z"
-      }
-    ]
-  },
-  {
     "id": 1381221,
     "title": "Misty Green",
     "release_date": "2026-10-09",
@@ -2898,30 +2946,6 @@
     ]
   },
   {
-    "id": 607833,
-    "title": "The Intern",
-    "release_date": "2026-10-25",
-    "poster": "https://image.tmdb.org/t/p/w500/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
-    "overview": "Ki-ho, a retiree with 37 years of experience, joins fashion start-up WOO22 a senior intern, he struggles with its digital, unconventional culture. Despite their differences, Ki-ho and Sun-woo, the start-up's young CEO, learn from each other and form an unexpected bond.",
-    "theatrical": false,
-    "trailer_published": "2026-09-16T03:15:36.000Z",
-    "videos": [
-      {
-        "key": "XMp9ietHc8A",
-        "name": "Only In Cinemas 1 October [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-09-16T03:15:36.000Z"
-      },
-      {
-        "key": "I9vTsavhOKc",
-        "name": "Only In Cinemas 1 October [ENG SUB]",
-        "type": "Teaser",
-        "published_at": "2026-09-14T02:45:38.000Z"
-      }
-    ]
-  },
-  {
     "id": 1654940,
     "title": "One Year to Live, Buy a Man",
     "release_date": "2026-11-05",
@@ -2996,6 +3020,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-09T13:59:49.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1269325,
+    "title": "Drishyam: The Conclusion",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+    "theatrical": true,
+    "trailer_published": "2026-09-09T07:43:50.000Z",
+    "videos": [
+      {
+        "key": "MFQFxsDWbA8",
+        "name": "Drishyam: The Conclusion - Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
+        "type": "Trailer",
+        "published_at": "2026-09-09T07:43:50.000Z"
       }
     ]
   },
@@ -3138,24 +3180,6 @@
     ]
   },
   {
-    "id": 1458857,
-    "title": "Doing Life",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-    "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-    "theatrical": false,
-    "trailer_published": "2026-08-31T14:00:00.000Z",
-    "videos": [
-      {
-        "key": "zrOtmDQawas",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-31T14:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1736095,
     "title": "Days of Thunder 2",
     "release_date": "2028-06-02",
@@ -3288,20 +3312,20 @@
     ]
   },
   {
-    "id": 1336166,
-    "title": "Rolling Loud: The Movie",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
-    "overview": "Desperate to reconnect with his distant son, a father secretly takes him to the chaos of Rolling Loud, only to plunge into a wild, frantic search across the massive hip-hop festival when the 13-year-old vanishes into the crowd.",
-    "theatrical": true,
-    "trailer_published": "2026-08-19T23:15:57.000Z",
+    "id": 1757386,
+    "title": "Funny Money: The Dane Cook Story",
+    "release_date": "2026-09-29",
+    "poster": "https://image.tmdb.org/t/p/w500/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uK74mGQvWIWE08jxOvSCb64RAj6.jpg",
+    "overview": "Comedian Dane Cook revisits his climb from stand-up stardom\u2014and a devastating family betrayal that cost him millions\u2014in this candid documentary.",
+    "theatrical": false,
+    "trailer_published": "2026-08-19T17:32:20.000Z",
     "videos": [
       {
-        "key": "o_pIiP1A0RY",
-        "name": "Official Trailer",
+        "key": "gJNznIi7hAk",
+        "name": "Funny Money: The Dane Cook Story | Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-08-19T23:15:57.000Z"
+        "published_at": "2026-08-19T17:32:20.000Z"
       }
     ]
   },
@@ -3471,8 +3495,8 @@
     "id": 1433583,
     "title": "The Weight",
     "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/bsrd6ItRwNrg3DGlUDYrEy1S9C1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
     "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he\u2019ll win his freedom.",
     "theatrical": true,
     "trailer_published": "2026-06-25T13:55:02.000Z",
@@ -3491,7 +3515,7 @@
     "release_date": "2027-06-30",
     "poster": "https://image.tmdb.org/t/p/w500/m9jLiemA7t2umlXKptDwtIUHU8l.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
-    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure, this time in the magical city of Further Further Away.",
+    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure\u2014this time traveling to the magical city of Further, Further Away to rescue Felicia, who has left the swamp to learn magic.",
     "theatrical": true,
     "trailer_published": "2026-06-16T15:00:03.000Z",
     "videos": [
@@ -3593,7 +3617,7 @@
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
-    "overview": "When a new threat emerges from a fractured timeline, Team Sonic find themselves facing an adventure unlike anything they've encountered before. With the Chaos Emeralds scattered across different periods in time, Sonic\u2014alongside new friends and old\u2014must journey through the past, present, and future to recover them before a dangerous alternate timeline becomes reality.",
+    "overview": "The fourth installment in the Sonic the Hedgehog film franchise. Plot TBA.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
     "videos": [
@@ -3602,24 +3626,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1314786,
-    "title": "Agent Zeta",
-    "release_date": "2026-03-20",
-    "poster": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
-    "overview": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ci\u00e9naga\" decades ago in Colombia. Zeta, the CNI's best operative, must hunt and protect the sole survivor, facing his deadliest global mission yet. Top Colombian agent Alfa will join Zeta, seemingly knowing more about \"Ci\u00e9naga\"'s secrets than him.",
-    "theatrical": false,
-    "trailer_published": "2026-02-17T21:29:43.000Z",
-    "videos": [
-      {
-        "key": "d56tjzLzYZM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-17T21:29:43.000Z"
       }
     ]
   },
