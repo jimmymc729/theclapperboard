@@ -63,8 +63,8 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-13T18:37:30.000Z",
@@ -172,8 +172,8 @@
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
     "theatrical": true,
     "trailer_published": "2026-11-13T02:04:09.000Z",
     "videos": [
@@ -394,11 +394,17 @@
     "title": "Ebenezer",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-11-12T09:00:14.000Z",
     "videos": [
+      {
+        "key": "D-n-lqKVr78",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-01T14:33:51.000Z"
+      },
       {
         "key": "l_Ozo1xUgbU",
         "name": "Official Trailer 2",
@@ -416,12 +422,6 @@
         "name": "The past, present and future all lead here.",
         "type": "Teaser",
         "published_at": "2026-11-12T09:00:14.000Z"
-      },
-      {
-        "key": "O8Soqw-97Cs",
-        "name": "Get ready to get ghosted.",
-        "type": "Teaser",
-        "published_at": "2026-11-11T01:00:20.000Z"
       }
     ]
   },
@@ -429,7 +429,7 @@
     "id": 1234139,
     "title": "Jailer 2",
     "release_date": "2026-10-14",
-    "poster": "https://image.tmdb.org/t/p/w500/1ei2UWNDRx5xKR7HjvEj17qExvL.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
     "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
     "theatrical": true,
@@ -863,7 +863,7 @@
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "overview": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "theatrical": true,
     "trailer_published": "2026-11-03T20:14:00.000Z",
     "videos": [
@@ -2117,7 +2117,7 @@
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-    "overview": "A former country star, Misty Jones, comes out of seclusion to investigate the disappearance of her missing niece, a rising country musician and must grapple with her own past and Nashville\u2019s seedy underbelly. Her search uncovers a murky side of Nashville where no one, including Misty, is who they seem.",
+    "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
     "theatrical": false,
     "trailer_published": "2026-10-06T13:00:00.000Z",
     "videos": [
@@ -2164,7 +2164,7 @@
     "title": "Heart of the Beast",
     "release_date": "2026-09-25",
     "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "theatrical": true,
     "trailer_published": "2026-10-05T13:55:38.000Z",
@@ -2940,42 +2940,6 @@
     ]
   },
   {
-    "id": 1751701,
-    "title": "After Impact",
-    "release_date": "2026-09-15",
-    "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-    "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family\u2019s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
-    "theatrical": false,
-    "trailer_published": "2026-09-15T04:29:50.000Z",
-    "videos": [
-      {
-        "key": "Af8D6sRDyxo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2025-04-28T08:01:27.000Z"
-      },
-      {
-        "key": "EXh7WUFTJCM",
-        "name": "Release Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-15T04:29:50.000Z"
-      },
-      {
-        "key": "KmlrxAPpYok",
-        "name": "Would You Survive an ASTEROID IMPACT?",
-        "type": "Teaser",
-        "published_at": "2025-05-05T05:00:17.000Z"
-      },
-      {
-        "key": "h9sDzuO6gOk",
-        "name": "Can He ESCAPE?",
-        "type": "Teaser",
-        "published_at": "2025-05-04T05:00:46.000Z"
-      }
-    ]
-  },
-  {
     "id": 1603262,
     "title": "Everest: The Other Side",
     "release_date": "2026-10-30",
@@ -3160,7 +3124,7 @@
     "title": "The Florist",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lpk0MwAn0UA3qCy9Iub4xMe15gv.jpg",
     "overview": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
     "theatrical": true,
     "trailer_published": "2026-09-01T15:13:20.000Z",
@@ -3526,7 +3490,7 @@
     "title": "Shrek 5",
     "release_date": "2027-06-30",
     "poster": "https://image.tmdb.org/t/p/w500/m9jLiemA7t2umlXKptDwtIUHU8l.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bn73lDlt8WBkgdCwbhCodej8603.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
     "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure, this time in the magical city of Further Further Away.",
     "theatrical": true,
     "trailer_published": "2026-06-16T15:00:03.000Z",
@@ -3638,6 +3602,24 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1314786,
+    "title": "Agent Zeta",
+    "release_date": "2026-03-20",
+    "poster": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
+    "overview": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ci\u00e9naga\" decades ago in Colombia. Zeta, the CNI's best operative, must hunt and protect the sole survivor, facing his deadliest global mission yet. Top Colombian agent Alfa will join Zeta, seemingly knowing more about \"Ci\u00e9naga\"'s secrets than him.",
+    "theatrical": false,
+    "trailer_published": "2026-02-17T21:29:43.000Z",
+    "videos": [
+      {
+        "key": "d56tjzLzYZM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-17T21:29:43.000Z"
       }
     ]
   },
