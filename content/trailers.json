@@ -1,9 +1,45 @@
 [
   {
+    "id": 1400336,
+    "title": "Focker-in-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "theatrical": true,
+    "trailer_published": "2026-11-15T18:00:03.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "3ssHu2ULC0I",
+        "name": "A little family competition never hurt anyone... right?",
+        "type": "Teaser",
+        "published_at": "2026-11-15T18:00:03.000Z"
+      },
+      {
+        "key": "ZDYVeygloPU",
+        "name": "The circle of trust must be respected",
+        "type": "Teaser",
+        "published_at": "2026-11-13T02:04:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -75,8 +111,8 @@
     "id": 1737740,
     "title": "Fresh Meat",
     "release_date": "2026-10-12",
-    "poster": "https://image.tmdb.org/t/p/w500/pDO9mCRhWEtl6MRTksWZ1bPBrnZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/19OqRmY4zc6oDLsEODGi9RSmt2I.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cbDWLVV7b3RAHvQBMd7eSvR5gBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/la9E1vASWD7a1lQMCb2Ko3c5njM.jpg",
     "overview": "In the back of a butcher shop, a little girl watches terrifying tales on a screen that must be fed. As its appetite grows, her father must find increasingly gruesome ways to keep the show going.",
     "theatrical": true,
     "trailer_published": "2026-11-13T23:15:04.000Z",
@@ -136,7 +172,7 @@
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-13T18:37:30.000Z",
@@ -204,42 +240,6 @@
     ]
   },
   {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
-    "theatrical": true,
-    "trailer_published": "2026-11-13T02:04:09.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "ZDYVeygloPU",
-        "name": "The circle of trust must be respected",
-        "type": "Teaser",
-        "published_at": "2026-11-13T02:04:09.000Z"
-      },
-      {
-        "key": "erLs3A91-00",
-        "name": "We\u2019re so back with these two.",
-        "type": "Teaser",
-        "published_at": "2026-11-12T23:00:08.000Z"
-      }
-    ]
-  },
-  {
     "id": 1452168,
     "title": "Behemoth!",
     "release_date": "2026-12-04",
@@ -280,7 +280,7 @@
     "title": "Gatto",
     "release_date": "2027-03-05",
     "poster": "https://image.tmdb.org/t/p/w500/jNDWZ8hV7LHATIhaA3pDV5iWWcZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/etB2OT0nUknOAPZV7EgbEbt6HJh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dJyNIzED9PPLraxEdKU5hGkXM0x.jpg",
     "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he\u2019s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose\u2014unless Venice gets the better of him first.",
     "theatrical": true,
     "trailer_published": "2026-11-12T17:00:37.000Z",
@@ -362,30 +362,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-28T13:00:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": 615121,
-    "title": "The Thomas Crown Affair",
-    "release_date": "2027-03-05",
-    "poster": "https://image.tmdb.org/t/p/w500/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4IwoYgyFdBCELwCr9VmEH1u0wwF.jpg",
-    "overview": "A debonair, adventuresome man believes he has pulled off the perfect multi-million dollar heist, only to match wits with an insurance investigator who will do anything to get her man.",
-    "theatrical": true,
-    "trailer_published": "2026-11-12T12:59:56.000Z",
-    "videos": [
-      {
-        "key": "A643rogutGM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-12T12:59:56.000Z"
-      },
-      {
-        "key": "gnm4HgIAVmU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-29T13:00:02.000Z"
       }
     ]
   },
@@ -532,7 +508,7 @@
     "title": "The Beekeeper 2",
     "release_date": "2027-01-15",
     "poster": "https://image.tmdb.org/t/p/w500/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zdZmiPdzrBlioFVvROuA57kPs4G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tKTCTuG63KFQD82M5fvQbfO4fra.jpg",
     "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
     "theatrical": true,
     "trailer_published": "2026-11-10T13:00:19.000Z",
@@ -923,7 +899,7 @@
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "overview": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "theatrical": true,
     "trailer_published": "2026-11-03T20:14:00.000Z",
     "videos": [
@@ -968,24 +944,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-11-03T09:30:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1600653,
-    "title": "The 12 Dates of Christmas",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
-    "overview": "Christina Walker, a successful shop owner who has devoted her energy to her career at the expense of her dating life, goes on 12 dates in the 12 weeks leading up to Christmas hoping to find Mr. Right.",
-    "theatrical": false,
-    "trailer_published": "2026-11-02T20:02:43.000Z",
-    "videos": [
-      {
-        "key": "AGFqDK6CT0U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-02T20:02:43.000Z"
       }
     ]
   },
@@ -1250,6 +1208,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-10-14T19:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1280115,
+    "title": "Way of the Warrior Kid",
+    "release_date": "2026-11-24",
+    "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+    "theatrical": true,
+    "trailer_published": "2026-10-27T12:59:55.000Z",
+    "videos": [
+      {
+        "key": "R1ECMLrwDYQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T12:59:55.000Z"
       }
     ]
   },
@@ -1822,7 +1798,7 @@
     "title": "Narnia: The Magician's Nephew",
     "release_date": "2027-02-12",
     "poster": "https://image.tmdb.org/t/p/w500/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3jA1wHHFl3lUcVdGXq4ZsBscHCU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gQvnOr5S9isMrrV97RtxXZlresC.jpg",
     "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring her back to London.",
     "theatrical": true,
     "trailer_published": "2026-10-13T18:00:00.000Z",
@@ -1928,24 +1904,6 @@
         "name": "Meet the future of friendship.",
         "type": "Teaser",
         "published_at": "2026-08-22T00:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1297467,
-    "title": "The Exorcist: Martyrs",
-    "release_date": "2027-03-12",
-    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
-    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T22:31:45.000Z",
-    "videos": [
-      {
-        "key": "iIEYfH-jg1Y",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T22:31:45.000Z"
       }
     ]
   },
@@ -2150,6 +2108,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-06T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1506980,
+    "title": "Where the River Takes You",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/dnboj8XkMsGZzGOBjOskYGkU6D8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j3v6X31G84DPKjeMBbPjddcRUar.jpg",
+    "overview": "During a farewell carnival, a young artist falls for a stranger who hides a supernatural secret.",
+    "theatrical": true,
+    "trailer_published": "2026-10-05T20:10:28.000Z",
+    "videos": [
+      {
+        "key": "a5W7whQZxqg",
+        "name": "Se a Mar\u00e9 te Trouxe, Fica | Teaser",
+        "type": "Teaser",
+        "published_at": "2026-10-05T20:10:28.000Z"
       }
     ]
   },
@@ -3101,7 +3077,7 @@
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/dI7E0ggldsw2FgEsfi9QcNlfBMT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1pR6uu0e9h4tJiSuYLuiRm7id6x.jpg",
-    "overview": "In 2002 Arkansas, Callie and Minnie\u2019s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie starts to form a complicated bond with Callie\u2019s mother.",
+    "overview": "In 2002 Arkansas, Callie and Minnie\u2019s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie forms a complicated bond with Callie\u2019s mother.",
     "theatrical": true,
     "trailer_published": "2026-09-01T16:01:00.000Z",
     "videos": [
@@ -3596,6 +3572,24 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1314786,
+    "title": "Agent Zeta",
+    "release_date": "2026-03-20",
+    "poster": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
+    "overview": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ci\u00e9naga\" decades ago in Colombia. Zeta, the CNI's best operative, must hunt and protect the sole survivor, facing his deadliest global mission yet. Top Colombian agent Alfa will join Zeta, seemingly knowing more about \"Ci\u00e9naga\"'s secrets than him.",
+    "theatrical": false,
+    "trailer_published": "2026-02-17T21:29:43.000Z",
+    "videos": [
+      {
+        "key": "d56tjzLzYZM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-02-17T21:29:43.000Z"
       }
     ]
   },
