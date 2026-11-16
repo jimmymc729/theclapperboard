@@ -1,5 +1,41 @@
 [
   {
+    "id": 1300968,
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "theatrical": true,
+    "trailer_published": "2026-11-15T17:00:24.000Z",
+    "videos": [
+      {
+        "key": "Dr060OLTodE",
+        "name": "Official Fan Edit Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T13:01:31.000Z"
+      },
+      {
+        "key": "lYXtL5TreOE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-16T13:00:01.000Z"
+      },
+      {
+        "key": "fS35YSjopjE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T13:00:02.000Z"
+      },
+      {
+        "key": "MPx-mPX5nlY",
+        "name": "Every second counts.",
+        "type": "Teaser",
+        "published_at": "2026-11-15T17:00:24.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -128,42 +164,6 @@
         "name": "The Doomsday Global Tour Is Coming.",
         "type": "Teaser",
         "published_at": "2026-11-05T18:11:06.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1300968,
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "theatrical": true,
-    "trailer_published": "2026-11-13T17:00:39.000Z",
-    "videos": [
-      {
-        "key": "Dr060OLTodE",
-        "name": "Official Fan Edit Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T13:01:31.000Z"
-      },
-      {
-        "key": "lYXtL5TreOE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-16T13:00:01.000Z"
-      },
-      {
-        "key": "fS35YSjopjE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T13:00:02.000Z"
-      },
-      {
-        "key": "6CAR4HgLUsA",
-        "name": "One week. One epic story.",
-        "type": "Teaser",
-        "published_at": "2026-11-13T17:00:39.000Z"
       }
     ]
   },
@@ -300,6 +300,24 @@
     ]
   },
   {
+    "id": 1213643,
+    "title": "Killing Castro",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/5pNmqh1lcCGfuXZTWLjMI1wQpVa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ilTcnOBtYq5M7gMrVKvQHNitkOq.jpg",
+    "overview": "In 1960, Fidel Castro comes to America to speak at the UN. He is invited by Malcolm X to stay in Harlem at the famous Hotel Theresa. Unsure of his intentions, the FBI, CIA and the Mafia, all attempt to eliminate him by any means necessary.",
+    "theatrical": true,
+    "trailer_published": "2026-11-12T17:00:01.000Z",
+    "videos": [
+      {
+        "key": "QjQHkF_GyD8",
+        "name": "Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-11-12T17:00:01.000Z"
+      }
+    ]
+  },
+  {
     "id": 940009,
     "title": "Ray Gunn",
     "release_date": "2026-12-04",
@@ -422,6 +440,24 @@
         "name": "Daayra | Official Trailer | Kareena Kapoor, Prithviraj, Meghna Gulzar | Netflix India",
         "type": "Trailer",
         "published_at": "2026-11-12T10:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1823907,
+    "title": "Russell Brand: Open Secret",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+    "overview": "From comedy stardom to a criminal trial, inside voices and archive footage charts British comedian Russell Brand's meteoric rise and steep fall following allegations of sexual offences.",
+    "theatrical": false,
+    "trailer_published": "2026-11-12T08:00:00.000Z",
+    "videos": [
+      {
+        "key": "wiXS3J3LeOA",
+        "name": "Announcement",
+        "type": "Teaser",
+        "published_at": "2026-11-12T08:00:00.000Z"
       }
     ]
   },
@@ -584,36 +620,6 @@
         "name": "Live your best life with \u2018Crawlers\u2019.",
         "type": "Teaser",
         "published_at": "2026-10-31T15:04:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 607833,
-    "title": "The Intern",
-    "release_date": "2026-10-25",
-    "poster": "https://image.tmdb.org/t/p/w500/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
-    "overview": "Ki-ho, a retiree with 37 years of experience, joins fashion start-up WOO22 a senior intern, he struggles with its digital, unconventional culture. Despite their differences, Ki-ho and Sun-woo, the start-up's young CEO, learn from each other and form an unexpected bond.",
-    "theatrical": false,
-    "trailer_published": "2026-11-09T18:00:22.000Z",
-    "videos": [
-      {
-        "key": "kLFZrwE4b7M",
-        "name": "The Intern (2026) | Official Trailer | Warner Bros. Entertainment",
-        "type": "Trailer",
-        "published_at": "2026-11-09T18:00:22.000Z"
-      },
-      {
-        "key": "XMp9ietHc8A",
-        "name": "Only In Cinemas 1 October [ENG SUB]",
-        "type": "Trailer",
-        "published_at": "2026-09-16T03:15:36.000Z"
-      },
-      {
-        "key": "I9vTsavhOKc",
-        "name": "Only In Cinemas 1 October [ENG SUB]",
-        "type": "Teaser",
-        "published_at": "2026-09-14T02:45:38.000Z"
       }
     ]
   },
@@ -916,7 +922,7 @@
     "title": "Other Mommy",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
     "overview": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "theatrical": true,
     "trailer_published": "2026-11-03T20:14:00.000Z",
@@ -1518,24 +1524,6 @@
     ]
   },
   {
-    "id": 1615596,
-    "title": "Best Pancakes in the County",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
-    "overview": "Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.",
-    "theatrical": true,
-    "trailer_published": "2026-10-19T17:00:02.000Z",
-    "videos": [
-      {
-        "key": "JQsr_JLAiq0",
-        "name": "BEST PANCAKES IN THE COUNTY | Official Trailer | Feat. Nicolas Cage, Justin Long & Shelley Hennig",
-        "type": "Trailer",
-        "published_at": "2026-10-19T17:00:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1596275,
     "title": "Drive - The Pretenders",
     "release_date": "2026-10-28",
@@ -1743,7 +1731,7 @@
     "id": 1595124,
     "title": "Steps",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
     "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
     "theatrical": true,
@@ -1904,42 +1892,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-12T14:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1423191,
-    "title": "Resident Evil",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "theatrical": true,
-    "trailer_published": "2026-10-12T10:00:16.000Z",
-    "videos": [
-      {
-        "key": "mNd1gb19A-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T13:00:24.000Z"
-      },
-      {
-        "key": "SJPu1spHqfk",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-30T12:59:32.000Z"
-      },
-      {
-        "key": "gprAaN6RU-U",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-10-12T10:00:16.000Z"
-      },
-      {
-        "key": "IBVetWBLMUA",
-        "name": "In Cinemas Now",
-        "type": "Teaser",
-        "published_at": "2026-10-03T03:00:03.000Z"
       }
     ]
   },
@@ -3147,9 +3099,9 @@
     "id": 1241052,
     "title": "Mouse",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dI7E0ggldsw2FgEsfi9QcNlfBMT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1pR6uu0e9h4tJiSuYLuiRm7id6x.jpg",
-    "overview": "When her closest friendship is suddenly disrupted the summer before senior year, a teenager struggles to find her footing and develops an unexpected, complicated bond with her best friend\u2019s mother.",
+    "overview": "In 2002 Arkansas, Callie and Minnie\u2019s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie starts to form a complicated bond with Callie\u2019s mother.",
     "theatrical": true,
     "trailer_published": "2026-09-01T16:01:00.000Z",
     "videos": [
@@ -3176,6 +3128,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-01T15:13:20.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1458857,
+    "title": "Doing Life",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+    "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+    "theatrical": false,
+    "trailer_published": "2026-08-31T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "zrOtmDQawas",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-31T14:00:00.000Z"
       }
     ]
   },
@@ -3492,24 +3462,6 @@
     ]
   },
   {
-    "id": 1433583,
-    "title": "The Weight",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
-    "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he\u2019ll win his freedom.",
-    "theatrical": true,
-    "trailer_published": "2026-06-25T13:55:02.000Z",
-    "videos": [
-      {
-        "key": "7YpuMymmiJ8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-25T13:55:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 421892,
     "title": "Shrek 5",
     "release_date": "2027-06-30",
@@ -3584,6 +3536,24 @@
         "name": "Evil Dead Wrath has begun its bloody production.",
         "type": "Teaser",
         "published_at": "2026-02-21T17:00:28.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1735270,
+    "title": "Premada Oorali",
+    "release_date": "2026-10-09",
+    "poster": "https://image.tmdb.org/t/p/w500/yZ1CNb3lo1BwMKiSGz0vJbcfdC2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
+    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
+    "theatrical": true,
+    "trailer_published": "2026-04-17T11:53:31.000Z",
+    "videos": [
+      {
+        "key": "271GZatiFG0",
+        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
+        "type": "Teaser",
+        "published_at": "2026-04-17T11:53:31.000Z"
       }
     ]
   },
