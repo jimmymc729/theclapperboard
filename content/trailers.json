@@ -1,5 +1,41 @@
 [
   {
+    "id": 1452168,
+    "title": "Behemoth!",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
+    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+    "theatrical": true,
+    "trailer_published": "2026-11-18T19:01:35.000Z",
+    "videos": [
+      {
+        "key": "I6tMFYT9s7E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T13:00:22.000Z"
+      },
+      {
+        "key": "hzZDdl9C5J8",
+        "name": "Legacy",
+        "type": "Teaser",
+        "published_at": "2026-11-18T19:01:35.000Z"
+      },
+      {
+        "key": "De59Eh13zg8",
+        "name": "In Crisis",
+        "type": "Teaser",
+        "published_at": "2026-11-12T19:01:50.000Z"
+      },
+      {
+        "key": "h4U49V7daAA",
+        "name": "Monster",
+        "type": "Teaser",
+        "published_at": "2026-11-11T19:58:56.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
@@ -105,7 +141,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/bfj5ImMlV9BvISWfLu7sHbdDXS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -237,8 +273,8 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-13T18:37:30.000Z",
@@ -302,42 +338,6 @@
         "name": "The game isn't over yet. Get ready to play again!",
         "type": "Teaser",
         "published_at": "2026-11-07T08:30:39.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1452168,
-    "title": "Behemoth!",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
-    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
-    "theatrical": true,
-    "trailer_published": "2026-11-12T19:01:50.000Z",
-    "videos": [
-      {
-        "key": "I6tMFYT9s7E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T13:00:22.000Z"
-      },
-      {
-        "key": "De59Eh13zg8",
-        "name": "In Crisis",
-        "type": "Teaser",
-        "published_at": "2026-11-12T19:01:50.000Z"
-      },
-      {
-        "key": "h4U49V7daAA",
-        "name": "Monster",
-        "type": "Teaser",
-        "published_at": "2026-11-11T19:58:56.000Z"
-      },
-      {
-        "key": "AU-RKacXbZ0",
-        "name": "Get Tickets Now",
-        "type": "Teaser",
-        "published_at": "2026-11-10T18:00:10.000Z"
       }
     ]
   },
@@ -522,30 +522,6 @@
     ]
   },
   {
-    "id": 1611767,
-    "title": "Clashing Through the Snow",
-    "release_date": "2026-11-23",
-    "poster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
-    "overview": "After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.",
-    "theatrical": true,
-    "trailer_published": "2026-11-10T20:30:02.000Z",
-    "videos": [
-      {
-        "key": "nOyT9RkGRn4",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-10T15:59:56.000Z"
-      },
-      {
-        "key": "798vrWRtKBQ",
-        "name": "CLASHING THROUGH THE SNOW Trailer (2026) Christopher Briney, Michelle Randolph",
-        "type": "Trailer",
-        "published_at": "2026-11-10T20:30:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1340208,
     "title": "Kar\u014dshi",
     "release_date": "2027-02-05",
@@ -573,7 +549,7 @@
     "id": 1391239,
     "title": "The Debut",
     "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/qk8qWJxM9hZSbSjSoEz0LAzcoPb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
     "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
     "theatrical": true,
@@ -659,7 +635,7 @@
       },
       {
         "key": "5CXCFHU9K9s",
-        "name": "In Cinemas Now [Dubbed]",
+        "name": "In Cinemas Now",
         "type": "Teaser",
         "published_at": "2026-11-06T01:00:27.000Z"
       }
@@ -692,6 +668,36 @@
         "name": "Live your best life with \u2018Crawlers\u2019.",
         "type": "Teaser",
         "published_at": "2026-10-31T15:04:33.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1480503,
+    "title": "CoComelon: The Movie",
+    "release_date": "2027-02-19",
+    "poster": "https://image.tmdb.org/t/p/w500/hLkIFdfDq0LuHDfRUzSU2DRiPW4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
+    "overview": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
+    "theatrical": true,
+    "trailer_published": "2026-11-09T16:12:49.000Z",
+    "videos": [
+      {
+        "key": "HGZZJClFIa0",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-08-06T15:00:21.000Z"
+      },
+      {
+        "key": "483lXUwFHi0",
+        "name": "COCOMELON: The Movie Trailer (2027)",
+        "type": "Trailer",
+        "published_at": "2026-11-09T16:12:49.000Z"
+      },
+      {
+        "key": "JciwN7x6mB8",
+        "name": "Official New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-09T16:00:33.000Z"
       }
     ]
   },
@@ -735,7 +741,7 @@
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/5jO6rhfethzH7xdWl6KCOxCNCzQ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -1066,7 +1072,7 @@
     "title": "Clayface",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self\u2026 but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "theatrical": true,
     "trailer_published": "2026-10-31T16:30:02.000Z",
@@ -1156,7 +1162,7 @@
     "title": "Never Surrender",
     "release_date": "2026-11-12",
     "poster": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
     "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
     "theatrical": false,
     "trailer_published": "2026-10-29T03:00:00.000Z",
@@ -1950,24 +1956,6 @@
     ]
   },
   {
-    "id": 1512493,
-    "title": "LEGO Friends: Heartlake the Musical",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
-    "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark \u2013 with plenty of song and dance numbers along the way.",
-    "theatrical": false,
-    "trailer_published": "2026-10-09T14:00:15.000Z",
-    "videos": [
-      {
-        "key": "0rT0C92Z2ks",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T14:00:15.000Z"
-      }
-    ]
-  },
-  {
     "id": 1389379,
     "title": "Ranabaali",
     "release_date": "2026-10-16",
@@ -2157,8 +2145,8 @@
     "id": 1543469,
     "title": "Heartland",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/pg8me0oPc8CGEEmpgwqZ1EMmKnx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
     "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
     "theatrical": false,
     "trailer_published": "2026-10-06T13:00:00.000Z",
@@ -2644,8 +2632,8 @@
     "title": "Madden",
     "release_date": "2026-11-18",
     "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
     "theatrical": true,
     "trailer_published": "2026-09-24T13:10:37.000Z",
     "videos": [
@@ -2840,30 +2828,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-08-10T16:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1561336,
-    "title": "2 Valid IDs",
-    "release_date": "2026-10-21",
-    "poster": "https://image.tmdb.org/t/p/w500/czzvlkANCVTtJKzl01a2yZ4ooBE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6qX6bRpcAsAMQ68iDBRQlDFWJyy.jpg",
-    "overview": "A poor farmer, unable to claim a remittance because she lacks the required two valid IDs, finds herself in a situation that challenges her character, beliefs, and morality.",
-    "theatrical": false,
-    "trailer_published": "2026-09-19T04:00:04.000Z",
-    "videos": [
-      {
-        "key": "TbJXOHeBfWw",
-        "name": "2 Valid IDs (2026) Official Trailer #2 - Pokwang, Merryl Soriano, Joey Marquez | Theatrical Release",
-        "type": "Trailer",
-        "published_at": "2026-09-19T04:00:04.000Z"
-      },
-      {
-        "key": "VxuGPUkWOPs",
-        "name": "Cinemalaya 22: 2 VALID IDs | Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T17:02:45.000Z"
       }
     ]
   },
@@ -3210,6 +3174,24 @@
     ]
   },
   {
+    "id": 1747585,
+    "title": "La Gran Sangre: ojo x ojo",
+    "release_date": "2026-11-12",
+    "poster": "https://image.tmdb.org/t/p/w500/23HthTIgBSXV2lYpXMHt6bvNwRt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lEEkKMw7jSHRtVtFnAz5yU2Qb6k.jpg",
+    "overview": "Two decades later, Tony Blades, Mandril, and El Drag\u00f3n are released from prison to confront a mafia controlling the R\u00edmac district. In a Lima plagued by extortion and contract killings, the iconic vigilante group returns without a shred of mercy, ready to fight crime by their own rules.",
+    "theatrical": false,
+    "trailer_published": "2026-08-27T05:12:31.000Z",
+    "videos": [
+      {
+        "key": "V05d2uRcW7A",
+        "name": "La Gran Sangre Ojo por Ojo / Tr\u00e1iler Oficial",
+        "type": "Trailer",
+        "published_at": "2026-08-27T05:12:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1483525,
     "title": "Possible Love",
     "release_date": "2026-10-23",
@@ -3270,6 +3252,24 @@
     ]
   },
   {
+    "id": 1336166,
+    "title": "Rolling Loud: The Movie",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
+    "overview": "Desperate to reconnect with his distant son, a father secretly takes him to the chaos of Rolling Loud, only to plunge into a wild, frantic search across the massive hip-hop festival when the 13-year-old vanishes into the crowd.",
+    "theatrical": true,
+    "trailer_published": "2026-08-19T23:15:57.000Z",
+    "videos": [
+      {
+        "key": "o_pIiP1A0RY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T23:15:57.000Z"
+      }
+    ]
+  },
+  {
     "id": 1757386,
     "title": "Funny Money: The Dane Cook Story",
     "release_date": "2026-09-29",
@@ -3292,7 +3292,7 @@
     "title": "Club Kid",
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m5zcXuV4qR9fBgXjPndLIPOcasF.jpg",
     "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
     "theatrical": true,
     "trailer_published": "2026-08-19T12:07:41.000Z",
@@ -3575,7 +3575,7 @@
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
-    "overview": "The fourth installment in the Sonic the Hedgehog film franchise. Plot TBA.",
+    "overview": "When a new threat emerges from a fractured timeline, Team Sonic finds themselves facing an adventure unlike anything they've encountered before. With the Chaos Emeralds scattered across different periods in time, Sonic\u2014alongside new friends and old\u2014must journey through the past, present, and future to recover them before a dangerous alternate timeline becomes reality.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
     "videos": [
