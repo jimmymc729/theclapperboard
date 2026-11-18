@@ -1,5 +1,41 @@
 [
   {
+    "id": 1170608,
+    "title": "Dune: Part Three",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "theatrical": true,
+    "trailer_published": "2026-11-17T19:00:19.000Z",
+    "videos": [
+      {
+        "key": "uJqaGLmZpGo",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T16:00:34.000Z"
+      },
+      {
+        "key": "NdvqHc56lE0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-08T17:59:03.000Z"
+      },
+      {
+        "key": "3_9vCamtuPY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-17T16:19:02.000Z"
+      },
+      {
+        "key": "rw7sMwwnNuk",
+        "name": "Each step brings us closer to the end.",
+        "type": "Teaser",
+        "published_at": "2026-11-17T19:00:19.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400336,
     "title": "Focker-in-Law",
     "release_date": "2026-11-25",
@@ -36,10 +72,40 @@
     ]
   },
   {
+    "id": 1425859,
+    "title": "Remain",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/5hPNq5h2y8Ux6nPBRMEwZ8npVTp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v7kL3an4ornAOWOxZucZilfTDbR.jpg",
+    "overview": "When reclusive architect Tate Gordon moves to small coastal town to complete his latest project, he encounters an alluring young woman who pulls him out of his shell, and into the center of a deadly mystery that hangs over the town.",
+    "theatrical": true,
+    "trailer_published": "2026-11-16T23:00:05.000Z",
+    "videos": [
+      {
+        "key": "Fso81Ypg9T4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-16T20:00:07.000Z"
+      },
+      {
+        "key": "V7f0cMdPdCQ",
+        "name": "Close enough to touch.",
+        "type": "Teaser",
+        "published_at": "2026-11-16T23:00:05.000Z"
+      },
+      {
+        "key": "h969bLwxgKc",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-08T16:00:36.000Z"
+      }
+    ]
+  },
+  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bfj5ImMlV9BvISWfLu7sHbdDXS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -402,24 +468,6 @@
     ]
   },
   {
-    "id": 1215889,
-    "title": "Daayra",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
-    "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
-    "theatrical": true,
-    "trailer_published": "2026-11-12T10:30:00.000Z",
-    "videos": [
-      {
-        "key": "nb4Qb89zgmU",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-11-12T10:30:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1823907,
     "title": "Russell Brand: Open Secret",
     "release_date": "2026-11-13",
@@ -459,8 +507,8 @@
     "id": 1234139,
     "title": "Jailer 2",
     "release_date": "2026-10-14",
-    "poster": "https://image.tmdb.org/t/p/w500/ggksxezKElvrpiL8grnGFBTAueP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bBYKsp4k3wEeiVQtcrH5efCEFdK.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uxGoKyTnXylK5M4z1hyyaWbmBV7.jpg",
     "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
     "theatrical": true,
     "trailer_published": "2026-11-11T18:35:39.000Z",
@@ -648,36 +696,6 @@
     ]
   },
   {
-    "id": 1480503,
-    "title": "CoComelon: The Movie",
-    "release_date": "2027-02-19",
-    "poster": "https://image.tmdb.org/t/p/w500/hLkIFdfDq0LuHDfRUzSU2DRiPW4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
-    "overview": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
-    "theatrical": true,
-    "trailer_published": "2026-11-09T16:12:49.000Z",
-    "videos": [
-      {
-        "key": "HGZZJClFIa0",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-08-06T15:00:21.000Z"
-      },
-      {
-        "key": "483lXUwFHi0",
-        "name": "COCOMELON: The Movie Trailer (2027)",
-        "type": "Trailer",
-        "published_at": "2026-11-09T16:12:49.000Z"
-      },
-      {
-        "key": "JciwN7x6mB8",
-        "name": "Official New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-09T16:00:33.000Z"
-      }
-    ]
-  },
-  {
     "id": 1437396,
     "title": "Your Mother Your Mother Your Mother",
     "release_date": "2026-09-25",
@@ -717,7 +735,7 @@
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/yQggulnRAvssNRGpxOMf8CfVim6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/5jO6rhfethzH7xdWl6KCOxCNCzQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
@@ -861,7 +879,7 @@
     "id": 1519780,
     "title": "Diary of a Wimpy Kid Christmas: The Getaway",
     "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/3yqKz67ZbcqYNJcjz7ZqGcnggyc.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/aHHIMSaXLnHZlWW15cZx9bBc0kq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/11duoXZ23yJPBSUdfyhK7FtZKlD.jpg",
     "overview": "With the stress of the holidays fast approaching, the Heffley family\u2014to Greg's dismay\u2014makes a last-minute decision to escape to an all-inclusive island resort for some much-needed rest and relaxation. As hilarious hijinks ensue, the Heffleys soon discover that paradise may not be everything it's cracked up to be.",
     "theatrical": true,
@@ -1005,7 +1023,7 @@
     "id": 1570467,
     "title": "Frequency of Fear",
     "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/aUAHtBalyuiMMu8dz2iJN90kYm6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uhPybdQtmsHmzU7Fc3R8zaW1jZF.jpg",
     "overview": "In September 2024, a covert Israeli operation took aim at decimating Islamist militant group Hezbollah, in which thousands of pagers and walkie-talkies in the possession of its operatives exploded simultaneously in Lebanon.",
     "theatrical": false,
@@ -1220,42 +1238,6 @@
         "name": "Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-06-16T16:01:06.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1170608,
-    "title": "Dune: Part Three",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "theatrical": true,
-    "trailer_published": "2026-10-27T20:20:02.000Z",
-    "videos": [
-      {
-        "key": "uJqaGLmZpGo",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-27T16:00:34.000Z"
-      },
-      {
-        "key": "NdvqHc56lE0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-08T17:59:03.000Z"
-      },
-      {
-        "key": "3_9vCamtuPY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-17T16:19:02.000Z"
-      },
-      {
-        "key": "9wcY35vOcJc",
-        "name": "Words without power. Watch the final trailer for Dune: Part Three.",
-        "type": "Teaser",
-        "published_at": "2026-10-27T20:20:02.000Z"
       }
     ]
   },
@@ -1684,7 +1666,7 @@
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-10-15T18:00:12.000Z",
@@ -1830,20 +1812,26 @@
     ]
   },
   {
-    "id": 1551025,
-    "title": "Guarding Stars",
-    "release_date": "2026-11-18",
-    "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+    "id": 1299329,
+    "title": "Josephine",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg",
+    "overview": "After eight-year-old Josephine accidentally witnesses a brutal assault, she begins acting out violently to protect herself. This emotional trauma leads to conflicts between her parents as they search for justice and a way to feel safe again.",
     "theatrical": true,
-    "trailer_published": "2026-10-14T14:00:00.000Z",
+    "trailer_published": "2026-10-14T16:00:01.000Z",
     "videos": [
       {
-        "key": "mFvtVPMa5ak",
+        "key": "d7NLG3IfowQ",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-14T14:00:00.000Z"
+        "published_at": "2026-10-14T16:00:01.000Z"
+      },
+      {
+        "key": "K32NPBLpqZI",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-08-11T15:00:01.000Z"
       }
     ]
   },
@@ -1958,6 +1946,24 @@
         "name": "Meet the future of friendship.",
         "type": "Teaser",
         "published_at": "2026-08-22T00:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1512493,
+    "title": "LEGO Friends: Heartlake the Musical",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
+    "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark \u2013 with plenty of song and dance numbers along the way.",
+    "theatrical": false,
+    "trailer_published": "2026-10-09T14:00:15.000Z",
+    "videos": [
+      {
+        "key": "0rT0C92Z2ks",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T14:00:15.000Z"
       }
     ]
   },
@@ -2151,7 +2157,7 @@
     "id": 1543469,
     "title": "Heartland",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pg8me0oPc8CGEEmpgwqZ1EMmKnx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
     "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
     "theatrical": false,
@@ -2437,7 +2443,7 @@
   },
   {
     "id": 1422041,
-    "title": "La Bola Negra",
+    "title": "LA BOLA NEGRA",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
@@ -2634,6 +2640,30 @@
     ]
   },
   {
+    "id": 1131943,
+    "title": "Madden",
+    "release_date": "2026-11-18",
+    "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football\u2019s most recognizable voice, to building the worldwide Madden NFL video game.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T13:10:37.000Z",
+    "videos": [
+      {
+        "key": "xzh7HzLXXpk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-24T13:10:37.000Z"
+      },
+      {
+        "key": "KjOL6n0F0T8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-12-26T02:41:22.000Z"
+      }
+    ]
+  },
+  {
     "id": 1381221,
     "title": "Misty Green",
     "release_date": "2026-10-09",
@@ -2770,7 +2800,7 @@
     "title": "The Beast",
     "release_date": "2026-10-09",
     "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
     "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
     "theatrical": true,
     "trailer_published": "2026-09-22T16:07:42.000Z",
@@ -3054,30 +3084,6 @@
     ]
   },
   {
-    "id": 1641629,
-    "title": "You+Me - Against the World",
-    "release_date": "2026-09-18",
-    "poster": "https://image.tmdb.org/t/p/w500/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love \u2014 despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
-    "theatrical": false,
-    "trailer_published": "2026-09-03T07:00:48.000Z",
-    "videos": [
-      {
-        "key": "z2Bw_nTXjG4",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-03T07:00:48.000Z"
-      },
-      {
-        "key": "a4JBA0NBTwU",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-07-08T15:00:37.000Z"
-      }
-    ]
-  },
-  {
     "id": 1528009,
     "title": "The Restoration at Grayson Manor",
     "release_date": "2026-10-29",
@@ -3117,7 +3123,7 @@
     "id": 1241052,
     "title": "Mouse",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dI7E0ggldsw2FgEsfi9QcNlfBMT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1pR6uu0e9h4tJiSuYLuiRm7id6x.jpg",
     "overview": "In 2002 Arkansas, Callie and Minnie\u2019s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie forms a complicated bond with Callie\u2019s mother.",
     "theatrical": true,
