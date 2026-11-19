@@ -72,6 +72,42 @@
     ]
   },
   {
+    "id": 1461490,
+    "title": "Hershey",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/ojd8Gu2bPsOzdMz6Ip5AYDu4Vki.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mFAalGTR6PBJPPNbjVklMJ6OhSB.jpg",
+    "overview": "Based on the life of Milton Hershey, founder of the iconic Hershey chocolate company. Milton's grit and determination to conquer the world of candy-making propel him from bankruptcy to monumental success, and the love of his life, Kitty, helps him build a legacy sweeter than any candy bar. But when Kitty falls ill, Milton\u2019s wild optimism teeters on the edge of destruction, and she sparks an even bolder dream: to leave their fortune in the hands of America\u2019s children in need.",
+    "theatrical": true,
+    "trailer_published": "2026-11-18T18:00:10.000Z",
+    "videos": [
+      {
+        "key": "NsHJw58wWRg",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-02T17:00:06.000Z"
+      },
+      {
+        "key": "Dihu6iM__rI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T16:43:24.000Z"
+      },
+      {
+        "key": "XGtQ_p5VgnU",
+        "name": "7 days. HERSHEY is almost here. Don\u2019t wait on tickets.",
+        "type": "Teaser",
+        "published_at": "2026-11-18T18:00:10.000Z"
+      },
+      {
+        "key": "Q92xVHFAtQY",
+        "name": "Two weeks until the love story behind one of America\u2019s most iconic names hits the big screen.",
+        "type": "Teaser",
+        "published_at": "2026-11-11T23:00:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
@@ -104,6 +140,30 @@
         "name": "ONE. MONTH. LEFT.",
         "type": "Teaser",
         "published_at": "2026-11-18T17:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1492198,
+    "title": "Artificial",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/tD4JOGcI5SSBKSFo4coObYwRlxE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qt79gpmITExaeb3Y74gxgkVSvaZ.jpg",
+    "overview": "In November 2023, amidst the height of a global AI boom, OpenAI co-founder Ilya Sutskever teamed with the company board to make one of the defining decisions that has drastically reshaped the company as we know it, the firing of current CEO Sam Altman. This controversial decision would lead to immense backlash, ultimately resulting in Altman's return five days later.",
+    "theatrical": true,
+    "trailer_published": "2026-11-18T17:00:10.000Z",
+    "videos": [
+      {
+        "key": "ufeJbTNq-BI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-18T17:00:10.000Z"
+      },
+      {
+        "key": "rDZplZFnbOk",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:00:25.000Z"
       }
     ]
   },
@@ -309,7 +369,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -405,7 +465,7 @@
     "id": 1213643,
     "title": "Killing Castro",
     "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/5pNmqh1lcCGfuXZTWLjMI1wQpVa.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/fagy0gsiGr6HdrDs59pptyBic5F.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ilTcnOBtYq5M7gMrVKvQHNitkOq.jpg",
     "overview": "In 1960, Fidel Castro comes to America to speak at the UN. He is invited by Malcolm X to stay in Harlem at the famous Hotel Theresa. Unsure of his intentions, the FBI, CIA and the Mafia, all attempt to eliminate him by any means necessary.",
     "theatrical": true,
@@ -1098,30 +1158,6 @@
     ]
   },
   {
-    "id": 1137888,
-    "title": "The Man with the Bag",
-    "release_date": "2026-12-02",
-    "poster": "https://image.tmdb.org/t/p/w500/s5nq2q5tB9N0nUYsZE9LR1BuQw6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pi8c5iEPamGFaZSnxaMSVSLhMlr.jpg",
-    "overview": "After Santa\u2019s magic bag is stolen, he turns to his naughty list to find Vance, a thief, to help him get it back. Along with his daughter, Santa, and a group of misfits, Vance will have to pull off the greatest heist of his life to save Christmas.",
-    "theatrical": true,
-    "trailer_published": "2026-11-02T13:59:59.000Z",
-    "videos": [
-      {
-        "key": "PEVkJHLq4rQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-02T13:59:59.000Z"
-      },
-      {
-        "key": "Lyztl-xEeFM",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-30T12:59:50.000Z"
-      }
-    ]
-  },
-  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -1270,7 +1306,7 @@
     "title": "Hexed",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pYIJeLvfbVamFGO6hOERGVP2gTf.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
     "trailer_published": "2026-10-28T00:44:28.000Z",
@@ -2166,35 +2202,11 @@
     ]
   },
   {
-    "id": 1599230,
-    "title": "Elsinore",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
-    "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-07T09:00:05.000Z",
-    "videos": [
-      {
-        "key": "TpNEh5vvAns",
-        "name": "International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-07T09:00:05.000Z"
-      },
-      {
-        "key": "SzopCeFAWF0",
-        "name": "US Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-28T15:00:01.000Z"
-      }
-    ]
-  },
-  {
     "id": 1543469,
     "title": "Heartland",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
     "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
     "theatrical": false,
     "trailer_published": "2026-10-06T13:00:00.000Z",
@@ -2260,7 +2272,7 @@
     "title": "The Cat in the Hat",
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
     "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
     "theatrical": true,
     "trailer_published": "2026-10-01T16:00:22.000Z",
@@ -2288,6 +2300,42 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2025-07-01T16:00:29.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1401433,
+    "title": "Appofeniacs",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
+    "overview": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life\u2026 or end it.",
+    "theatrical": true,
+    "trailer_published": "2026-10-01T01:00:11.000Z",
+    "videos": [
+      {
+        "key": "txD8Y8Pv1rY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-12T18:00:31.000Z"
+      },
+      {
+        "key": "J1Fypndcou8",
+        "name": "Official Red Band Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-06T19:00:06.000Z"
+      },
+      {
+        "key": "2y5IqzD6H8Y",
+        "name": "In Theaters October 2nd",
+        "type": "Teaser",
+        "published_at": "2026-10-01T01:00:11.000Z"
+      },
+      {
+        "key": "oQK7E26dLL4",
+        "name": "Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2025-09-16T16:17:36.000Z"
       }
     ]
   },
@@ -2493,8 +2541,8 @@
     "id": 1765072,
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
     "trailer_published": "2026-09-25T17:00:28.000Z",
@@ -2844,20 +2892,26 @@
     ]
   },
   {
-    "id": 1154730,
-    "title": "La Gradiva",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kt8bR6HCWto7MRzLy1J67OVeOpy.jpg",
-    "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
-    "theatrical": true,
-    "trailer_published": "2026-09-18T23:08:33.000Z",
+    "id": 1561336,
+    "title": "2 Valid IDs",
+    "release_date": "2026-10-21",
+    "poster": "https://image.tmdb.org/t/p/w500/czzvlkANCVTtJKzl01a2yZ4ooBE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6qX6bRpcAsAMQ68iDBRQlDFWJyy.jpg",
+    "overview": "A poor farmer, unable to claim a remittance because she lacks the required two valid IDs, finds herself in a situation that challenges her character, beliefs, and morality.",
+    "theatrical": false,
+    "trailer_published": "2026-09-19T04:00:04.000Z",
     "videos": [
       {
-        "key": "5yY6V9MbEoE",
-        "name": "Official Trailer [Subtitled]",
+        "key": "TbJXOHeBfWw",
+        "name": "2 Valid IDs (2026) Official Trailer #2 - Pokwang, Merryl Soriano, Joey Marquez | Theatrical Release",
         "type": "Trailer",
-        "published_at": "2026-09-18T23:08:33.000Z"
+        "published_at": "2026-09-19T04:00:04.000Z"
+      },
+      {
+        "key": "VxuGPUkWOPs",
+        "name": "Cinemalaya 22: 2 VALID IDs | Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-14T17:02:45.000Z"
       }
     ]
   },
@@ -2982,6 +3036,24 @@
     ]
   },
   {
+    "id": 1287520,
+    "title": "November 1963",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/ujp2aHu1lWMjAGoletnsmv3mcMn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ppQKMpC4WhEumnzu4aAcWjAr7WU.jpg",
+    "overview": "Follows the 48 hours after the assassination of President John F. Kennedy, the alleged involvement of Sam Giancana and the 'Chicago Outfit', and a supposed broken promise after the mob helped to get Kennedy elected.",
+    "theatrical": true,
+    "trailer_published": "2026-09-10T17:04:56.000Z",
+    "videos": [
+      {
+        "key": "8N9e-skJ3hw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-10T17:04:56.000Z"
+      }
+    ]
+  },
+  {
     "id": 1630237,
     "title": "Treasure Trekkers",
     "release_date": "2026-10-09",
@@ -3100,7 +3172,7 @@
     "title": "Mouse",
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1pR6uu0e9h4tJiSuYLuiRm7id6x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pWxGu2Is2J0kReGDbQazGvrxJI9.jpg",
     "overview": "In 2002 Arkansas, Callie and Minnie\u2019s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie forms a complicated bond with Callie\u2019s mother.",
     "theatrical": true,
     "trailer_published": "2026-09-01T16:01:00.000Z",
@@ -3384,30 +3456,6 @@
     ]
   },
   {
-    "id": 1596249,
-    "title": "Ha-Chan, Shake Your Booty!",
-    "release_date": "2026-09-23",
-    "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dEu8lwu4q6k3m8xOLxGJzYoxjix.jpg",
-    "overview": "Haru and Luis love competing in Tokyo\u2019s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly.",
-    "theatrical": true,
-    "trailer_published": "2026-07-29T15:03:02.000Z",
-    "videos": [
-      {
-        "key": "Ik4lJmXgR6U",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-29T15:03:02.000Z"
-      },
-      {
-        "key": "GIrVOYiO1Uk",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-05-14T18:04:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1148365,
     "title": "Matchbox the Movie",
     "release_date": "2026-10-05",
@@ -3554,30 +3602,6 @@
         "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
         "type": "Teaser",
         "published_at": "2026-04-17T11:53:31.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1280300,
-    "title": "The Whistler",
-    "release_date": "2026-04-17",
-    "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-    "overview": "Reeling from their daughter's loss, Nicole and Sebastian come into possession of a secluded Venezuelan farm, unaware of the dark forces they're about to face.",
-    "theatrical": false,
-    "trailer_published": "2026-03-24T16:04:59.000Z",
-    "videos": [
-      {
-        "key": "8PNnVN8NSHk",
-        "name": "The Whistler | Official Trailer (HD) | Vertical",
-        "type": "Trailer",
-        "published_at": "2026-03-23T22:18:04.000Z"
-      },
-      {
-        "key": "i6uYYq41vWU",
-        "name": "The Whistler | Official Trailer | Horror Brains",
-        "type": "Trailer",
-        "published_at": "2026-03-24T16:04:59.000Z"
       }
     ]
   },
