@@ -36,6 +36,42 @@
     ]
   },
   {
+    "id": 891621,
+    "title": "Wild Horse Nine",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
+    "theatrical": true,
+    "trailer_published": "2026-11-18T18:01:39.000Z",
+    "videos": [
+      {
+        "key": "kqxuamKxRTo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-23T13:00:09.000Z"
+      },
+      {
+        "key": "Haw_sznA5aQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-19T13:00:19.000Z"
+      },
+      {
+        "key": "ttqkSOIaRjA",
+        "name": "Women's March",
+        "type": "Teaser",
+        "published_at": "2026-11-18T18:01:39.000Z"
+      },
+      {
+        "key": "RPpFc_oKcZc",
+        "name": "Now Playing in Theaters",
+        "type": "Teaser",
+        "published_at": "2026-11-13T21:00:21.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
@@ -43,7 +79,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
     "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
     "theatrical": true,
-    "trailer_published": "2026-11-17T19:00:19.000Z",
+    "trailer_published": "2026-11-18T17:00:23.000Z",
     "videos": [
       {
         "key": "uJqaGLmZpGo",
@@ -64,10 +100,82 @@
         "published_at": "2026-03-17T16:19:02.000Z"
       },
       {
-        "key": "rw7sMwwnNuk",
-        "name": "Each step brings us closer to the end.",
+        "key": "OAUnScp6fYA",
+        "name": "ONE. MONTH. LEFT.",
         "type": "Teaser",
-        "published_at": "2026-11-17T19:00:19.000Z"
+        "published_at": "2026-11-18T17:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1300968,
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "theatrical": true,
+    "trailer_published": "2026-11-18T16:00:21.000Z",
+    "videos": [
+      {
+        "key": "Dr060OLTodE",
+        "name": "Official Fan Edit Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T13:01:31.000Z"
+      },
+      {
+        "key": "lYXtL5TreOE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-16T13:00:01.000Z"
+      },
+      {
+        "key": "fS35YSjopjE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T13:00:02.000Z"
+      },
+      {
+        "key": "mnIm4tk8HQE",
+        "name": "TOMORROW",
+        "type": "Teaser",
+        "published_at": "2026-11-18T16:00:21.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1340208,
+    "title": "Kar\u014dshi",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/xOwetUoCyca3yYlqZ5rlElgXiTV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9BV0sX13uzERMgamOFslyFD5Dqk.jpg",
+    "overview": "In a near-future Manhattan corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker's death, he exposes the violent system hidden beneath its polished surface.",
+    "theatrical": true,
+    "trailer_published": "2026-11-17T17:00:38.000Z",
+    "videos": [
+      {
+        "key": "jQHoAsDcjVU",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-05T16:01:18.000Z"
+      },
+      {
+        "key": "0E3eYiAkaGg",
+        "name": "Welcome to Ikigai, where your worst workplace experiences are your greatest asset.",
+        "type": "Teaser",
+        "published_at": "2026-11-17T17:00:38.000Z"
+      },
+      {
+        "key": "lYXAhHwq7xk",
+        "name": "Revenge starts at the top.",
+        "type": "Teaser",
+        "published_at": "2026-11-16T18:31:06.000Z"
+      },
+      {
+        "key": "-AF8E2LvtRA",
+        "name": "Their success is your sacrifice.",
+        "type": "Teaser",
+        "published_at": "2026-11-10T18:00:37.000Z"
       }
     ]
   },
@@ -100,10 +208,10 @@
         "published_at": "2026-11-17T10:30:36.000Z"
       },
       {
-        "key": "LGMqYySyOK4",
-        "name": "Never shaken, always ready to stir. Robert De Niro returns in Focker-in-Law.",
+        "key": "9ZNZgHJpgHs",
+        "name": "Talent runs in the family.",
         "type": "Teaser",
-        "published_at": "2026-11-16T18:02:07.000Z"
+        "published_at": "2026-11-17T05:00:16.000Z"
       }
     ]
   },
@@ -138,47 +246,11 @@
     ]
   },
   {
-    "id": 1300968,
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "theatrical": true,
-    "trailer_published": "2026-11-16T17:59:38.000Z",
-    "videos": [
-      {
-        "key": "Dr060OLTodE",
-        "name": "Official Fan Edit Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T13:01:31.000Z"
-      },
-      {
-        "key": "lYXtL5TreOE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-16T13:00:01.000Z"
-      },
-      {
-        "key": "fS35YSjopjE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T13:00:02.000Z"
-      },
-      {
-        "key": "0OHZYI242VA",
-        "name": "Tell everyone.",
-        "type": "Teaser",
-        "published_at": "2026-11-16T17:59:38.000Z"
-      }
-    ]
-  },
-  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-11-14T19:04:14.000Z",
@@ -234,47 +306,11 @@
     ]
   },
   {
-    "id": 891621,
-    "title": "Wild Horse Nine",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
-    "theatrical": true,
-    "trailer_published": "2026-11-13T21:00:21.000Z",
-    "videos": [
-      {
-        "key": "kqxuamKxRTo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-23T13:00:09.000Z"
-      },
-      {
-        "key": "Haw_sznA5aQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-19T13:00:19.000Z"
-      },
-      {
-        "key": "RPpFc_oKcZc",
-        "name": "Now Playing in Theaters",
-        "type": "Teaser",
-        "published_at": "2026-11-13T21:00:21.000Z"
-      },
-      {
-        "key": "DFU3m78ltwk",
-        "name": "Suspense",
-        "type": "Teaser",
-        "published_at": "2026-11-13T01:25:35.000Z"
-      }
-    ]
-  },
-  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-13T18:37:30.000Z",
@@ -522,30 +558,6 @@
     ]
   },
   {
-    "id": 1340208,
-    "title": "Kar\u014dshi",
-    "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/xOwetUoCyca3yYlqZ5rlElgXiTV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9BV0sX13uzERMgamOFslyFD5Dqk.jpg",
-    "overview": "In a near-future Manhattan corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker's death, he exposes the violent system hidden beneath its polished surface.",
-    "theatrical": true,
-    "trailer_published": "2026-11-10T18:00:37.000Z",
-    "videos": [
-      {
-        "key": "jQHoAsDcjVU",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-05T16:01:18.000Z"
-      },
-      {
-        "key": "-AF8E2LvtRA",
-        "name": "Their success is your sacrifice.",
-        "type": "Teaser",
-        "published_at": "2026-11-10T18:00:37.000Z"
-      }
-    ]
-  },
-  {
     "id": 1391239,
     "title": "The Debut",
     "release_date": "2026-12-11",
@@ -651,6 +663,12 @@
     "theatrical": true,
     "trailer_published": "2026-11-09T22:24:02.000Z",
     "videos": [
+      {
+        "key": "IIoEnagIMpI",
+        "name": "Official Trailer - Green Band",
+        "type": "Trailer",
+        "published_at": "2026-11-05T18:00:34.000Z"
+      },
       {
         "key": "4DowjB87tRE",
         "name": "Official Trailer",
@@ -764,6 +782,42 @@
         "name": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
         "type": "Teaser",
         "published_at": "2026-08-26T20:55:34.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1697911,
+    "title": "Drummer Boy",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5KF459N6jOfRV7kV9XV7ZQdCLKK.jpg",
+    "overview": "As America\u2019s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family search for freedom. Through battle and loss, music carries hope in a deeply human story of faith and forgiveness.",
+    "theatrical": true,
+    "trailer_published": "2026-11-05T18:00:11.000Z",
+    "videos": [
+      {
+        "key": "rXaR4nXRvOY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-06T20:00:06.000Z"
+      },
+      {
+        "key": "wlm_vxf4PaM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-07-29T14:00:17.000Z"
+      },
+      {
+        "key": "4d5vjJutrUM",
+        "name": "The wait is almost over.",
+        "type": "Teaser",
+        "published_at": "2026-11-05T18:00:11.000Z"
+      },
+      {
+        "key": "7pvcRLnql9c",
+        "name": "The uniform changes; the blood does not.",
+        "type": "Teaser",
+        "published_at": "2026-10-30T18:00:05.000Z"
       }
     ]
   },
@@ -1842,6 +1896,24 @@
     ]
   },
   {
+    "id": 1551025,
+    "title": "Guarding Stars",
+    "release_date": "2026-11-18",
+    "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+    "theatrical": false,
+    "trailer_published": "2026-10-14T14:00:00.000Z",
+    "videos": [
+      {
+        "key": "mFvtVPMa5ak",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-14T14:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1147572,
     "title": "Narnia: The Magician's Nephew",
     "release_date": "2027-02-12",
@@ -2118,30 +2190,6 @@
     ]
   },
   {
-    "id": 1697911,
-    "title": "Drummer Boy",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5KF459N6jOfRV7kV9XV7ZQdCLKK.jpg",
-    "overview": "As America\u2019s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family search for freedom. Through battle and loss, music carries hope in a deeply human story of faith and forgiveness.",
-    "theatrical": true,
-    "trailer_published": "2026-10-06T20:00:06.000Z",
-    "videos": [
-      {
-        "key": "rXaR4nXRvOY",
-        "name": "DRUMMER BOY | Official Trailer | In Theaters Nov 6 | Angel",
-        "type": "Trailer",
-        "published_at": "2026-10-06T20:00:06.000Z"
-      },
-      {
-        "key": "wlm_vxf4PaM",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2026-07-29T14:00:17.000Z"
-      }
-    ]
-  },
-  {
     "id": 1543469,
     "title": "Heartland",
     "release_date": "2026-11-13",
@@ -2186,42 +2234,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-08-12T13:00:04.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1263337,
-    "title": "Heart of the Beast",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "theatrical": true,
-    "trailer_published": "2026-10-05T13:55:38.000Z",
-    "videos": [
-      {
-        "key": "UkMuGKqAux4",
-        "name": "New International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T13:01:28.000Z"
-      },
-      {
-        "key": "bfCgu83suHs",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-08-13T12:59:36.000Z"
-      },
-      {
-        "key": "JFQcDFhNh4o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-11T13:00:12.000Z"
-      },
-      {
-        "key": "bWx6nwUUpAw",
-        "name": "Shaun",
-        "type": "Teaser",
-        "published_at": "2026-10-05T13:55:38.000Z"
       }
     ]
   },
