@@ -1,5 +1,155 @@
 [
   {
+    "id": 1384758,
+    "title": "Ice Age: Boiling Point",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nTPXdweuKyYcNyFpyumEY1pCWvX.jpg",
+    "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T17:16:54.000Z",
+    "videos": [
+      {
+        "key": "I6eTz2MILqY",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-19T17:16:54.000Z"
+      },
+      {
+        "key": "e67Qtn_3hkc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-19T17:00:11.000Z"
+      },
+      {
+        "key": "3fjmjX0QOIg",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-06-04T16:00:18.000Z"
+      },
+      {
+        "key": "f93TgnGk66k",
+        "name": "In Theaters in 2026",
+        "type": "Teaser",
+        "published_at": "2024-11-08T19:39:09.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1213643,
+    "title": "Killing Castro",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/fagy0gsiGr6HdrDs59pptyBic5F.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ilTcnOBtYq5M7gMrVKvQHNitkOq.jpg",
+    "overview": "In 1960, Fidel Castro comes to America to speak at the UN. He is invited by Malcolm X to stay in Harlem at the famous Hotel Theresa. Unsure of his intentions, the FBI, CIA and the Mafia, all attempt to eliminate him by any means necessary.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T17:00:04.000Z",
+    "videos": [
+      {
+        "key": "cal1RfsmHUI",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-19T17:00:04.000Z"
+      },
+      {
+        "key": "QjQHkF_GyD8",
+        "name": "Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-11-12T17:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 458896,
+    "title": "The Nightingale",
+    "release_date": "2027-03-19",
+    "poster": "https://image.tmdb.org/t/p/w500/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/upfnWT6okzhJUE4nv9BxDhcbWnJ.jpg",
+    "overview": "The lives of two French sisters are torn apart by the onset of World War II.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T14:17:16.000Z",
+    "videos": [
+      {
+        "key": "gNHr2-JjKRM",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-19T14:17:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T04:00:23.000Z",
+    "videos": [
+      {
+        "key": "D-n-lqKVr78",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-01T14:33:51.000Z"
+      },
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "LqZjdZ_UE-8",
+        "name": "Have yourself a spooky little Christmas with Ebenezer.",
+        "type": "Teaser",
+        "published_at": "2026-11-19T04:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400336,
+    "title": "Focker-in-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T03:00:26.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "rPfJc-TYits",
+        "name": "We\u2019re circling back to the beginning.",
+        "type": "Teaser",
+        "published_at": "2026-11-19T03:00:26.000Z"
+      },
+      {
+        "key": "NEWVKC61p2U",
+        "name": "We're getting back into the hot seat.",
+        "type": "Teaser",
+        "published_at": "2026-11-19T01:00:39.000Z"
+      }
+    ]
+  },
+  {
     "id": 1452168,
     "title": "Behemoth!",
     "release_date": "2026-12-04",
@@ -108,6 +258,24 @@
     ]
   },
   {
+    "id": 1830287,
+    "title": "Love on a Plate: A Pixar Artists' Film",
+    "release_date": "2026-11-18",
+    "poster": "https://image.tmdb.org/t/p/w500/WYKRWUjf455pXMC3yUojSQWfdf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wEBa5YDslNFs9LJvnJDumJdLYYP.jpg",
+    "overview": "A short film about food, love, community and finding ourselves.",
+    "theatrical": false,
+    "trailer_published": "2026-11-18T17:00:31.000Z",
+    "videos": [
+      {
+        "key": "gYhYZi02DEo",
+        "name": "Love on a Plate, A Pixar Artists' Film (Full Short Film)",
+        "type": "Trailer",
+        "published_at": "2026-11-18T17:00:31.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
@@ -171,7 +339,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -240,42 +408,6 @@
     ]
   },
   {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
-    "theatrical": true,
-    "trailer_published": "2026-11-17T10:30:36.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "cvKvbsr4w7k",
-        "name": "Thank Fock!",
-        "type": "Teaser",
-        "published_at": "2026-11-17T10:30:36.000Z"
-      },
-      {
-        "key": "9ZNZgHJpgHs",
-        "name": "Talent runs in the family.",
-        "type": "Teaser",
-        "published_at": "2026-11-17T05:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1425859,
     "title": "Remain",
     "release_date": "2027-02-05",
@@ -302,42 +434,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-08T16:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-11-14T19:04:14.000Z",
-    "videos": [
-      {
-        "key": "D-n-lqKVr78",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-01T14:33:51.000Z"
-      },
-      {
-        "key": "l_Ozo1xUgbU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-01T12:59:47.000Z"
-      },
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "BmYmv1JrzQ4",
-        "name": "The #1 Movie in the World kicks off the holiday season.",
-        "type": "Teaser",
-        "published_at": "2026-11-14T19:04:14.000Z"
       }
     ]
   },
@@ -370,7 +466,7 @@
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-13T18:37:30.000Z",
@@ -458,24 +554,6 @@
         "name": "Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-06-11T16:01:48.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1213643,
-    "title": "Killing Castro",
-    "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/fagy0gsiGr6HdrDs59pptyBic5F.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ilTcnOBtYq5M7gMrVKvQHNitkOq.jpg",
-    "overview": "In 1960, Fidel Castro comes to America to speak at the UN. He is invited by Malcolm X to stay in Harlem at the famous Hotel Theresa. Unsure of his intentions, the FBI, CIA and the Mafia, all attempt to eliminate him by any means necessary.",
-    "theatrical": true,
-    "trailer_published": "2026-11-12T17:00:01.000Z",
-    "videos": [
-      {
-        "key": "QjQHkF_GyD8",
-        "name": "Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-11-12T17:00:01.000Z"
       }
     ]
   },
@@ -625,7 +703,7 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
     "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role\u2014even if it means waging war against the show\u2019s domineering director.",
     "theatrical": true,
-    "trailer_published": "2026-11-10T14:09:12.000Z",
+    "trailer_published": "2026-11-10T14:00:15.000Z",
     "videos": [
       {
         "key": "lF9n06SMDPU",
@@ -638,12 +716,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-06-23T12:59:06.000Z"
-      },
-      {
-        "key": "n__ZSK6h97E",
-        "name": "THE DEBUT Official Trailer 2 (2026) Julianne Moore",
-        "type": "Trailer",
-        "published_at": "2026-11-10T14:09:12.000Z"
       }
     ]
   },
@@ -1158,6 +1230,30 @@
     ]
   },
   {
+    "id": 1137888,
+    "title": "The Man with the Bag",
+    "release_date": "2026-12-02",
+    "poster": "https://image.tmdb.org/t/p/w500/s5nq2q5tB9N0nUYsZE9LR1BuQw6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pi8c5iEPamGFaZSnxaMSVSLhMlr.jpg",
+    "overview": "After Santa\u2019s magic bag is stolen, he turns to his naughty list to find Vance, a thief, to help him get it back. Along with his daughter, Santa, and a group of misfits, Vance will have to pull off the greatest heist of his life to save Christmas.",
+    "theatrical": true,
+    "trailer_published": "2026-11-02T13:59:59.000Z",
+    "videos": [
+      {
+        "key": "PEVkJHLq4rQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-02T13:59:59.000Z"
+      },
+      {
+        "key": "Lyztl-xEeFM",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-30T12:59:50.000Z"
+      }
+    ]
+  },
+  {
     "id": 1400940,
     "title": "Clayface",
     "release_date": "2026-10-23",
@@ -1358,6 +1454,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-10-14T19:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1280115,
+    "title": "Way of the Warrior Kid",
+    "release_date": "2026-11-24",
+    "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+    "theatrical": true,
+    "trailer_published": "2026-10-27T12:59:55.000Z",
+    "videos": [
+      {
+        "key": "R1ECMLrwDYQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T12:59:55.000Z"
       }
     ]
   },
@@ -1836,30 +1950,6 @@
     ]
   },
   {
-    "id": 1595124,
-    "title": "Steps",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-    "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella \u2014 and a surprisingly dreamy troll \u2014 to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T13:00:02.000Z",
-    "videos": [
-      {
-        "key": "tNV4i3BqUGY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-15T13:00:02.000Z"
-      },
-      {
-        "key": "Y0RW8EW08Dk",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-09-17T13:00:02.000Z"
-      }
-    ]
-  },
-  {
     "id": 1453407,
     "title": "Gajab Raat",
     "release_date": "2026-10-23",
@@ -2130,24 +2220,6 @@
     ]
   },
   {
-    "id": 1630420,
-    "title": "Overacting",
-    "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/rve2a7JXJbXivl0JakEWgc9Fhwh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
-    "overview": "When her father's memories as a retired top cop resurface, a struggling actress stages wild missions to keep him from pursuing his elusive archnemesis.",
-    "theatrical": false,
-    "trailer_published": "2026-10-08T05:00:00.000Z",
-    "videos": [
-      {
-        "key": "a28p9c4zTdI",
-        "name": "\u0e41\u0e01\u0e4a\u0e07\u0e42\u0e2d\u0e40\u0e27\u0e2d\u0e23\u0e4c | \u0e15\u0e31\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23 | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-10-08T05:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1241478,
     "title": "Jimmy",
     "release_date": "2026-11-06",
@@ -2304,42 +2376,6 @@
     ]
   },
   {
-    "id": 1401433,
-    "title": "Appofeniacs",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
-    "overview": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life\u2026 or end it.",
-    "theatrical": true,
-    "trailer_published": "2026-10-01T01:00:11.000Z",
-    "videos": [
-      {
-        "key": "txD8Y8Pv1rY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-12T18:00:31.000Z"
-      },
-      {
-        "key": "J1Fypndcou8",
-        "name": "Official Red Band Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-06T19:00:06.000Z"
-      },
-      {
-        "key": "2y5IqzD6H8Y",
-        "name": "In Theaters October 2nd",
-        "type": "Teaser",
-        "published_at": "2026-10-01T01:00:11.000Z"
-      },
-      {
-        "key": "oQK7E26dLL4",
-        "name": "Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2025-09-16T16:17:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1375441,
     "title": "Primetime",
     "release_date": "2026-09-25",
@@ -2486,30 +2522,6 @@
         "name": "Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-07-27T19:15:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1422041,
-    "title": "LA BOLA NEGRA",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "theatrical": true,
-    "trailer_published": "2026-09-28T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "lBVxKt0gKDY",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-28T15:00:00.000Z"
-      },
-      {
-        "key": "IRHtqjHYPew",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-01T14:00:00.000Z"
       }
     ]
   },
@@ -2736,30 +2748,6 @@
     ]
   },
   {
-    "id": 848700,
-    "title": "Minotaur",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
-    "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T07:21:42.000Z",
-    "videos": [
-      {
-        "key": "wdFIMrC4oW8",
-        "name": "Official HD Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-24T07:21:42.000Z"
-      },
-      {
-        "key": "hTHeFP0mcuk",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-14T14:18:30.000Z"
-      }
-    ]
-  },
-  {
     "id": 1423577,
     "title": "Gremlins 3",
     "release_date": "2028-10-06",
@@ -2912,6 +2900,24 @@
         "name": "Cinemalaya 22: 2 VALID IDs | Trailer",
         "type": "Trailer",
         "published_at": "2026-07-14T17:02:45.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1154730,
+    "title": "La Gradiva",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kt8bR6HCWto7MRzLy1J67OVeOpy.jpg",
+    "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
+    "theatrical": true,
+    "trailer_published": "2026-09-18T23:08:33.000Z",
+    "videos": [
+      {
+        "key": "5yY6V9MbEoE",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-18T23:08:33.000Z"
       }
     ]
   },
@@ -3536,30 +3542,6 @@
         "name": "Not too Far, Far Away\u2026",
         "type": "Teaser",
         "published_at": "2024-07-12T17:30:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1384758,
-    "title": "Ice Age: Boiling Point",
-    "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
-    "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
-    "theatrical": true,
-    "trailer_published": "2026-06-04T16:00:18.000Z",
-    "videos": [
-      {
-        "key": "3fjmjX0QOIg",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-04T16:00:18.000Z"
-      },
-      {
-        "key": "f93TgnGk66k",
-        "name": "In Theaters in 2026",
-        "type": "Teaser",
-        "published_at": "2024-11-08T19:39:09.000Z"
       }
     ]
   },
