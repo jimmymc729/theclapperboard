@@ -1,10 +1,82 @@
 [
   {
+    "id": 1300968,
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "theatrical": true,
+    "trailer_published": "2026-11-20T09:03:56.000Z",
+    "videos": [
+      {
+        "key": "Dr060OLTodE",
+        "name": "Official Fan Edit Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T13:01:31.000Z"
+      },
+      {
+        "key": "lYXtL5TreOE",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-16T13:00:01.000Z"
+      },
+      {
+        "key": "fS35YSjopjE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-13T13:00:02.000Z"
+      },
+      {
+        "key": "r3s1lBZG4Fs",
+        "name": "\u201cthe best hunger games yet\u201d",
+        "type": "Teaser",
+        "published_at": "2026-11-20T09:03:56.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1466228,
+    "title": "The Comeback King",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/dHMQSBUsIh3epsx9MbFzG6RfsGK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oAnoPXMcyfiDkWwbVyyhO5KLo1e.jpg",
+    "overview": "A country western star named Aubrey must return to college to earn his long-abandoned degree after a false rumor that he cheated on his girlfriend throws his career into free fall.",
+    "theatrical": true,
+    "trailer_published": "2026-11-20T00:10:35.000Z",
+    "videos": [
+      {
+        "key": "dlpxXcC8nPk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-18T16:00:05.000Z"
+      },
+      {
+        "key": "or0zq14GsQk",
+        "name": "Reba. Frickin. McEntire.",
+        "type": "Teaser",
+        "published_at": "2026-11-20T00:10:35.000Z"
+      },
+      {
+        "key": "o9XsR-jHFw4",
+        "name": "Hi Aubrey King.",
+        "type": "Teaser",
+        "published_at": "2026-11-19T22:02:19.000Z"
+      },
+      {
+        "key": "5IBOnESUznM",
+        "name": "It\u2019s gonna be a party. Watch the trailer for THE COMEBACK KING now!",
+        "type": "Teaser",
+        "published_at": "2026-11-19T19:51:42.000Z"
+      }
+    ]
+  },
+  {
     "id": 1384758,
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
     "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nTPXdweuKyYcNyFpyumEY1pCWvX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
     "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
     "theatrical": true,
     "trailer_published": "2026-11-19T17:16:54.000Z",
@@ -36,6 +108,78 @@
     ]
   },
   {
+    "id": 1400336,
+    "title": "Focker In-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T17:14:27.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "F_Tb74w7KQE",
+        "name": "Ah Fock, Here We Go Again",
+        "type": "Teaser",
+        "published_at": "2026-11-19T17:14:27.000Z"
+      },
+      {
+        "key": "rPfJc-TYits",
+        "name": "We\u2019re circling back to the beginning.",
+        "type": "Teaser",
+        "published_at": "2026-11-19T03:00:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1286656,
+    "title": "I Play Rocky",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky\u2014he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T17:00:23.000Z",
+    "videos": [
+      {
+        "key": "jq5oCjhQtIc",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-22T16:00:07.000Z"
+      },
+      {
+        "key": "Kpc4o2J28QE",
+        "name": "UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-22T08:33:05.000Z"
+      },
+      {
+        "key": "V_g_Ut0jO-0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-15T13:00:51.000Z"
+      },
+      {
+        "key": "dREtX801K54",
+        "name": "Rocky\u2019s Legacy narrated by Tom Brady",
+        "type": "Teaser",
+        "published_at": "2026-11-19T17:00:23.000Z"
+      }
+    ]
+  },
+  {
     "id": 1213643,
     "title": "Killing Castro",
     "release_date": "2026-12-11",
@@ -56,6 +200,42 @@
         "name": "Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-11-12T17:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1437396,
+    "title": "Your Mother Your Mother Your Mother",
+    "release_date": "2026-09-25",
+    "poster": "https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/45Mbs6dmn2W0hvuyxXPDkKREHpP.jpg",
+    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him \u2013 and the beliefs threatening to unravel within.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T16:00:27.000Z",
+    "videos": [
+      {
+        "key": "uEcoV-ngH38",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-03T13:00:03.000Z"
+      },
+      {
+        "key": "kvG1SDILBb8",
+        "name": "A father, a hitman, a man of faith.",
+        "type": "Teaser",
+        "published_at": "2026-11-19T16:00:27.000Z"
+      },
+      {
+        "key": "8k3N5dTGUh4",
+        "name": "Unmatched levels of aura.",
+        "type": "Teaser",
+        "published_at": "2026-11-09T14:27:30.000Z"
+      },
+      {
+        "key": "AM-lxg9DuDk",
+        "name": "In UK Cinemas November 20",
+        "type": "Teaser",
+        "published_at": "2026-11-02T16:00:10.000Z"
       }
     ]
   },
@@ -82,7 +262,7 @@
     "title": "Ebenezer",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "theatrical": true,
     "trailer_published": "2026-11-19T04:00:23.000Z",
@@ -114,38 +294,20 @@
     ]
   },
   {
-    "id": 1400336,
-    "title": "Focker-in-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "id": 1084728,
+    "title": "Asterix: The Kingdom of Nubia",
+    "release_date": "2026-11-22",
+    "poster": "https://image.tmdb.org/t/p/w500/mxDsm7jKW1G7LNTtvp1C0ID9gN5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gFbCOBwB9qEptHJY230sNCsyZfX.jpg",
+    "overview": "The irreductible Gauls are turned into harmless children after a rare youth elixir accidentally ends up into the magic potion. To find the antidote and save the village from the Romans attack, Asterix and Obelix embark on a crazy journey to the far away Kingdom of Nubia.",
     "theatrical": true,
-    "trailer_published": "2026-11-19T03:00:26.000Z",
+    "trailer_published": "2026-11-18T20:15:13.000Z",
     "videos": [
       {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
+        "key": "JaRX_L9nlaQ",
+        "name": "ASTERIX: THE KINGDOM OF NUBIA - Official Trailer (2027) 4K",
         "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "rPfJc-TYits",
-        "name": "We\u2019re circling back to the beginning.",
-        "type": "Teaser",
-        "published_at": "2026-11-19T03:00:26.000Z"
-      },
-      {
-        "key": "NEWVKC61p2U",
-        "name": "We're getting back into the hot seat.",
-        "type": "Teaser",
-        "published_at": "2026-11-19T01:00:39.000Z"
+        "published_at": "2026-11-18T20:15:13.000Z"
       }
     ]
   },
@@ -189,7 +351,7 @@
     "id": 891621,
     "title": "Wild Horse Nine",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jc9lhVWASTgkuQiukNNxaivsTns.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
     "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone\u2019s trip to this remote paradise sideways.",
     "theatrical": true,
@@ -336,42 +498,6 @@
     ]
   },
   {
-    "id": 1300968,
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "theatrical": true,
-    "trailer_published": "2026-11-18T16:00:21.000Z",
-    "videos": [
-      {
-        "key": "Dr060OLTodE",
-        "name": "Official Fan Edit Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T13:01:31.000Z"
-      },
-      {
-        "key": "lYXtL5TreOE",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-16T13:00:01.000Z"
-      },
-      {
-        "key": "fS35YSjopjE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-13T13:00:02.000Z"
-      },
-      {
-        "key": "mnIm4tk8HQE",
-        "name": "TOMORROW",
-        "type": "Teaser",
-        "published_at": "2026-11-18T16:00:21.000Z"
-      }
-    ]
-  },
-  {
     "id": 1340208,
     "title": "Kar\u014dshi",
     "release_date": "2027-02-05",
@@ -438,6 +564,42 @@
     ]
   },
   {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-11-15T14:00:12.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "1IY1y2NH0B4",
+        "name": "Page to Screen: The Council Tree",
+        "type": "Teaser",
+        "published_at": "2026-11-15T14:00:12.000Z"
+      }
+    ]
+  },
+  {
     "id": 1737740,
     "title": "Fresh Meat",
     "release_date": "2026-10-12",
@@ -466,7 +628,7 @@
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-13T18:37:30.000Z",
@@ -606,42 +768,6 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-11-12T11:15:10.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "B2Cx_5_YLxQ",
-        "name": "The colours of WILDWOOD.",
-        "type": "Teaser",
-        "published_at": "2026-11-12T11:15:10.000Z"
-      }
-    ]
-  },
-  {
     "id": 1823907,
     "title": "Russell Brand: Open Secret",
     "release_date": "2026-11-13",
@@ -692,6 +818,30 @@
         "name": "Official Prime Video Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-11-11T18:35:39.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1611767,
+    "title": "Clashing Through the Snow",
+    "release_date": "2026-11-23",
+    "poster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "overview": "After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.",
+    "theatrical": true,
+    "trailer_published": "2026-11-10T20:30:02.000Z",
+    "videos": [
+      {
+        "key": "nOyT9RkGRn4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-10T15:59:56.000Z"
+      },
+      {
+        "key": "798vrWRtKBQ",
+        "name": "CLASHING THROUGH THE SNOW Trailer (2026) Christopher Briney, Michelle Randolph",
+        "type": "Trailer",
+        "published_at": "2026-11-10T20:30:02.000Z"
       }
     ]
   },
@@ -848,42 +998,6 @@
         "name": "Official New Trailer",
         "type": "Trailer",
         "published_at": "2026-11-09T16:00:33.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1437396,
-    "title": "Your Mother Your Mother Your Mother",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/45Mbs6dmn2W0hvuyxXPDkKREHpP.jpg",
-    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him \u2013 and the beliefs threatening to unravel within.",
-    "theatrical": true,
-    "trailer_published": "2026-11-09T14:27:30.000Z",
-    "videos": [
-      {
-        "key": "uEcoV-ngH38",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-03T13:00:03.000Z"
-      },
-      {
-        "key": "8k3N5dTGUh4",
-        "name": "Unmatched levels of aura.",
-        "type": "Teaser",
-        "published_at": "2026-11-09T14:27:30.000Z"
-      },
-      {
-        "key": "AM-lxg9DuDk",
-        "name": "In UK Cinemas November 20",
-        "type": "Teaser",
-        "published_at": "2026-11-02T16:00:10.000Z"
-      },
-      {
-        "key": "hCXfh1oB3oc",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-06-26T13:00:22.000Z"
       }
     ]
   },
@@ -1100,42 +1214,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-11-04T13:59:51.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1300926,
-    "title": "The Angry Birds Movie 3",
-    "release_date": "2026-12-23",
-    "poster": "https://image.tmdb.org/t/p/w500/xyml31x5gu23tOMIFJ43XO4aTD6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
-    "overview": "Red faces his greatest challenge yet\u2014surviving fatherhood\u2026 while saving the world.",
-    "theatrical": true,
-    "trailer_published": "2026-11-04T13:59:35.000Z",
-    "videos": [
-      {
-        "key": "FjYzudbOzlY",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-11-04T13:59:35.000Z"
-      },
-      {
-        "key": "a9DB_aUMzME",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-29T13:00:01.000Z"
-      },
-      {
-        "key": "wbK9N2rT0tI",
-        "name": "Trailer #2 Announcement",
-        "type": "Teaser",
-        "published_at": "2026-11-03T17:04:08.000Z"
-      },
-      {
-        "key": "8_nX4qQU1Wc",
-        "name": "NOW IN PRODUCTION!",
-        "type": "Teaser",
-        "published_at": "2024-06-06T14:30:02.000Z"
       }
     ]
   },
@@ -1458,24 +1536,6 @@
     ]
   },
   {
-    "id": 1280115,
-    "title": "Way of the Warrior Kid",
-    "release_date": "2026-11-24",
-    "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
-    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
-    "theatrical": true,
-    "trailer_published": "2026-10-27T12:59:55.000Z",
-    "videos": [
-      {
-        "key": "R1ECMLrwDYQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-27T12:59:55.000Z"
-      }
-    ]
-  },
-  {
     "id": 1515692,
     "title": "Baththa",
     "release_date": "2026-10-01",
@@ -1594,7 +1654,7 @@
     "title": "Street Fighter",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
     "trailer_published": "2026-10-22T16:11:49.000Z",
@@ -1622,42 +1682,6 @@
         "name": "These reviews are getting to our head!",
         "type": "Teaser",
         "published_at": "2026-10-22T09:00:32.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1286656,
-    "title": "I Play Rocky",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky\u2014he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-    "theatrical": true,
-    "trailer_published": "2026-10-22T16:00:07.000Z",
-    "videos": [
-      {
-        "key": "jq5oCjhQtIc",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-22T16:00:07.000Z"
-      },
-      {
-        "key": "Kpc4o2J28QE",
-        "name": "UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-22T08:33:05.000Z"
-      },
-      {
-        "key": "V_g_Ut0jO-0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-15T13:00:51.000Z"
-      },
-      {
-        "key": "ugEvb0Iqlo8",
-        "name": "In UK and Irish Cinemas November",
-        "type": "Teaser",
-        "published_at": "2026-10-22T10:04:20.000Z"
       }
     ]
   },
@@ -1706,24 +1730,6 @@
         "name": "COWARD trailer | BFI London Film Festival 2026 \u2013 7-18 October",
         "type": "Trailer",
         "published_at": "2026-09-07T08:34:38.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1828101,
-    "title": "The Lord of the Rings: The Rings of Power \u2013 Forging the One Ring",
-    "release_date": "2026-11-23",
-    "poster": "https://image.tmdb.org/t/p/w500/d9moHIig8e21mN1RCk8zu80ld3k.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/soJPwfGLYvFEuDCC25HsCLP2hjw.jpg",
-    "overview": "As Middle-earth's fate hangs in the balance, Sauron reaches the height of his power in his quest for the One Ring.",
-    "theatrical": true,
-    "trailer_published": "2026-10-21T16:30:20.000Z",
-    "videos": [
-      {
-        "key": "maP_Kyy3DCA",
-        "name": "The Rings of Power - Season 3 Official Trailer | Prime Video",
-        "type": "Trailer",
-        "published_at": "2026-10-21T16:30:20.000Z"
       }
     ]
   },
@@ -1946,6 +1952,30 @@
         "name": "The Blair Witch Project (2027 Movie) \u2013 Teaser Trailer | In Theaters 9.24",
         "type": "Teaser",
         "published_at": "2026-10-15T14:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1595124,
+    "title": "Steps",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+    "theatrical": true,
+    "trailer_published": "2026-10-15T13:00:02.000Z",
+    "videos": [
+      {
+        "key": "tNV4i3BqUGY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-15T13:00:02.000Z"
+      },
+      {
+        "key": "Y0RW8EW08Dk",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-09-17T13:00:02.000Z"
       }
     ]
   },
@@ -2748,6 +2778,30 @@
     ]
   },
   {
+    "id": 848700,
+    "title": "Minotaur",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+    "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+    "theatrical": true,
+    "trailer_published": "2026-09-24T07:21:42.000Z",
+    "videos": [
+      {
+        "key": "wdFIMrC4oW8",
+        "name": "Official HD Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-24T07:21:42.000Z"
+      },
+      {
+        "key": "hTHeFP0mcuk",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-14T14:18:30.000Z"
+      }
+    ]
+  },
+  {
     "id": 1423577,
     "title": "Gremlins 3",
     "release_date": "2028-10-06",
@@ -2876,30 +2930,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-08-10T16:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1561336,
-    "title": "2 Valid IDs",
-    "release_date": "2026-10-21",
-    "poster": "https://image.tmdb.org/t/p/w500/czzvlkANCVTtJKzl01a2yZ4ooBE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6qX6bRpcAsAMQ68iDBRQlDFWJyy.jpg",
-    "overview": "A poor farmer, unable to claim a remittance because she lacks the required two valid IDs, finds herself in a situation that challenges her character, beliefs, and morality.",
-    "theatrical": false,
-    "trailer_published": "2026-09-19T04:00:04.000Z",
-    "videos": [
-      {
-        "key": "TbJXOHeBfWw",
-        "name": "2 Valid IDs (2026) Official Trailer #2 - Pokwang, Merryl Soriano, Joey Marquez | Theatrical Release",
-        "type": "Trailer",
-        "published_at": "2026-09-19T04:00:04.000Z"
-      },
-      {
-        "key": "VxuGPUkWOPs",
-        "name": "Cinemalaya 22: 2 VALID IDs | Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-14T17:02:45.000Z"
       }
     ]
   },
@@ -3134,24 +3164,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-28T16:13:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1528009,
-    "title": "The Restoration at Grayson Manor",
-    "release_date": "2026-10-29",
-    "poster": "https://image.tmdb.org/t/p/w500/m9aKkiCwlQWri27z9WEwezfkUcw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eOassvwSzhNfHzPA00XtDD0jYs4.jpg",
-    "overview": "The foundations of Grayson Manor are shaken when an accident leaves Boyd Grayson handless and his mother invests in radical new technology to help him.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T17:18:38.000Z",
-    "videos": [
-      {
-        "key": "eb2OTdBLKUg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T17:18:38.000Z"
       }
     ]
   },
@@ -3521,7 +3533,7 @@
     "release_date": "2027-06-30",
     "poster": "https://image.tmdb.org/t/p/w500/m9jLiemA7t2umlXKptDwtIUHU8l.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wHbZr627WHFPMpfskRwX6NBgjxv.jpg",
-    "overview": "Shrek and Donkey team up for another whirlwind, big-city adventure\u2014this time traveling to the magical city of Further, Further Away to rescue Felicia, who has left the swamp to learn magic.",
+    "overview": "Shrek, Donkey and Fiona team up for another whirlwind, big-city adventure\u2014this time, along with their sons Fergus and Farkle, they travel to the magical city of Further, Further Away to rescue Felicia, who has left the swamp to learn magic.",
     "theatrical": true,
     "trailer_published": "2026-06-16T15:00:03.000Z",
     "videos": [
