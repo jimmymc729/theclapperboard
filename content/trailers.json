@@ -5,9 +5,9 @@
     "release_date": "2026-11-20",
     "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
-    "trailer_published": "2026-11-20T09:03:56.000Z",
+    "trailer_published": "2026-11-20T16:00:08.000Z",
     "videos": [
       {
         "key": "Dr060OLTodE",
@@ -28,46 +28,10 @@
         "published_at": "2026-04-13T13:00:02.000Z"
       },
       {
-        "key": "r3s1lBZG4Fs",
-        "name": "\u201cthe best hunger games yet\u201d",
+        "key": "yKsQmS3yz5Q",
+        "name": "Time to show the world.",
         "type": "Teaser",
-        "published_at": "2026-11-20T09:03:56.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1466228,
-    "title": "The Comeback King",
-    "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/dHMQSBUsIh3epsx9MbFzG6RfsGK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oAnoPXMcyfiDkWwbVyyhO5KLo1e.jpg",
-    "overview": "A country western star named Aubrey must return to college to earn his long-abandoned degree after a false rumor that he cheated on his girlfriend throws his career into free fall.",
-    "theatrical": true,
-    "trailer_published": "2026-11-20T00:10:35.000Z",
-    "videos": [
-      {
-        "key": "dlpxXcC8nPk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-18T16:00:05.000Z"
-      },
-      {
-        "key": "or0zq14GsQk",
-        "name": "Reba. Frickin. McEntire.",
-        "type": "Teaser",
-        "published_at": "2026-11-20T00:10:35.000Z"
-      },
-      {
-        "key": "o9XsR-jHFw4",
-        "name": "Hi Aubrey King.",
-        "type": "Teaser",
-        "published_at": "2026-11-19T22:02:19.000Z"
-      },
-      {
-        "key": "5IBOnESUznM",
-        "name": "It\u2019s gonna be a party. Watch the trailer for THE COMEBACK KING now!",
-        "type": "Teaser",
-        "published_at": "2026-11-19T19:51:42.000Z"
+        "published_at": "2026-11-20T16:00:08.000Z"
       }
     ]
   },
@@ -258,6 +222,30 @@
     ]
   },
   {
+    "id": 1078446,
+    "title": "Violent Night 2",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/78dChJs7doULSEhIiOvGUcXQRGU.jpg",
+    "overview": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he\u2019ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T10:06:00.000Z",
+    "videos": [
+      {
+        "key": "FmM2giDwLAE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-04T15:00:15.000Z"
+      },
+      {
+        "key": "fgF68zlHR18",
+        "name": "Sound familiar?",
+        "type": "Teaser",
+        "published_at": "2026-11-19T10:06:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1567605,
     "title": "Ebenezer",
     "release_date": "2026-11-13",
@@ -416,24 +404,6 @@
         "name": "Two weeks until the love story behind one of America\u2019s most iconic names hits the big screen.",
         "type": "Teaser",
         "published_at": "2026-11-11T23:00:34.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1830287,
-    "title": "Love on a Plate: A Pixar Artists' Film",
-    "release_date": "2026-11-18",
-    "poster": "https://image.tmdb.org/t/p/w500/WYKRWUjf455pXMC3yUojSQWfdf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wEBa5YDslNFs9LJvnJDumJdLYYP.jpg",
-    "overview": "A short film about food, love, community and finding ourselves.",
-    "theatrical": false,
-    "trailer_published": "2026-11-18T17:00:31.000Z",
-    "videos": [
-      {
-        "key": "gYhYZi02DEo",
-        "name": "Love on a Plate, A Pixar Artists' Film (Full Short Film)",
-        "type": "Trailer",
-        "published_at": "2026-11-18T17:00:31.000Z"
       }
     ]
   },
@@ -627,7 +597,7 @@
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
@@ -1218,6 +1188,42 @@
     ]
   },
   {
+    "id": 1300926,
+    "title": "The Angry Birds Movie 3",
+    "release_date": "2026-12-23",
+    "poster": "https://image.tmdb.org/t/p/w500/xyml31x5gu23tOMIFJ43XO4aTD6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+    "overview": "Red faces his greatest challenge yet\u2014surviving fatherhood\u2026 while saving the world.",
+    "theatrical": true,
+    "trailer_published": "2026-11-04T13:59:35.000Z",
+    "videos": [
+      {
+        "key": "FjYzudbOzlY",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-11-04T13:59:35.000Z"
+      },
+      {
+        "key": "a9DB_aUMzME",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-29T13:00:01.000Z"
+      },
+      {
+        "key": "wbK9N2rT0tI",
+        "name": "Trailer #2 Announcement",
+        "type": "Teaser",
+        "published_at": "2026-11-03T17:04:08.000Z"
+      },
+      {
+        "key": "8_nX4qQU1Wc",
+        "name": "NOW IN PRODUCTION!",
+        "type": "Teaser",
+        "published_at": "2024-06-06T14:30:02.000Z"
+      }
+    ]
+  },
+  {
     "id": 1503762,
     "title": "Sense and Sensibility",
     "release_date": "2026-10-16",
@@ -1286,24 +1292,6 @@
         "name": "House Rules",
         "type": "Teaser",
         "published_at": "2026-10-23T13:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1570467,
-    "title": "Frequency of Fear",
-    "release_date": "2026-11-05",
-    "poster": "https://image.tmdb.org/t/p/w500/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uhPybdQtmsHmzU7Fc3R8zaW1jZF.jpg",
-    "overview": "In September 2024, a covert Israeli operation took aim at decimating Islamist militant group Hezbollah, in which thousands of pagers and walkie-talkies in the possession of its operatives exploded simultaneously in Lebanon.",
-    "theatrical": false,
-    "trailer_published": "2026-11-03T09:30:38.000Z",
-    "videos": [
-      {
-        "key": "7f-8kO-YY1A",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-03T09:30:38.000Z"
       }
     ]
   },
@@ -1748,6 +1736,48 @@
         "name": "Surviving Hurricane Otis \u2013 Official Trailer | Netflix",
         "type": "Trailer",
         "published_at": "2026-10-20T15:35:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1568060,
+    "title": "Perfect Liars",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+    "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
+    "theatrical": false,
+    "trailer_published": "2026-10-20T14:00:12.000Z",
+    "videos": [
+      {
+        "key": "50v6k3LUcxU",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-20T14:00:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1606527,
+    "title": "418",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/1UUwomcPXFMLW3JT9JNFjQAGkKk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nJjd0EHP5VPWTdGsere75SaSY4j.jpg",
+    "overview": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.",
+    "theatrical": true,
+    "trailer_published": "2026-10-20T03:58:26.000Z",
+    "videos": [
+      {
+        "key": "eyIkfBMr-mI",
+        "name": "#418 - The Nightmare Begins (Hindi) | Prashanth Neel Presents | Kirtan | In Cinemas Oct 23rd",
+        "type": "Trailer",
+        "published_at": "2026-10-20T03:58:26.000Z"
+      },
+      {
+        "key": "aM5LJaqFgwA",
+        "name": "#418 - The Nightmare Begins | Prashanth Neel Presents | Kirtan Nadagouda | In Cinemas Oct 23rd",
+        "type": "Trailer",
+        "published_at": "2026-10-19T15:22:21.000Z"
       }
     ]
   },
@@ -2286,20 +2316,26 @@
     ]
   },
   {
-    "id": 1792170,
-    "title": "Model Citizen",
-    "release_date": "2026-11-03",
-    "poster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
-    "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can\u2019t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-    "theatrical": false,
-    "trailer_published": "2026-10-07T15:00:02.000Z",
+    "id": 1642568,
+    "title": "The Last Temptation of Becky",
+    "release_date": "2026-11-04",
+    "poster": "https://image.tmdb.org/t/p/w500/nzSx9jiInWGWumMV1n1qyRqrpbq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4IyYpwIUAkWE3CiUEg2YItc4mIv.jpg",
+    "overview": "Now working as a field agent for the CIA, Becky is sent undercover to Poland to infiltrate a family of innkeepers running a tourist venture at The Wolf's Lair, Hitler's WWII bunker. After learning that the father, Wilhelm Reuss, is on a mission to bring about the Fourth Reich, Becky takes matters into her own hands.",
+    "theatrical": true,
+    "trailer_published": "2026-10-07T03:34:02.000Z",
     "videos": [
       {
-        "key": "VczwWXoMKL0",
-        "name": "Official Trailer",
+        "key": "aQrxHLuqJCk",
+        "name": "The Last Temptation of Becky | Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-07T15:00:02.000Z"
+        "published_at": "2026-10-07T03:34:02.000Z"
+      },
+      {
+        "key": "66_WEbhSuyo",
+        "name": "The Last Temptation of Becky | \u201cIntroducing Wilhelm\u201d First Look",
+        "type": "Teaser",
+        "published_at": "2026-09-29T19:36:14.000Z"
       }
     ]
   },
@@ -2552,6 +2588,30 @@
         "name": "Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-07-27T19:15:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1422041,
+    "title": "LA BOLA NEGRA",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "theatrical": true,
+    "trailer_published": "2026-09-28T15:00:00.000Z",
+    "videos": [
+      {
+        "key": "lBVxKt0gKDY",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-28T15:00:00.000Z"
+      },
+      {
+        "key": "IRHtqjHYPew",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-01T14:00:00.000Z"
       }
     ]
   },
@@ -3126,24 +3186,6 @@
     ]
   },
   {
-    "id": 1269325,
-    "title": "Drishyam: The Conclusion",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-    "theatrical": true,
-    "trailer_published": "2026-09-09T07:43:50.000Z",
-    "videos": [
-      {
-        "key": "MFQFxsDWbA8",
-        "name": "Drishyam: The Conclusion - Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
-        "type": "Trailer",
-        "published_at": "2026-09-09T07:43:50.000Z"
-      }
-    ]
-  },
-  {
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
@@ -3422,24 +3464,6 @@
         "name": "Ghost Market, arriving in Spring 2028!",
         "type": "Teaser",
         "published_at": "2026-08-15T03:04:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1078446,
-    "title": "Violent Night 2",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/78dChJs7doULSEhIiOvGUcXQRGU.jpg",
-    "overview": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he\u2019ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
-    "theatrical": true,
-    "trailer_published": "2026-08-04T15:00:15.000Z",
-    "videos": [
-      {
-        "key": "FmM2giDwLAE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-04T15:00:15.000Z"
       }
     ]
   },
