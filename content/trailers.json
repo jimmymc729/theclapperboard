@@ -1,9 +1,135 @@
 [
   {
+    "id": 1003596,
+    "title": "Avengers: Doomsday",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "theatrical": true,
+    "trailer_published": "2026-11-23T22:00:23.000Z",
+    "videos": [
+      {
+        "key": "Wb8Tq_HD4E8",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-23T14:00:01.000Z"
+      },
+      {
+        "key": "X1aFkAkFASk",
+        "name": "Special Look",
+        "type": "Trailer",
+        "published_at": "2026-08-15T04:06:21.000Z"
+      },
+      {
+        "key": "irVNGjRFZGk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-20T13:00:20.000Z"
+      },
+      {
+        "key": "UKAq31cLPfk",
+        "name": "To me, my X-Men.",
+        "type": "Teaser",
+        "published_at": "2026-11-23T22:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1517333,
+    "title": "K-POP: The Debut",
+    "release_date": "2027-02-26",
+    "poster": "https://image.tmdb.org/t/p/w500/k6p8n5fILMdPYEHZBj7bIb6pbwB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1xVx6CPpzObEFrrHjGnUITDXCjs.jpg",
+    "overview": "Lizzy Lee, a young Korean-American woman, has spent her life following the path her family chose for her, but when she earns a spot in a globally televised competition to form the next K-pop girl group, she travels to Seoul, South Korea, to pursue the dream she must still keep hidden.",
+    "theatrical": true,
+    "trailer_published": "2026-11-23T16:04:39.000Z",
+    "videos": [
+      {
+        "key": "y3BpGoZEoWQ",
+        "name": "K-POP: THE DEBUT Official Trailer (2027)",
+        "type": "Trailer",
+        "published_at": "2026-11-23T16:04:39.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400336,
+    "title": "Focker In-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "theatrical": true,
+    "trailer_published": "2026-11-23T10:00:26.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "C48CCNSqznA",
+        "name": "It\u2019s not as easy as it looks!",
+        "type": "Teaser",
+        "published_at": "2026-11-23T10:00:26.000Z"
+      },
+      {
+        "key": "S4gLopk0X7U",
+        "name": "Some family traditions never change. Is Olivia ready to Meet The Fockers?",
+        "type": "Teaser",
+        "published_at": "2026-11-22T08:00:29.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1170608,
+    "title": "Dune: Part Three",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/gknAq4pAuToh1Aq5CJfVkGQkExT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "theatrical": true,
+    "trailer_published": "2026-11-22T17:01:15.000Z",
+    "videos": [
+      {
+        "key": "uJqaGLmZpGo",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T16:00:34.000Z"
+      },
+      {
+        "key": "NdvqHc56lE0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-08T17:59:03.000Z"
+      },
+      {
+        "key": "3_9vCamtuPY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-17T16:19:02.000Z"
+      },
+      {
+        "key": "KFqe2evmkz8",
+        "name": "Witness the epic conclusion.",
+        "type": "Teaser",
+        "published_at": "2026-11-22T17:01:15.000Z"
+      }
+    ]
+  },
+  {
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -32,42 +158,6 @@
         "name": "No time to wait.",
         "type": "Teaser",
         "published_at": "2026-11-22T17:00:21.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400336,
-    "title": "Focker In-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
-    "theatrical": true,
-    "trailer_published": "2026-11-22T08:00:29.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "S4gLopk0X7U",
-        "name": "Some family traditions never change. Is Olivia ready to Meet The Fockers?",
-        "type": "Teaser",
-        "published_at": "2026-11-22T08:00:29.000Z"
-      },
-      {
-        "key": "4Z80Nss3JTg",
-        "name": "Think your family's crazy?",
-        "type": "Teaser",
-        "published_at": "2026-11-21T23:00:35.000Z"
       }
     ]
   },
@@ -134,6 +224,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-08-11T15:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1458249,
+    "title": "Unbearable Christmas",
+    "release_date": "2026-11-20",
+    "poster": "https://image.tmdb.org/t/p/w500/8GFwwkwj4X7a5ejPlsRGuWSZ6PU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l5F9srTwYesGHzhPdBZDrktWYk1.jpg",
+    "overview": "Out-of-work weatherman Troy Tipton has one Christmas mission: retrieve the beloved teddy bear he pawned for holiday cash. With wife Becca, mother-in-law Dawn, and the kids in tow, Troy hits the road from Ohio to Florida in his old news van. But the family road trip gets even wilder when they discover the cherished bear is actually a priceless Teddy Roosevelt antique worth millions.",
+    "theatrical": false,
+    "trailer_published": "2026-11-20T17:06:35.000Z",
+    "videos": [
+      {
+        "key": "W9T5eteQStw",
+        "name": "Official Trailer: Unbearable Christmas",
+        "type": "Trailer",
+        "published_at": "2026-11-20T17:06:35.000Z"
       }
     ]
   },
@@ -206,6 +314,42 @@
         "name": "Legacy",
         "type": "Teaser",
         "published_at": "2026-11-18T19:01:35.000Z"
+      }
+    ]
+  },
+  {
+    "id": 791523,
+    "title": "Wildwood",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T18:00:05.000Z",
+    "videos": [
+      {
+        "key": "bJQGtSeLPII",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-16T12:30:01.000Z"
+      },
+      {
+        "key": "dtr5JL1zkiM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T12:30:06.000Z"
+      },
+      {
+        "key": "POneS8h1jyU",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-05-13T12:29:57.000Z"
+      },
+      {
+        "key": "WUt70UreN0o",
+        "name": "Coffee Shop ASMR",
+        "type": "Teaser",
+        "published_at": "2026-11-19T18:00:05.000Z"
       }
     ]
   },
@@ -456,42 +600,6 @@
     ]
   },
   {
-    "id": 1170608,
-    "title": "Dune: Part Three",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/gknAq4pAuToh1Aq5CJfVkGQkExT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "theatrical": true,
-    "trailer_published": "2026-11-18T17:00:23.000Z",
-    "videos": [
-      {
-        "key": "uJqaGLmZpGo",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-27T16:00:34.000Z"
-      },
-      {
-        "key": "NdvqHc56lE0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-08T17:59:03.000Z"
-      },
-      {
-        "key": "3_9vCamtuPY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-17T16:19:02.000Z"
-      },
-      {
-        "key": "OAUnScp6fYA",
-        "name": "ONE. MONTH. LEFT.",
-        "type": "Teaser",
-        "published_at": "2026-11-18T17:00:23.000Z"
-      }
-    ]
-  },
-  {
     "id": 1492198,
     "title": "Artificial",
     "release_date": "2026-12-25",
@@ -512,6 +620,24 @@
         "name": "Official Teaser Trailer",
         "type": "Trailer",
         "published_at": "2026-09-08T15:00:25.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1593350,
+    "title": "Haiku",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/7kdhwEauV07gbHXdlBtVp6AhqZk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/40bzHa8LA48yUbXeh6TACnUcOu3.jpg",
+    "overview": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
+    "theatrical": false,
+    "trailer_published": "2026-11-18T12:30:00.000Z",
+    "videos": [
+      {
+        "key": "gjyunMGD5rA",
+        "name": "Haiku | Official Trailer | Aegan, Sridevi Apalla, Femina George | Netflix India",
+        "type": "Trailer",
+        "published_at": "2026-11-18T12:30:00.000Z"
       }
     ]
   },
@@ -582,42 +708,6 @@
     ]
   },
   {
-    "id": 791523,
-    "title": "Wildwood",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "theatrical": true,
-    "trailer_published": "2026-11-15T14:00:12.000Z",
-    "videos": [
-      {
-        "key": "bJQGtSeLPII",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T12:30:01.000Z"
-      },
-      {
-        "key": "dtr5JL1zkiM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T12:30:06.000Z"
-      },
-      {
-        "key": "POneS8h1jyU",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-05-13T12:29:57.000Z"
-      },
-      {
-        "key": "1IY1y2NH0B4",
-        "name": "Page to Screen: The Council Tree",
-        "type": "Teaser",
-        "published_at": "2026-11-15T14:00:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 1737740,
     "title": "Fresh Meat",
     "release_date": "2026-10-12",
@@ -638,42 +728,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-24T17:15:39.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1003596,
-    "title": "Avengers: Doomsday",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "theatrical": true,
-    "trailer_published": "2026-11-13T18:37:30.000Z",
-    "videos": [
-      {
-        "key": "X1aFkAkFASk",
-        "name": "Special Look",
-        "type": "Trailer",
-        "published_at": "2026-08-15T04:06:21.000Z"
-      },
-      {
-        "key": "irVNGjRFZGk",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-20T13:00:20.000Z"
-      },
-      {
-        "key": "Kl7nG1nD0mk",
-        "name": "Countdown to Avengers: Doomsday - Every Moment on Disney+",
-        "type": "Teaser",
-        "published_at": "2026-11-13T18:37:30.000Z"
-      },
-      {
-        "key": "MPdfLEkLTPw",
-        "name": "The Doomsday Global Tour Is Coming.",
-        "type": "Teaser",
-        "published_at": "2026-11-05T18:11:06.000Z"
       }
     ]
   },
@@ -937,19 +991,13 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/fjLFbfay5SfILVkIGVGpJx1EQ7K.jpg",
     "overview": "JJ embarks on the biggest adventure of his life: Kindergarten. But when, on his first day at school, JJ discovers that his beloved stuffed bear Boba has gone missing, JJ and his friends Cody, CeCe and Nina will begin a quest that will transport them into a magical land ruled by Princess Harmony, who has created a world with one rule: No singing.",
     "theatrical": true,
-    "trailer_published": "2026-11-09T16:12:49.000Z",
+    "trailer_published": "2026-11-09T16:00:33.000Z",
     "videos": [
       {
         "key": "HGZZJClFIa0",
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-08-06T15:00:21.000Z"
-      },
-      {
-        "key": "483lXUwFHi0",
-        "name": "COCOMELON: The Movie Trailer (2027)",
-        "type": "Trailer",
-        "published_at": "2026-11-09T16:12:49.000Z"
       },
       {
         "key": "JciwN7x6mB8",
@@ -1452,34 +1500,10 @@
     ]
   },
   {
-    "id": 1268053,
-    "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
-    "release_date": "2027-01-21",
-    "poster": "https://image.tmdb.org/t/p/w500/lLoL2xtH0STFTIBvmN0PGaQILyg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cbjEec6ONqBsWKYUymyJp77TJMy.jpg",
-    "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother\u2019s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles\u2019 terrifying show.",
-    "theatrical": true,
-    "trailer_published": "2026-10-28T20:33:29.000Z",
-    "videos": [
-      {
-        "key": "swcW56xOU3o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T20:33:29.000Z"
-      },
-      {
-        "key": "RZmT7JiCO-s",
-        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
-        "type": "Trailer",
-        "published_at": "2026-10-28T20:00:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
     "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
     "theatrical": true,
@@ -1532,6 +1556,24 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-10-14T19:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1280115,
+    "title": "Way of the Warrior Kid",
+    "release_date": "2026-11-24",
+    "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+    "theatrical": true,
+    "trailer_published": "2026-10-27T12:59:55.000Z",
+    "videos": [
+      {
+        "key": "R1ECMLrwDYQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T12:59:55.000Z"
       }
     ]
   },
@@ -1686,28 +1728,10 @@
     ]
   },
   {
-    "id": 1794569,
-    "title": "Unprotected: Murder in Galicia",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
-    "overview": "Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Ver\u00edn. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.",
-    "theatrical": false,
-    "trailer_published": "2026-10-22T09:00:00.000Z",
-    "videos": [
-      {
-        "key": "V7qdKH-USL8",
-        "name": "Murder in Galicia | Official Trailer | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-10-22T09:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1437981,
     "title": "Coward",
     "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dEi27lMyBkUQSUO366DMg0lN8JS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zrgjYP1YEZUJshVzsIhT63GAoMJ.jpg",
     "overview": "Surrounded by brutality but bound by a tender intimacy, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
     "theatrical": true,
@@ -2162,24 +2186,6 @@
         "name": "Meet the future of friendship.",
         "type": "Teaser",
         "published_at": "2026-08-22T00:00:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1297467,
-    "title": "The Exorcist: Martyrs",
-    "release_date": "2027-03-12",
-    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
-    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
-    "theatrical": true,
-    "trailer_published": "2026-10-09T22:31:45.000Z",
-    "videos": [
-      {
-        "key": "iIEYfH-jg1Y",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T22:31:45.000Z"
       }
     ]
   },
@@ -2775,7 +2781,7 @@
     "id": 1381221,
     "title": "Misty Green",
     "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/j8NF67FguTCH8tGu7Du6n8DMcSt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
     "overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
     "theatrical": true,
@@ -2914,7 +2920,7 @@
     "title": "Paper Tiger",
     "release_date": "2026-11-13",
     "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7QshsnWS3NIZp60qMgcYm1C6dxm.jpg",
     "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "theatrical": true,
     "trailer_published": "2026-09-22T16:00:25.000Z",
@@ -3034,7 +3040,7 @@
     "title": "Reawakened Man",
     "release_date": "2026-09-30",
     "poster": "https://image.tmdb.org/t/p/w500/bHRuUxWm7PsbUWOxh9ipgsulPx8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kiDd05NykJBIoEvJPSG5SOd7qc6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ijpYht2clTKPBeFX9UG3ac3uSTo.jpg",
     "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
     "theatrical": false,
     "trailer_published": "2026-09-17T00:04:02.000Z",
@@ -3119,7 +3125,7 @@
     "release_date": "2026-12-04",
     "poster": "https://image.tmdb.org/t/p/w500/ujp2aHu1lWMjAGoletnsmv3mcMn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ppQKMpC4WhEumnzu4aAcWjAr7WU.jpg",
-    "overview": "Follows the 48 hours after the assassination of President John F. Kennedy, the alleged involvement of Sam Giancana and the 'Chicago Outfit', and a supposed broken promise after the mob helped to get Kennedy elected.",
+    "overview": "Prior to the election of John F. Kennedy in 1960, his father Joe Kennedy asked for a favor from mob boss Sam Giancana and the Chicago Outfit to ensure a win for the younger Kennedy. However, during the presidency, the national organized crime syndicate came under heavy fire from Attorney General Bobby Kennedy. The mob answered this perceived betrayal with the ultimate revenge: the assassination of the 35th President of the United States on November 22, 1963. The events are depicted through the perspective of Sam Giancana's brother, Pepe, who was present during the critical planning stages, detailing the intricate circumstances and the mob's direct involvement in setting up the assassination.",
     "theatrical": true,
     "trailer_published": "2026-09-10T17:04:56.000Z",
     "videos": [
@@ -3128,24 +3134,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-10T17:04:56.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1630237,
-    "title": "Treasure Trekkers",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/vYBoaaExygl2OGlwoGqDlQ6CjBo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2TSjlZfzKZK0fTlmsgAftClNK2r.jpg",
-    "overview": "A 12-year-old monkey called Mip struggles to find his place in a world dominated by cats and rodents. A magic map sets him on a perilous quest in search of his roots in the distant land of Empathra and a journey that will teach him that kindness is a superpower.",
-    "theatrical": true,
-    "trailer_published": "2026-09-10T03:31:21.000Z",
-    "videos": [
-      {
-        "key": "aQAj4XsHGBE",
-        "name": "Will They Survive the Quest? Treasure Trekkers Official Trailer Drop",
-        "type": "Trailer",
-        "published_at": "2026-09-10T03:31:21.000Z"
       }
     ]
   },
@@ -3322,7 +3310,7 @@
     "title": "Breeder",
     "release_date": "2026-10-28",
     "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg",
     "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
     "theatrical": true,
     "trailer_published": "2026-08-26T16:30:01.000Z",
@@ -3414,30 +3402,6 @@
     ]
   },
   {
-    "id": 1556321,
-    "title": "Death Whisperer: Saming the Werebeast",
-    "release_date": "2026-09-29",
-    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
-    "theatrical": false,
-    "trailer_published": "2026-08-13T09:00:10.000Z",
-    "videos": [
-      {
-        "key": "BP2_TUBOS6U",
-        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
-        "type": "Teaser",
-        "published_at": "2026-08-13T09:00:10.000Z"
-      },
-      {
-        "key": "M_e4IfKbmGo",
-        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
-        "type": "Teaser",
-        "published_at": "2026-07-29T10:00:36.000Z"
-      }
-    ]
-  },
-  {
     "id": 1379486,
     "title": "Victorian Psycho",
     "release_date": "2026-11-13",
@@ -3508,7 +3472,7 @@
     "title": "The Mongoose",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "theatrical": true,
     "trailer_published": "2026-07-15T17:00:06.000Z",
@@ -3590,6 +3554,30 @@
         "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
         "type": "Teaser",
         "published_at": "2026-04-17T11:53:31.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1280300,
+    "title": "The Whistler",
+    "release_date": "2026-04-17",
+    "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
+    "overview": "Reeling from their daughter's loss, Nicole and Sebastian come into possession of a secluded Venezuelan farm, unaware of the dark forces they're about to face.",
+    "theatrical": false,
+    "trailer_published": "2026-03-24T16:04:59.000Z",
+    "videos": [
+      {
+        "key": "8PNnVN8NSHk",
+        "name": "The Whistler | Official Trailer (HD) | Vertical",
+        "type": "Trailer",
+        "published_at": "2026-03-23T22:18:04.000Z"
+      },
+      {
+        "key": "i6uYYq41vWU",
+        "name": "The Whistler | Official Trailer | Horror Brains",
+        "type": "Trailer",
+        "published_at": "2026-03-24T16:04:59.000Z"
       }
     ]
   },
