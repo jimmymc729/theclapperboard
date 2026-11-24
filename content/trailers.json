@@ -4,7 +4,7 @@
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tXNt66khUBZcusc22INKCeGRr4l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-23T22:00:23.000Z",
@@ -36,6 +36,30 @@
     ]
   },
   {
+    "id": 1372443,
+    "title": "Mr. Irrelevant",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
+    "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
+    "theatrical": true,
+    "trailer_published": "2026-11-23T17:00:14.000Z",
+    "videos": [
+      {
+        "key": "5DddMUVQ5xQ",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-23T17:00:14.000Z"
+      },
+      {
+        "key": "cwVE1qf6Ixs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-13T15:00:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1517333,
     "title": "K-POP: The Debut",
     "release_date": "2027-02-26",
@@ -43,13 +67,13 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/1xVx6CPpzObEFrrHjGnUITDXCjs.jpg",
     "overview": "Lizzy Lee, a young Korean-American woman, has spent her life following the path her family chose for her, but when she earns a spot in a globally televised competition to form the next K-pop girl group, she travels to Seoul, South Korea, to pursue the dream she must still keep hidden.",
     "theatrical": true,
-    "trailer_published": "2026-11-23T16:04:39.000Z",
+    "trailer_published": "2026-11-23T14:00:15.000Z",
     "videos": [
       {
-        "key": "y3BpGoZEoWQ",
-        "name": "K-POP: THE DEBUT Official Trailer (2027)",
+        "key": "_eco9F8FXK0",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-11-23T16:04:39.000Z"
+        "published_at": "2026-11-23T14:00:15.000Z"
       }
     ]
   },
@@ -166,7 +190,7 @@
     "title": "Ramayana: Rise of a Legend",
     "release_date": "2026-11-05",
     "poster": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "theatrical": true,
     "trailer_published": "2026-11-21T16:15:12.000Z",
@@ -354,42 +378,6 @@
     ]
   },
   {
-    "id": 1384758,
-    "title": "Ice Age: Boiling Point",
-    "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
-    "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
-    "theatrical": true,
-    "trailer_published": "2026-11-19T17:16:54.000Z",
-    "videos": [
-      {
-        "key": "I6eTz2MILqY",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-19T17:16:54.000Z"
-      },
-      {
-        "key": "e67Qtn_3hkc",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-19T17:00:11.000Z"
-      },
-      {
-        "key": "3fjmjX0QOIg",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-04T16:00:18.000Z"
-      },
-      {
-        "key": "f93TgnGk66k",
-        "name": "In Theaters in 2026",
-        "type": "Teaser",
-        "published_at": "2024-11-08T19:39:09.000Z"
-      }
-    ]
-  },
-  {
     "id": 1286656,
     "title": "I Play Rocky",
     "release_date": "2026-11-06",
@@ -422,6 +410,36 @@
         "name": "Rocky\u2019s Legacy narrated by Tom Brady",
         "type": "Teaser",
         "published_at": "2026-11-19T17:00:23.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1384758,
+    "title": "Ice Age: Boiling Point",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5Jmw6B6QHdbRKgi4MYYCZgQTx44.jpg",
+    "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T17:00:11.000Z",
+    "videos": [
+      {
+        "key": "e67Qtn_3hkc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-19T17:00:11.000Z"
+      },
+      {
+        "key": "3fjmjX0QOIg",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-06-04T16:00:18.000Z"
+      },
+      {
+        "key": "f93TgnGk66k",
+        "name": "In Theaters in 2026",
+        "type": "Teaser",
+        "published_at": "2024-11-08T19:39:09.000Z"
       }
     ]
   },
@@ -894,6 +912,24 @@
     ]
   },
   {
+    "id": 1611767,
+    "title": "Clashing Through the Snow",
+    "release_date": "2026-11-23",
+    "poster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+    "theatrical": false,
+    "trailer_published": "2026-11-10T15:59:56.000Z",
+    "videos": [
+      {
+        "key": "nOyT9RkGRn4",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-10T15:59:56.000Z"
+      }
+    ]
+  },
+  {
     "id": 1391239,
     "title": "The Debut",
     "release_date": "2026-12-11",
@@ -944,42 +980,6 @@
         "name": "It's heating up.",
         "type": "Teaser",
         "published_at": "2026-11-04T14:00:36.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1376400,
-    "title": "Crawlers",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
-    "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
-    "theatrical": true,
-    "trailer_published": "2026-11-09T22:24:02.000Z",
-    "videos": [
-      {
-        "key": "IIoEnagIMpI",
-        "name": "Official Trailer - Green Band",
-        "type": "Trailer",
-        "published_at": "2026-11-05T18:00:34.000Z"
-      },
-      {
-        "key": "4DowjB87tRE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-17T15:00:07.000Z"
-      },
-      {
-        "key": "f-4HdE22_Qs",
-        "name": "Craving a creature feature?",
-        "type": "Teaser",
-        "published_at": "2026-11-09T22:24:02.000Z"
-      },
-      {
-        "key": "crt8_rLGs0I",
-        "name": "Live your best life with \u2018Crawlers\u2019.",
-        "type": "Teaser",
-        "published_at": "2026-10-31T15:04:33.000Z"
       }
     ]
   },
@@ -1114,7 +1114,7 @@
     "title": "Wicker",
     "release_date": "2026-10-23",
     "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
     "trailer_published": "2026-11-05T12:42:10.000Z",
@@ -1466,8 +1466,8 @@
   {
     "id": 1637705,
     "title": "#Cult",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/sy09fvwDfIyyZbXc6Bym20C0BFr.jpg",
+    "release_date": "2026-11-18",
+    "poster": "https://image.tmdb.org/t/p/w500/zSRlij0VRLLpK12iKK4bUFdA2R2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uekvmfoHfefO1w1HDacdo8hvy8x.jpg",
     "overview": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
     "theatrical": false,
@@ -1556,24 +1556,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-10-14T19:30:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1280115,
-    "title": "Way of the Warrior Kid",
-    "release_date": "2026-11-24",
-    "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
-    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
-    "theatrical": true,
-    "trailer_published": "2026-10-27T12:59:55.000Z",
-    "videos": [
-      {
-        "key": "R1ECMLrwDYQ",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-27T12:59:55.000Z"
       }
     ]
   },
@@ -1728,6 +1710,24 @@
     ]
   },
   {
+    "id": 1794569,
+    "title": "Unprotected: Murder in Galicia",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+    "overview": "Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Ver\u00edn. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.",
+    "theatrical": false,
+    "trailer_published": "2026-10-22T09:00:00.000Z",
+    "videos": [
+      {
+        "key": "V7qdKH-USL8",
+        "name": "Murder in Galicia | Official Trailer | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-10-22T09:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1437981,
     "title": "Coward",
     "release_date": "2026-12-25",
@@ -1780,7 +1780,7 @@
     "title": "Perfect Liars",
     "release_date": "2026-11-20",
     "poster": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m4i6oWU1LoAkYVuV37L7UyI2tcy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
     "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
     "theatrical": false,
     "trailer_published": "2026-10-20T14:00:12.000Z",
@@ -2190,6 +2190,24 @@
     ]
   },
   {
+    "id": 1512493,
+    "title": "LEGO Friends: Heartlake the Musical",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
+    "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark \u2013 with plenty of song and dance numbers along the way.",
+    "theatrical": false,
+    "trailer_published": "2026-10-09T14:00:15.000Z",
+    "videos": [
+      {
+        "key": "0rT0C92Z2ks",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T14:00:15.000Z"
+      }
+    ]
+  },
+  {
     "id": 1389379,
     "title": "Ranabaali",
     "release_date": "2026-10-16",
@@ -2442,6 +2460,42 @@
     ]
   },
   {
+    "id": 1401433,
+    "title": "Appofeniacs",
+    "release_date": "2026-10-02",
+    "poster": "https://image.tmdb.org/t/p/w500/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1SlHgHdWLvGowW91Uy4tfWfrbFf.jpg",
+    "overview": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life\u2026 or end it.",
+    "theatrical": true,
+    "trailer_published": "2026-10-01T01:00:11.000Z",
+    "videos": [
+      {
+        "key": "txD8Y8Pv1rY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-12T18:00:31.000Z"
+      },
+      {
+        "key": "J1Fypndcou8",
+        "name": "Official Red Band Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-06T19:00:06.000Z"
+      },
+      {
+        "key": "2y5IqzD6H8Y",
+        "name": "In Theaters October 2nd",
+        "type": "Teaser",
+        "published_at": "2026-10-01T01:00:11.000Z"
+      },
+      {
+        "key": "oQK7E26dLL4",
+        "name": "Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2025-09-16T16:17:36.000Z"
+      }
+    ]
+  },
+  {
     "id": 1571955,
     "title": "Collision Course",
     "release_date": "2026-10-30",
@@ -2528,30 +2582,6 @@
         "name": "A Classic For The Ages",
         "type": "Teaser",
         "published_at": "2026-09-28T16:00:24.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1290418,
-    "title": "The Cycle",
-    "release_date": "2026-09-17",
-    "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-    "theatrical": false,
-    "trailer_published": "2026-09-28T17:53:12.000Z",
-    "videos": [
-      {
-        "key": "m8vcBN8uza8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-28T17:53:12.000Z"
-      },
-      {
-        "key": "87ekbcLWPN4",
-        "name": "Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-27T19:15:01.000Z"
       }
     ]
   },
@@ -3216,24 +3246,6 @@
     ]
   },
   {
-    "id": 1476746,
-    "title": "The Florist",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lpk0MwAn0UA3qCy9Iub4xMe15gv.jpg",
-    "overview": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T15:13:20.000Z",
-    "videos": [
-      {
-        "key": "LNmIdALXoKo",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T15:13:20.000Z"
-      }
-    ]
-  },
-  {
     "id": 1458857,
     "title": "Doing Life",
     "release_date": "2026-10-02",
@@ -3558,36 +3570,12 @@
     ]
   },
   {
-    "id": 1280300,
-    "title": "The Whistler",
-    "release_date": "2026-04-17",
-    "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-    "overview": "Reeling from their daughter's loss, Nicole and Sebastian come into possession of a secluded Venezuelan farm, unaware of the dark forces they're about to face.",
-    "theatrical": false,
-    "trailer_published": "2026-03-24T16:04:59.000Z",
-    "videos": [
-      {
-        "key": "8PNnVN8NSHk",
-        "name": "The Whistler | Official Trailer (HD) | Vertical",
-        "type": "Trailer",
-        "published_at": "2026-03-23T22:18:04.000Z"
-      },
-      {
-        "key": "i6uYYq41vWU",
-        "name": "The Whistler | Official Trailer | Horror Brains",
-        "type": "Trailer",
-        "published_at": "2026-03-24T16:04:59.000Z"
-      }
-    ]
-  },
-  {
     "id": 1401586,
     "title": "Sonic the Hedgehog 4",
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4Sh2c33WHf1KxX8UYuYLIroaVEv.jpg",
-    "overview": "When a new threat emerges from a fractured timeline, Team Sonic finds themselves facing an adventure unlike anything they've encountered before. With the Chaos Emeralds scattered across different periods in time, Sonic\u2014alongside new friends and old\u2014must journey through the past, present, and future to recover them before a dangerous alternate timeline becomes reality.",
+    "overview": "The fourth installment in the Sonic the Hedgehog film franchise. Plot TBA.",
     "theatrical": true,
     "trailer_published": "2026-03-19T13:00:23.000Z",
     "videos": [
