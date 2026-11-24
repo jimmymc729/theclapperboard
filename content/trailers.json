@@ -1,10 +1,46 @@
 [
   {
+    "id": 1255833,
+    "title": "Whalefall",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "theatrical": true,
+    "trailer_published": "2026-11-24T15:00:16.000Z",
+    "videos": [
+      {
+        "key": "1dyCLoB0-nA",
+        "name": "Buy It on Digital December 1",
+        "type": "Trailer",
+        "published_at": "2026-11-24T15:00:16.000Z"
+      },
+      {
+        "key": "Dw-5ZGapGTQ",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-09-10T16:00:23.000Z"
+      },
+      {
+        "key": "rN9F6-tbySY",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-19T16:00:24.000Z"
+      },
+      {
+        "key": "67ho3OxCmmM",
+        "name": "Official Teaser",
+        "type": "Trailer",
+        "published_at": "2026-06-09T16:00:21.000Z"
+      }
+    ]
+  },
+  {
     "id": 1003596,
     "title": "Avengers: Doomsday",
     "release_date": "2026-12-18",
     "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "theatrical": true,
     "trailer_published": "2026-11-23T22:00:23.000Z",
@@ -36,26 +72,38 @@
     ]
   },
   {
-    "id": 1372443,
-    "title": "Mr. Irrelevant",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
-    "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
+    "id": 1452168,
+    "title": "Behemoth!",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
+    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
     "theatrical": true,
-    "trailer_published": "2026-11-23T17:00:14.000Z",
+    "trailer_published": "2026-11-23T18:00:49.000Z",
     "videos": [
       {
-        "key": "5DddMUVQ5xQ",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-23T17:00:14.000Z"
-      },
-      {
-        "key": "cwVE1qf6Ixs",
+        "key": "I6tMFYT9s7E",
         "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-09-13T15:00:05.000Z"
+        "published_at": "2026-10-28T13:00:22.000Z"
+      },
+      {
+        "key": "2N5kgL4Ay8c",
+        "name": "Make A Choice",
+        "type": "Teaser",
+        "published_at": "2026-11-23T18:00:49.000Z"
+      },
+      {
+        "key": "9QsvGXsHing",
+        "name": "A Life in Pieces",
+        "type": "Teaser",
+        "published_at": "2026-11-19T19:03:16.000Z"
+      },
+      {
+        "key": "uMipyQSEOJs",
+        "name": "Building Intensity",
+        "type": "Teaser",
+        "published_at": "2026-11-19T00:08:20.000Z"
       }
     ]
   },
@@ -63,7 +111,7 @@
     "id": 1517333,
     "title": "K-POP: The Debut",
     "release_date": "2027-02-26",
-    "poster": "https://image.tmdb.org/t/p/w500/k6p8n5fILMdPYEHZBj7bIb6pbwB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/9MED2GFhwsMJvYKEc9Wt7aB0S2a.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1xVx6CPpzObEFrrHjGnUITDXCjs.jpg",
     "overview": "Lizzy Lee, a young Korean-American woman, has spent her life following the path her family chose for her, but when she earns a spot in a globally televised competition to form the next K-pop girl group, she travels to Seoul, South Korea, to pursue the dream she must still keep hidden.",
     "theatrical": true,
@@ -117,7 +165,7 @@
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/gknAq4pAuToh1Aq5CJfVkGQkExT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
     "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
     "theatrical": true,
@@ -153,7 +201,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bfj5ImMlV9BvISWfLu7sHbdDXS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -182,6 +230,42 @@
         "name": "No time to wait.",
         "type": "Teaser",
         "published_at": "2026-11-22T17:00:21.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1567605,
+    "title": "Ebenezer",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "theatrical": true,
+    "trailer_published": "2026-11-22T01:00:00.000Z",
+    "videos": [
+      {
+        "key": "D-n-lqKVr78",
+        "name": "Official UK Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-01T14:33:51.000Z"
+      },
+      {
+        "key": "l_Ozo1xUgbU",
+        "name": "Official Trailer 2",
+        "type": "Trailer",
+        "published_at": "2026-10-01T12:59:47.000Z"
+      },
+      {
+        "key": "A7lyvgnDuDE",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-23T23:44:46.000Z"
+      },
+      {
+        "key": "2lHIiQFvmNE",
+        "name": "BAH HUMBUG!",
+        "type": "Teaser",
+        "published_at": "2026-11-22T01:00:00.000Z"
       }
     ]
   },
@@ -306,42 +390,6 @@
     ]
   },
   {
-    "id": 1452168,
-    "title": "Behemoth!",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
-    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
-    "theatrical": true,
-    "trailer_published": "2026-11-19T19:03:16.000Z",
-    "videos": [
-      {
-        "key": "I6tMFYT9s7E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T13:00:22.000Z"
-      },
-      {
-        "key": "9QsvGXsHing",
-        "name": "A Life in Pieces",
-        "type": "Teaser",
-        "published_at": "2026-11-19T19:03:16.000Z"
-      },
-      {
-        "key": "uMipyQSEOJs",
-        "name": "Building Intensity",
-        "type": "Teaser",
-        "published_at": "2026-11-19T00:08:20.000Z"
-      },
-      {
-        "key": "hzZDdl9C5J8",
-        "name": "Legacy",
-        "type": "Teaser",
-        "published_at": "2026-11-18T19:01:35.000Z"
-      }
-    ]
-  },
-  {
     "id": 791523,
     "title": "Wildwood",
     "release_date": "2026-10-23",
@@ -381,7 +429,7 @@
     "id": 1286656,
     "title": "I Play Rocky",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/sPID7NqwpNdSAEMhazCvidxxeNo.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
     "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky\u2014he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
     "theatrical": true,
@@ -417,7 +465,7 @@
     "id": 1384758,
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/h90ZGL00jrbCIwRoQJ86xN8Wdov.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5Jmw6B6QHdbRKgi4MYYCZgQTx44.jpg",
     "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
     "theatrical": true,
@@ -447,7 +495,7 @@
     "id": 1213643,
     "title": "Killing Castro",
     "release_date": "2026-12-11",
-    "poster": "https://image.tmdb.org/t/p/w500/fagy0gsiGr6HdrDs59pptyBic5F.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pxiUYMlevGn56mnfPqfADdvo9ab.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ilTcnOBtYq5M7gMrVKvQHNitkOq.jpg",
     "overview": "In 1960, Fidel Castro comes to America to speak at the UN. He is invited by Malcolm X to stay in Harlem at the famous Hotel Theresa. Unsure of his intentions, the FBI, CIA and the Mafia, all attempt to eliminate him by any means necessary.",
     "theatrical": true,
@@ -542,42 +590,6 @@
         "name": "Sound familiar?",
         "type": "Teaser",
         "published_at": "2026-11-19T10:06:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1567605,
-    "title": "Ebenezer",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "theatrical": true,
-    "trailer_published": "2026-11-19T04:00:23.000Z",
-    "videos": [
-      {
-        "key": "D-n-lqKVr78",
-        "name": "Official UK Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-01T14:33:51.000Z"
-      },
-      {
-        "key": "l_Ozo1xUgbU",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-10-01T12:59:47.000Z"
-      },
-      {
-        "key": "A7lyvgnDuDE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-23T23:44:46.000Z"
-      },
-      {
-        "key": "LqZjdZ_UE-8",
-        "name": "Have yourself a spooky little Christmas with Ebenezer.",
-        "type": "Teaser",
-        "published_at": "2026-11-19T04:00:23.000Z"
       }
     ]
   },
@@ -957,7 +969,7 @@
     "id": 1440769,
     "title": "The Beekeeper 2",
     "release_date": "2027-01-15",
-    "poster": "https://image.tmdb.org/t/p/w500/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8abow3kX8t5TPythvnL3L5FVxNK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tKTCTuG63KFQD82M5fvQbfO4fra.jpg",
     "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
     "theatrical": true,
@@ -1209,7 +1221,7 @@
     "id": 1716604,
     "title": "A Proud Family Wizmas",
     "release_date": "2026-11-14",
-    "poster": "https://image.tmdb.org/t/p/w500/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/11wLgcyi1712tk891oqT1SblmAY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg",
     "overview": "When Penny Proud\u2019s rant about Wizmas and the commercialization of Christmas causes Santa to quit on Christmas eve, Penny finds herself guilted into putting on the red suit and replacing him. And in the process of delivering Yuletide cheer with the help of Santa\u2019s irreverent elves, she discovers that indeed the Christmas spirit is still alive.",
     "theatrical": false,
@@ -1638,42 +1650,6 @@
     ]
   },
   {
-    "id": 1255833,
-    "title": "Whalefall",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-    "theatrical": true,
-    "trailer_published": "2026-10-23T16:00:03.000Z",
-    "videos": [
-      {
-        "key": "Dw-5ZGapGTQ",
-        "name": "Official Trailer 2",
-        "type": "Trailer",
-        "published_at": "2026-09-10T16:00:23.000Z"
-      },
-      {
-        "key": "rN9F6-tbySY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-19T16:00:24.000Z"
-      },
-      {
-        "key": "67ho3OxCmmM",
-        "name": "Official Teaser",
-        "type": "Trailer",
-        "published_at": "2026-06-09T16:00:21.000Z"
-      },
-      {
-        "key": "wOvnZP6IGYA",
-        "name": "don't hold your breath",
-        "type": "Teaser",
-        "published_at": "2026-10-23T16:00:03.000Z"
-      }
-    ]
-  },
-  {
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
@@ -1706,24 +1682,6 @@
         "name": "These reviews are getting to our head!",
         "type": "Teaser",
         "published_at": "2026-10-22T09:00:32.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1794569,
-    "title": "Unprotected: Murder in Galicia",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
-    "overview": "Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Ver\u00edn. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.",
-    "theatrical": false,
-    "trailer_published": "2026-10-22T09:00:00.000Z",
-    "videos": [
-      {
-        "key": "V7qdKH-USL8",
-        "name": "Murder in Galicia | Official Trailer | Netflix",
-        "type": "Trailer",
-        "published_at": "2026-10-22T09:00:00.000Z"
       }
     ]
   },
@@ -1780,7 +1738,7 @@
     "title": "Perfect Liars",
     "release_date": "2026-11-20",
     "poster": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qKFLZz7rnZAJuyZ9HVEhwIINftz.jpg",
     "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
     "theatrical": false,
     "trailer_published": "2026-10-20T14:00:12.000Z",
@@ -2274,6 +2232,30 @@
     ]
   },
   {
+    "id": 1480276,
+    "title": "Inherit",
+    "release_date": "2026-11-19",
+    "poster": "https://image.tmdb.org/t/p/w500/nM0pESYpH0xGOBcCTzt5pXtZ4CB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hLVFiEzMDsYk6CW5kpPE1T7f4WL.jpg",
+    "overview": "Follows a wealthy family whose polished exterior begins to crack when an ancient centipede spirit infiltrates their bloodline.",
+    "theatrical": false,
+    "trailer_published": "2026-10-08T07:25:09.000Z",
+    "videos": [
+      {
+        "key": "Iho_Pe9VqkM",
+        "name": "\u0e04\u0e38\u0e13\u0e22\u0e32\u0e22\u0e27\u0e23\u0e19\u0e32\u0e0f | \u0e15\u0e31\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23 | 19 \u0e1e.\u0e22. \u0e43\u0e19\u0e42\u0e23\u0e07\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c",
+        "type": "Trailer",
+        "published_at": "2026-10-08T07:25:09.000Z"
+      },
+      {
+        "key": "PUIt5ZJuL9k",
+        "name": "\u0e15\u0e31\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e41\u0e23\u0e01\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u2018\u0e04\u0e38\u0e13\u0e22\u0e32\u0e22\u0e27\u0e23\u0e19\u0e32\u0e0f\u2019 | INHERIT Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-08-05T10:00:04.000Z"
+      }
+    ]
+  },
+  {
     "id": 1241478,
     "title": "Jimmy",
     "release_date": "2026-11-06",
@@ -2456,42 +2438,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2025-07-01T16:00:29.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1401433,
-    "title": "Appofeniacs",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1SlHgHdWLvGowW91Uy4tfWfrbFf.jpg",
-    "overview": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life\u2026 or end it.",
-    "theatrical": true,
-    "trailer_published": "2026-10-01T01:00:11.000Z",
-    "videos": [
-      {
-        "key": "txD8Y8Pv1rY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-12T18:00:31.000Z"
-      },
-      {
-        "key": "J1Fypndcou8",
-        "name": "Official Red Band Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-06T19:00:06.000Z"
-      },
-      {
-        "key": "2y5IqzD6H8Y",
-        "name": "In Theaters October 2nd",
-        "type": "Teaser",
-        "published_at": "2026-10-01T01:00:11.000Z"
-      },
-      {
-        "key": "oQK7E26dLL4",
-        "name": "Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2025-09-16T16:17:36.000Z"
       }
     ]
   },
@@ -3071,7 +3017,7 @@
     "release_date": "2026-09-30",
     "poster": "https://image.tmdb.org/t/p/w500/bHRuUxWm7PsbUWOxh9ipgsulPx8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ijpYht2clTKPBeFX9UG3ac3uSTo.jpg",
-    "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
+    "overview": "About the events that unfold after longtime job seeker Seok Hwan discovers that he has the ability to resurrect three days after his death.",
     "theatrical": false,
     "trailer_published": "2026-09-17T00:04:02.000Z",
     "videos": [
@@ -3204,6 +3150,36 @@
     ]
   },
   {
+    "id": 1408207,
+    "title": "Zero A.D.: The Birth of Christ",
+    "release_date": "2026-12-11",
+    "poster": "https://image.tmdb.org/t/p/w500/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3dVJvgOkeyyNrqQBCZGIzSvLtTE.jpg",
+    "overview": "A star rises over Bethlehem as Christ is born. But when Herod orders the slaughter of the innocents, Mary and Joseph must protect the child promised to save the world.",
+    "theatrical": true,
+    "trailer_published": "2026-09-08T15:00:01.000Z",
+    "videos": [
+      {
+        "key": "lRF1Etsd4wo",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-08T15:00:01.000Z"
+      },
+      {
+        "key": "JpZ7y72u-c8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2025-07-31T23:30:08.000Z"
+      },
+      {
+        "key": "vWVQYdAUvb8",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2025-04-02T15:56:07.000Z"
+      }
+    ]
+  },
+  {
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
@@ -3322,7 +3298,7 @@
     "title": "Breeder",
     "release_date": "2026-10-28",
     "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
     "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
     "theatrical": true,
     "trailer_published": "2026-08-26T16:30:01.000Z",
@@ -3410,6 +3386,30 @@
         "name": "Ghost Market, arriving in Spring 2028!",
         "type": "Teaser",
         "published_at": "2026-08-15T03:04:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1556321,
+    "title": "Death Whisperer: Saming the Werebeast",
+    "release_date": "2026-09-29",
+    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
+    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
+    "theatrical": false,
+    "trailer_published": "2026-08-13T09:00:10.000Z",
+    "videos": [
+      {
+        "key": "BP2_TUBOS6U",
+        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
+        "type": "Teaser",
+        "published_at": "2026-08-13T09:00:10.000Z"
+      },
+      {
+        "key": "M_e4IfKbmGo",
+        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
+        "type": "Teaser",
+        "published_at": "2026-07-29T10:00:36.000Z"
       }
     ]
   },
