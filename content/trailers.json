@@ -1,5 +1,35 @@
 [
   {
+    "id": 1381273,
+    "title": "Paper Tiger",
+    "release_date": "2026-11-13",
+    "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7QshsnWS3NIZp60qMgcYm1C6dxm.jpg",
+    "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
+    "theatrical": true,
+    "trailer_published": "2026-11-24T19:31:46.000Z",
+    "videos": [
+      {
+        "key": "dUxQ3ltEEwU",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-24T19:31:46.000Z"
+      },
+      {
+        "key": "MLwTyQOhBkw",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-22T16:00:25.000Z"
+      },
+      {
+        "key": "ldCb77jXIsM",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-08-10T16:00:22.000Z"
+      }
+    ]
+  },
+  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -108,6 +138,30 @@
     ]
   },
   {
+    "id": 1372443,
+    "title": "Mr. Irrelevant",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
+    "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
+    "theatrical": true,
+    "trailer_published": "2026-11-23T17:00:14.000Z",
+    "videos": [
+      {
+        "key": "5DddMUVQ5xQ",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-23T17:00:14.000Z"
+      },
+      {
+        "key": "cwVE1qf6Ixs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-13T15:00:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1517333,
     "title": "K-POP: The Debut",
     "release_date": "2027-02-26",
@@ -201,7 +255,7 @@
     "id": 1300968,
     "title": "The Hunger Games: Sunrise on the Reaping",
     "release_date": "2026-11-20",
-    "poster": "https://image.tmdb.org/t/p/w500/bfj5ImMlV9BvISWfLu7sHbdDXS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "theatrical": true,
@@ -302,6 +356,24 @@
         "name": "Let the sound of RAMAYANA: RISE OF A LEGEND by Hans Zimmer and A.R. Rahman take you on a journey.",
         "type": "Teaser",
         "published_at": "2026-11-10T11:00:18.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1829270,
+    "title": "Chiara Ferragni: Front Facing",
+    "release_date": "2026-11-23",
+    "poster": "https://image.tmdb.org/t/p/w500/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg",
+    "overview": "Influencer Chiara Ferragni opens up for the first time on the charity scandal that rocked her career and sparked the end of her high-profile marriage.",
+    "theatrical": false,
+    "trailer_published": "2026-11-21T16:00:00.000Z",
+    "videos": [
+      {
+        "key": "j51cSe8IoxU",
+        "name": "Chiara Ferragni: Front Facing | Official Trailer | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-11-21T16:00:00.000Z"
       }
     ]
   },
@@ -516,42 +588,6 @@
     ]
   },
   {
-    "id": 1437396,
-    "title": "Your Mother Your Mother Your Mother",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/45Mbs6dmn2W0hvuyxXPDkKREHpP.jpg",
-    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him \u2013 and the beliefs threatening to unravel within.",
-    "theatrical": true,
-    "trailer_published": "2026-11-19T16:00:27.000Z",
-    "videos": [
-      {
-        "key": "uEcoV-ngH38",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-03T13:00:03.000Z"
-      },
-      {
-        "key": "kvG1SDILBb8",
-        "name": "A father, a hitman, a man of faith.",
-        "type": "Teaser",
-        "published_at": "2026-11-19T16:00:27.000Z"
-      },
-      {
-        "key": "8k3N5dTGUh4",
-        "name": "Unmatched levels of aura.",
-        "type": "Teaser",
-        "published_at": "2026-11-09T14:27:30.000Z"
-      },
-      {
-        "key": "AM-lxg9DuDk",
-        "name": "In UK Cinemas November 20",
-        "type": "Teaser",
-        "published_at": "2026-11-02T16:00:10.000Z"
-      }
-    ]
-  },
-  {
     "id": 458896,
     "title": "The Nightingale",
     "release_date": "2027-03-19",
@@ -657,7 +693,7 @@
     "id": 1593350,
     "title": "Haiku",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/7kdhwEauV07gbHXdlBtVp6AhqZk.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/thZGedKvZnnvuLpNWEA1nmalM7K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/40bzHa8LA48yUbXeh6TACnUcOu3.jpg",
     "overview": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
     "theatrical": false,
@@ -1024,7 +1060,7 @@
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
     "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
     "theatrical": true,
     "trailer_published": "2026-11-06T13:00:03.000Z",
@@ -1125,7 +1161,7 @@
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -1186,7 +1222,7 @@
     "title": "Hexed",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eMcrgrIyeAgMHS5R9LltDnuxB5R.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "theatrical": true,
     "trailer_published": "2026-11-05T06:19:36.000Z",
@@ -1340,6 +1376,24 @@
         "name": "House Rules",
         "type": "Teaser",
         "published_at": "2026-10-23T13:00:15.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1802703,
+    "title": "Rob Lowe: The Outsider",
+    "release_date": "2026-11-24",
+    "poster": "https://image.tmdb.org/t/p/w500/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg",
+    "overview": "Traces Lowe's career from his breakout roles in \u201cThe Outsiders\u201d and \u201cSt. Elmo\u2019s Fire\u201d to his Emmy-nominated performance on \u201cThe West Wing\u201d and how he maintained his Hollywood career.",
+    "theatrical": false,
+    "trailer_published": "2026-11-03T16:00:00.000Z",
+    "videos": [
+      {
+        "key": "WxXQrtp5PDM",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-03T16:00:00.000Z"
       }
     ]
   },
@@ -1512,6 +1566,30 @@
     ]
   },
   {
+    "id": 1268053,
+    "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
+    "release_date": "2027-01-21",
+    "poster": "https://image.tmdb.org/t/p/w500/lLoL2xtH0STFTIBvmN0PGaQILyg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yrNKsGYEcV9asLjtUcllSXvVzAJ.jpg",
+    "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother\u2019s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles\u2019 terrifying show.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T20:33:29.000Z",
+    "videos": [
+      {
+        "key": "swcW56xOU3o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T20:33:29.000Z"
+      },
+      {
+        "key": "RZmT7JiCO-s",
+        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
+        "type": "Trailer",
+        "published_at": "2026-10-28T20:00:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1281331,
     "title": "The Social Reckoning",
     "release_date": "2026-10-09",
@@ -1568,6 +1646,36 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-10-14T19:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 920167,
+    "title": "Witch on the Holy Night",
+    "release_date": "2027-01-29",
+    "poster": "https://image.tmdb.org/t/p/w500/iJtcWNvcTPgfzJP1k0U7fbQ1HDZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eTs5EnaQtnMDfwawMFDoVZLs7Fp.jpg",
+    "overview": "Near the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it. Mysterious intruders have been disrupting the bounded field in Misaki, leading Alice and Aoko to investigate. A mannequin or puppet attacks them and is incinerated. As this happens, both of them spot someone running away, a civilian who must not get away having seen magic alive. Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and comes to reside with them as well.",
+    "theatrical": true,
+    "trailer_published": "2026-10-27T13:01:25.000Z",
+    "videos": [
+      {
+        "key": "bkvGGVHT08M",
+        "name": "Theme Song Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-27T13:01:25.000Z"
+      },
+      {
+        "key": "UGnGTBBszJI",
+        "name": "Official Trailer 2 [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-27T12:59:55.000Z"
+      },
+      {
+        "key": "OHLsjBEANEo",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-10T13:34:45.000Z"
       }
     ]
   },
@@ -2148,6 +2256,24 @@
     ]
   },
   {
+    "id": 1297467,
+    "title": "The Exorcist: Martyrs",
+    "release_date": "2027-03-12",
+    "poster": "https://image.tmdb.org/t/p/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zdc2FBYjzHhkF1aFzHEjMPw1Ctj.jpg",
+    "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
+    "theatrical": true,
+    "trailer_published": "2026-10-09T22:31:45.000Z",
+    "videos": [
+      {
+        "key": "iIEYfH-jg1Y",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T22:31:45.000Z"
+      }
+    ]
+  },
+  {
     "id": 1512493,
     "title": "LEGO Friends: Heartlake the Musical",
     "release_date": "2026-10-16",
@@ -2532,30 +2658,6 @@
     ]
   },
   {
-    "id": 1422041,
-    "title": "LA BOLA NEGRA",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "theatrical": true,
-    "trailer_published": "2026-09-28T15:00:00.000Z",
-    "videos": [
-      {
-        "key": "lBVxKt0gKDY",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-28T15:00:00.000Z"
-      },
-      {
-        "key": "IRHtqjHYPew",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-09-01T14:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
@@ -2606,24 +2708,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-07T00:30:04.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1755291,
-    "title": "NAZA",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/inju8joDtL7KHtlFEGjFZ2UuqFa.jpg",
-    "overview": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T14:46:09.000Z",
-    "videos": [
-      {
-        "key": "40KW6knYMo4",
-        "name": "Exclusive Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-25T14:46:09.000Z"
       }
     ]
   },
@@ -2888,30 +2972,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-09-02T16:00:34.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1381273,
-    "title": "Paper Tiger",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7QshsnWS3NIZp60qMgcYm1C6dxm.jpg",
-    "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
-    "theatrical": true,
-    "trailer_published": "2026-09-22T16:00:25.000Z",
-    "videos": [
-      {
-        "key": "MLwTyQOhBkw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-22T16:00:25.000Z"
-      },
-      {
-        "key": "ldCb77jXIsM",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-08-10T16:00:22.000Z"
       }
     ]
   },
@@ -3258,24 +3318,6 @@
     ]
   },
   {
-    "id": 1492640,
-    "title": "UNABOMBER",
-    "release_date": "2026-09-25",
-    "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
-    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-    "theatrical": false,
-    "trailer_published": "2026-08-27T14:00:00.000Z",
-    "videos": [
-      {
-        "key": "B3tR6qQjbgI",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-27T14:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1747585,
     "title": "La Gran Sangre: ojo x ojo",
     "release_date": "2026-11-12",
@@ -3386,30 +3428,6 @@
         "name": "Ghost Market, arriving in Spring 2028!",
         "type": "Teaser",
         "published_at": "2026-08-15T03:04:26.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1556321,
-    "title": "Death Whisperer: Saming the Werebeast",
-    "release_date": "2026-09-29",
-    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
-    "theatrical": false,
-    "trailer_published": "2026-08-13T09:00:10.000Z",
-    "videos": [
-      {
-        "key": "BP2_TUBOS6U",
-        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
-        "type": "Teaser",
-        "published_at": "2026-08-13T09:00:10.000Z"
-      },
-      {
-        "key": "M_e4IfKbmGo",
-        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
-        "type": "Teaser",
-        "published_at": "2026-07-29T10:00:36.000Z"
       }
     ]
   },
@@ -3548,24 +3566,6 @@
         "name": "Evil Dead Wrath has begun its bloody production.",
         "type": "Teaser",
         "published_at": "2026-02-21T17:00:28.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1735270,
-    "title": "Premada Oorali",
-    "release_date": "2026-10-09",
-    "poster": "https://image.tmdb.org/t/p/w500/wJsUmiwuZ9eKnOiYLAVk8THFk7i.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
-    "overview": "Premada Oorali is a heartfelt love story set in picturesque villages in the 2020s. The film intertwines romance and family drama, exploring the relationships between a father and son, as well as a boy and girl, as they navigate through intriguing, yet relatable, relationship challenges.",
-    "theatrical": true,
-    "trailer_published": "2026-04-17T11:53:31.000Z",
-    "videos": [
-      {
-        "key": "271GZatiFG0",
-        "name": "PREMADA OORALI - Official Title Teaser | Shree Raam | Rangayana Raghu | JRM Studio Exclusive",
-        "type": "Teaser",
-        "published_at": "2026-04-17T11:53:31.000Z"
       }
     ]
   },
