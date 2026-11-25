@@ -1,5 +1,41 @@
 [
   {
+    "id": 1170608,
+    "title": "Dune: Part Three",
+    "release_date": "2026-12-18",
+    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "theatrical": true,
+    "trailer_published": "2026-11-24T22:36:48.000Z",
+    "videos": [
+      {
+        "key": "uJqaGLmZpGo",
+        "name": "Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T16:00:34.000Z"
+      },
+      {
+        "key": "NdvqHc56lE0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-08T17:59:03.000Z"
+      },
+      {
+        "key": "3_9vCamtuPY",
+        "name": "Official Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-03-17T16:19:02.000Z"
+      },
+      {
+        "key": "LW4spUIxgBk",
+        "name": "\"Family\"",
+        "type": "Teaser",
+        "published_at": "2026-11-24T22:36:48.000Z"
+      }
+    ]
+  },
+  {
     "id": 1381273,
     "title": "Paper Tiger",
     "release_date": "2026-11-13",
@@ -138,30 +174,6 @@
     ]
   },
   {
-    "id": 1372443,
-    "title": "Mr. Irrelevant",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
-    "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
-    "theatrical": true,
-    "trailer_published": "2026-11-23T17:00:14.000Z",
-    "videos": [
-      {
-        "key": "5DddMUVQ5xQ",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-23T17:00:14.000Z"
-      },
-      {
-        "key": "cwVE1qf6Ixs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-13T15:00:05.000Z"
-      }
-    ]
-  },
-  {
     "id": 1517333,
     "title": "K-POP: The Debut",
     "release_date": "2027-02-26",
@@ -184,7 +196,7 @@
     "title": "Focker In-Law",
     "release_date": "2026-11-25",
     "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
     "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
     "theatrical": true,
     "trailer_published": "2026-11-23T10:00:26.000Z",
@@ -212,42 +224,6 @@
         "name": "Some family traditions never change. Is Olivia ready to Meet The Fockers?",
         "type": "Teaser",
         "published_at": "2026-11-22T08:00:29.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1170608,
-    "title": "Dune: Part Three",
-    "release_date": "2026-12-18",
-    "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "theatrical": true,
-    "trailer_published": "2026-11-22T17:01:15.000Z",
-    "videos": [
-      {
-        "key": "uJqaGLmZpGo",
-        "name": "Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-27T16:00:34.000Z"
-      },
-      {
-        "key": "NdvqHc56lE0",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-08T17:59:03.000Z"
-      },
-      {
-        "key": "3_9vCamtuPY",
-        "name": "Official Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-03-17T16:19:02.000Z"
-      },
-      {
-        "key": "KFqe2evmkz8",
-        "name": "Witness the epic conclusion.",
-        "type": "Teaser",
-        "published_at": "2026-11-22T17:01:15.000Z"
       }
     ]
   },
@@ -501,7 +477,7 @@
     "id": 1286656,
     "title": "I Play Rocky",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/sPID7NqwpNdSAEMhazCvidxxeNo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/8q8AF8xvV1drhACtEL2Iti5gJ8P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
     "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky\u2014he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
     "theatrical": true,
@@ -592,7 +568,7 @@
     "title": "The Nightingale",
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/upfnWT6okzhJUE4nv9BxDhcbWnJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8FdubY8urgN3Yq6eGSLkv0F1TQK.jpg",
     "overview": "The lives of two French sisters are torn apart by the onset of World War II.",
     "theatrical": true,
     "trailer_published": "2026-11-19T14:17:16.000Z",
@@ -774,6 +750,72 @@
     ]
   },
   {
+    "id": 1260649,
+    "title": "Jumanji: Open World",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
+    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us\u2014as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "theatrical": true,
+    "trailer_published": "2026-11-16T05:30:26.000Z",
+    "videos": [
+      {
+        "key": "nIw1O3zvOfE",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T13:00:39.000Z"
+      },
+      {
+        "key": "zhApeaHMvfs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-29T00:59:43.000Z"
+      },
+      {
+        "key": "SYXrfuWhjO0",
+        "name": "loyal story likers make the world go round.",
+        "type": "Teaser",
+        "published_at": "2026-11-16T05:30:26.000Z"
+      },
+      {
+        "key": "nykbpzaCGTo",
+        "name": "Somebody hide the weapon stash",
+        "type": "Teaser",
+        "published_at": "2026-11-14T04:22:29.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1653298,
+    "title": "Prasert",
+    "release_date": "2026-11-26",
+    "poster": "https://image.tmdb.org/t/p/w500/3fBaPL34Ny8ajcA4UESrg670hgB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3xuYPJ9y8lYc7W0J5x5Np1rCrmM.jpg",
+    "overview": "A car rental company owner accidentally witnesses a murder, making him and his family targets of a ruthless gang.",
+    "theatrical": true,
+    "trailer_published": "2026-11-16T04:11:40.000Z",
+    "videos": [
+      {
+        "key": "KFuJJrASAGc",
+        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 - Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-16T04:11:40.000Z"
+      },
+      {
+        "key": "VexORteMIyg",
+        "name": "Prasoet - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-12T03:05:32.000Z"
+      },
+      {
+        "key": "qgq2sqSMbzk",
+        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 - Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-10-01T10:00:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1737740,
     "title": "Fresh Meat",
     "release_date": "2026-10-12",
@@ -794,42 +836,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-09-24T17:15:39.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1260649,
-    "title": "Jumanji: Open World",
-    "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
-    "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us\u2014as Jumanji breaks free of its console, unleashing its chaos into our world.",
-    "theatrical": true,
-    "trailer_published": "2026-11-13T14:54:57.000Z",
-    "videos": [
-      {
-        "key": "nIw1O3zvOfE",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T13:00:39.000Z"
-      },
-      {
-        "key": "zhApeaHMvfs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-29T00:59:43.000Z"
-      },
-      {
-        "key": "NFrRSNtzfpI",
-        "name": "Welcome to Jumanji, where danger comes in all shapes and sizes",
-        "type": "Teaser",
-        "published_at": "2026-11-13T14:54:57.000Z"
-      },
-      {
-        "key": "RfVHb05uHV0",
-        "name": "The game isn't over yet. Get ready to play again!",
-        "type": "Teaser",
-        "published_at": "2026-11-07T08:30:39.000Z"
       }
     ]
   },
@@ -1161,7 +1167,7 @@
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -1190,30 +1196,6 @@
         "name": "Charming",
         "type": "Teaser",
         "published_at": "2026-11-05T12:42:10.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1493572,
-    "title": "Parivarik ManuRanjan",
-    "release_date": "2026-11-12",
-    "poster": "https://image.tmdb.org/t/p/w500/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9j9DtcTGSSZJVrimys2emN5kVh3.jpg",
-    "overview": "Ranjan Dubey, Lucknow's most eligible bachelor, finds his search for a bride taking an unexpected turn when Helen, his charming new househelp, walks into his life. With everyone having an opinion on this unlikely duo, will their companionship blossom into love?",
-    "theatrical": false,
-    "trailer_published": "2026-11-05T11:47:21.000Z",
-    "videos": [
-      {
-        "key": "ym4y_aPk0io",
-        "name": "Parivarik ManuRanjan | Official Trailer | Sony LIV | Streaming from 13 November",
-        "type": "Trailer",
-        "published_at": "2026-11-05T11:47:21.000Z"
-      },
-      {
-        "key": "Rem5PB5kR1U",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-10-23T10:50:07.000Z"
       }
     ]
   },
@@ -1562,30 +1544,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-29T03:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1268053,
-    "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
-    "release_date": "2027-01-21",
-    "poster": "https://image.tmdb.org/t/p/w500/lLoL2xtH0STFTIBvmN0PGaQILyg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yrNKsGYEcV9asLjtUcllSXvVzAJ.jpg",
-    "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother\u2019s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles\u2019 terrifying show.",
-    "theatrical": true,
-    "trailer_published": "2026-10-28T20:33:29.000Z",
-    "videos": [
-      {
-        "key": "swcW56xOU3o",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T20:33:29.000Z"
-      },
-      {
-        "key": "RZmT7JiCO-s",
-        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
-        "type": "Trailer",
-        "published_at": "2026-10-28T20:00:09.000Z"
       }
     ]
   },
@@ -3132,6 +3090,24 @@
     ]
   },
   {
+    "id": 1771194,
+    "title": "Hook: Never, Never Ending",
+    "release_date": "2026-11-17",
+    "poster": "https://image.tmdb.org/t/p/w500/3WqL7nb6kR6yuCLTWMy0ylYtLsB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kucifJyQOd0v0NwHSmNZjX9i65x.jpg",
+    "overview": "Straight from the set of HOOK, this hour-long documentary features never before seen behind the scenes footage.  Relive the adventure of creating this beloved film that has become a cult classic with extraordinary access to access to Steven Spielberg, Robin Williams, Dustin Hoffman, Julia Roberts, and the crew through interviews and footage captured during production, as well as Steven Spielberg\u2019s home movies.  Experience the triumph and trials of making HOOK in a thrilling and nostalgic time capsule that audiences will treasure.",
+    "theatrical": false,
+    "trailer_published": "2026-09-14T23:39:54.000Z",
+    "videos": [
+      {
+        "key": "9e9V9VV-0B8",
+        "name": "Go Behind the Scenes of HOOK",
+        "type": "Trailer",
+        "published_at": "2026-09-14T23:39:54.000Z"
+      }
+    ]
+  },
+  {
     "id": 1603262,
     "title": "Everest: The Other Side",
     "release_date": "2026-10-30",
@@ -3340,7 +3316,7 @@
     "title": "Breeder",
     "release_date": "2026-10-28",
     "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
     "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
     "theatrical": true,
     "trailer_published": "2026-08-26T16:30:01.000Z",
@@ -3620,6 +3596,24 @@
         "name": "JOSHUA | Premiering 2026 in Lancaster, PA  | Sight & Sound Theatres\u00ae",
         "type": "Teaser",
         "published_at": "2026-01-23T17:30:53.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1145110,
+    "title": "King",
+    "release_date": "2026-12-24",
+    "poster": "https://image.tmdb.org/t/p/w500/Aq5J3pzesN7WJLIzEkWD2b4FqV9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mjiDUz5idO9LrJC40JphKmSqjfF.jpg",
+    "overview": "Mentor and disciple embark on a perilous journey, pushing their survival skills to the limit against overwhelming odds and unforgiving environments.",
+    "theatrical": true,
+    "trailer_published": "2025-11-02T06:00:59.000Z",
+    "videos": [
+      {
+        "key": "Uu2QK9Z9X5E",
+        "name": "Title Reveal [ENG SUB]",
+        "type": "Teaser",
+        "published_at": "2025-11-02T06:00:59.000Z"
       }
     ]
   },
