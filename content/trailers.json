@@ -174,6 +174,30 @@
     ]
   },
   {
+    "id": 1372443,
+    "title": "Mr. Irrelevant",
+    "release_date": "2026-12-25",
+    "poster": "https://image.tmdb.org/t/p/w500/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
+    "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
+    "theatrical": true,
+    "trailer_published": "2026-11-23T17:00:14.000Z",
+    "videos": [
+      {
+        "key": "5DddMUVQ5xQ",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-23T17:00:14.000Z"
+      },
+      {
+        "key": "cwVE1qf6Ixs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-13T15:00:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1517333,
     "title": "K-POP: The Debut",
     "release_date": "2027-02-26",
@@ -514,7 +538,7 @@
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
     "poster": "https://image.tmdb.org/t/p/w500/h90ZGL00jrbCIwRoQJ86xN8Wdov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5Jmw6B6QHdbRKgi4MYYCZgQTx44.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nTPXdweuKyYcNyFpyumEY1pCWvX.jpg",
     "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
     "theatrical": true,
     "trailer_published": "2026-11-19T17:00:11.000Z",
@@ -568,8 +592,8 @@
     "title": "The Nightingale",
     "release_date": "2027-03-19",
     "poster": "https://image.tmdb.org/t/p/w500/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8FdubY8urgN3Yq6eGSLkv0F1TQK.jpg",
-    "overview": "The lives of two French sisters are torn apart by the onset of World War II.",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q7MGYSDVZ0WB1Z1Cx5X8jtUbwza.jpg",
+    "overview": "Two sisters are forced to embark on separate courageous, dangerous paths in a fight for survival and freedom during World War II.",
     "theatrical": true,
     "trailer_published": "2026-11-19T14:17:16.000Z",
     "videos": [
@@ -782,36 +806,6 @@
         "name": "Somebody hide the weapon stash",
         "type": "Teaser",
         "published_at": "2026-11-14T04:22:29.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1653298,
-    "title": "Prasert",
-    "release_date": "2026-11-26",
-    "poster": "https://image.tmdb.org/t/p/w500/3fBaPL34Ny8ajcA4UESrg670hgB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3xuYPJ9y8lYc7W0J5x5Np1rCrmM.jpg",
-    "overview": "A car rental company owner accidentally witnesses a murder, making him and his family targets of a ruthless gang.",
-    "theatrical": true,
-    "trailer_published": "2026-11-16T04:11:40.000Z",
-    "videos": [
-      {
-        "key": "KFuJJrASAGc",
-        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 - Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-16T04:11:40.000Z"
-      },
-      {
-        "key": "VexORteMIyg",
-        "name": "Prasoet - Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-12T03:05:32.000Z"
-      },
-      {
-        "key": "qgq2sqSMbzk",
-        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 - Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-10-01T10:00:05.000Z"
       }
     ]
   },
@@ -1638,6 +1632,24 @@
     ]
   },
   {
+    "id": 1280115,
+    "title": "Way of the Warrior Kid",
+    "release_date": "2026-11-24",
+    "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+    "theatrical": false,
+    "trailer_published": "2026-10-27T12:59:55.000Z",
+    "videos": [
+      {
+        "key": "R1ECMLrwDYQ",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-27T12:59:55.000Z"
+      }
+    ]
+  },
+  {
     "id": 1515692,
     "title": "Baththa",
     "release_date": "2026-10-01",
@@ -1874,24 +1886,6 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-19T13:00:31.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1541477,
-    "title": "You, Me, Us",
-    "release_date": "2026-10-29",
-    "poster": "https://image.tmdb.org/t/p/w500/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
-    "overview": "A couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities.",
-    "theatrical": false,
-    "trailer_published": "2026-10-18T10:00:00.000Z",
-    "videos": [
-      {
-        "key": "XjUt3Fv_f-Y",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-10-18T10:00:00.000Z"
       }
     ]
   },
@@ -2427,7 +2421,7 @@
     "id": 1543469,
     "title": "Heartland",
     "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
     "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
     "theatrical": false,
@@ -2619,7 +2613,7 @@
     "id": 1421903,
     "title": "Werwulf",
     "release_date": "2026-12-25",
-    "poster": "https://image.tmdb.org/t/p/w500/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/whdGCRa5giUYXPJy7wzUvxllM6i.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
     "overview": "A harrowing tale of devotion, damnation and the devil within.",
     "theatrical": true,
@@ -3172,7 +3166,7 @@
     "title": "Drishyam: The Conclusion",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/slSC0xYHynkHAwIdLPqfW9Blcow.jpg",
     "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
     "theatrical": true,
     "trailer_published": "2026-09-09T07:43:50.000Z",
@@ -3219,7 +3213,7 @@
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oKsS2mUf87ClNjrruq8s0aXrDSb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
     "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
     "theatrical": true,
