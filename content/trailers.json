@@ -1,5 +1,41 @@
 [
   {
+    "id": 1452168,
+    "title": "Behemoth!",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
+    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+    "theatrical": true,
+    "trailer_published": "2026-11-25T17:01:40.000Z",
+    "videos": [
+      {
+        "key": "I6tMFYT9s7E",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T13:00:22.000Z"
+      },
+      {
+        "key": "zPeDylHG7k4",
+        "name": "\"Prodigy\"",
+        "type": "Teaser",
+        "published_at": "2026-11-25T17:01:40.000Z"
+      },
+      {
+        "key": "2N5kgL4Ay8c",
+        "name": "Make A Choice",
+        "type": "Teaser",
+        "published_at": "2026-11-23T18:00:49.000Z"
+      },
+      {
+        "key": "9QsvGXsHing",
+        "name": "A Life in Pieces",
+        "type": "Teaser",
+        "published_at": "2026-11-19T19:03:16.000Z"
+      }
+    ]
+  },
+  {
     "id": 1170608,
     "title": "Dune: Part Three",
     "release_date": "2026-12-18",
@@ -134,42 +170,6 @@
         "name": "To me, my X-Men.",
         "type": "Teaser",
         "published_at": "2026-11-23T22:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1452168,
-    "title": "Behemoth!",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
-    "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
-    "theatrical": true,
-    "trailer_published": "2026-11-23T18:00:49.000Z",
-    "videos": [
-      {
-        "key": "I6tMFYT9s7E",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-28T13:00:22.000Z"
-      },
-      {
-        "key": "2N5kgL4Ay8c",
-        "name": "Make A Choice",
-        "type": "Teaser",
-        "published_at": "2026-11-23T18:00:49.000Z"
-      },
-      {
-        "key": "9QsvGXsHing",
-        "name": "A Life in Pieces",
-        "type": "Teaser",
-        "published_at": "2026-11-19T19:03:16.000Z"
-      },
-      {
-        "key": "uMipyQSEOJs",
-        "name": "Building Intensity",
-        "type": "Teaser",
-        "published_at": "2026-11-19T00:08:20.000Z"
       }
     ]
   },
@@ -371,7 +371,7 @@
     "videos": [
       {
         "key": "j51cSe8IoxU",
-        "name": "Chiara Ferragni: Front Facing | Official Trailer | Netflix",
+        "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-11-21T16:00:00.000Z"
       }
@@ -538,7 +538,7 @@
     "title": "Ice Age: Boiling Point",
     "release_date": "2027-02-05",
     "poster": "https://image.tmdb.org/t/p/w500/h90ZGL00jrbCIwRoQJ86xN8Wdov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nTPXdweuKyYcNyFpyumEY1pCWvX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
     "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
     "theatrical": true,
     "trailer_published": "2026-11-19T17:00:11.000Z",
@@ -670,7 +670,7 @@
     "title": "Artificial",
     "release_date": "2026-12-25",
     "poster": "https://image.tmdb.org/t/p/w500/tD4JOGcI5SSBKSFo4coObYwRlxE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sTKpFaObARrgKXU3099qbBjLLod.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ovHvZm64SPWJyE3xbEFfDsFmaR8.jpg",
     "overview": "In November 2023, amidst the height of a global AI boom, OpenAI co-founder Ilya Sutskever teamed with the company board to make one of the defining decisions that has drastically reshaped the company as we know it, the firing of current CEO Sam Altman. This controversial decision would lead to immense backlash, ultimately resulting in Altman's return five days later.",
     "theatrical": true,
     "trailer_published": "2026-11-18T17:00:10.000Z",
@@ -693,7 +693,7 @@
     "id": 1593350,
     "title": "Haiku",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/thZGedKvZnnvuLpNWEA1nmalM7K.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/7kdhwEauV07gbHXdlBtVp6AhqZk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/40bzHa8LA48yUbXeh6TACnUcOu3.jpg",
     "overview": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
     "theatrical": false,
@@ -1161,7 +1161,7 @@
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -1374,6 +1374,24 @@
     ]
   },
   {
+    "id": 1600653,
+    "title": "The 12 Dates of Christmas",
+    "release_date": "2026-11-06",
+    "poster": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
+    "overview": "Christina Walker, a successful shop owner who has devoted her energy to her career at the expense of her dating life, goes on 12 dates in the 12 weeks leading up to Christmas hoping to find Mr. Right.",
+    "theatrical": false,
+    "trailer_published": "2026-11-02T20:02:43.000Z",
+    "videos": [
+      {
+        "key": "AGFqDK6CT0U",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-02T20:02:43.000Z"
+      }
+    ]
+  },
+  {
     "id": 1137888,
     "title": "The Man with the Bag",
     "release_date": "2026-12-02",
@@ -1491,8 +1509,8 @@
     "id": 1791730,
     "title": "Primetime Preacher$",
     "release_date": "2026-11-14",
-    "poster": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/pnMVyfJevpBCpElzKglYb8pD3hf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kWuGqljCzwqRm36qDXU85Yh6VhM.jpg",
     "overview": "Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America's most prominent televangelists shifted evangelical Christianity into a massive political force.",
     "theatrical": false,
     "trailer_published": "2026-10-29T14:00:00.000Z",
@@ -1538,6 +1556,30 @@
         "name": "Official Trailer [Subtitled]",
         "type": "Trailer",
         "published_at": "2026-10-29T03:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1268053,
+    "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
+    "release_date": "2027-01-21",
+    "poster": "https://image.tmdb.org/t/p/w500/lLoL2xtH0STFTIBvmN0PGaQILyg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yrNKsGYEcV9asLjtUcllSXvVzAJ.jpg",
+    "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother\u2019s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles\u2019 terrifying show.",
+    "theatrical": true,
+    "trailer_published": "2026-10-28T20:33:29.000Z",
+    "videos": [
+      {
+        "key": "swcW56xOU3o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-28T20:33:29.000Z"
+      },
+      {
+        "key": "RZmT7JiCO-s",
+        "name": "Winnie-the-Pooh: Blood and Honey 3 - Exclusive Red Band Trailer (2027) Josephine Blazier",
+        "type": "Trailer",
+        "published_at": "2026-10-28T20:00:09.000Z"
       }
     ]
   },
@@ -1602,32 +1644,32 @@
     ]
   },
   {
-    "id": 920167,
-    "title": "Witch on the Holy Night",
-    "release_date": "2027-01-29",
-    "poster": "https://image.tmdb.org/t/p/w500/iJtcWNvcTPgfzJP1k0U7fbQ1HDZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eTs5EnaQtnMDfwawMFDoVZLs7Fp.jpg",
-    "overview": "Near the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it. Mysterious intruders have been disrupting the bounded field in Misaki, leading Alice and Aoko to investigate. A mannequin or puppet attacks them and is incinerated. As this happens, both of them spot someone running away, a civilian who must not get away having seen magic alive. Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and comes to reside with them as well.",
+    "id": 1458300,
+    "title": "The Mosquito Bowl",
+    "release_date": "2026-10-30",
+    "poster": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+    "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
     "theatrical": true,
-    "trailer_published": "2026-10-27T13:01:25.000Z",
+    "trailer_published": "2026-10-27T18:30:00.000Z",
     "videos": [
       {
-        "key": "bkvGGVHT08M",
-        "name": "Theme Song Trailer [Subtitled]",
+        "key": "F6YDzPfjH4I",
+        "name": "Red Band Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-27T13:01:25.000Z"
+        "published_at": "2026-10-27T18:30:00.000Z"
       },
       {
-        "key": "UGnGTBBszJI",
-        "name": "Official Trailer 2 [Subtitled]",
+        "key": "CPFkLjHfKoc",
+        "name": "Official Trailer",
         "type": "Trailer",
-        "published_at": "2026-10-27T12:59:55.000Z"
+        "published_at": "2026-10-12T12:00:00.000Z"
       },
       {
-        "key": "OHLsjBEANEo",
-        "name": "Official Trailer [Subtitled]",
-        "type": "Trailer",
-        "published_at": "2026-09-10T13:34:45.000Z"
+        "key": "-rWIE3-SIOg",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-09-09T12:00:00.000Z"
       }
     ]
   },
@@ -1636,7 +1678,7 @@
     "title": "Way of the Warrior Kid",
     "release_date": "2026-11-24",
     "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
     "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
     "theatrical": false,
     "trailer_published": "2026-10-27T12:59:55.000Z",
@@ -1731,7 +1773,7 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1r8IbJqmctfcAEw8KMmHhE63fA9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
@@ -1948,7 +1990,7 @@
     "title": "Digger",
     "release_date": "2026-10-02",
     "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rrII8v7ExyX9KzyHopW6B9mfrOD.jpg",
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "theatrical": true,
     "trailer_published": "2026-10-15T18:00:12.000Z",
@@ -2222,24 +2264,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-09T22:31:45.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1512493,
-    "title": "LEGO Friends: Heartlake the Musical",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
-    "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark \u2013 with plenty of song and dance numbers along the way.",
-    "theatrical": false,
-    "trailer_published": "2026-10-09T14:00:15.000Z",
-    "videos": [
-      {
-        "key": "0rT0C92Z2ks",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T14:00:15.000Z"
       }
     ]
   },
@@ -3126,24 +3150,6 @@
     ]
   },
   {
-    "id": 1287520,
-    "title": "November 1963",
-    "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/ujp2aHu1lWMjAGoletnsmv3mcMn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ppQKMpC4WhEumnzu4aAcWjAr7WU.jpg",
-    "overview": "Prior to the election of John F. Kennedy in 1960, his father Joe Kennedy asked for a favor from mob boss Sam Giancana and the Chicago Outfit to ensure a win for the younger Kennedy. However, during the presidency, the national organized crime syndicate came under heavy fire from Attorney General Bobby Kennedy. The mob answered this perceived betrayal with the ultimate revenge: the assassination of the 35th President of the United States on November 22, 1963. The events are depicted through the perspective of Sam Giancana's brother, Pepe, who was present during the critical planning stages, detailing the intricate circumstances and the mob's direct involvement in setting up the assassination.",
-    "theatrical": true,
-    "trailer_published": "2026-09-10T17:04:56.000Z",
-    "videos": [
-      {
-        "key": "8N9e-skJ3hw",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-10T17:04:56.000Z"
-      }
-    ]
-  },
-  {
     "id": 1381078,
     "title": "Love of Your Life",
     "release_date": "2026-10-07",
@@ -3213,7 +3219,7 @@
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/oKsS2mUf87ClNjrruq8s0aXrDSb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/eaPfmH83P4yf4gyaWFD4FvvdOcM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
     "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
     "theatrical": true,
@@ -3370,7 +3376,7 @@
     "title": "Club Kid",
     "release_date": "2026-11-06",
     "poster": "https://image.tmdb.org/t/p/w500/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m5zcXuV4qR9fBgXjPndLIPOcasF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/767ZDrZk48YlKM4cmOvdQF9yFHn.jpg",
     "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
     "theatrical": true,
     "trailer_published": "2026-08-19T12:07:41.000Z",
@@ -3398,6 +3404,30 @@
         "name": "Ghost Market, arriving in Spring 2028!",
         "type": "Teaser",
         "published_at": "2026-08-15T03:04:26.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1556321,
+    "title": "Death Whisperer: Saming the Werebeast",
+    "release_date": "2026-09-29",
+    "poster": "https://image.tmdb.org/t/p/w500/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
+    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
+    "theatrical": false,
+    "trailer_published": "2026-08-13T09:00:10.000Z",
+    "videos": [
+      {
+        "key": "BP2_TUBOS6U",
+        "name": "[OFFICIAL TEASER] \u201cDeath Whisperer: The Tiger of Khao Khwang\u201d",
+        "type": "Teaser",
+        "published_at": "2026-08-13T09:00:10.000Z"
+      },
+      {
+        "key": "M_e4IfKbmGo",
+        "name": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14: \u0e2a\u0e21\u0e34\u0e07\u0e40\u0e02\u0e32\u0e02\u0e27\u0e32\u0e07 | OFFICIAL FIRST LOOK",
+        "type": "Teaser",
+        "published_at": "2026-07-29T10:00:36.000Z"
       }
     ]
   },
@@ -3450,24 +3480,6 @@
     ]
   },
   {
-    "id": 1662511,
-    "title": "Daffy Season",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/wyAkjd0aDOoTaBG0bnJJNkUmUDd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6R9dKl7mj5WMAWfNSJ0rPOFYvJg.jpg",
-    "overview": "Daffy is ready for Duck Season, but Elmer is too immersed in his new obsession \u2013 soccer \u2013 to come hunting. Slowly the world around Daffy turns into a zombie-esque nightmare as the Tunes become obsessed with the sport.",
-    "theatrical": true,
-    "trailer_published": "2026-07-16T18:00:22.000Z",
-    "videos": [
-      {
-        "key": "DqopaY31gB4",
-        "name": "A global celebration of soccer. A personal crisis for Daffy.",
-        "type": "Teaser",
-        "published_at": "2026-07-16T18:00:22.000Z"
-      }
-    ]
-  },
-  {
     "id": 1294189,
     "title": "The Mongoose",
     "release_date": "2026-10-30",
@@ -3482,6 +3494,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-07-15T17:00:06.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1045968,
+    "title": "The Fox",
+    "release_date": "2026-12-04",
+    "poster": "https://image.tmdb.org/t/p/w500/unIaSB9LZ0r3iZ2jBAQ2Qi5mFIp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/24fTCT6aavjyWC2RwzISUNMF2XL.jpg",
+    "overview": "An affable foxhunter encounters a talking Fox who offers him an opportunity to transform his fianc\u00e9e into the perfect woman.",
+    "theatrical": true,
+    "trailer_published": "2026-07-09T22:00:13.000Z",
+    "videos": [
+      {
+        "key": "_XEZHlWlZ_o",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-09T22:00:13.000Z"
       }
     ]
   },
@@ -3572,24 +3602,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-02-17T21:29:43.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1733243,
-    "title": "Sight & Sound Presents: JOSHUA\u2014Live!",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/tAJJBIUQyXFSFs0JdwHx2VnUikL.jpg",
-    "backdrop": "",
-    "overview": "Journey alongside the people of Israel as they navigate their new-found freedom in an unforgiving wilderness. When Joshua is called to replace Moses as their faithful leader, tensions mount in the midst of dwindling supplies and approaching armies. With one last fortified city standing between the Israelites and the Promised Land, unexpected help emerges from behind enemy lines and Joshua's trust in God's plan is put to the ultimate test.  Filmed in front of a live audience, this special event invites you to experience one of the most redemptive stories of the Bible come to life like never before!",
-    "theatrical": true,
-    "trailer_published": "2026-01-23T17:30:53.000Z",
-    "videos": [
-      {
-        "key": "G2UnTTQGh58",
-        "name": "JOSHUA | Premiering 2026 in Lancaster, PA  | Sight & Sound Theatres\u00ae",
-        "type": "Teaser",
-        "published_at": "2026-01-23T17:30:53.000Z"
       }
     ]
   },
