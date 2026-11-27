@@ -1,9 +1,75 @@
 [
   {
+    "id": 1562642,
+    "title": "Ghost Soldier",
+    "release_date": "2026-11-11",
+    "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+    "overview": "Henry \u201cFitz\u201d Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors\u2019 land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+    "theatrical": true,
+    "trailer_published": "2026-11-27T10:30:34.000Z",
+    "videos": [
+      {
+        "key": "UKaWzMf9Ybc",
+        "name": "New Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-14T16:00:40.000Z"
+      },
+      {
+        "key": "l0pTZqZWs-c",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-08-20T14:03:57.000Z"
+      },
+      {
+        "key": "C0su7z15j9g",
+        "name": "This one's personal.",
+        "type": "Teaser",
+        "published_at": "2026-11-27T10:30:34.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1400336,
+    "title": "Focker In-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "theatrical": true,
+    "trailer_published": "2026-11-27T09:00:32.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "TvkWmpoBf0k",
+        "name": "Everyone in the Focker family is back for this reunion.",
+        "type": "Teaser",
+        "published_at": "2026-11-27T09:00:32.000Z"
+      },
+      {
+        "key": "l7fiASyWbV8",
+        "name": "The Great British Bake Off",
+        "type": "Teaser",
+        "published_at": "2026-11-24T19:00:14.000Z"
+      }
+    ]
+  },
+  {
     "id": 1452168,
     "title": "Behemoth!",
     "release_date": "2026-12-04",
-    "poster": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/tlP9FKIJV4goEKH5160Hz8Gc32i.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
     "overview": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
     "theatrical": true,
@@ -98,42 +164,6 @@
         "name": "Official Teaser Trailer",
         "type": "Teaser",
         "published_at": "2026-08-10T16:00:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400336,
-    "title": "Focker In-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
-    "theatrical": true,
-    "trailer_published": "2026-11-24T19:00:14.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "l7fiASyWbV8",
-        "name": "The Great British Bake Off",
-        "type": "Teaser",
-        "published_at": "2026-11-24T19:00:14.000Z"
-      },
-      {
-        "key": "C48CCNSqznA",
-        "name": "It\u2019s not as easy as it looks!",
-        "type": "Teaser",
-        "published_at": "2026-11-23T10:00:26.000Z"
       }
     ]
   },
@@ -537,7 +567,7 @@
     "id": 1286656,
     "title": "I Play Rocky",
     "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/8q8AF8xvV1drhACtEL2Iti5gJ8P.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
     "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky\u2014he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
     "theatrical": true,
@@ -632,6 +662,24 @@
         "name": "Sound familiar?",
         "type": "Teaser",
         "published_at": "2026-11-19T10:06:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1084728,
+    "title": "Asterix: The Kingdom of Nubia",
+    "release_date": "2026-11-22",
+    "poster": "https://image.tmdb.org/t/p/w500/mxDsm7jKW1G7LNTtvp1C0ID9gN5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sXkqpLj3Ew146Qxuq7SSodKW0xv.jpg",
+    "overview": "The irreductible Gauls are turned into harmless children after a rare youth elixir accidentally ends up into the magic potion. To find the antidote and save the village from the Romans attack, Asterix and Obelix embark on a crazy journey to the far away Kingdom of Nubia.",
+    "theatrical": false,
+    "trailer_published": "2026-11-18T20:15:13.000Z",
+    "videos": [
+      {
+        "key": "JaRX_L9nlaQ",
+        "name": "ASTERIX: THE KINGDOM OF NUBIA - Official Trailer (2027) 4K",
+        "type": "Trailer",
+        "published_at": "2026-11-18T20:15:13.000Z"
       }
     ]
   },
@@ -816,6 +864,36 @@
     ]
   },
   {
+    "id": 1653298,
+    "title": "Prasert",
+    "release_date": "2026-11-26",
+    "poster": "https://image.tmdb.org/t/p/w500/dW9B1Wcv4CSrg1GrW7HkUmU7kSp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3xuYPJ9y8lYc7W0J5x5Np1rCrmM.jpg",
+    "overview": "A car rental company owner accidentally witnesses a murder, making him and his family targets of a ruthless gang.",
+    "theatrical": false,
+    "trailer_published": "2026-11-16T04:11:40.000Z",
+    "videos": [
+      {
+        "key": "KFuJJrASAGc",
+        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 - Final Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-16T04:11:40.000Z"
+      },
+      {
+        "key": "VexORteMIyg",
+        "name": "Prasoet - Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-12T03:05:32.000Z"
+      },
+      {
+        "key": "qgq2sqSMbzk",
+        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 - Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-10-01T10:00:05.000Z"
+      }
+    ]
+  },
+  {
     "id": 1737740,
     "title": "Fresh Meat",
     "release_date": "2026-10-12",
@@ -930,6 +1008,24 @@
     ]
   },
   {
+    "id": 1209723,
+    "title": "Yeh Prem Mol Liya",
+    "release_date": "2026-11-27",
+    "poster": "https://image.tmdb.org/t/p/w500/dtI3xTdEPmBiIPXLDgDxNKHCkDV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ixHRFxlPRqCvCJ5gk0aScUAEfrx.jpg",
+    "overview": "A heartfelt romantic family drama about two best friends whose close bond slowly turns into love. But one lie creates misunderstandings and conflicts, putting their relationship and family bonds to the test. The story explores love, sacrifice, understanding and the importance of family.",
+    "theatrical": false,
+    "trailer_published": "2026-11-12T06:59:32.000Z",
+    "videos": [
+      {
+        "key": "yTSDTmdLb0k",
+        "name": "Bulaye Chhathi Maa| Yeh Prem Mol Liya | Ayushmann, Sharvari, Sooraj |Himesh | Manoj | Shreya |Keshav",
+        "type": "Trailer",
+        "published_at": "2026-11-12T06:59:32.000Z"
+      }
+    ]
+  },
+  {
     "id": 1234139,
     "title": "Jailer 2",
     "release_date": "2026-10-14",
@@ -993,7 +1089,7 @@
     "id": 1440769,
     "title": "The Beekeeper 2",
     "release_date": "2027-01-15",
-    "poster": "https://image.tmdb.org/t/p/w500/8abow3kX8t5TPythvnL3L5FVxNK.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kY4QnQsyjAKltT18raxf5YOGsH0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tKTCTuG63KFQD82M5fvQbfO4fra.jpg",
     "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
     "theatrical": true,
@@ -1252,14 +1348,8 @@
         "published_at": "2026-11-05T06:19:36.000Z"
       },
       {
-        "key": "IuosV-TRxDU",
-        "name": "Tickets On Sale",
-        "type": "Trailer",
-        "published_at": "2026-10-28T00:44:28.000Z"
-      },
-      {
         "key": "VS3AcRBa9c8",
-        "name": "Tickets On Sale Now",
+        "name": "Tickets on Sale Now",
         "type": "Trailer",
         "published_at": "2026-10-20T23:50:14.000Z"
       },
@@ -1268,6 +1358,12 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-12T12:14:52.000Z"
+      },
+      {
+        "key": "mtC4sjABZNw",
+        "name": "Teaser Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-16T16:01:06.000Z"
       }
     ]
   },
@@ -1508,42 +1604,6 @@
         "name": "IT's a surprise Halloween treat.",
         "type": "Teaser",
         "published_at": "2026-10-31T07:51:43.000Z"
-      }
-    ]
-  },
-  {
-    "id": 939541,
-    "title": "Christmas at the Kringles",
-    "release_date": "2026-10-30",
-    "poster": "https://image.tmdb.org/t/p/w500/oVxkhheRVWSacimUZBuMemQX85E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7lEFPOUwk3H1aLx1UqGafAXRUPY.jpg",
-    "overview": "After moving to a quiet suburban neighborhood, the Seversons meet the Kringles, a family that celebrates Christmas year-round. When Mark, the father, discovers the Kringles' sinister yuletide intentions, he teams up with a badass Santa in a high-stakes, action-packed fight to save his family.",
-    "theatrical": true,
-    "trailer_published": "2026-10-29T19:46:46.000Z",
-    "videos": [
-      {
-        "key": "IsGccGqcNNE",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-08T14:01:12.000Z"
-      },
-      {
-        "key": "zql0pXIpELI",
-        "name": "Teaser Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-16T15:02:48.000Z"
-      },
-      {
-        "key": "fei-haLw0HU",
-        "name": "Final Teaser | Epidemic of JOY",
-        "type": "Teaser",
-        "published_at": "2026-10-29T19:46:46.000Z"
-      },
-      {
-        "key": "HfyTonB-J8E",
-        "name": ":15 Spot",
-        "type": "Teaser",
-        "published_at": "2026-10-21T18:25:18.000Z"
       }
     ]
   },
@@ -2166,30 +2226,6 @@
     ]
   },
   {
-    "id": 1562642,
-    "title": "Ghost Soldier",
-    "release_date": "2026-11-11",
-    "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "overview": "Henry \u201cFitz\u201d Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors\u2019 land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
-    "theatrical": true,
-    "trailer_published": "2026-10-14T16:00:40.000Z",
-    "videos": [
-      {
-        "key": "UKaWzMf9Ybc",
-        "name": "New Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-14T16:00:40.000Z"
-      },
-      {
-        "key": "l0pTZqZWs-c",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-20T14:03:57.000Z"
-      }
-    ]
-  },
-  {
     "id": 1551025,
     "title": "Guarding Stars",
     "release_date": "2026-11-18",
@@ -2212,7 +2248,7 @@
     "title": "Narnia: The Magician's Nephew",
     "release_date": "2027-02-12",
     "poster": "https://image.tmdb.org/t/p/w500/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ioGlZohe3jmaH2TSmSWJVRjHoMT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gQvnOr5S9isMrrV97RtxXZlresC.jpg",
     "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring her back to London.",
     "theatrical": true,
     "trailer_published": "2026-10-13T18:00:00.000Z",
@@ -2336,6 +2372,24 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-09T22:31:45.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1512493,
+    "title": "LEGO Friends: Heartlake the Musical",
+    "release_date": "2026-10-16",
+    "poster": "https://image.tmdb.org/t/p/w500/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
+    "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark \u2013 with plenty of song and dance numbers along the way.",
+    "theatrical": false,
+    "trailer_published": "2026-10-09T14:00:15.000Z",
+    "videos": [
+      {
+        "key": "0rT0C92Z2ks",
+        "name": "Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-09T14:00:15.000Z"
       }
     ]
   },
@@ -2778,30 +2832,6 @@
     ]
   },
   {
-    "id": 1748404,
-    "title": "Always Yours, Never Mine",
-    "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/sDAbgrVhhdQxkPQwtBWpGhVtJ5b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b30BEsc6z7sni9AtkHAL1WuxkYP.jpg",
-    "overview": "Across thirty years, several almosts, and timing that is never quite right, two people keep crossing paths \u2013 always on the verge of being together, but never quite making it.",
-    "theatrical": true,
-    "trailer_published": "2026-09-25T12:00:19.000Z",
-    "videos": [
-      {
-        "key": "mI2_DVu08dI",
-        "name": "'Always Yours, Never Mine' Official Trailer | Joshua Garcia, Julia Barretto",
-        "type": "Trailer",
-        "published_at": "2026-09-25T12:00:19.000Z"
-      },
-      {
-        "key": "WTPxQJHAUqI",
-        "name": "'Always Yours, Never Mine' Official Trailer | Joshua Garcia, Julia Barretto",
-        "type": "Trailer",
-        "published_at": "2026-09-18T10:26:08.000Z"
-      }
-    ]
-  },
-  {
     "id": 1458099,
     "title": "The Only Living Pickpocket in New York",
     "release_date": "2026-10-16",
@@ -2822,24 +2852,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-24T19:05:11.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1515139,
-    "title": "Back to the Beginning: Ozzy's Final Bow",
-    "release_date": "2026-10-28",
-    "poster": "https://image.tmdb.org/t/p/w500/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hFIhPUW8oO2EJYXLAuWFMJBzjsR.jpg",
-    "overview": "A powerful return to roots, this concert captures Black Sabbath in peak form - reuniting to deliver classic hits with raw energy and legendary precision.",
-    "theatrical": true,
-    "trailer_published": "2026-09-24T15:40:54.000Z",
-    "videos": [
-      {
-        "key": "REqdAeNUIho",
-        "name": "OZZY & BLACK SABBATH: Back To The Beginning Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-24T15:40:54.000Z"
       }
     ]
   },
@@ -3267,7 +3279,7 @@
     "id": 1084409,
     "title": "A Talent for Murder",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/eaPfmH83P4yf4gyaWFD4FvvdOcM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oKsS2mUf87ClNjrruq8s0aXrDSb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
     "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
     "theatrical": true,
@@ -3346,7 +3358,7 @@
     "title": "Breeder",
     "release_date": "2026-10-28",
     "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
     "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there\u2019s a catch.",
     "theatrical": true,
     "trailer_published": "2026-08-26T16:30:01.000Z",
@@ -3356,30 +3368,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-26T16:30:01.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1760638,
-    "title": "You Can't Leave",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/n8X4geolvhtAdcQ4mg8LnLv7gAE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zVVDe4IG0XnTE8X7q7fbIJGhBuS.jpg",
-    "overview": "Searching for a missing friend, a group enters a dark forest and discovers an abandoned cabin concealing an ancient evil. As night falls, they must survive the shadows and uncover the truth before it is too late.",
-    "theatrical": true,
-    "trailer_published": "2026-08-22T17:24:48.000Z",
-    "videos": [
-      {
-        "key": "rHcdXSC8jr8",
-        "name": "You Can't Leave (October 2026) | Official Short Trailer",
-        "type": "Trailer",
-        "published_at": "2026-08-22T17:24:48.000Z"
-      },
-      {
-        "key": "kxWTfju6q5U",
-        "name": "You Can't Leave (October 2026) | Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-21T04:01:06.000Z"
       }
     ]
   },
@@ -3488,6 +3476,36 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-05-21T12:01:22.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1477963,
+    "title": "Big Girls Don't Cry",
+    "release_date": "2026-01-24",
+    "poster": "https://image.tmdb.org/t/p/w500/cuChyQhIhDvEBQqqszcAlBlw61H.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5SXqcE79Jn210KsFgIyIy7t1Kdo.jpg",
+    "overview": "Over one transformative summer in rural New Zealand in 2006, 14-year-old Sid discovers desire, identity, and the internet as she imitates the people she longs to be loved by.",
+    "theatrical": false,
+    "trailer_published": "2026-07-28T17:55:09.000Z",
+    "videos": [
+      {
+        "key": "oAu4gc1VyA8",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-07-28T17:55:09.000Z"
+      },
+      {
+        "key": "uk-LkoQ_FOk",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-06-01T18:05:27.000Z"
+      },
+      {
+        "key": "SzOdFD60MBA",
+        "name": "Official Teaser Trailer",
+        "type": "Teaser",
+        "published_at": "2026-05-28T21:00:28.000Z"
       }
     ]
   },
@@ -3614,24 +3632,6 @@
         "name": "Title Reveal",
         "type": "Teaser",
         "published_at": "2026-03-19T13:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1314786,
-    "title": "Agent Zeta",
-    "release_date": "2026-03-20",
-    "poster": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
-    "overview": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ci\u00e9naga\" decades ago in Colombia. Zeta, the CNI's best operative, must hunt and protect the sole survivor, facing his deadliest global mission yet. Top Colombian agent Alfa will join Zeta, seemingly knowing more about \"Ci\u00e9naga\"'s secrets than him.",
-    "theatrical": false,
-    "trailer_published": "2026-02-17T21:29:43.000Z",
-    "videos": [
-      {
-        "key": "d56tjzLzYZM",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-02-17T21:29:43.000Z"
       }
     ]
   },
