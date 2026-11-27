@@ -102,6 +102,42 @@
     ]
   },
   {
+    "id": 1400336,
+    "title": "Focker In-Law",
+    "release_date": "2026-11-25",
+    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "theatrical": true,
+    "trailer_published": "2026-11-24T19:00:14.000Z",
+    "videos": [
+      {
+        "key": "9CKu3WoMYCg",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-03T13:03:32.000Z"
+      },
+      {
+        "key": "vyISuWUWcFs",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-04-16T00:27:51.000Z"
+      },
+      {
+        "key": "l7fiASyWbV8",
+        "name": "The Great British Bake Off",
+        "type": "Teaser",
+        "published_at": "2026-11-24T19:00:14.000Z"
+      },
+      {
+        "key": "C48CCNSqznA",
+        "name": "It\u2019s not as easy as it looks!",
+        "type": "Teaser",
+        "published_at": "2026-11-23T10:00:26.000Z"
+      }
+    ]
+  },
+  {
     "id": 1255833,
     "title": "Whalefall",
     "release_date": "2026-10-16",
@@ -212,42 +248,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-11-23T14:00:15.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1400336,
-    "title": "Focker In-Law",
-    "release_date": "2026-11-25",
-    "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
-    "theatrical": true,
-    "trailer_published": "2026-11-23T10:00:26.000Z",
-    "videos": [
-      {
-        "key": "9CKu3WoMYCg",
-        "name": "Official International Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-03T13:03:32.000Z"
-      },
-      {
-        "key": "vyISuWUWcFs",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-04-16T00:27:51.000Z"
-      },
-      {
-        "key": "C48CCNSqznA",
-        "name": "It\u2019s not as easy as it looks!",
-        "type": "Teaser",
-        "published_at": "2026-11-23T10:00:26.000Z"
-      },
-      {
-        "key": "S4gLopk0X7U",
-        "name": "Some family traditions never change. Is Olivia ready to Meet The Fockers?",
-        "type": "Teaser",
-        "published_at": "2026-11-22T08:00:29.000Z"
       }
     ]
   },
@@ -498,6 +498,42 @@
     ]
   },
   {
+    "id": 1384758,
+    "title": "Ice Age: Boiling Point",
+    "release_date": "2027-02-05",
+    "poster": "https://image.tmdb.org/t/p/w500/h90ZGL00jrbCIwRoQJ86xN8Wdov.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
+    "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
+    "theatrical": true,
+    "trailer_published": "2026-11-19T17:15:28.000Z",
+    "videos": [
+      {
+        "key": "uYtay82EPfk",
+        "name": "Official International Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-19T17:15:28.000Z"
+      },
+      {
+        "key": "e67Qtn_3hkc",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-11-19T17:00:11.000Z"
+      },
+      {
+        "key": "3fjmjX0QOIg",
+        "name": "Official Teaser",
+        "type": "Teaser",
+        "published_at": "2026-06-04T16:00:18.000Z"
+      },
+      {
+        "key": "f93TgnGk66k",
+        "name": "In Theaters in 2026",
+        "type": "Teaser",
+        "published_at": "2024-11-08T19:39:09.000Z"
+      }
+    ]
+  },
+  {
     "id": 1286656,
     "title": "I Play Rocky",
     "release_date": "2026-11-06",
@@ -530,36 +566,6 @@
         "name": "Rocky\u2019s Legacy narrated by Tom Brady",
         "type": "Teaser",
         "published_at": "2026-11-19T17:00:23.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1384758,
-    "title": "Ice Age: Boiling Point",
-    "release_date": "2027-02-05",
-    "poster": "https://image.tmdb.org/t/p/w500/h90ZGL00jrbCIwRoQJ86xN8Wdov.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
-    "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat \u2013 this time joined by Baby Scrat and the enormous Jurassic Scrat \u2013 and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
-    "theatrical": true,
-    "trailer_published": "2026-11-19T17:00:11.000Z",
-    "videos": [
-      {
-        "key": "e67Qtn_3hkc",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-11-19T17:00:11.000Z"
-      },
-      {
-        "key": "3fjmjX0QOIg",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-04T16:00:18.000Z"
-      },
-      {
-        "key": "f93TgnGk66k",
-        "name": "In Theaters in 2026",
-        "type": "Teaser",
-        "published_at": "2024-11-08T19:39:09.000Z"
       }
     ]
   },
@@ -924,24 +930,6 @@
     ]
   },
   {
-    "id": 1209723,
-    "title": "Yeh Prem Mol Liya",
-    "release_date": "2026-11-27",
-    "poster": "https://image.tmdb.org/t/p/w500/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ixHRFxlPRqCvCJ5gk0aScUAEfrx.jpg",
-    "overview": "A heartfelt romantic family drama about two best friends whose close bond slowly turns into love. But one lie creates misunderstandings and conflicts, putting their relationship and family bonds to the test. The story explores love, sacrifice, understanding and the importance of family.",
-    "theatrical": true,
-    "trailer_published": "2026-11-12T06:59:32.000Z",
-    "videos": [
-      {
-        "key": "yTSDTmdLb0k",
-        "name": "Bulaye Chhathi Maa| Yeh Prem Mol Liya | Ayushmann, Sharvari, Sooraj |Himesh | Manoj | Shreya |Keshav",
-        "type": "Trailer",
-        "published_at": "2026-11-12T06:59:32.000Z"
-      }
-    ]
-  },
-  {
     "id": 1234139,
     "title": "Jailer 2",
     "release_date": "2026-10-14",
@@ -1056,6 +1044,42 @@
     ]
   },
   {
+    "id": 1643567,
+    "title": "Ghosts: The Possession of Button House",
+    "release_date": "2026-10-23",
+    "poster": "https://image.tmdb.org/t/p/w500/vdRbC8masrQDyhFHLOGECEMllPV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r87Uwf5yvL69fBWsZHGR2OTbD1A.jpg",
+    "overview": "It's a matter of life and death for Alison, Mike, Mia and the Ghosts.",
+    "theatrical": false,
+    "trailer_published": "2026-11-06T14:03:15.000Z",
+    "videos": [
+      {
+        "key": "iLKGXt5JHKk",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-09-15T09:00:11.000Z"
+      },
+      {
+        "key": "enE6YJoy-n0",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-06-22T14:30:23.000Z"
+      },
+      {
+        "key": "eScEV48YjT8",
+        "name": "heading to the cinema this weekend? Julian would like a moment of your time.",
+        "type": "Teaser",
+        "published_at": "2026-11-06T14:03:15.000Z"
+      },
+      {
+        "key": "oxBF55fjFQw",
+        "name": "this is your reminder to watch Ghosts: The Possession of Button House AT LEAST 23 times",
+        "type": "Teaser",
+        "published_at": "2026-10-25T10:01:35.000Z"
+      }
+    ]
+  },
+  {
     "id": 1457866,
     "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "release_date": "2026-11-25",
@@ -1158,10 +1182,28 @@
     ]
   },
   {
+    "id": 1690098,
+    "title": "Sidelined 3: End Game",
+    "release_date": "2026-11-26",
+    "poster": "https://image.tmdb.org/t/p/w500/xuaDDayaFcxaqEqJEXVgznKinRp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/504d0Q9TpwPFlCTIa4OY0F2DVX.jpg",
+    "overview": "USC quarterback Drayton Lahey lands in New York City as a Heisman hopeful, but it may turn out he\u2019s not just there for football. Somewhere in the city is his former high school sweetheart, Dallas Bryan, who is building her new career, navigating her love life alongside Skyler, chasing her dreams, and not looking back. Now, in the city that never sleeps and with everything on the line, Drayton has one shot to prove he\u2019s not just chasing a trophy, he\u2019s chasing the one who got away.",
+    "theatrical": false,
+    "trailer_published": "2026-11-05T15:01:39.000Z",
+    "videos": [
+      {
+        "key": "7PdTI2IslE8",
+        "name": "Sidelined 3: End Game | Official Trailer | Tubi Original",
+        "type": "Trailer",
+        "published_at": "2026-11-05T15:01:39.000Z"
+      }
+    ]
+  },
+  {
     "id": 1195803,
     "title": "Wicker",
     "release_date": "2026-10-23",
-    "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
     "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
     "theatrical": true,
@@ -1648,7 +1690,7 @@
     "title": "The Mosquito Bowl",
     "release_date": "2026-10-30",
     "poster": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
     "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
     "theatrical": true,
     "trailer_published": "2026-10-27T18:30:00.000Z",
@@ -1670,6 +1712,36 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-09-09T12:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 920167,
+    "title": "Witch on the Holy Night",
+    "release_date": "2027-01-29",
+    "poster": "https://image.tmdb.org/t/p/w500/iJtcWNvcTPgfzJP1k0U7fbQ1HDZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eTs5EnaQtnMDfwawMFDoVZLs7Fp.jpg",
+    "overview": "Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...she meets a boy, beginning of one young girl's story \u2014 the tale of a Witch.",
+    "theatrical": true,
+    "trailer_published": "2026-10-27T13:01:25.000Z",
+    "videos": [
+      {
+        "key": "bkvGGVHT08M",
+        "name": "Theme Song Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-27T13:01:25.000Z"
+      },
+      {
+        "key": "UGnGTBBszJI",
+        "name": "Official Trailer 2 [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-27T12:59:55.000Z"
+      },
+      {
+        "key": "OHLsjBEANEo",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-09-10T13:34:45.000Z"
       }
     ]
   },
@@ -1773,8 +1845,8 @@
     "id": 1153576,
     "title": "Street Fighter",
     "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/1r8IbJqmctfcAEw8KMmHhE63fA9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "theatrical": true,
     "trailer_published": "2026-10-22T16:11:49.000Z",
@@ -2662,7 +2734,7 @@
     "title": "You Can See Everything",
     "release_date": "2026-10-16",
     "poster": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "theatrical": true,
     "trailer_published": "2026-09-25T17:00:28.000Z",
@@ -3048,30 +3120,6 @@
     ]
   },
   {
-    "id": 961214,
-    "title": "Reawakened Man",
-    "release_date": "2026-09-30",
-    "poster": "https://image.tmdb.org/t/p/w500/bHRuUxWm7PsbUWOxh9ipgsulPx8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ijpYht2clTKPBeFX9UG3ac3uSTo.jpg",
-    "overview": "About the events that unfold after longtime job seeker Seok Hwan discovers that he has the ability to resurrect three days after his death.",
-    "theatrical": false,
-    "trailer_published": "2026-09-17T00:04:02.000Z",
-    "videos": [
-      {
-        "key": "FU3hfOVkPYI",
-        "name": "Reawakened Man | Official Main Trailer | INTL",
-        "type": "Trailer",
-        "published_at": "2026-09-17T00:04:02.000Z"
-      },
-      {
-        "key": "xYCXTTxsBpA",
-        "name": "Reawakened Man | Official Teaser Trailer | INTL",
-        "type": "Teaser",
-        "published_at": "2026-08-20T01:00:16.000Z"
-      }
-    ]
-  },
-  {
     "id": 1288069,
     "title": "Tenzing",
     "release_date": "2026-10-09",
@@ -3236,24 +3284,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-08-28T16:13:18.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1241052,
-    "title": "Mouse",
-    "release_date": "2026-11-06",
-    "poster": "https://image.tmdb.org/t/p/w500/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pWxGu2Is2J0kReGDbQazGvrxJI9.jpg",
-    "overview": "In 2002 Arkansas, Callie and Minnie\u2019s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie forms a complicated bond with Callie\u2019s mother.",
-    "theatrical": true,
-    "trailer_published": "2026-09-01T16:01:00.000Z",
-    "videos": [
-      {
-        "key": "sfvh4VZsFuY",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-01T16:01:00.000Z"
       }
     ]
   },
