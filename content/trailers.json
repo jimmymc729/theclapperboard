@@ -245,7 +245,7 @@
     "release_date": "2026-12-25",
     "poster": "https://image.tmdb.org/t/p/w500/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhQsgJwT9vSLsqNWQCqKEgx6A1G.jpg",
-    "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
+    "overview": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
     "theatrical": true,
     "trailer_published": "2026-11-23T17:00:14.000Z",
     "videos": [
@@ -666,24 +666,6 @@
     ]
   },
   {
-    "id": 1084728,
-    "title": "Asterix: The Kingdom of Nubia",
-    "release_date": "2026-11-22",
-    "poster": "https://image.tmdb.org/t/p/w500/mxDsm7jKW1G7LNTtvp1C0ID9gN5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sXkqpLj3Ew146Qxuq7SSodKW0xv.jpg",
-    "overview": "The irreductible Gauls are turned into harmless children after a rare youth elixir accidentally ends up into the magic potion. To find the antidote and save the village from the Romans attack, Asterix and Obelix embark on a crazy journey to the far away Kingdom of Nubia.",
-    "theatrical": false,
-    "trailer_published": "2026-11-18T20:15:13.000Z",
-    "videos": [
-      {
-        "key": "JaRX_L9nlaQ",
-        "name": "ASTERIX: THE KINGDOM OF NUBIA - Official Trailer (2027) 4K",
-        "type": "Trailer",
-        "published_at": "2026-11-18T20:15:13.000Z"
-      }
-    ]
-  },
-  {
     "id": 1461490,
     "title": "Hershey",
     "release_date": "2026-11-25",
@@ -990,29 +972,11 @@
     ]
   },
   {
-    "id": 1823907,
-    "title": "Russell Brand: Open Secret",
-    "release_date": "2026-11-13",
-    "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
-    "overview": "From comedy stardom to a criminal trial, inside voices and archive footage charts British comedian Russell Brand's meteoric rise and steep fall following allegations of sexual offences.",
-    "theatrical": false,
-    "trailer_published": "2026-11-12T08:00:00.000Z",
-    "videos": [
-      {
-        "key": "wiXS3J3LeOA",
-        "name": "Announcement",
-        "type": "Teaser",
-        "published_at": "2026-11-12T08:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": 1209723,
     "title": "Yeh Prem Mol Liya",
     "release_date": "2026-11-27",
     "poster": "https://image.tmdb.org/t/p/w500/dtI3xTdEPmBiIPXLDgDxNKHCkDV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ixHRFxlPRqCvCJ5gk0aScUAEfrx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kd4EaL8CuXNFDUcSVBEhWmOP6tr.jpg",
     "overview": "A heartfelt romantic family drama about two best friends whose close bond slowly turns into love. But one lie creates misunderstandings and conflicts, putting their relationship and family bonds to the test. The story explores love, sacrifice, understanding and the importance of family.",
     "theatrical": false,
     "trailer_published": "2026-11-12T06:59:32.000Z",
@@ -1494,6 +1458,24 @@
     ]
   },
   {
+    "id": 1715686,
+    "title": "Mickey's Home Alone",
+    "release_date": "2026-11-27",
+    "poster": "https://image.tmdb.org/t/p/w500/tqep7mO0VRatflWDmYLTh8iYawy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2VWwc7jnjy6jQcmg0ALEWba8zkd.jpg",
+    "overview": "Looking forward to spending Christmas at home, Mickey's plans take a turn when Minnie surprises him and the gang with tickets to spend Christmas at a world-famous Ice Palace. In the morning rush to make it out the door, Mickey and Pluto are left behind and home alone. They find themselves protecting their home from two feisty villains, a raccoon and a weasel, who are after their Christmas dinner, while Minnie and the gang desperately try to make their way back home.",
+    "theatrical": false,
+    "trailer_published": "2026-11-03T16:30:34.000Z",
+    "videos": [
+      {
+        "key": "EtAQ-tzZI4E",
+        "name": "Special Trailer - Mickey and Pluto are Home Alone!",
+        "type": "Trailer",
+        "published_at": "2026-11-03T16:30:34.000Z"
+      }
+    ]
+  },
+  {
     "id": 1802703,
     "title": "Rob Lowe: The Outsider",
     "release_date": "2026-11-24",
@@ -1608,6 +1590,24 @@
     ]
   },
   {
+    "id": 1480665,
+    "title": "The Hunchback, Soul of Paris",
+    "release_date": "2026-11-27",
+    "poster": "https://image.tmdb.org/t/p/w500/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg",
+    "overview": "Paris, 1830. As cholera threatens to ravage the city, a hunchback hunted for medical experiments is caught between political turmoil and impossible love.",
+    "theatrical": false,
+    "trailer_published": "2026-10-30T16:00:04.000Z",
+    "videos": [
+      {
+        "key": "eBfPTW1YaAQ",
+        "name": "Official Trailer [Subtitled]",
+        "type": "Trailer",
+        "published_at": "2026-10-30T16:00:04.000Z"
+      }
+    ]
+  },
+  {
     "id": 1791730,
     "title": "Primetime Preacher$",
     "release_date": "2026-11-14",
@@ -1622,6 +1622,24 @@
         "name": "Primetime Preacher$ | Official Trailer | Netflix",
         "type": "Trailer",
         "published_at": "2026-10-29T14:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1811599,
+    "title": "Tyson Fury",
+    "release_date": "2026-11-27",
+    "poster": "https://image.tmdb.org/t/p/w500/wAffyCmjFZOI3uvmVvpg7Lz8Yn5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6bmg6cWBM6PzHM3ibeLDCNskABq.jpg",
+    "overview": "Discover the man beneath the Fury in this feature length documentary from Lucy Wilcox. With exclusive access to Paris, Tyson and John Fury, this film charts the rise, fall and redemption of the one and only Gypsy King.",
+    "theatrical": false,
+    "trailer_published": "2026-10-29T09:30:00.000Z",
+    "videos": [
+      {
+        "key": "jb01qWUn62A",
+        "name": "Official Trailer",
+        "type": "Trailer",
+        "published_at": "2026-10-29T09:30:00.000Z"
       }
     ]
   },
@@ -2118,42 +2136,6 @@
     ]
   },
   {
-    "id": 1248832,
-    "title": "Digger",
-    "release_date": "2026-10-02",
-    "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rrII8v7ExyX9KzyHopW6B9mfrOD.jpg",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "theatrical": true,
-    "trailer_published": "2026-10-15T18:00:12.000Z",
-    "videos": [
-      {
-        "key": "job8V254NAE",
-        "name": "Official Final Trailer",
-        "type": "Trailer",
-        "published_at": "2026-09-09T13:00:03.000Z"
-      },
-      {
-        "key": "qORTe1wW3Wg",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-13T13:00:30.000Z"
-      },
-      {
-        "key": "Pd4Olzi0HEc",
-        "name": "Tom Cruise Retrospective Trailer",
-        "type": "Trailer",
-        "published_at": "2026-06-23T16:00:07.000Z"
-      },
-      {
-        "key": "eQhf-2jMvWI",
-        "name": "Steps to saving the world: Digger style",
-        "type": "Teaser",
-        "published_at": "2026-10-15T18:00:12.000Z"
-      }
-    ]
-  },
-  {
     "id": 1122220,
     "title": "Blair Witch Project",
     "release_date": "2027-09-24",
@@ -2280,6 +2262,24 @@
     ]
   },
   {
+    "id": 1506401,
+    "title": "The Child",
+    "release_date": "2026-11-27",
+    "poster": "https://image.tmdb.org/t/p/w500/OnWBxkc0QVVhrFbIrfSQsZfuyr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kkierrbus8z4QpsexmSg8QSKqak.jpg",
+    "overview": "The story of Mariaje and Nicasio, the mother and grandfather of one of the children who died in a gas explosion in a town in the Basque Country in October 1980. On a journey marked by unexpected emotions, Mariaje and Nicasio search for - and find - their own unique way to overcome their loss.",
+    "theatrical": false,
+    "trailer_published": "2026-10-13T10:00:00.000Z",
+    "videos": [
+      {
+        "key": "vsXs3Km6UDw",
+        "name": "The Child | Official Trailer | Netflix",
+        "type": "Trailer",
+        "published_at": "2026-10-13T10:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": 1050981,
     "title": "Being Heumann",
     "release_date": "2026-11-06",
@@ -2372,24 +2372,6 @@
         "name": "Official Trailer",
         "type": "Trailer",
         "published_at": "2026-10-09T22:31:45.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1512493,
-    "title": "LEGO Friends: Heartlake the Musical",
-    "release_date": "2026-10-16",
-    "poster": "https://image.tmdb.org/t/p/w500/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
-    "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark \u2013 with plenty of song and dance numbers along the way.",
-    "theatrical": false,
-    "trailer_published": "2026-10-09T14:00:15.000Z",
-    "videos": [
-      {
-        "key": "0rT0C92Z2ks",
-        "name": "Trailer",
-        "type": "Trailer",
-        "published_at": "2026-10-09T14:00:15.000Z"
       }
     ]
   },
@@ -3239,7 +3221,7 @@
     "videos": [
       {
         "key": "MFQFxsDWbA8",
-        "name": "Drishyam: The Conclusion - Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
+        "name": "Official Trailer [ENG SUB]",
         "type": "Trailer",
         "published_at": "2026-09-09T07:43:50.000Z"
       }
@@ -3408,6 +3390,24 @@
     ]
   },
   {
+    "id": 1573791,
+    "title": "Echoes from the Midnight Mansion",
+    "release_date": "2026-11-24",
+    "poster": "https://image.tmdb.org/t/p/w500/kG2haZZXWSzECu6b4CODwY4Yd85.jpg",
+    "backdrop": "",
+    "overview": "A writer finds six bone-chilling tapes in an abandoned mansion that unleash horror, pushing the boundaries of suspense, mystery and fear to the extreme.",
+    "theatrical": false,
+    "trailer_published": "2026-08-15T12:29:54.000Z",
+    "videos": [
+      {
+        "key": "XMPE6kQz92k",
+        "name": "ECHOES FROM THE MIDNIGHT MANSION (2027) Official Trailer | Found Footage Horror Anthology",
+        "type": "Trailer",
+        "published_at": "2026-08-15T12:29:54.000Z"
+      }
+    ]
+  },
+  {
     "id": 1647603,
     "title": "Ghost Market",
     "release_date": "2028-03-10",
@@ -3476,36 +3476,6 @@
         "name": "Official Teaser",
         "type": "Teaser",
         "published_at": "2026-05-21T12:01:22.000Z"
-      }
-    ]
-  },
-  {
-    "id": 1477963,
-    "title": "Big Girls Don't Cry",
-    "release_date": "2026-01-24",
-    "poster": "https://image.tmdb.org/t/p/w500/cuChyQhIhDvEBQqqszcAlBlw61H.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5SXqcE79Jn210KsFgIyIy7t1Kdo.jpg",
-    "overview": "Over one transformative summer in rural New Zealand in 2006, 14-year-old Sid discovers desire, identity, and the internet as she imitates the people she longs to be loved by.",
-    "theatrical": false,
-    "trailer_published": "2026-07-28T17:55:09.000Z",
-    "videos": [
-      {
-        "key": "oAu4gc1VyA8",
-        "name": "Official Trailer",
-        "type": "Trailer",
-        "published_at": "2026-07-28T17:55:09.000Z"
-      },
-      {
-        "key": "uk-LkoQ_FOk",
-        "name": "Official Teaser",
-        "type": "Teaser",
-        "published_at": "2026-06-01T18:05:27.000Z"
-      },
-      {
-        "key": "SzOdFD60MBA",
-        "name": "Official Teaser Trailer",
-        "type": "Teaser",
-        "published_at": "2026-05-28T21:00:28.000Z"
       }
     ]
   },
